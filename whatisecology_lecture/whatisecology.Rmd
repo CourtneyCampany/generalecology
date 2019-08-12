@@ -1,0 +1,148 @@
+---
+title: "General Ecology Day 1 stuff"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## About me
+<hr>
+<br/>
+<br />
+
+* Plant Ecophysologist  
+* Ecosystem Ecologist
+
+<br />
+
+* www.courtneycampany.com  
+* twitter: @court_campany
+
+<br />
+
+* Extra Credit: .5 point final grade
+  + Come see me
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
+
+## Syllabus, Sakai and Textbook
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+https://courses.shepherd.edu/portal/
+
+## This semester we will practive being an ecologist
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ecologist.jpg">
+
+## This semester we will ....
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+* **Immerese ourselves in weekly ecological themes**
+    + lecture
+    + journal club
+    + quantitative reasoning
+
+<br/>
+
+* **Go outside!!!**
+
+<br/>
+
+* **Build your own experiment**
+
+</div>
+
+<div style="float: right; width: 50%;">
+
+* **SOLVE a major ecological issue!**
+
+<br/>
+<br/>
+
+* **Practive communicating science**
+   + Find your voice!
+   
+</div>
+
+## What is ecology (textbook)?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ecologypic.jpg">
+
+## Ecology spans many scales
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:600px; HEIGHT:500px" SRC="images/scales.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/scales_riverine.png">
+
+## Ecologist try to explain, understand and predict
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/vultures.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:600px; HEIGHT:700px" SRC="images/data_prarie.png">
+
+## What is the central need for the goals of an ecologist?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/datatypes.png">
+
+## For Wednesday (jounral) and Friday (data day)
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Read "100 arcticles every ecologist should read**
+
+<br/>
+
+* **Take specific notes**
+    + What ecological themes are common?
+    + Do you feel any themese are missing?
+    + Is there a take home message?
+    + Is there anything you dont understand?
+
+</div>
+
+<div style="float: right; width: 50%;">
+* **Pay attention to little details**
+    + Are there any patterns you see?
+    + Do you detect any issues?
+</div>
+
+## For lab this week
+<hr>
+<br/>
+<br/>
+
+* **Grand Challenge Assignment**
+    + meet teammates
+    + brainstorm
+    + divide and conquer
+    
+<br/>
+    
+* **Basics in Excel**
+    + bring laptop, if you can
