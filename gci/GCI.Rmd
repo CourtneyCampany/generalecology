@@ -28,6 +28,8 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
+<br/>
 
 * Tasked to solve a major ecological problem/issue
 
@@ -55,7 +57,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div class="centered"><strong>I was wondering if you would be willing to propose an ecological problem related to your interests, which they would try to solve. The problem could be regionally related to the US or possibly at a larger scale...</strong></div>
+<div class="centered"><strong>I was wondering if you would propose an ecological problem related to your interests, which students could try to solve. The problem could be regionally related to the USA or possibly at a larger scale.</strong></div>
 
 <br/>
 
@@ -63,11 +65,11 @@ runtime: shiny
 
 <br/>
 
-<div class="centered"><strong>The idea is that they have the semester to work towards potential solutions and develop an **Ecological Action Plan**. </strong></div>
+<div class="centered"><strong>The idea is that students have the semester to work towards potential solutions and develop an **Ecological Action Plan**. </strong></div>
 
 <br/>
 
-<div class="centered"><strong>Although they may not be able to actually solve the problem this concept brings in work-related deadlines, active self-learning, inclusive and diversity driven group work and most importantly activism. </strong></div>
+<div class="centered"><strong>Although they may not be able to solve the problem this concept brings in work-related deadlines, active self-learning, inclusive and diversity driven group work and most importantly activism. </strong></div>
 
 ## Prof. Howard Neufeld (Appalachian State University)
 <hr>
@@ -93,9 +95,9 @@ runtime: shiny
 <hr>
 <br/>
 
-* Work in diverse teams to solve your invasice species problem
+* Work in diverse teams to solve your invasive species problem
   + Dig into the background/history/available literature
-  + Present your background information to class as episode 1 of a podcast
+  + Present your background information to class as a podcast (episode 1)
 
 <br/>
   
@@ -105,18 +107,13 @@ runtime: shiny
   +  Written EAP + episode 2 of your podcast
   
 <br/>
+
   + I will put examples of EAP's (see link) on SAKAI
   + http://www.cityofsydney.nsw.gov.au/__data/assets/pdf_file/0009/135882/GreeningSydneyPlan.pdf
 
-<br/>
-
-  + Divide an conquer
-  + Use the diversity of interests within your group to manage tasks
-  + Lab time + outside of class
-
-
 ## Your assignment: Something Awesome (+5 points)
 <hr>
+<br/>
 <br/>
 
 <div style="float: left; width: 60%;">
@@ -133,6 +130,8 @@ runtime: shiny
     + treat this as a job assignment
     + impress me
  </div> 
+ 
+ <IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:400px; HEIGHT:200px" SRC="images/interview.jpg">
   
 ##
 <div style="width:50%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/em4i0bDs9Hm2Q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/em4i0bDs9Hm2Q">via GIPHY</a></p>  
@@ -140,12 +139,15 @@ runtime: shiny
 ## My Role (#2): Mentor
 <hr>
 <br/>
+<br/>
+<br/>
 
 * Progress meetings: Lab time
   + Provide advice
   + Help you network
   + Push you
-  + Always come prepared (we will write EAP in steps)
+  + Always come prepared 
+  + You will write EAP in steps
 
 <br/>
 
@@ -155,7 +157,7 @@ runtime: shiny
   
 <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/mentor.jpg">
 
-## Grading
+##
 
 <iframe src="https://giphy.com/embed/7sWxABjElNTO0" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7sWxABjElNTO0">via GIPHY</a></p>
   
@@ -164,6 +166,7 @@ runtime: shiny
 
 ## Choose your species
 <hr>
+<br/>
 <br/>
 
 * There are two invasive species bowls
@@ -179,3 +182,28 @@ runtime: shiny
 
 * If you have a strong reason for a certain species, and no one has choosen it, let me know
   + NO takebacks!
+
+## Getting Started
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+*  **Divide an conquer**
+
+<br/>
+
+*  **Use the diversity of interests within your group to manage tasks**
+ </div>
+
+<div style="float: right; width: 50%;">
+
+*  **Lab time + outside of class**
+
+<br/>
+
+* **Have Fun!**
+
+ </div>
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/invasive_species.jpg">
