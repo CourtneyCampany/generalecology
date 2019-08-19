@@ -1,0 +1,196 @@
+---
+title: "Climate and Weather"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Climate vs Weather
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/trumpcold.jpg">
+
+## Current vs Collective state of the atmosphere
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/climate_weather.png">
+
+## Elements of climate and weather
+<hr>
+<br />
+
+<div style="float: left; width: 48%;">
+
+* **Precipitation**
+    * process that ends with the fall of water to the earth’s surface.
+
+<br />
+
+* **Temperature**
+    * amount of heat energy in the air
+
+<br />
+
+* **Atmospheric pressure**
+    * force exerted on a surface by the weight of the atmosphere. 
+    * varies vertically; decrease as you ascend
+
+</div>
+
+<div style="float: right; width: 48%;">
+
+* **Wind**
+    * dries humidity, causes storms, and drives evaporation
+
+<br />
+
+* **Solar radiation**
+    * provides heat
+
+<br />
+
+* **Cloudiness**
+    * form when humid air cools to dew point & water/ice attaches to dust, ash, etc.
+    * type and # are important
+</div>
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/polarvortes.png">
+
+<!-- ## Elements of climate and weather -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/weathersymbols.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/earth_energy.jpg"> -->
+
+## Global climate zones
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climatezones.gif">
+
+<!-- ## What drives global climate zones? -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/dayenergy_globe.png"> -->
+
+## Slope of Earth's surface causes uneven heating
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/uneven_heating.gif">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:550px; HEIGHT:275px" SRC="images/annual_energy.png">
+
+## Atmosphere circulation impacts climate via "Air Donuts"
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hadley.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/hadley2.jpg">
+
+## Earth's atmosphere contains six rotating "Air Donuts"
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:450px" SRC="images/circulation_zones.png">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:425px; HEIGHT:425px" SRC="images/coriolis.png">
+
+## Earth's axial tilt (23.5&deg;) creates seasons
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:700px; HEIGHT:250px" SRC="images/seasons.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/seasons2.jpg">
+
+## Changes in Earth's tilt and Ice Ages
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ice_ages.jpg">
+
+## Earth surface processes impact climate
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/landsurface.jpg">
+
+## Mountains and the rain shadow effect
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/rainshadow.jpg">
+
+## Surface features impacts weather: Atlantic hurricanes
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1eRp0EGOmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Vegetation alters on climate
+<hr>
+https://www.youtube.com/watch?v=Y3OWgb0Bv-A
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:500px; HEIGHT:400px" SRC="images/cloudforest.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/trees_rain.jpg">
+
+## Ocean currents heavily impact global climates
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/currents.png">
+
+## Why is London warmer than Hamilton, NY?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/london.png">
+
+## Why is London warmer than Hamilton, NY?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/atlantic_currents.jpg">
+
+## Global climate and weather: El Nino
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/elnino.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/elnino_2019.png">
+
+<!-- ## These phenomenon also alter weather -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/usa_weather.jpg"> -->
+
+## Climate zones are scale dependent
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:900px; HEIGHT:450px" SRC="images/scale.png">
+
+## How does climate impact ecology?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/climate_ecology.png">
+
+## How does weather impact ecology?
+<hr>
+
+<div class="centered">
+<strong>Extreme weather such as hurricanes, torrential downpours and droughts will increases the risk for species extinction, especially in diverse ecosystems such as coral reefs and tropical rainforests.</strong>
+</div>
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:350px; HEIGHT:350px" SRC="images/hurricanes.jpg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:460px; WIDTH:600px; HEIGHT:400px" SRC="images/irma.jpg">
+
+## Climate, weather and people
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/humans_climate.png">
+
