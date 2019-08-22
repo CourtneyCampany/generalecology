@@ -1,0 +1,158 @@
+---
+title: "Ecology's evolutionary backdrop"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Species are so specialized, they are absent almost everywhere
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:500px; HEIGHT:400px" SRC="images/orchid_bee.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:10px; LEFT:200px; WIDTH:500px; HEIGHT:800px" SRC="images/backyard_bees.jpg">
+
+## Diversity of nature evolves over a long period of time...
+
+<IMG STYLE="position:absolute; TOP:10px; LEFT:200px; WIDTH:500px; HEIGHT:800px" SRC="images/diversity_time.gif">
+
+## Evolution by **natural selection**: Darwin and Wallace
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+1. Individuals in a population are not identical
+
+<br/>
+
+2. Some variation among individuals in heritable (genetic component)
+
+<br/>
+
+3. Individuals sometimes die before reproducing 
+
+<br/>
+
+4. Different ancestors leave different #'s of decendants
+
+<br/>
+
+* **Evolution is the change, over time, in the heritable characteristics in a population or a species
+</div>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:500px; WIDTH:400px; HEIGHT:500px" SRC="images/genetic_component.jpg">
+
+## Why does this matter for Ecology?
+<hr>
+<br/>
+
+* **Survival of the fittest** is tied to organisms interacting with their environemnt
+
+<br/>
+
+* **This term is a little misleading, should read:**
+<br/>
+* **Survivial of the bettter designed for an immediate, local environment**
+    + survivied death and desctruction
+    + reproduced successfully
+
+<br/>
+
+* **Environment matters a lot!**
+
+
+## Natural selection and evolution occur within a species
+<hr>
+<br/>
+
+* **There are traits of plants and animals that are 'conserved'**
+    + not easily modified
+    
+* **However,We often seem lots of variation within a species**
+
+* **Species traits vary over geographic ranges**
+    + as long as migration occurs
+    
+## Classic approaches to understand interspecific variation: Common Garden
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/common_garden.png">
+
+## Interspecific variation can can occur at short distances
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/zinc.png">
+
+## Thought question:
+<hr>
+
+* **Flowering times of plants at Zinc mines did not overlap with those of natural fields (for 40 years!)
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/zinc2.png">
+
+* **Why is this important?**
+
+## Reciprocal transplants: investigating local adaptation
+
+eggs from Appalachian Mountains (AM) Coastal Plain (CP) and New York (NY)
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/gypsy_moth.png">
+
+AM and NY populations did experience reductions in egg viability under a southern winter at the CP site compared to control wintering conditions, while the CP egg masses had equivalent survival
+
+## Ecology is more than just the environment...
+
+* **The interactions between species also drive evolutionary processses**
+
+* **Selection forces**
+
+* **Steam guppies in trindidad are separated by waterfalls**
+    + isolated populations
+    + tons of different traits across guppy populations
+    
+* **What could be driving these changes?**
+
+## Predation, sex and flamboyance in guppies
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/guppy2.jpg">
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/guppy3.png">
+
+## When species interact, coevolution can occur
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird.jpg">
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird2.jpg">
+
+## Ecological speciation
+
+ * **ecologically based divergent selection between different environments leads to the creation of reproductive barriers between populations.**
+    + driven by difference in environment btn populations
+    + driven by interaction with other species
+
+* **populations are isolated, then selection drives change**
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/speciation.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/darwinfinchg.png">
+
+## Parallel evolution
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/australia.png">
+
+## Convergent evolution
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent1.jpg">
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent3.jpeg">
+
+##
+<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent3.png">
