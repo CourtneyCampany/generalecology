@@ -23,10 +23,10 @@ runtime: shiny
 
 <br />
 
-* Extra Credit: .5 point final grade
-  + Come see me
+* **Extra Credit**: .5 point final grade
+  + Come see me by Friday
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:410px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
 
 ## Syllabus, Sakai and Textbook
 <hr>
@@ -46,6 +46,7 @@ https://courses.shepherd.edu/portal/
 
 ## This semester we will ....
 <hr>
+<br/>
 <br/>
 <br/>
 
@@ -79,13 +80,11 @@ https://courses.shepherd.edu/portal/
 
 ## What is ecology (textbook)?
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ecologypic.jpg">
 
 ## Ecology spans many scales
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:600px; HEIGHT:500px" SRC="images/scales.jpg">
 
@@ -94,16 +93,17 @@ https://courses.shepherd.edu/portal/
 ## Ecologist try to explain, understand and predict
 <hr>
 <br/>
+<br/>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/vultures.png">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:600px; HEIGHT:700px" SRC="images/data_prarie.png">
+<IMG STYLE="position:absolute; TOP:10px; LEFT:250px; WIDTH:600px; HEIGHT:700px" SRC="images/data_prarie.png">
 
 ## What is the central need for the goals of an ecologist?
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/datatypes.png">
 
@@ -111,10 +111,11 @@ https://courses.shepherd.edu/portal/
 <hr>
 <br/>
 <br/>
+<br/>
 
 <div style="float: left; width: 50%;">
 
-* **Read "100 arcticles every ecologist should read**
+* **Read "100 arcticles every ecologist should read""**
 
 <br/>
 
@@ -136,6 +137,8 @@ https://courses.shepherd.edu/portal/
 <hr>
 <br/>
 <br/>
+<br/>
+<br/>
 
 * **Grand Challenge Assignment**
     + meet teammates
@@ -145,4 +148,6 @@ https://courses.shepherd.edu/portal/
 <br/>
     
 * **Basics in Excel**
-    + bring laptop, if you can
+    + bring laptop
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/excel.jpg">
