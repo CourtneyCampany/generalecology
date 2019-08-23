@@ -83,6 +83,7 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
 
 **Invasive species cause over $135 billion dollars in damages to North American ecosystems and can alter the services that natural ecosystems provide to society. Some of these introductions were deliberate while others were inadvertent. In both cases, the functional traits that allow a species to be invasive are poorly known, and worse, many introductions, once established, are difficult if not impossible to eradicate. Therefore, we do not yet know how to predict which species could become problems in the future, which makes it difficult to predict future impacts.**
 
@@ -101,14 +102,14 @@ runtime: shiny
 
 <br/>
   
-  + Develop an **Ecological Action PLan**
+* Develop an **Ecological Action PLan**
   + Solutions oriented
   + 'Unconstrained' = Lots of Freedom
   +  Written EAP + episode 2 of your podcast
   
 <br/>
 
-  + I will put examples of EAP's (see link) on SAKAI
+  + Examples of EAP's are on SAKAI (also see this link)
   + http://www.cityofsydney.nsw.gov.au/__data/assets/pdf_file/0009/135882/GreeningSydneyPlan.pdf
 
 ## Your assignment: Something Awesome (+5 points)
@@ -132,9 +133,6 @@ runtime: shiny
  </div> 
  
  <IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:400px; HEIGHT:200px" SRC="images/interview.jpg">
-  
-##
-<div style="width:50%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/em4i0bDs9Hm2Q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/em4i0bDs9Hm2Q">via GIPHY</a></p>  
   
 ## My Role (#2): Mentor
 <hr>
