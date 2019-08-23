@@ -1,5 +1,5 @@
 ---
-title: "Ecology's evolutionary backdrop"
+title: "The Yin and Yang of Ecology and Evolution"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -11,45 +11,47 @@ runtime: shiny
 ## Species are so specialized, they are absent almost everywhere
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:500px; HEIGHT:400px" SRC="images/orchid_bee.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:400px" SRC="images/ochid_bee.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird3.jpg">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:10px; LEFT:200px; WIDTH:500px; HEIGHT:800px" SRC="images/backyard_bees.jpg">
+<IMG STYLE="position:absolute; TOP:10px; LEFT:300px; WIDTH:500px; HEIGHT:750px" SRC="images/backyard_bees.jpg">
 
 ## Diversity of nature evolves over a long period of time...
+<hr>
 
-<IMG STYLE="position:absolute; TOP:10px; LEFT:200px; WIDTH:500px; HEIGHT:800px" SRC="images/diversity_time.gif">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/diversity_time.gif">
 
 ## Evolution by **natural selection**: Darwin and Wallace
 <hr>
 <br/>
+<br/>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
 1. Individuals in a population are not identical
 
-<br/>
+2. Some variation among individuals in heritable
 
-2. Some variation among individuals in heritable (genetic component)
-
-<br/>
-
-3. Individuals sometimes die before reproducing 
-
-<br/>
+3. Individuals sometimes die before reproducing
 
 4. Different ancestors leave different #'s of decendants
 
 <br/>
+<br/>
+<br/>
 
-* **Evolution is the change, over time, in the heritable characteristics in a population or a species
+**Evolution is the change, over time, in the heritable characteristics in a population or a species**
 </div>
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:500px; WIDTH:400px; HEIGHT:500px" SRC="images/genetic_component.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/genetic_component.jpg">
 
 ## Why does this matter for Ecology?
 <hr>
+<br/>
 <br/>
 
 * **Survival of the fittest** is tied to organisms interacting with their environemnt
@@ -66,6 +68,9 @@ runtime: shiny
 
 * **Environment matters a lot!**
 
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/swallowtail.jpg">
 
 ## Natural selection and evolution occur within a species
 <hr>
@@ -73,8 +78,12 @@ runtime: shiny
 
 * **There are traits of plants and animals that are 'conserved'**
     + not easily modified
-    
+
+<br/>
+
 * **However,We often seem lots of variation within a species**
+
+<br/>
 
 * **Species traits vary over geographic ranges**
     + as long as migration occurs
@@ -99,6 +108,7 @@ runtime: shiny
 * **Why is this important?**
 
 ## Reciprocal transplants: investigating local adaptation
+<hr>
 
 eggs from Appalachian Mountains (AM) Coastal Plain (CP) and New York (NY)
 
@@ -107,36 +117,71 @@ eggs from Appalachian Mountains (AM) Coastal Plain (CP) and New York (NY)
 AM and NY populations did experience reductions in egg viability under a southern winter at the CP site compared to control wintering conditions, while the CP egg masses had equivalent survival
 
 ## Ecology is more than just the environment...
+<hr>
+<br/>
+<br/>
 
 * **The interactions between species also drive evolutionary processses**
 
+<br/>
+
 * **Selection forces**
+
+<br/>
 
 * **Steam guppies in trindidad are separated by waterfalls**
     + isolated populations
     + tons of different traits across guppy populations
-    
+
+<br/>
+
 * **What could be driving these changes?**
 
 ## Predation, sex and flamboyance in guppies
+<hr>
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/guppy2.jpg">
+<IMG STYLE="position:absolute; TOP:200x; LEFT:10px; WIDTH:500px; HEIGHT:300px" SRC="images/guppy2.jpg">
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/guppy3.png">
+<IMG STYLE="position:absolute; TOP:200x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/guppy3.png">
 
 ## When species interact, coevolution can occur
+<hr>
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird.jpg">
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird2.jpg">
 
-## Ecological speciation
+## The massive diversification of flowering plants
+<hr>
 
- * **ecologically based divergent selection between different environments leads to the creation of reproductive barriers between populations.**
+<IMG STYLE="position:absolute; TOP:200x; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/angio2.jpg">
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:450px; WIDTH:450px; HEIGHT:450px" SRC="images/angio.gif">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50x; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/insect_evolve.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50x; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/insect_evolve2.jpg">
+
+##
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_uHJGdTgtXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Ecological speciation
+<hr>
+<br/>
+<br/>
+
+* **Divergent selection between different environments leads to the creation of reproductive barriers**
     + driven by difference in environment btn populations
     + driven by interaction with other species
 
-* **populations are isolated, then selection drives change**
+<br/>
+
+* **Populations are isolated, then selection drives change**
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/speciation.png">
 
@@ -145,14 +190,17 @@ AM and NY populations did experience reductions in egg viability under a souther
 <IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/darwinfinchg.png">
 
 ## Parallel evolution
+<hr>
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/australia.png">
 
 ## Convergent evolution
+<hr>
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent1.jpg">
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent3.jpeg">
 
 ##
+
 <IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent3.png">
