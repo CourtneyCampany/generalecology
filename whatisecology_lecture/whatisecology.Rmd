@@ -12,6 +12,7 @@ runtime: shiny
 <hr>
 <br/>
 <br />
+<br />
 
 * Plant Ecophysologist  
 * Ecosystem Ecologist
@@ -19,7 +20,6 @@ runtime: shiny
 <br />
 
 * www.courtneycampany.com  
-* twitter: @court_campany
 
 <br />
 
@@ -36,10 +36,11 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br />
 
 https://courses.shepherd.edu/portal/
 
-## This semester we will practive being an ecologist
+## This semester we will practice being an ecologist
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ecologist.jpg">
@@ -51,7 +52,7 @@ https://courses.shepherd.edu/portal/
 <br/>
 
 <div style="float: left; width: 50%;">
-* **Immerese ourselves in weekly ecological themes**
+* **Immerse ourselves in weekly ecological themes**
     + lecture
     + journal club
     + quantitative reasoning
@@ -73,7 +74,7 @@ https://courses.shepherd.edu/portal/
 <br/>
 <br/>
 
-* **Practive communicating science**
+* **Practice communicating science**
    + Find your voice!
    
 </div>
@@ -100,14 +101,14 @@ https://courses.shepherd.edu/portal/
 
 ##
 
-<IMG STYLE="position:absolute; TOP:10px; LEFT:250px; WIDTH:600px; HEIGHT:700px" SRC="images/data_prarie.png">
+<IMG STYLE="position:absolute; TOP:10px; LEFT:250px; WIDTH:600px; HEIGHT:680px" SRC="images/data_prarie.png">
 
 ## What is the central need for the goals of an ecologist?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/datatypes.png">
 
-## For Wednesday (jounral) and Friday (data day)
+## For Wednesday (journal) and Friday (data day)
 <hr>
 <br/>
 <br/>
@@ -115,15 +116,16 @@ https://courses.shepherd.edu/portal/
 
 <div style="float: left; width: 50%;">
 
-* **Read "100 arcticles every ecologist should read""**
+* **Read "100 articles every ecologist should read""**
+    + article and cheat sheet on SAKAI
 
 <br/>
 
 * **Take specific notes**
     + What ecological themes are common?
-    + Do you feel any themese are missing?
+    + Do you feel any themes are missing?
     + Is there a take home message?
-    + Is there anything you dont understand?
+    + Is there anything you don't understand?
 
 </div>
 

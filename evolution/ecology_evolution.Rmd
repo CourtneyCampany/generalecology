@@ -75,18 +75,31 @@ runtime: shiny
 ## Natural selection and evolution occur within a species
 <hr>
 <br/>
+<br/>
+<br/>
 
 * **There are traits of plants and animals that are 'conserved'**
     + not easily modified
 
 <br/>
 
-* **However,We often seem lots of variation within a species**
+* **However,we often seem lots of variation within a species**
 
 <br/>
 
 * **Species traits vary over geographic ranges**
     + as long as migration occurs
+    
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/intr_plants.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:800px; HEIGHT:600px" SRC="images/tits_data.jpg">
+
+    
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/intr_plants.jpg">
     
 ## Classic approaches to understand interspecific variation: Common Garden
 <hr>
