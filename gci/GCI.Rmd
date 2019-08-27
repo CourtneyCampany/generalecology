@@ -1,7 +1,6 @@
 ---
-title: "Grand challenge Initiative"
-subtitle: "BIOL303 - General Ecology"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
+title: "Grand Challenge Initiative"
+subtitle: "BIOL 303 - General Ecology"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -9,6 +8,8 @@ output:
     smaller: true
 runtime: shiny
 ---
+
+##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:600px" SRC="images/gci1.png">
 
@@ -24,7 +25,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:325px; WIDTH:400px; HEIGHT:350px" SRC="images/gci2.png">
 
-## Grand Challenges: BIO 303
+## Grand Challenges: Shepherd General Ecology
 <hr>
 <br/>
 <br/>
@@ -35,7 +36,7 @@ runtime: shiny
 
 <br/>
 
-* Teams of 4
+* Teams of ~4
 
 <br/>
 
@@ -79,7 +80,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:325px; LEFT:725px; WIDTH:200px; HEIGHT:200px" SRC="images/appst.png">
 
-## Semester Theme: Invasives
+## Semester Theme: Invasive
 <hr>
 <br/>
 <br/>
@@ -102,7 +103,7 @@ runtime: shiny
 
 <br/>
   
-* Develop an **Ecological Action PLan**
+* Develop an **Ecological Action Plan**
   + Solutions oriented
   + 'Unconstrained' = Lots of Freedom
   +  Written EAP + episode 2 of your podcast
@@ -112,17 +113,17 @@ runtime: shiny
   + Examples of EAP's are on SAKAI (also see this link)
   + http://www.cityofsydney.nsw.gov.au/__data/assets/pdf_file/0009/135882/GreeningSydneyPlan.pdf
 
-## Your assignment: Something Awesome (+5 points)
+## Extra Credit: Something Awesome (+5 points)
 <hr>
+<br/>
 <br/>
 <br/>
 
 <div style="float: left; width: 60%;">
 * Promote activism and solutions
-    + Interview experts?
-    + Start a blog?
-    + Get on NPR?
-    + Interview a politician?
+    + Interview experts
+    + Get on NPR
+    + Interview a politician
     
   <br/>
   <br/>
@@ -144,14 +145,14 @@ runtime: shiny
   + Provide advice
   + Help you network
   + Push you
-  + Always come prepared 
+  + **Always come prepared** 
   + You will write EAP in steps
 
 <br/>
 
 * Guide EAP formation
   + No set format
-  + We will decide together
+  + We will decide sections together
   
 <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/mentor.jpg">
 
@@ -167,9 +168,9 @@ runtime: shiny
 <br/>
 <br/>
 
-* There are two invasive species bowls
-  + Plants
-  + Animals
+* There are two invasive species grab bags
+  + Regional
+  + Continental
 
 <br/>
 
@@ -178,8 +179,8 @@ runtime: shiny
 
 <br/>
 
-* If you have a strong reason for a certain species, and no one has choosen it, let me know
-  + NO takebacks!
+* If you have a strong reason for a certain species, and no one has chosen it, let me know
+  + NO take backs!
 
 ## Getting Started
 <hr>
@@ -204,4 +205,24 @@ runtime: shiny
 
  </div>
 
-<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/invasive_species.jpg">
+<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/invasive_species.JPG">
+
+<!-- ## Tuesday Lab Teams -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+
+<!-- 1. Bailey (Horse), Bradford (Wombat), Petretta (Armadillo) & Wetzel (Wolf) -->
+<!-- 2. Corcoran (Lynx), Rowland (Giraffe), Smith (Elephant) & Spaid (Lion) -->
+<!-- 3. Jenkins (Horse), Mellott (Bull), Strider (Sloth) & Turner (Rat) -->
+<!-- 4. Dominiski (Turtle), Grant (Shark), Hayes (Dolphin) & Phillips (Penguin) -->
+
+## Thursday Morning Lab Teams
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
