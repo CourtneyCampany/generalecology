@@ -61,7 +61,7 @@ runtime: shiny
 * **This term is a little misleading, should read:**
 <br/>
 * **Survivial of the bettter designed for an immediate, local environment**
-    + survivied death and desctruction
+    + survivied death and destruction
     + reproduced successfully
 
 <br/>
@@ -90,23 +90,20 @@ runtime: shiny
 * **Species traits vary over geographic ranges**
     + as long as migration occurs
     
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/intr_plants.jpg">
-
-## 
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:800px; HEIGHT:600px" SRC="images/tits_data.jpg">
-
+##
     
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/intra_plants.jpg">
+
 ## 
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/intr_plants.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/tits_data.jpg">
     
 ## Classic approaches to understand interspecific variation: Common Garden
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/common_garden.png">
 
-## Interspecific variation can can occur at short distances
+## Interspecific variation can occur at short distances
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/zinc.png">
@@ -114,13 +111,13 @@ runtime: shiny
 ## Thought question:
 <hr>
 
-* **Flowering times of plants at Zinc mines did not overlap with those of natural fields (for 40 years!)
+* **Flowering times of plants at Zinc mines did not overlap with those of natural fields (for 40 years!)**
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/zinc2.png">
 
 * **Why is this important?**
 
-## Reciprocal transplants: investigating local adaptation
+## Reciprocal transplants: Investigating local adaptation
 <hr>
 
 eggs from Appalachian Mountains (AM) Coastal Plain (CP) and New York (NY)
@@ -129,13 +126,9 @@ eggs from Appalachian Mountains (AM) Coastal Plain (CP) and New York (NY)
 
 AM and NY populations did experience reductions in egg viability under a southern winter at the CP site compared to control wintering conditions, while the CP egg masses had equivalent survival
 
-## Ecology is more than just the environment...
+## Evolution can also be driven by species interactions
 <hr>
 <br/>
-<br/>
-
-* **The interactions between species also drive evolutionary processses**
-
 <br/>
 
 * **Selection forces**

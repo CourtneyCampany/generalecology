@@ -58,7 +58,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div class="centered"><strong>I was wondering if you would propose an ecological problem related to your interests, which students could try to solve. The problem could be regionally related to the USA or possibly at a larger scale.</strong></div>
+<div class="centered">I was wondering if you would propose an ecological problem related to your interests, which students could try to solve. The problem could be regionally related to the USA or possibly at a larger scale.</div>
 
 <br/>
 
@@ -66,11 +66,11 @@ runtime: shiny
 
 <br/>
 
-<div class="centered"><strong>The idea is that students have the semester to work towards potential solutions and develop an **Ecological Action Plan**. </strong></div>
+<div class="centered">The idea is that students have the semester to work towards potential solutions and develop an **Ecological Action Plan**.</div>
 
 <br/>
 
-<div class="centered"><strong>Although they may not be able to solve the problem this concept brings in work-related deadlines, active self-learning, inclusive and diversity driven group work and most importantly activism. </strong></div>
+<div class="centered">Although they may not be able to solve the problem this concept brings in work-related deadlines, active self-learning, inclusive and diversity driven group work and most importantly activism. </div>
 
 ## Prof. Howard Neufeld (Appalachian State University)
 <hr>
@@ -189,6 +189,7 @@ runtime: shiny
 <div style="float: right; width: 50%;">
 
 *  **Divide an conquer**
+    + set up a google group
 
 <br/>
 
@@ -197,7 +198,8 @@ runtime: shiny
 
 <div style="float: right; width: 50%;">
 
-*  **Lab time + outside of class**
+*  **Lab time**
+    + outside of class
 
 <br/>
 
@@ -226,3 +228,23 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+
+1. Ajello (Tiger), Burgess (Polar bear), Cruse (Manatee), Reynold (Chihuahua)
+2. Ball (Boxer), Cupp (Labrador), Dean (Jellyfish), Wilson (Charlotte)
+3. Beecher (Labrador), Gantt (Penguin), McCormick (cat), Nguyen (Sloth)
+4. Farmer (Box turtle), Garcia (Elephant), Grove (Beagle), Miller (Cat)
+
+
+## Thursday Afternoon Lab Teams
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+1. Flores (Vivian), Kees (Kees), Prado (elephant), Smith (manatee)
+2. Leskinski (squirell), Ramirez (horse), Snyder (deer), Vega (cat)
+
+
