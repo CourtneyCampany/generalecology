@@ -246,5 +246,5 @@ runtime: shiny
 
 1. Flores (Penguin), Kees (Wolf), Prado (Elephant), 
 2. Leskinski (Squirell), Ramirez (Horse), Snyder (Deer), Vega (Cat)
-3. Burgess (Polar bear), Feldstein (), Smith (Manatee)
+3. Burgess (Polar bear), Feldstein (Turtle), Smith (Manatee)
 

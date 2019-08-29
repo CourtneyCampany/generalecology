@@ -119,12 +119,24 @@ runtime: shiny
 
 ## Reciprocal transplants: Investigating local adaptation
 <hr>
+<br/>
+<br/>
+<br/>
 
-eggs from Appalachian Mountains (AM) Coastal Plain (CP) and New York (NY)
+<div style="float: left; width: 50%;">
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/gypsy_moth.png">
+* **Eggs from Appalachian Mountains (AM) Coastal Plain (CP) and New York (NY)**
 
-AM and NY populations did experience reductions in egg viability under a southern winter at the CP site compared to control wintering conditions, while the CP egg masses had equivalent survival
+<br/>
+
+* **AM and NY populations had reduced egg viability under a southern winter (CP site)**
+
+<br/>
+
+* **Coastal Plain eggs had equivalent survival**
+</div>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/gypsy_moth.png">
 
 ## Evolution can also be driven by species interactions
 <hr>
