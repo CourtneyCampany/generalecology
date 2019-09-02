@@ -33,7 +33,7 @@ runtime: shiny
 
 <br/>
 
-* **Evoution by Natural Selection**: organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing the traits to increase in frequency over generations
+* **Evolution by Natural Selection**: organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing the traits to increase in frequency over generations
 
 ## Brown et al. 2007: 6 genetically distinct lineages of giraffe
 <hr>
@@ -62,7 +62,7 @@ runtime: shiny
 
 >- Individuals sometimes die before reproducing
 
->- Different ancestors leave different #'s of decendants
+>- Different ancestors leave different #'s of descendants
 
 <br/>
 <br/>
@@ -101,8 +101,8 @@ runtime: shiny
 
 * **This term is a little misleading, should read:**
 <br/>
-* **Survivial of the bettter designed for an immediate, local environment**
-    + survivied death and destruction
+* **Survival of the better designed for an immediate, local environment**
+    + survived death and destruction
     + reproduced successfully
 
 <br/>
@@ -134,7 +134,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/intra_plants.jpg">
     
-## Interspecific variation can occur at short distances
+## Inter-specific variation can occur at short distances
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:700px; HEIGHT:400px" SRC="images/zinc.png">
@@ -193,7 +193,7 @@ runtime: shiny
 
 <br/>
 
-* **Steam guppies in Trindidad are separated by waterfalls**
+* **Steam guppies in Trinidad are separated by waterfalls**
     + isolated populations
     + tons of different traits across guppy populations
 
@@ -213,7 +213,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/tits_data.jpg">
 
-## When species interact, coevolution can occur
+## When species interact, co-evolution can occur
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird.jpg">
@@ -326,4 +326,22 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 </div> 
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:200px; HEIGHT:400px" SRC="images/Change_animals.jpg">
-  
+
+## Take Home Messages
+<hr>
+<br/>
+
+* **There is a reciprocal relationship between evolution and ecology**
+
+<br/>
+
+* **Ecological processes enact strong selection pressures on species**
+
+<br/>
+
+* **Ecology plays a specific role in a tenant of natural selection: *reproductive isolation* **
+
+<br/>
+
+* **Patterns in ecological processes have driven evolution over very long periods of time...**
+    + These same environmental pressures are now changing at a more rapid rates

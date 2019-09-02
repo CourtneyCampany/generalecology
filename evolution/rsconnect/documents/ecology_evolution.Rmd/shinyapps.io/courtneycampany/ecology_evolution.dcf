@@ -1,0 +1,12 @@
+name: ecology_evolution
+title: ecology_evolution
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1137371
+bundleId: 2378800
+url: https://courtneycampany.shinyapps.io/ecology_evolution/
+when: 1567456245.58377
+asMultiple: FALSE
+asStatic: FALSE
