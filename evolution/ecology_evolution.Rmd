@@ -6,7 +6,72 @@ output:
     widescreen: true
     smaller: true
 runtime: shiny
----
+--- 
+
+## The Yin and Yang of Ecology and Evolution
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/masquerade.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:725px; WIDTH:225px; HEIGHT:450px" SRC="images/catepillarcolor.png">
+
+## Review: Evolution Basics
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Evolution**: change in the genetic composition of a population over generational time
+
+<br/>
+
+* **Population**: group of individuals of the same species, occupying the same time and space, with the potential of interbreeding
+
+<br/>
+
+* **Species**:
+
+<br/>
+
+* **Evoution by Natural Selection**: organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing the traits to increase in frequency over generations
+
+## Brown et al. 2007: 6 genetically distinct lineages of giraffe
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:650px; HEIGHT:425px" SRC="images/giraffe.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:300px; HEIGHT:300px" SRC="images/giraffefur.jpg">
+
+## What is Generational Time? 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/generational_time.png">
+
+## Evolution by **Natural Selection**: Darwin and Wallace
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+>- Individuals in a population are not identical
+
+>- Some variation among individuals in heritable
+
+>- Individuals sometimes die before reproducing
+
+>- Different ancestors leave different #'s of decendants
+
+<br/>
+<br/>
+
+* **How did giraffes get long necks? (Lamarck vs Darwin)**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:615px; WIDTH:400px; HEIGHT:400px" SRC="images/genetic_component.jpg">
 
 ## Species are so specialized, they are absent almost everywhere
 <hr>
@@ -19,42 +84,18 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:10px; LEFT:300px; WIDTH:500px; HEIGHT:750px" SRC="images/backyard_bees.jpg">
 
-## Diversity of nature evolves over a long period of time...
+## Diversity of living things evolves over long time periods
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/diversity_time.gif">
-
-## Evolution by **natural selection**: Darwin and Wallace
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-1. Individuals in a population are not identical
-
-2. Some variation among individuals in heritable
-
-3. Individuals sometimes die before reproducing
-
-4. Different ancestors leave different #'s of decendants
-
-<br/>
-<br/>
-<br/>
-
-**Evolution is the change, over time, in the heritable characteristics in a population or a species**
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/genetic_component.jpg">
 
 ## Why does this matter for Ecology?
 <hr>
 <br/>
 <br/>
+<br/>
 
-* **Survival of the fittest** is tied to organisms interacting with their environemnt
+* **Survival of the fittest** is tied to organisms interacting with their environment
 
 <br/>
 
@@ -68,8 +109,6 @@ runtime: shiny
 
 * **Environment matters a lot!**
 
-</div>
-
 <IMG STYLE="position:absolute; TOP:300px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/swallowtail.jpg">
 
 ## Natural selection and evolution occur within a species
@@ -78,7 +117,7 @@ runtime: shiny
 <br/>
 <br/>
 
-* **There are traits of plants and animals that are 'conserved'**
+* **Some traits of plants and animals are 'conserved'**
     + not easily modified
 
 <br/>
@@ -90,34 +129,121 @@ runtime: shiny
 * **Species traits vary over geographic ranges**
     + as long as migration occurs
     
-##
+## 'Ohi'a lehua tree on Hawaiian Islands
+<hr>  
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/intra_plants.jpg">
     
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/intra_plants.jpg">
-
-## 
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/tits_data.jpg">
-    
-## Classic approaches to understand interspecific variation: Common Garden
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/common_garden.png">
-
 ## Interspecific variation can occur at short distances
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/zinc.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:700px; HEIGHT:400px" SRC="images/zinc.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:675px; WIDTH:400px; HEIGHT:300px" SRC="images/grass_zinc.jpg">
 
 ## Thought question:
 <hr>
+<br/>
+<br/>
+<br/>
 
-* **Flowering times of plants at Zinc mines did not overlap with those of natural fields (for 40 years!)**
+<div style="float: left; width: 45%;">
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/zinc2.png">
+* **Flowering times of plants at Zinc mines did not overlap with those of natural fields**
+    + for 40 years!
+
+<br/>
+<br/>
+<br/>
 
 * **Why is this important?**
 
-## Reciprocal transplants: Investigating local adaptation
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/zinc2.png">
+
+<!-- ## Investigating local adaptation: Gypsy moth -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+
+<!-- <div style="float: left; width: 50%;"> -->
+
+<!-- * **Eggs from Appalachian Mountains (AM) Coastal Plain (CP) and New York (NY)** -->
+
+<!-- <br/> -->
+
+<!-- * **AM and NY populations had reduced egg viability under a southern winter (CP site)** -->
+
+<!-- <br/> -->
+
+<!-- * **Coastal Plain eggs had equivalent survival** -->
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/gypsy_moth.png"> -->
+
+## Evolution also driven by species interactions
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Selection forces**: pressures on an trait by natural selection driving evolution of a population
+
+<br/>
+
+* **Steam guppies in Trindidad are separated by waterfalls**
+    + isolated populations
+    + tons of different traits across guppy populations
+
+<br/>
+
+* **What forces could be driving these changes?**
+
+## Predation, sex and flamboyance in guppies
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:10px; WIDTH:500px; HEIGHT:300px" SRC="images/guppy2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/guppy3.png">
+
+## Great tit (Parus major) and bird feeders (Bosse et al. 2017)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/tits_data.jpg">
+
+## When species interact, coevolution can occur
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird2.jpg">
+
+## The massive diversification of flowering plants
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/angio2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/angio.gif">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve2.jpg">
+
+## Co-evolution of orchid bee and ochid flowers
+<hr>
+<br/>
+<br/>
+<br/>
+
+https://www.youtube.com/embed/_uHJGdTgtXE
+
+## Ecological speciation
 <hr>
 <br/>
 <br/>
@@ -125,100 +251,79 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Eggs from Appalachian Mountains (AM) Coastal Plain (CP) and New York (NY)**
-
-<br/>
-
-* **AM and NY populations had reduced egg viability under a southern winter (CP site)**
-
-<br/>
-
-* **Coastal Plain eggs had equivalent survival**
-</div>
-
-<IMG STYLE="position:absolute; TOP:180x; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/gypsy_moth.png">
-
-## Evolution can also be driven by species interactions
-<hr>
-<br/>
-<br/>
-
-* **Selection forces**
-
-<br/>
-
-* **Steam guppies in trindidad are separated by waterfalls**
-    + isolated populations
-    + tons of different traits across guppy populations
-
-<br/>
-
-* **What could be driving these changes?**
-
-## Predation, sex and flamboyance in guppies
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200x; LEFT:10px; WIDTH:500px; HEIGHT:300px" SRC="images/guppy2.jpg">
-
-<IMG STYLE="position:absolute; TOP:200x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/guppy3.png">
-
-## When species interact, coevolution can occur
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180x; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird.jpg">
-
-<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird2.jpg">
-
-## The massive diversification of flowering plants
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200x; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/angio2.jpg">
-
-<IMG STYLE="position:absolute; TOP:180x; LEFT:450px; WIDTH:450px; HEIGHT:450px" SRC="images/angio.gif">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50x; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/insect_evolve.jpg">
-
-## 
-
-<IMG STYLE="position:absolute; TOP:50x; LEFT:50px; WIDTH:900px; HEIGHT:600px" SRC="images/insect_evolve2.jpg">
-
-##
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_uHJGdTgtXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Ecological speciation
-<hr>
-<br/>
-<br/>
-
 * **Divergent selection between different environments leads to the creation of reproductive barriers**
-    + driven by difference in environment btn populations
+    + driven by difference in environment
     + driven by interaction with other species
 
 <br/>
+<br/>
 
-* **Populations are isolated, then selection drives change**
+* **Populations become isolated, then selection drives change**
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/speciation.png">
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/speciation.png">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/darwinfinchg.png">
+<IMG STYLE="position:absolute; TOP:15px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/darwinsfinch.png">
 
 ## Parallel evolution
 <hr>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/australia.png">
+<div style="float: left; width: 50%;">
+
+* **Divided populations evolving independently**
+    + large continental drift
+
+<br/>
+
+* **Ecological equivalents drive similar evolutionary processes**
+
+<br/>
+
+* **Ancestors were once connected**
+    + common set of potential traits
+    
+</div>   
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/australia.png">
 
 ## Convergent evolution
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent1.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent2.jpeg">
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent3.jpeg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:725px; WIDTH:250px; HEIGHT:250px" SRC="images/convergent1.jpg">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent3.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/convergent3.png">
+
+## Ecology, Evolution and Global Change
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 65%;">
+
+* **Adaptation drives evolution but time is important**
+
+<br/>
+
+* **Speed of environmental change may cause evolutionary mismatches**
+
+<br/>
+
+* **Rapid evolution can/may occur, but depends on what?**
+  + lizards with more sticky feed (15-20 generations)
+  + salmon migrating 2 weeks earlier (2 generations)
+
+</div> 
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:200px; HEIGHT:400px" SRC="images/Change_animals.jpg">
+  
