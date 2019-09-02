@@ -15,9 +15,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##
 
-<div class="centered"><span style="color:black">The relationships of organisms to one another and to their surroundings</span></div>
-
-
 <IMG STYLE="position:absolute; TOP:160px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/ecology2.jpg">
 
 <br />
@@ -41,15 +38,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div class="centered"><span style="color:green">"A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise" -Aldo Leopold </span></div>
 
-## What does ecology have to do with me?
-<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/ecology3.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/footprint.jpg">
-
-
-##
+## Biosphere: Regions of surface and atmopshere occupied by living things
 
 <IMG STYLE="position:absolute; TOP:125px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ecology.png">
 
@@ -145,7 +135,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: right; width: 50%;">
 <br />
 
-* **Gases have different residence times**
+* **Gases have different RESIDENCE TIMES**
     + N<sub>2</sub> = 13 million years
     + O<sub>2</sub> = 10,000 years
     + N<sub>2</sub>0 = 114 years

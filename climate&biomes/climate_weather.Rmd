@@ -1,5 +1,5 @@
 ---
-title: "Climate and Weather"
+title: "Climate and the World's Biomes"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -59,26 +59,14 @@ runtime: shiny
     * type and # are important
 </div>
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/polarvortes.png">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/polarvortes.png"> -->
 
-<!-- ## Elements of climate and weather -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/weathersymbols.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/earth_energy.jpg"> -->
-
-## Global climate zones
+## Climate controls life, but what controls climate?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climatezones.gif">
-
-<!-- ## What drives global climate zones? -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/dayenergy_globe.png"> -->
 
 ## Slope of Earth's surface causes uneven heating
 <hr>
@@ -141,12 +129,12 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/currents.png">
 
-## Why is London warmer than Hamilton, NY?
+## Why is London warmer than Boston?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/london.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/boston.png">
 
-## Why is London warmer than Hamilton, NY?
+## Why is London warmer than Boston?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/atlantic_currents.jpg">
@@ -162,15 +150,24 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:25px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/elnino_2019.png">
 
-<!-- ## These phenomenon also alter weather -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/usa_weather.jpg"> -->
-
 ## Climate zones are scale dependent
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:900px; HEIGHT:450px" SRC="images/scale.png">
+
+## Biomes: usually defined by communities of plants and animals
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/biomes.jpg">
+
+## Climate controls life: Terrestiral biomes
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/biomes_climate.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/biomes_usa.png">
 
 ## How does climate impact ecology?
 <hr>
@@ -187,10 +184,3 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 <IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:350px; HEIGHT:350px" SRC="images/hurricanes.jpg">
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:460px; WIDTH:600px; HEIGHT:400px" SRC="images/irma.jpg">
-
-## Climate, weather and people
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/humans_climate.png">
-
