@@ -1,0 +1,59 @@
+---
+title: "Population, Birth, Death and Movement"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Defining population can be tricky
+
+## Definition of an indiviudal can be tricky
+
+## Can we ever really count everything?
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/bear_sight.png">
+
+## Life History: more than just birth and death
+
+* **sequence of events in life cycle
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/life_cycle_generic.png">
+
+## Sexual conflict: growth vs making babies
+
+## Different types of life cycles
+
+## 
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/wood_thrush.png">
+
+## Understanding population dynamics: life tables
+
+##
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/life_table1.png">
+
+## static life tables
+
+## survivorship curves
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/survivor.png">
+
+## dispersal and migration
+
+## density dependent dispersal
+
+##role of migration
+
+## patterns in population growth
+
+## R species
+
+## K species
+
+
+

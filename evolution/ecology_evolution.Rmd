@@ -18,22 +18,25 @@ runtime: shiny
 ## Review: Evolution Basics
 <hr>
 <br/>
+
+* **Evolution**:
+
+    >- change in the genetic composition of a population over generational time
 <br/>
-<br/>
 
-* **Evolution**: change in the genetic composition of a population over generational time
+* **Population**: 
 
-<br/>
-
-* **Population**: group of individuals of the same species, occupying the same time and space, with the potential of interbreeding
-
+    >- group of individuals of the same species, occupying the same time and space, with the potential of interbreeding
 <br/>
 
 * **Species**:
 
+    >- group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding successfully
 <br/>
 
-* **Evolution by Natural Selection**: organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing the traits to increase in frequency over generations
+* **Evolution by Natural Selection**: 
+
+    >- organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing the traits to increase in frequency over generations
 
 ## Brown et al. 2007: 6 genetically distinct lineages of giraffe
 <hr>
@@ -99,15 +102,16 @@ runtime: shiny
 
 <br/>
 
-* **This term is a little misleading, should read:**
+>- **This term is a little misleading, should read:**
 <br/>
-* **Survival of the better designed for an immediate, local environment**
-    + survived death and destruction
-    + reproduced successfully
+
+>- **Survival of the better designed for an immediate, local environment**
+      + survived death and destruction
+      + reproduced successfully
 
 <br/>
 
-* **Environment matters a lot!**
+>- **Environment matters a lot!**
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/swallowtail.jpg">
 
@@ -216,24 +220,11 @@ runtime: shiny
 ## When species interact, co-evolution can occur
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird2.jpg">
 
-## The massive diversification of flowering plants
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/angio2.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/angio.gif">
-
-##
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve.jpg">
-
-## 
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve2.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:150px" SRC="images/coevolve.jpg">
 
 ## Co-evolution of orchid bee and ochid flowers
 <hr>
@@ -242,6 +233,21 @@ runtime: shiny
 <br/>
 
 https://www.youtube.com/embed/_uHJGdTgtXE
+
+## The massive diversification of flowering plants
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/angio2.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/angio.gif">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve2.jpg">
 
 ## Ecological speciation
 <hr>
@@ -309,7 +315,7 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 <br/>
 <br/>
 
-<div style="float: right; width: 65%;">
+<div style="float: right; width: 70%;">
 
 * **Adaptation drives evolution but time is important**
 
@@ -329,19 +335,21 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 ## Take Home Messages
 <hr>
-<br/>
 
 * **There is a reciprocal relationship between evolution and ecology**
-
+    + swallowtail
+    
 <br/>
 
 * **Ecological processes enact strong selection pressures on species**
-
+    + guppy
+    
 <br/>
 
 * **Ecology plays a specific role in a tenant of natural selection: *reproductive isolation* **
-
+    + giraffe
+    
 <br/>
 
 * **Patterns in ecological processes have driven evolution over very long periods of time...**
-    + These same environmental pressures are now changing at a more rapid rates
+    + flowering plants and insects
