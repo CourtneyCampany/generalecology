@@ -1,0 +1,12 @@
+name: biosphere_energy_water
+title: biosphere_energy_water
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1152709
+bundleId: 2388782
+url: https://courtneycampany.shinyapps.io/biosphere_energy_water/
+when: 1567703283.18343
+asMultiple: FALSE
+asStatic: FALSE

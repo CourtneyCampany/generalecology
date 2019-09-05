@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/ecology2.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/ecology2.jpg">
 
 <br />
 <br />
@@ -39,9 +39,10 @@ knitr::opts_chunk$set(echo = FALSE)
 <div class="centered"><span style="color:green">"A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise" -Aldo Leopold </span></div>
 
 
-## Biosphere: Regions of surface and atmopshere occupied by living things
+## What makes up the BIOSPHERE?
+<hr>
 
-<IMG STYLE="position:absolute; TOP:125px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ecology.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/biosphere.jpg">
 
 ##
 
@@ -274,7 +275,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/water_sphere.jpg">
 
-## Hot topic: Groundwater now supports 40% of modern agriculture
+## Groundwater now supports 40% of modern agriculture
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:400px; HEIGHT:400px" SRC="images/fossilwater2.png">
