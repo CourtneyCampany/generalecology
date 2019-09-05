@@ -8,7 +8,7 @@ output:
 runtime: shiny
 --- 
 
-## The Yin and Yang of Ecology and Evolution
+## The Yin and Yang: Swallowtail butterflies
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/masquerade.jpg">
@@ -85,7 +85,7 @@ runtime: shiny
 
 ##
 
-<IMG STYLE="position:absolute; TOP:10px; LEFT:300px; WIDTH:500px; HEIGHT:750px" SRC="images/backyard_bees.jpg">
+<IMG STYLE="position:absolute; TOP:10px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/backyard_bees.jpg">
 
 ## Diversity of living things evolves over long time periods
 <hr>
@@ -138,7 +138,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/intra_plants.jpg">
     
-## Inter-specific variation can occur at short distances
+## Intra-specific variation can occur at short distances
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:700px; HEIGHT:400px" SRC="images/zinc.png">
@@ -203,7 +203,7 @@ runtime: shiny
 
 <br/>
 
-* **What forces could be driving these changes?**
+* **What selection forces could be driving these changes?**
 
 ## Predation, sex and flamboyance in guppies
 <hr>
@@ -215,7 +215,9 @@ runtime: shiny
 ## Great tit (Parus major) and bird feeders (Bosse et al. 2017)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/tits_data.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:700px; HEIGHT:400px" SRC="images/tits_data.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:825px; WIDTH:220px; HEIGHT:220px" SRC="images/tit.jpg">
 
 ## When species interact, co-evolution can occur
 <hr>
@@ -237,13 +239,13 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 ## The massive diversification of flowering plants
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/angio2.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:150px; WIDTH:225px; HEIGHT:225px" SRC="images/angio2.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/angio.gif">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:450px; HEIGHT:450px" SRC="images/angio.gif">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve.JPG">
 
 ## 
 
@@ -274,40 +276,40 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <IMG STYLE="position:absolute; TOP:15px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/darwinsfinch.png">
 
-## Parallel evolution
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- ## Parallel evolution -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 50%;">
+<!-- <div style="float: left; width: 50%;"> -->
 
-* **Divided populations evolving independently**
-    + large continental drift
+<!-- * **Divided populations evolving independently** -->
+<!--     + large continental drift -->
 
-<br/>
+<!-- <br/> -->
 
-* **Ecological equivalents drive similar evolutionary processes**
+<!-- * **Ecological equivalents drive similar evolutionary processes** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Ancestors were once connected**
-    + common set of potential traits
-    
-</div>   
+<!-- * **Ancestors were once connected** -->
+<!--     + common set of potential traits -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/australia.png">
+<!-- </div>    -->
 
-## Convergent evolution
-<hr>
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/australia.png"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent2.jpeg">
+<!-- ## Convergent evolution -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:725px; WIDTH:250px; HEIGHT:250px" SRC="images/convergent1.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:500px; HEIGHT:400px" SRC="images/convergent2.jpeg"> -->
 
-##
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:725px; WIDTH:250px; HEIGHT:250px" SRC="images/convergent1.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/convergent3.png">
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/convergent3.png"> -->
 
 ## Ecology, Evolution and Global Change
 <hr>
@@ -317,7 +319,7 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <div style="float: right; width: 70%;">
 
-* **Adaptation drives evolution but time is important**
+* **Evolution drives adaptation but time is important**
 
 <br/>
 
