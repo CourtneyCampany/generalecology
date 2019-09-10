@@ -13,36 +13,37 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## What makes up the BIOSPHERE?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:100px; WIDTH:350px; HEIGHT:250px" SRC="images/biosphere.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/biosphere2.jpg">
+
 ##
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/ecology2.jpg">
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div class="centered"><span style="color:green">"A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise" -Aldo Leopold </span></div>
-
-
-## What makes up the BIOSPHERE?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/biosphere.jpg">
 
 ##
 
@@ -76,20 +77,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Sun is the Earth's primary form of heat, via radiation
 <hr>
-<br />
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div style="float: left; width: 45%;">
 
 * **~1/3 of sunlight energy reflects back to space**
 
-<br />
+<br/>
 
 * **Rest is absorbed by land, ocean and atmosphere**
 
-<br />
+<br/>
 
 * **Exact amount absorbed depends on both surface and atmosphere**
 </div>
@@ -102,7 +103,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Why clouds are cool...
 <hr>
-<br />
+<br/>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/clouds.jpg">
 
@@ -114,11 +115,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/2018GreenhouseEffect.png">
 
-## Greenhouse effect (Review Video)
-<hr>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VYMjSule0Bw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Atmospheric absorption spectra
 <hr>
 <br />
@@ -129,22 +125,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Composition of the atmosphere
 <hr>
-<br />
+<br/>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:75px; WIDTH:400px; HEIGHT:300px" SRC="images/air-composition.jpg">
 
 <div style="float: right; width: 50%;">
-<br />
+<br/>
 
 * **Gases have different RESIDENCE TIMES**
     + N<sub>2</sub> = 13 million years
     + O<sub>2</sub> = 10,000 years
     + N<sub>2</sub>0 = 114 years
     + **CO<sub>2</sub> = 5-200 years (1/2 removed quickly)**
-    + **CH4 (methane) = 12 years**
+    + **CH<sub>4</sub> (methane) = 12 years**
 
-<br />
-<br />
+<br/>
+<br/>
 
 * **Water vapor is reactive and variable**
     + **10 day residence time**
@@ -157,33 +153,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/greenhouse-gas-potential.jpg">
 
-<!-- ## Surface energy budget -->
-<!-- <hr> -->
-<!-- <br /> -->
-<!-- <div style="float: left; width: 40%;"> -->
-
-<!-- * **Energy transfered from surface** -->
-
-<!-- <br /> -->
-
-<!-- * **Energy conducted into the soil** -->
-<!--   + Largest in regions with permafrost -->
-
-<!-- <br /> -->
-
-<!-- * **Energy stored inside ecosystem** -->
-<!--   + photosynthetic chemical energy -->
-<!-- </div>  -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/surface_budget.jpg"> -->
-
 ## Water vapor is the most abundant greenhouse gas
 <hr>
-<br />
-<br />
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div style="float: left; width: 50%;">
 
@@ -191,7 +167,7 @@ knitr::opts_chunk$set(echo = FALSE)
     + critical component of global change
     + collects at tropical latitudes
 
-<br />
+<br/>
 
 * **2x climate warming caused by increased CO<sub>2</sub>**
 </div> 
@@ -200,7 +176,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Water vapor feedback loop
 <hr>
-<br />
+<br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/wv_feedback.gif">
 
@@ -213,9 +189,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Evapotranspiration: Energetics of water movement
 <hr>
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 <div style="float: left; width: 50%;">
 
@@ -228,7 +204,7 @@ knitr::opts_chunk$set(echo = FALSE)
     + 4x more energy to heat water than air
     + uses up solar energy 
 
-<br />
+<br/>
 
 * **Large energy fluxes when water changes state**
     + evapotranspiration cools surfaces
@@ -253,27 +229,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:900px; HEIGHT:425px" SRC="images/water_residence.png">
 
-<!-- ## Ecosystem water budgets: Big buckets -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/waterflux_trees.png"> -->
-
-## Water movements within ecosystems
-<hr>
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:690px; HEIGHT:550px" SRC="images/recharge.png">
-
-## Changing water cycle
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:190px; WIDTH:700px; HEIGHT:500px" SRC="images/people_climate.jpg">
-
 ## Water for humans?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/waterpeople.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/water_sphere.jpg">
+
+## Changing water cycle
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:190px; WIDTH:700px; HEIGHT:500px" SRC="images/people_climate.jpg">
 
 ## Groundwater now supports 40% of modern agriculture
 <hr>

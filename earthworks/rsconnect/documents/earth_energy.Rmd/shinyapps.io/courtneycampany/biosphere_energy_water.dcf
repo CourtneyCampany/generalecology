@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1152709
-bundleId: 2388782
+bundleId: 2399473
 url: https://courtneycampany.shinyapps.io/biosphere_energy_water/
-when: 1567703283.18343
+when: 1568037208.10463
 asMultiple: FALSE
 asStatic: FALSE
