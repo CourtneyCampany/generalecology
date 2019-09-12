@@ -1,5 +1,5 @@
 ---
-title: "Climate and the World's Biomes"
+title: "Climate and the Earth's Biomes"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -124,10 +124,43 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/trees_rain.jpg">
 
-## Ocean currents heavily impact global climates
+## 
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/elnino_2019.png">
+
+## Biomes: usually defined by communities of plants and animals
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/biomes.jpg">
+
+## Climate controls life: Terrestiral biomes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/currents.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:450px; HEIGHT:450px" SRC="images/biomes_temp.png">
+
+## Climate zones are scale dependent
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:900px; HEIGHT:450px" SRC="images/scale.png">
+
+## Ocean Biomes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/oceanbiomes.png">
+
+## Ocean Biomes: Coastal productivity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/coastal2.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/coastal1.jpg">
+
+## Deep Ocean: Subtropical Gyres
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/gyres.png">
 
 ## Why is London warmer than Boston?
 <hr>
@@ -139,6 +172,11 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/atlantic_currents.jpg">
 
+## Ocean currents heavily impact global climates
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/currents.png">
+
 ## Global climate and weather: El Nino
 <hr>
 
@@ -146,41 +184,10 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/elnino_2019.png">
-
-## Climate zones are scale dependent
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:900px; HEIGHT:450px" SRC="images/scale.png">
-
-## Biomes: usually defined by communities of plants and animals
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/biomes.jpg">
-
-## Climate controls life: Terrestiral biomes
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/biomes_climate.png">
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/biomes_usa.png">
-
 ## How does climate impact ecology?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/climate_ecology.png">
 
-## How does weather impact ecology?
-<hr>
 
-<div class="centered">
-<strong>Extreme weather such as hurricanes, torrential downpours and droughts will increases the risk for species extinction, especially in diverse ecosystems such as coral reefs and tropical rainforests.</strong>
-</div>
 
-<IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:350px; HEIGHT:350px" SRC="images/hurricanes.jpg">
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:460px; WIDTH:600px; HEIGHT:400px" SRC="images/irma.jpg">
