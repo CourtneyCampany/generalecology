@@ -11,7 +11,7 @@ runtime: shiny
 
 ## Climate vs Weather
 <hr>
-<br />
+<br/>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/trumpcold.jpg">
 

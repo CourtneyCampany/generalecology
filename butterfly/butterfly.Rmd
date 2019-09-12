@@ -1,0 +1,115 @@
+---
+title: "Climate and Phenology and Butterflies"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## So FAR we have....
+
+## Phenology
+<hr>
+<br/>
+
+* **Phenology is the study of the timing of cyclical events in an organism's life cycle**
+    + flowering of plants, 
+    + emergence of worker bees from the hive
+    + migration of birds
+
+<br/>
+
+* **Timing of critical life stages can be triggered by external environmental clues**
+    + seasonal temperature change,
+    + photoperiod (day length)
+    + precipitation
+    
+## Global Change and Phenology
+<hr>
+<br/>
+
+* **Shfits in weather patterns and/climate can alter an organism's phenology** 
+<br/>
+
+* **Species that interact closely may no longer synced**
+
+<br/>
+
+* **Flowering times and insect emergence are a great example**
+    + certain insect and plant species may be specialized to each 
+
+<br/>
+
+* **What happens when their interactions become mismatched?
+
+## History matters!!!
+<hr>
+<br/>
+
+* **To address current trends in environmental change we must first know historical patterns**
+    + when and where species occur
+    + timing of phenological events
+    + key environmental triggers
+    
+* **We need data on our organsims and their environment**
+  
+## Environmental Triggers are changing (climate)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/springtime.jpg">
+
+## Triggers alter phenology
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/bloomdate.png">
+
+## Scheduling the DC Cherry Blossum Festival
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cherrytime.png">
+
+## Understanding changes in butterfly phenology
+<hr>
+<br/>
+
+* **Long term data from natural history specimens**
+    + earliest collection date each year of specimens
+    + proxy for phenology 
+    + online natural history database, iDigBio
+
+<br/>
+
+* **First date an adult was collected signifies when the butterfly was in flight**
+    + short lifespan of butterflies allows study of their phenology
+    
+## Goal today: Phenology from the plants perspective
+<hr>
+
+* **Which is more important for plant reproduction and success?**
+
+<br/>
+
+1) Flowering time as a function of temperature chanves
+    + source of butterfly nectar food
+  
+  <br/>
+  
+**or**
+
+<br/>
+
+2) Timing of butterfly adult flights
+
+## DATA SETS
+<hr>
+<br/>
+
+* **Go to Sakai > Resources > Data Fridays > and open the excel file labeled “Phenology_student_data"**
+
+<br/>
+
+* **Read the “Metadata” tab to understand what datasets you have available to explore our question**
+
