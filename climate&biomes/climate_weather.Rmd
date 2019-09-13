@@ -124,10 +124,6 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/trees_rain.jpg">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/elnino_2019.png">
-
 ## Biomes: usually defined by communities of plants and animals
 <hr>
 <br />
@@ -137,7 +133,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 ## Climate controls life: Terrestiral biomes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:450px; HEIGHT:450px" SRC="images/biomes_temp.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:275px; WIDTH:450px; HEIGHT:450px" SRC="images/biomes_temp.png">
 
 ## Climate zones are scale dependent
 <hr>
