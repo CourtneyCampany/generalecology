@@ -59,10 +59,6 @@ runtime: shiny
     * type and # are important
 </div>
 
-<!-- ## -->
-
-<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/polarvortes.png"> -->
-
 ## Climate controls life, but what controls climate?
 <hr>
 
@@ -74,6 +70,18 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/uneven_heating.gif">
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:550px; HEIGHT:275px" SRC="images/annual_energy.png">
+
+## Earth's axial tilt (23.5&deg;) creates seasons
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:700px; HEIGHT:250px" SRC="images/seasons.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/seasons2.jpg">
+
+## Changes in Earth's tilt and Ice Ages
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ice_ages.jpg">
 
 ## Atmosphere circulation impacts climate via "Air Donuts"
 <hr>
@@ -88,18 +96,6 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:450px" SRC="images/circulation_zones.png">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:425px; HEIGHT:425px" SRC="images/coriolis.png">
-
-## Earth's axial tilt (23.5&deg;) creates seasons
-<hr>
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:700px; HEIGHT:250px" SRC="images/seasons.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/seasons2.jpg">
-
-## Changes in Earth's tilt and Ice Ages
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ice_ages.jpg">
 
 ## Earth surface processes impact climate
 <hr>
@@ -124,23 +120,40 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/trees_rain.jpg">
 
-## Biomes: usually defined by communities of plants and animals
+## Why is London warmer than Boston?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/boston.png">
+
+## Ocean currents heavily impact global climates
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/atlantic_currents.jpg">
+
+## Global climate: El Nino (https://www.climate.gov/enso)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/elnino.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
+
+## Biomes: Usually defined by communities of plants and animals
 <hr>
 <br />
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/biomes.jpg">
 
-## Climate controls life: Terrestiral biomes
+## Climate controls life: Terrestrial biomes
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:275px; WIDTH:450px; HEIGHT:450px" SRC="images/biomes_temp.png">
 
-## Climate zones are scale dependent
+## Climate and ecology questions are scale dependent
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:900px; HEIGHT:450px" SRC="images/scale.png">
 
-## Ocean Biomes
+## Ocean Biomes: Depth, light and nutrients
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/oceanbiomes.png">
@@ -158,32 +171,8 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/gyres.png">
 
-## Why is London warmer than Boston?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/boston.png">
-
-## Why is London warmer than Boston?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/atlantic_currents.jpg">
-
-## Ocean currents heavily impact global climates
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/currents.png">
-
-## Global climate and weather: El Nino
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/elnino.jpg">
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
-
 ## How does climate impact ecology?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/climate_ecology.png">
-
-
 
