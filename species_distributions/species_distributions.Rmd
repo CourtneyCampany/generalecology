@@ -36,15 +36,11 @@ runtime: shiny
 ## "Lines of the geography of plants” by Humboldt, 1817
 <hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/humboldt-canaryislands.jpg"> -->
-
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px;HEIGHT:500px" SRC="images/humboldt2.jpg">
 
 ## 
 
 <IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humboldt4.jpg">
-
-<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:690px; WIDTH:400px; HEIGHT:400px" SRC="images/humboldt3.jpg"> -->
 
 ## Species are spatially arranged
 <hr>
@@ -58,8 +54,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/bald_eagle_map.jpg">
 
-
-## 
+## Similar biological communities reside within our biomes
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/biomes3.jpg">
 
@@ -85,24 +80,17 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/seasons_monarch.png">
 
+## Seasons can impact species distribution
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:480px; HEIGHT:450px" SRC="images/fur.png">
+
 ## Distribution within biological communities
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:120px; WIDTH:300px; HEIGHT:450px" SRC="images/desert.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
-
-## Species distributions are related to their niche space
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/warbler.jpg">
-
-## Species distributions are related to their niche space
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/warbler.jpg">
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:475px; WIDTH:550px; HEIGHT:450px" SRC="images/avoidance.jpg">
 
 ## Niches define the limiting factors for a species
 <hr>
@@ -114,15 +102,27 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/coral_map.jpeg">
 
+## Ecological niches exist in multi-dimensions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:900px; HEIGHT:330px" SRC="images/niche_dimension.png">
+
+## Species distributions are related to their niche space
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/warbler.jpg">
+
+## Niches often overlap for different species
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/warbler.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:475px; WIDTH:550px; HEIGHT:450px" SRC="images/avoidance.jpg">
+
 ## Ranges versus distribution: Crocodile
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/croc.png">
-
-<!-- ## Species ranges: Polar Bear -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/polar_bear.jpg"> -->
 
 ## Ranges versus distribution: Plants
 <hr>
@@ -144,17 +144,15 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/zoo_regions.jpg">
 
-<!-- ## Biogeography and species ranges: Andes uplift -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/andes1.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/andes2.jpg"> -->
-
 ## Species distributions: Human impacts
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_climate.jpg">
+
+## Global change: climate refugia (Polar bear)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/polar_bear.jpg">
 
 ## Global change: climate refugia (Polar bear)
 <hr>
@@ -171,14 +169,3 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/mosquito.png">
 
-<!-- ## Can we predict species distributions? -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/dist_model.jpg"> -->
-
-<!-- ## Predicting aids in conservation: salamander -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/dist_model2.png"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/sala.jpg"> -->
