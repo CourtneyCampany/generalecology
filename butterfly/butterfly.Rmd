@@ -9,11 +9,11 @@ output:
 runtime: shiny
 ---
 
-## So FAR we have....
-
 ## Phenology
 <hr>
 <br/>
+
+<div style="float: left; width: 60%;">
 
 * **Phenology is the study of the timing of cyclical events in an organism's life cycle**
     + flowering of plants, 
@@ -26,42 +26,34 @@ runtime: shiny
     + seasonal temperature change,
     + photoperiod (day length)
     + precipitation
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:300px; HEIGHT:300px" SRC="images/aboriginal_calendar.jpg">
     
 ## Global Change and Phenology
 <hr>
 <br/>
-
-* **Shfits in weather patterns and/climate can alter an organism's phenology** 
+<br/>
 <br/>
 
-* **Species that interact closely may no longer synced**
+* **Shifts in weather patterns and/climate can alter an organism's phenology** 
+    + Species that interact may no longer be synced
 
 <br/>
 
 * **Flowering times and insect emergence are a great example**
-    + certain insect and plant species may be specialized to each 
+    + insect and plant species life cycles connected
 
 <br/>
 
-* **What happens when their interactions become mismatched?
+* **What happens when their interactions become mismatched?**
 
-## History matters!!!
-<hr>
-<br/>
-
-* **To address current trends in environmental change we must first know historical patterns**
-    + when and where species occur
-    + timing of phenological events
-    + key environmental triggers
-    
-* **We need data on our organsims and their environment**
-  
-## Environmental Triggers are changing (climate)
+## Environmental triggers are changing (climate)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/springtime.jpg">
+<IMG STYLE="position:absolute; TOP:165px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/springtime.jpg">
 
-## Triggers alter phenology
+## Environmental triggers alter phenology
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/bloomdate.png">
@@ -70,30 +62,17 @@ runtime: shiny
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cherrytime.png">
-
-## Understanding changes in butterfly phenology
-<hr>
-<br/>
-
-* **Long term data from natural history specimens**
-    + earliest collection date each year of specimens
-    + proxy for phenology 
-    + online natural history database, iDigBio
-
-<br/>
-
-* **First date an adult was collected signifies when the butterfly was in flight**
-    + short lifespan of butterflies allows study of their phenology
     
 ## Goal today: Phenology from the plants perspective
 <hr>
+<br/>
+<br/>
 
 * **Which is more important for plant reproduction and success?**
 
 <br/>
 
-1) Flowering time as a function of temperature chanves
-    + source of butterfly nectar food
+**Flowering time as a function of temperature changes**
   
   <br/>
   
@@ -101,7 +80,9 @@ runtime: shiny
 
 <br/>
 
-2) Timing of butterfly adult flights
+**Timing of butterfly adult flights in Bristish Columbia**
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:300px; HEIGHT:300px" SRC="images/butterfly_emerge.jpg">
 
 ## DATA SETS
 <hr>
@@ -113,4 +94,22 @@ runtime: shiny
 
 * **Read the “Metadata” tab to understand what datasets you have available to explore our question**
 
-## Kharouba and Velland
+## Understanding changes in butterfly phenology
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Long term data from natural history specimens**
+    + earliest collection date each year of specimens
+    + proxy for phenology 
+    + online natural history database, iDigBio
+
+<br/>
+<br/>
+
+* **First date an adult was collected signifies when the butterfly was in flight**
+    + short lifespan of butterflies allows study of their phenology
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:200px" SRC="images/butterfly_collect.jpg">
