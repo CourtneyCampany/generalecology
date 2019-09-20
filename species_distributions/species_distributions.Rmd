@@ -55,15 +55,16 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/bald_eagle_map.jpg">
 
 ## Similar biological communities reside within our biomes
+<hr>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/biomes3.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/biomes3.jpg">
 
 ## Climate drives broad distribution of terrestrial biomes
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
 
-## Soils play a huge role
+## Biomes have distinct soil types
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soils2.png">
@@ -80,17 +81,12 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/seasons_monarch.png">
 
-## Seasons can impact species distribution
+## Species may also be adapted for seasonal habitats
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:480px; HEIGHT:450px" SRC="images/fur.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:480px; HEIGHT:450px" SRC="images/fur.png">
 
-## Distribution within biological communities
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:120px; WIDTH:300px; HEIGHT:450px" SRC="images/desert.jpg">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/articfur.jpg">
 
 ## Niches define the limiting factors for a species
 <hr>
@@ -106,6 +102,13 @@ runtime: shiny
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:900px; HEIGHT:330px" SRC="images/niche_dimension.png">
+
+## Distribution within biological communities
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:120px; WIDTH:300px; HEIGHT:450px" SRC="images/desert.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
 
 ## Species distributions are related to their niche space
 <hr>
@@ -144,28 +147,22 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/zoo_regions.jpg">
 
-## Species distributions: Human impacts
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_climate.jpg">
-
-## Global change: climate refugia (Polar bear)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/polar_bear.jpg">
-
 ## Global change: climate refugia (Polar bear)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/polar_bear2.jpg">
 
-## Global change: range shifts of plants
+## Global change: Range shifts of plants
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/tree_move.jpg">
 
-## Global change: range expansion
+## Global change: Range expansion
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/mosquito.png">
 
+## Species distributions: Human impacts
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_climate.jpg">

@@ -1,0 +1,12 @@
+name: species_distributions
+title: species_distributions
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 596153
+bundleId: 2430447
+url: https://courtneycampany.shinyapps.io/species_distributions/
+when: 1569009208.01096
+asMultiple: FALSE
+asStatic: FALSE
