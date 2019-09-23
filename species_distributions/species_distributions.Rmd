@@ -72,14 +72,19 @@ runtime: shiny
 ## Species distribution varies within biomes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/south_america2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/south_america2.jpg">
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/south_america.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/south_america.jpg">
 
 ## Seasons can impact species distribution
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/seasons_monarch.png">
+
+## Migration can cross many biomes: Birds
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fpK3U1EkwYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Species may also be adapted for seasonal habitats
 <hr>
@@ -93,15 +98,15 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/tolerance.jpg">
 
-## Coral Reefs
+## Tolerance Range: Coral Reefs
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/coral_map.jpeg">
 
-## Ecological niches exist in multi-dimensions
+## Ecological niches exist in n-dimensions
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:900px; HEIGHT:330px" SRC="images/niche_dimension.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:900px; HEIGHT:330px" SRC="images/niche_dimension.png">
 
 ## Distribution within biological communities
 <hr>

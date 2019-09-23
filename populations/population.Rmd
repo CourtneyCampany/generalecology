@@ -10,10 +10,87 @@ runtime: shiny
 ---
 
 ## Defining population can be tricky
+<hr>
+<br/>
+
+* **SIMPLE: A group of organisms from one species**
+
+<br/>
+
+* **Defining the population boundary...**
+    + a lake
+    + ecosystem
+    + ocean
+
+<br/>
+
+* **Leaf hooper population: leaf, tree, forest, ecosystem?**
+    + depends on the study and the questions
+
+<br/>
+
+
+## Why measure populations?
+<hr>
+<br/>
+
+* **SIMPLE: # of individuals is how we measure populationos**
+    + is it growing, declining, holding steady?
+    
+* **Understanding, measuring and predicting population sizes guides ecologist**
+    + managment and conservation
+
+
+## Case Study: Deer
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/deer.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/deerpop.jpg">
+
+## Case Study: Deer
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/deerharvest.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/deerusa.jpg">
+
+## Case Study: Zombie Deer
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cwd_deer.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/cwd_deer2.png">
 
 ## Definition of an indiviudal can be tricky
+<hr>
+<br/>
+
+* **Unitary organims are easy: forming a single entity**
+    + deer, bird, spider, etc.
+
+<br/>
+
+* **Modular organisms are harder**
+    + bacteria, algae, corals
+    + plants: ferns grow by rhizomes
+    + trees: seedling, sapling or mature tree?
+
+<br/>
+
+* **Some modular organisms may be themselves populations**
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/hayscentedfern.jpg">
+
 
 ## Can we ever really count everything?
+<hr>
+<br/>
+
+* **Lessons from Lab: Estimates from respresentative sample**
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/bear_sight.png">
 
@@ -24,8 +101,12 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/life_cycle_generic.png">
 
 ## Sexual conflict: growth vs making babies
+<hr>
+<br/>
 
 ## Different types of life cycles
+<hr>
+<br/>
 
 ## 
 
