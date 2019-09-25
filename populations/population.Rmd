@@ -94,6 +94,11 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/bear_sight.png">
 
+## 
+
+* **forces that control the abundance of a population act on stages of an organinsms life cycle**
+
+
 ## Life History: more than just birth and death
 
 * **sequence of events in life cycle
@@ -104,37 +109,158 @@ runtime: shiny
 <hr>
 <br/>
 
-## Different types of life cycles
+* **Annuals vs Pernnials**
+
+* **When and how to spend your resources**
+    + reproduction comes at a cost of growth
+    + flowers + seeds = ↓ leaves and roots
+    + are enough resouces available to support pregnancy?
+    
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:500px; HEIGHT:250px" SRC="images/plantreproduction.png">
+
+## The mystery of large 'Mast' years in botany
 <hr>
 <br/>
 
-## 
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/mast.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/mast2.jpg">
+
+## Reproductive effort and life cycles: Long lived organisms
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/longlife.png">
+
+## Semelparous: One-off reproduction
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/salmon.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/cicada_mating.jpg">
+
+## Populations and life cycles: Annuals
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/annual_insect.jpg">
+
+## Populations and life cycles: Annuals
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/annual_insect.jpg">
+
+## Populations and life cycles: Ephemerals
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/desertflower.jpg">
+
+## Populations and life cycles: Dormancy
+<hr>
+<br/>
+
+* **Most annual organism spend part of the year dormant**
+    + Seeds,Spores, Cysts, etc.
+
+<br/
+
+* **Tens of thousands of seeds per square meter of soil**
+<br/
+
+* **Dormancy can last for long periods of time***
+    + great protection from harsh environments
+
+<br/
+
+* **How would this affect a population? **  
+
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/desertflower.jpg">
+
+## Populations and life histories: Wood Thrush
+<hr>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/wood_thrush.png">
 
-## Understanding population dynamics: life tables
+## Populations dynamics: monitoring birth and death
+<hr>
+<br/>
 
-##
+* **Measuring rates of birth and death can tell us if a population is growing or shrinking**
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/life_table1.png">
+<br/>
 
-## static life tables
+* **Cohort Life tables: follow the fate of individuals from a single cohort**
+    + survivorship
+    + difficult for mobile animals
+    + **Marmot HANDOUT**
 
-## survivorship curves
+<br/>
+
+* **Static life table: describe the # of survivors at different ages**
+    + Lemurs: Data Fridays
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:2400px" SRC="images/life_table1.png">
+
+## Understanding life tables
+<hr>
+<br/>
+
+* **Age Class (usually years)**
+
+<br/>
+
+* **Number alive**
+
+<br/>
+
+* **Survivorship (Lx): mortality based on original cohort**
+
+<br/>
+
+* **Fecundity (Mx): average offspring born to individuals of each age**
+
+<br/>
+
+* **Survivorship x Fecundity: # of female young produced per indivdual**
+    + basic reproductive rate (age class)
+
+<br/>
+
+* **Population growh Paratmeter (Ro): Sum of Survivorship x Fecudity**
+    + net reproductive rate
+    + if Ro > 1, population is growing
+
+## Survivorship curves: log(Lx) versus cohort age
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/survivor.png">
 
-## dispersal and migration
+## 
 
-## density dependent dispersal
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/survivor_curve2.jpg">
 
-##role of migration
+## r/K selection theory: growth and reproduction strategies
 
-## patterns in population growth
+r-selected species: “cheap” offspring
+    + unstable environments
+    + many offspring - little parental care -high mortality
+    + small offspring - fast maturity
+    + variable and fluctuating population sizes
+    
+K-selected species: “expensive” offspring
 
-## R species
+  + stable environments - resources maximise longveity
+  + few offspring - parental care - low mortaility
+  + large size - slow maturity
+  + stable population sizes
+  
+* **These are the 2 ends of a specturm**
 
-## K species
+## 
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/survivor_curve.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/rvsk.jpeg">
+
 
 
 
