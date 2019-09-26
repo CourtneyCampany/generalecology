@@ -1,5 +1,5 @@
 ---
-title: "Population, Birth, Death and Movement"
+title: "Population, Birth, Death & Movement"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -27,21 +27,27 @@ runtime: shiny
 * **Leaf hooper population: leaf, tree, forest, ecosystem?**
     + depends on the study and the questions
 
-<br/>
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:400px; HEIGHT:300px" SRC="images/leafhooper.jpg">
 
-
-## Why measure populations?
+## Why measure populations (aka Demography)?
 <hr>
 <br/>
 
-* **SIMPLE: # of individuals is how we measure populationos**
+* **SIMPLE: # of individuals is how we measure populations**
     + is it growing, declining, holding steady?
     
-* **Understanding, measuring and predicting population sizes guides ecologist**
-    + managment and conservation
+<br/>
 
+* **Understanding the results of species interactions**
+ 
+<br/>
+ 
+* **Measuring, predicting and evaluating population sizes guides ecologist**
+    + management and conservation
 
-## Case Study: Deer
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:400px; HEIGHT:300px" SRC="images/baldeagle.png">
+
+## Case Study: Deer population size
 <hr>
 <br/>
 
@@ -49,7 +55,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/deerpop.jpg">
 
-## Case Study: Deer
+## Case Study: Deer population density
 <hr>
 <br/>
 
@@ -65,7 +71,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/cwd_deer2.png">
 
-## Definition of an indiviudal can be tricky
+## Definition of an indivdual can be tricky
 <hr>
 <br/>
 
