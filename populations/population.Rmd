@@ -9,12 +9,15 @@ output:
 runtime: shiny
 ---
 
-## Defining population can be tricky
+## WHAT: Defining a population can be tricky
 <hr>
 <br/>
+<br/>
 
-* **SIMPLE: A group of organisms from one species**
-
+* **A group of organisms from one species**
+    + abundance
+    + sex ratios
+    + age structure
 <br/>
 
 * **Defining the population boundary...**
@@ -24,44 +27,48 @@ runtime: shiny
 
 <br/>
 
-* **Leaf hooper population: leaf, tree, forest, ecosystem?**
+* **Aphid population: leaf, plant, grassland, ecosystem?**
     + depends on the study and the questions
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:400px; HEIGHT:300px" SRC="images/leafhooper.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/aphid.jpg">
 
-## Why measure populations (aka Demography)?
+## WHY: understanding population structure (aka Demography)?
 <hr>
 <br/>
+<br/>
+<br/>
 
-* **SIMPLE: # of individuals is how we measure populations**
+* **# of individuals is how we measure populations**
     + is it growing, declining, holding steady?
     
 <br/>
 
-* **Understanding the results of species interactions**
+* **Understanding the results of interactions in ecology**
  
 <br/>
  
 * **Measuring, predicting and evaluating population sizes guides ecologist**
     + management and conservation
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:400px; HEIGHT:300px" SRC="images/baldeagle.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/baldeagle.png">
 
 ## Case Study: Deer population size
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/deer.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/deer.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/deerpop.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/deerpop.jpg">
 
 ## Case Study: Deer population density
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/deerharvest.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/deereast.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/deerusa.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/deerharvest.jpg">
+
 
 ## Case Study: Zombie Deer
 <hr>
@@ -71,10 +78,11 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/cwd_deer2.png">
 
-## Definition of an indivdual can be tricky
+## WHO: Definition of an individual can be tricky
 <hr>
 <br/>
 
+<div style="float: left; width: 50%;">
 * **Unitary organims are easy: forming a single entity**
     + deer, bird, spider, etc.
 
@@ -88,98 +96,109 @@ runtime: shiny
 <br/>
 
 * **Some modular organisms may be themselves populations**
-    
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/hayscentedfern.jpg">
+</div>
 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/hayscentedfern.jpg">
 
-## Can we ever really count everything?
+## HOW: Estimates from respresentative sample
 <hr>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-* **Lessons from Lab: Estimates from respresentative sample**
+* **Lessons from Lab: **
+    + Mark & Recapture
+    + Census techniques
+    + Spatial component
+    + Temperoral Component
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/bear_sight.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:420px; WIDTH:600px; HEIGHT:400px" SRC="images/bear_sight.png">
 
-## 
+## What forces control deer abundance in Jefferson Co.?
+<hr>
 
-* **forces that control the abundance of a population act on stages of an organinsms life cycle**
+<IMG STYLE="position:absolute; TOP:300px; LEFT:25px; WIDTH:350px; HEIGHT:250px" SRC="images/bambi.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/homerange.jpg">
 
 
 ## Life History: more than just birth and death
-
-* **sequence of events in life cycle
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/life_cycle_generic.png">
-
-## Sexual conflict: growth vs making babies
 <hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/life_cycle_generic.png">
+
+## Life History: growth vs making babies conflict
+<hr>
+<br/>
 <br/>
 
 * **Annuals vs Pernnials**
+    + not just plants
+
+<br/>
+<br/>
+<br/>
 
 * **When and how to spend your resources**
     + reproduction comes at a cost of growth
     + flowers + seeds = ↓ leaves and roots
     + are enough resouces available to support pregnancy?
     
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:500px; HEIGHT:250px" SRC="images/plantreproduction.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/plantreproduction.png">
 
 ## The mystery of large 'Mast' years in botany
 <hr>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/mast.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mast2.jpg">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/mast2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/mast3.jpg">
 
 ## Reproductive effort and life cycles: Long lived organisms
 <hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/longlife.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/longlife.png">
 
 ## Semelparous: One-off reproduction
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/salmon.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/salmon.jpg">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/cicada_mating.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/cicada_mating.jpg">
 
-## Populations and life cycles: Annuals
+## Populations and life cycles: Annuals & Ephemerals
 <hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/annual_insect.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/annual_insect.jpg">
 
-## Populations and life cycles: Annuals
-<hr>
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/annual_insect.jpg">
-
-## Populations and life cycles: Ephemerals
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/desertflower.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:55px; HEIGHT:400px" SRC="images/desertflower.jpg">
 
 ## Populations and life cycles: Dormancy
 <hr>
 <br/>
 
+<div style="float: left; width: 50%;">
+
 * **Most annual organism spend part of the year dormant**
     + Seeds,Spores, Cysts, etc.
 
-<br/
+<br/>
 
 * **Tens of thousands of seeds per square meter of soil**
-<br/
 
-* **Dormancy can last for long periods of time***
-    + great protection from harsh environments
+<br/>
 
-<br/
+* **Dormancy can last for long periods of time**
+    + protection from harsh environments
+
+<br/>
 
 * **How would this affect a population? **  
+</div>
 
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/desertflower.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:300px" SRC="images/seeds.jpg">
 
 ## Populations and life histories: Wood Thrush
 <hr>
@@ -190,6 +209,9 @@ runtime: shiny
 ## Populations dynamics: monitoring birth and death
 <hr>
 <br/>
+<br/>
+
+<div style="float: left; width: 60%;">
 
 * **Measuring rates of birth and death can tell us if a population is growing or shrinking**
 
@@ -198,74 +220,86 @@ runtime: shiny
 * **Cohort Life tables: follow the fate of individuals from a single cohort**
     + survivorship
     + difficult for mobile animals
-    + **Marmot HANDOUT**
 
 <br/>
 
 * **Static life table: describe the # of survivors at different ages**
-    + Lemurs: Data Fridays
+</div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:2400px" SRC="images/life_table1.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/life_table1.png">
 
-## Understanding life tables
+## r/K selection theory: growth and reproduction strategies
+<hr>
+
+* **r-selected species: “cheap” offspring**
+    + unstable environments
+    + many offspring - little parental care-high mortality
+    + small offspring - fast maturity
+    + variable/fluctuating population sizes
+
+<br/>
+
+* **K-selected species: “expensive” offspring**
+    + stable environments - maximise longveity
+    + few offspring - parental care - low mortaility
+    + large size - slow maturity
+    + stable population sizes
+
+<br/>
+
+* **These are the 2 ends of a specturm**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/survivorship_curve2.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:500px; HEIGHT:450px" SRC="images/survivorship_curve.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:625px; WIDTH:400px; HEIGHT:150px" SRC="images/rvsk.jpeg">
+
+
+## Populations dynamics: movement (dispersal and migration)
 <hr>
 <br/>
 
-* **Age Class (usually years)**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/coyote.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/cornworm.png">
+
+## Populations with unlimited resources: exponential growth
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:15px; WIDTH:425px; HEIGHT:200px" SRC="images/elephant.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/kruger.png">
+
+## Population growth regulation
+<hr>
+<br/>
+
+* **Density dependent**
+    + competition
+    + predation
+    + disease
+ 
+<br/>
+
+* **Density independent**
+    + weather
+    + disturbance
 
 <br/>
 
-* **Number alive**
-
-<br/>
-
-* **Survivorship (Lx): mortality based on original cohort**
-
-<br/>
-
-* **Fecundity (Mx): average offspring born to individuals of each age**
-
-<br/>
-
-* **Survivorship x Fecundity: # of female young produced per indivdual**
-    + basic reproductive rate (age class)
-
-<br/>
-
-* **Population growh Paratmeter (Ro): Sum of Survivorship x Fecudity**
-    + net reproductive rate
-    + if Ro > 1, population is growing
-
-## Survivorship curves: log(Lx) versus cohort age
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/survivor.png">
-
-## 
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/survivor_curve2.jpg">
-
-## r/K selection theory: growth and reproduction strategies
-
-r-selected species: “cheap” offspring
-    + unstable environments
-    + many offspring - little parental care -high mortality
-    + small offspring - fast maturity
-    + variable and fluctuating population sizes
+* **Carrying Capacity**
+    + environmental resistance
     
-K-selected species: “expensive” offspring
+<IMG STYLE="position:absolute; TOP:200px; LEFT:375px; WIDTH:700px; HEIGHT:350px" SRC="images/seals.png">
 
-  + stable environments - resources maximise longveity
-  + few offspring - parental care - low mortaility
-  + large size - slow maturity
-  + stable population sizes
-  
-* **These are the 2 ends of a specturm**
+## Population cycles
+<hr>
 
-## 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/isle_royale.png">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/survivor_curve.jpg">
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/rvsk.jpeg">
 
 
 

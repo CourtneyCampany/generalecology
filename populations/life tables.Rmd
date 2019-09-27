@@ -1,0 +1,47 @@
+---
+title: "Life Tables Data Fridays"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Understanding life tables
+<hr>
+<br/>
+
+* **Age Class (usually years)**
+
+<br/>
+
+* **Number alive**
+
+<br/>
+
+* **Survivorship (Lx): mortality based on original cohort**
+
+<br/>
+
+* **Fecundity (Mx): average offspring born to individuals of each age**
+
+<br/>
+
+* **Survivorship x Fecundity: # of female young produced per indivdual**
+    + basic reproductive rate (age class)
+
+<br/>
+
+* **Population growh Paratmeter (Ro): Sum of Survivorship x Fecudity**
+    + net reproductive rate
+    + if Ro > 1, population is growing
+
+## Survivorship curves: log(Lx) versus cohort age
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/survivor.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/survivor_curve2.jpg">
