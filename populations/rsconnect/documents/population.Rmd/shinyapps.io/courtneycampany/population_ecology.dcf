@@ -1,0 +1,12 @@
+name: population_ecology
+title: population_ecology
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1260780
+bundleId: 2453721
+url: https://courtneycampany.shinyapps.io/population_ecology/
+when: 1569799834.77048
+asMultiple: FALSE
+asStatic: FALSE

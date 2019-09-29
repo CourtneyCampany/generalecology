@@ -12,12 +12,12 @@ runtime: shiny
 ## WHAT: Defining a population can be tricky
 <hr>
 <br/>
-<br/>
 
 * **A group of organisms from one species**
     + abundance
     + sex ratios
     + age structure
+    
 <br/>
 
 * **Defining the population boundary...**
@@ -30,13 +30,15 @@ runtime: shiny
 * **Aphid population: leaf, plant, grassland, ecosystem?**
     + depends on the study and the questions
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/aphid.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/aphid.jpg">
 
 ## WHY: understanding population structure (aka Demography)?
 <hr>
 <br/>
 <br/>
 <br/>
+
+<div style="float: left; width: 50%;">
 
 * **# of individuals is how we measure populations**
     + is it growing, declining, holding steady?
@@ -50,7 +52,9 @@ runtime: shiny
 * **Measuring, predicting and evaluating population sizes guides ecologist**
     + management and conservation
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/baldeagle.png">
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:640px; WIDTH:400px; HEIGHT:300px" SRC="images/baldeagle.png">
 
 ## Case Study: Deer population size
 <hr>
@@ -68,7 +72,6 @@ runtime: shiny
 
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/deerharvest.jpg">
-
 
 ## Case Study: Zombie Deer
 <hr>
@@ -95,7 +98,7 @@ runtime: shiny
 
 <br/>
 
-* **Some modular organisms may be themselves populations**
+* **Some modular organisms may themselves be populations**
 </div>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/hayscentedfern.jpg">
@@ -112,7 +115,7 @@ runtime: shiny
     + Mark & Recapture
     + Census techniques
     + Spatial component
-    + Temperoral Component
+    + Temporal Component
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:420px; WIDTH:600px; HEIGHT:400px" SRC="images/bear_sight.png">
 
@@ -123,11 +126,30 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/homerange.jpg">
 
-
 ## Life History: more than just birth and death
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/life_cycle_generic.png">
+
+## Reproductive effort and life cycles: Long lived organisms
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/longlife.png">
+
+## Semelparous: One-off reproduction
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/salmon.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/cicada_mating.jpg">
+
+## Populations and life cycles: Annuals & Ephemerals
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/annual_insect.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/desertflower.jpg">
 
 ## Life History: growth vs making babies conflict
 <hr>
@@ -154,26 +176,6 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mast2.jpg">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/mast3.jpg">
-
-## Reproductive effort and life cycles: Long lived organisms
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/longlife.png">
-
-## Semelparous: One-off reproduction
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/salmon.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/cicada_mating.jpg">
-
-## Populations and life cycles: Annuals & Ephemerals
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/annual_insect.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:55px; HEIGHT:400px" SRC="images/desertflower.jpg">
 
 ## Populations and life cycles: Dormancy
 <hr>
@@ -204,7 +206,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/wood_thrush.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/wood_thrush.png">
 
 ## Populations dynamics: monitoring birth and death
 <hr>
@@ -230,26 +232,23 @@ runtime: shiny
 
 ## r/K selection theory: growth and reproduction strategies
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
 
 * **r-selected species: “cheap” offspring**
-    + unstable environments
-    + many offspring - little parental care-high mortality
-    + small offspring - fast maturity
-    + variable/fluctuating population sizes
 
 <br/>
 
 * **K-selected species: “expensive” offspring**
-    + stable environments - maximise longveity
-    + few offspring - parental care - low mortaility
-    + large size - slow maturity
-    + stable population sizes
 
+<br/>
 <br/>
 
 * **These are the 2 ends of a specturm**
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/survivorship_curve2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/survivorship_curve2.jpg">
 
 ## 
 
