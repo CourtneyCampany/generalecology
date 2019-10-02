@@ -1,0 +1,126 @@
+---
+title: "Species Interactions"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Divide sections
+
+1. ECological effects
+  + fundamental and realized niches
+  + competitive exclusion
+  + patch habitats
+  
+2. evolitionary effects
+  + did ancestors compete? hard to prove but what are some of these traits
+  
+3. Interspeciric compeition structures communites
+  + niche differentation: how to use same resouces
+    + microhabit, small distirbution, temperoal
+
+## Species in a community interact constantly
+<hr>
+<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/turtle.png">
+
+## Species interact in different ways
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/avoidance.jpg">
+## Bird Networks in the Amazon (complexity)
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
+
+## Species relationships may have benefits/costs
+
+## Competition lowers the fitness of both individuals
+
+## Competition explains species niches
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niches.jpg">
+
+## Competition among barnacles
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/barnacles.png">
+
+## Warblers: competition avoidance
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/avoidance.jpg">
+
+## Consumption: Herbiory, Predation and Parasitism
+
+## Predator-Prey: Isle Royale
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/IsleRoyale.jpg">
+
+## Consumption leads to Defenses: Plants
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_defense.jpg">
+
+## Consumption leads to Defenses: Animals
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/newt.jpg">
+
+## Consumption is an agent of natural selection
+
+## Mutualisms
+
+## possible and actual consequences of competiton
+coexisting species overlap at larger spatial scales but tend to have distinct distributions when you zoom in
+
+species get excluded from suitable habitat by interspecific competiion
+
+# competitive exclusion theory
+
+# fundamental and realized niches
+
+# coexistence through niche differentation
+
+# competition through unrelated species (large taxonimic differences)
+
+# Intraspecific competition
+
+rate of population increase that is limited by intraspecific competition (i.e., members of the same species competing with one another).
+
+equation:rN, the intrinsic rate of increase [r] times the population size [N]) describes a population's growth in the absence of competition. The second term ([K-N] / K) incorporates intraspecific competition, or density-dependence, into the model, and takes a value between 0 and 1. As population size (N) approaches carrying capacity (K), the numerator (K-N) becomes smaller but the denominator (K) stays the same and the second term decreases. 
+
+rate of population growth that slows down as population size increases,
+
+#Lotka voltera
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/lotka.png">
+
+* **Question: Under what circumstances does each species increase or decrease in abundance?
+
+* **Take the intraspecific equationa and add a competition coefficient
+alpah12: the affect that species one has on species 2
+alpha21: the affect that species 2 has on 1
+
+the effect that species 2 has on species 1 (a12) is multiplied by the population size of species 2 (N2). When a12 is < 1 the effect of species 2 on species 1 is less than the effect of species 1 on its own members. Conversely, when a12is > 1 the effect of species 2 on species 1 is greater than the effect of species 1 on its own members
+
+# Lotka voltera: Case study
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/hare_lynx.png">
+
+# Zero Isoclines for 2 species
+
+Note that the zero isoclines divide each graph into two parts. Below and to the left of the isocline the population size increases because the combined abundances of both species are less than the carrying capacity of the one, while above and to the right the population size decreases because the combined abundances are greater than the carrying capacity. For the graph of the isocline of species 1, the isocline intersects the graph on the x-axis when N1 reaches its carrying capacity (K1) and no individuals of species 2 are present. The isocline intersects the graph on the y-axis at K1/a12, when the carrying capacity of species 1 is filled by the equivalent number of individuals of species 2 and no individuals of species 1 are present. The intersections of the isocline for species 2 are essentially the same, but on different axes.
+
+# character displacment
+
+When Brown and Wilson (1956) described character displacement, they proposed the following process: populations of two closely related species, after first coming into contact with each other, interact “in such a way as to diverge further from one another where they occur together”. Such divergence minimizes the chances of both competition and hybridization between the species, and therefore favors coexistence over exclusion.
+
+evolutionary reponse to ineterspec competition - to avoid competition
+
+Character displacement is the phenomenon where differences among similar species whose distributions overlap geographically are accentuated in regions where the species co-occur, but are minimized or lost where the species’ distributions do not overlap.
+
+sympatry - living together
+
+# niche complementarity and temporal separation of resources
+
+The tendency for coexisting species which occupy a similar position along one niche dimension to differ along another.

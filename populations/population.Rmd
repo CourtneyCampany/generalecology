@@ -23,7 +23,7 @@ runtime: shiny
 * **Defining the population boundary...**
     + a lake
     + ecosystem
-    + ocean
+    + country or state
 
 <br/>
 
@@ -84,9 +84,10 @@ runtime: shiny
 ## WHO: Definition of an individual can be tricky
 <hr>
 <br/>
+<br/>
 
 <div style="float: left; width: 50%;">
-* **Unitary organims are easy: forming a single entity**
+* **Unitary organism: forming a single entity**
     + deer, bird, spider, etc.
 
 <br/>
@@ -94,7 +95,6 @@ runtime: shiny
 * **Modular organisms are harder**
     + bacteria, algae, corals
     + plants: ferns grow by rhizomes
-    + trees: seedling, sapling or mature tree?
 
 <br/>
 
@@ -103,7 +103,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/hayscentedfern.jpg">
 
-## HOW: Estimates from respresentative sample
+## HOW: Estimates from representative sample
 <hr>
 <br/>
 <br/>
@@ -112,8 +112,8 @@ runtime: shiny
 <br/>
 
 * **Lessons from Lab: **
-    + Mark & Recapture
     + Census techniques
+    + Mark & Recapture
     + Spatial component
     + Temporal Component
 
@@ -149,14 +149,14 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/annual_insect.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/desertflower.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/desertflower.jpg">
 
 ## Life History: growth vs making babies conflict
 <hr>
 <br/>
 <br/>
 
-* **Annuals vs Pernnials**
+* **Annuals vs Perennials**
     + not just plants
 
 <br/>
@@ -166,7 +166,7 @@ runtime: shiny
 * **When and how to spend your resources**
     + reproduction comes at a cost of growth
     + flowers + seeds = ↓ leaves and roots
-    + are enough resouces available to support pregnancy?
+    + are enough resources available to support pregnancy?
     
 <IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/plantreproduction.png">
 
@@ -183,12 +183,12 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Most annual organism spend part of the year dormant**
+* **Annual organism may spend part of the year dormant**
     + Seeds,Spores, Cysts, etc.
 
 <br/>
 
-* **Tens of thousands of seeds per square meter of soil**
+* **Thousands of seeds per square meter of soil**
 
 <br/>
 
@@ -206,7 +206,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/wood_thrush.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/wood_thrush.png">
 
 ## Populations dynamics: monitoring birth and death
 <hr>
@@ -246,7 +246,7 @@ runtime: shiny
 <br/>
 <br/>
 
-* **These are the 2 ends of a specturm**
+* **These are the 2 ends of a spectrum**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/survivorship_curve2.jpg">
 
@@ -280,6 +280,7 @@ runtime: shiny
     + competition
     + predation
     + disease
+    + resources
  
 <br/>
 

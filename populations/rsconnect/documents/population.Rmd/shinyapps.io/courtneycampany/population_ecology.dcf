@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1260780
-bundleId: 2453721
+bundleId: 2455654
 url: https://courtneycampany.shinyapps.io/population_ecology/
-when: 1569799834.77048
+when: 1569855180.33507
 asMultiple: FALSE
 asStatic: FALSE
