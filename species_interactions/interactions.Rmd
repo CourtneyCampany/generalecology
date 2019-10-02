@@ -11,50 +11,69 @@ runtime: shiny
 
 ## Divide sections
 
-1. ECological effects
+1. Ecological effects
   + fundamental and realized niches
   + competitive exclusion
   + patch habitats
   
-2. evolitionary effects
+2. evolutionary effects
   + did ancestors compete? hard to prove but what are some of these traits
   
 3. Interspeciric compeition structures communites
   + niche differentation: how to use same resouces
     + microhabit, small distirbution, temperoal
+    
+  + ourcomes: exlcusion - realized, coexistence, evolution
 
 ## Species in a community interact constantly
 <hr>
+
 <IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/turtle.png">
 
 ## Species interact in different ways
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/avoidance.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:500px" SRC="images/avoidance.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:500px" SRC="images/interspecific_comp.jpg">
+
 ## Bird Networks in the Amazon (complexity)
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
 
 ## Species relationships may have benefits/costs
+    Competition lowers the fitness of both individuals
 
-## Competition lowers the fitness of both individuals
+## Competition limits population growth
+
+* **Lower survivorship or reproduction at higher densities**
+    + WHY?
+
+* **Competition among individuals increases as the population size approaches carrying capacity**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/density.png">
+
+
+## Natural selection favors individual that do not compete
+
+* **Directional selection can occuer causing character displacment
+
+
 
 ## Competition explains species niches
 <hr>
+
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niches.jpg">
 
 ## Competition among barnacles
 <hr>
+
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/barnacles.png">
 
-## Warblers: competition avoidance
-<hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/avoidance.jpg">
 
 ## Consumption: Herbiory, Predation and Parasitism
 
-## Predator-Prey: Isle Royale
-<hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/IsleRoyale.jpg">
+
 
 ## Consumption leads to Defenses: Plants
 <hr>
@@ -65,25 +84,65 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/newt.jpg">
 
 ## Consumption is an agent of natural selection
+<hr>
 
 ## Mutualisms
+<hr>
 
-## possible and actual consequences of competiton
-coexisting species overlap at larger spatial scales but tend to have distinct distributions when you zoom in
+## Mechanisms of Competition
+
+* **Competition occurs indirectly when two or more organismic units use the same resources and when those resources are in short supply**
+
+* **Interaction between the two organismic units reduces the fitness and/or equilibrium population density of each**
+    + expend energy on competition or  avoidance
+    
+* **competition is an important evolutionary force that has led to niche separation, specialization, and species diversification**
+
+## Intra vs Inter
+
+## Possible and Actual Consequences of competiton
+<hr>
+
+* **coexisting species overlap at larger spatial scales but tend to have distinct distributions when you zoom in** 
 
 species get excluded from suitable habitat by interspecific competiion
 
-# competitive exclusion theory
+## competitive exclusion theory (Winner and Loser: Gause)
+
+* **Theory: two species cannot occupy the same niche in a habitat**
+
+* **two protozoan species, Paramecium aurelia and Paramecium caudatum**
+
+* **cannot grow together because share same food source**
+
+* **complete nice overlap**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/competitive_exclusion.png">
 
 # fundamental and realized niches
 
-# coexistence through niche differentation
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niches.jpg">
 
-# competition through unrelated species (large taxonimic differences)
+# Coesitence through resource partitioning
 
-# Intraspecific competition
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles.png">
 
-rate of population increase that is limited by intraspecific competition (i.e., members of the same species competing with one another).
+niche complementarity and temporal separation of resources
+
+The tendency for coexisting species which occupy a similar position along one niche dimension to differ along another.
+
+## Coexistence through niche differentation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png">
+
+## competition through unrelated species (large taxonimic differences)
+<hr>
+
+## Intraspecific competition (members of the same species)
+<hr>
+
+* **rate of population increase that is limited by intraspecific competition **
 
 equation:rN, the intrinsic rate of increase [r] times the population size [N]) describes a population's growth in the absence of competition. The second term ([K-N] / K) incorporates intraspecific competition, or density-dependence, into the model, and takes a value between 0 and 1. As population size (N) approaches carrying capacity (K), the numerator (K-N) becomes smaller but the denominator (K) stays the same and the second term decreases. 
 
@@ -107,11 +166,13 @@ the effect that species 2 has on species 1 (a12) is multiplied by the population
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/hare_lynx.png">
 
-# Zero Isoclines for 2 species
+## Zero Isoclines for 2 species
+<hr>
 
 Note that the zero isoclines divide each graph into two parts. Below and to the left of the isocline the population size increases because the combined abundances of both species are less than the carrying capacity of the one, while above and to the right the population size decreases because the combined abundances are greater than the carrying capacity. For the graph of the isocline of species 1, the isocline intersects the graph on the x-axis when N1 reaches its carrying capacity (K1) and no individuals of species 2 are present. The isocline intersects the graph on the y-axis at K1/a12, when the carrying capacity of species 1 is filled by the equivalent number of individuals of species 2 and no individuals of species 1 are present. The intersections of the isocline for species 2 are essentially the same, but on different axes.
 
-# character displacment
+## character displacment
+<hr>
 
 When Brown and Wilson (1956) described character displacement, they proposed the following process: populations of two closely related species, after first coming into contact with each other, interact “in such a way as to diverge further from one another where they occur together”. Such divergence minimizes the chances of both competition and hybridization between the species, and therefore favors coexistence over exclusion.
 
@@ -121,6 +182,3 @@ Character displacement is the phenomenon where differences among similar species
 
 sympatry - living together
 
-# niche complementarity and temporal separation of resources
-
-The tendency for coexisting species which occupy a similar position along one niche dimension to differ along another.
