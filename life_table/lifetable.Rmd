@@ -11,19 +11,26 @@ runtime: shiny
 ## Static vs Cohort life tables
 <hr>
 <br/>
+<br/>
+
+<div style="float: left; width: 50%;">
 
 * **Static life table: Based on age distribution at one point in time**
     + Assumes age distribution is stable
 
+<br/>
 <br/>
 
 * **Cohort life table:Follows a cohort across time**
     + assumes age distribution is stable
     + difficult long-lived and/or highly mobile animals
 
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/life_table1.png">
+
 ## Understanding life tables (page #1 handout)
 <hr>
-<br/>
 
 * **Age Class (usually years)**
 
@@ -41,23 +48,18 @@ runtime: shiny
 
 <br/>
 
-* **Survivorship x Fecundity: # of female young produced per indivdual**
+* **Survivorship x Fecundity (R): # of female young produced per indivdual**
     + basic reproductive rate (age class)
-
-<br/>
-
-* **Population growth Paratmeter (Ro): Sum of Survivorship x Fecundity**
-    + net reproductive rate
-    + if Ro > 1, population is growing
-
+    
 ## Survivorship curves: log(Lx) versus cohort age
 <hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/survivor.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/survivor.png">
 
-##
+## Survivorship curves: constructed for a cohort from life table
+<hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/survivorship_curve2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/survivorship_curve2.jpg">
 
 ## Verreaux’s Sifakas Lemurs
 <hr>
@@ -77,6 +79,8 @@ runtime: shiny
 
 * **Females have just one infant at a time**
     + Relative to other mammals of their size, female sifakas reach reproductive maturity later and live longer
+    
+<IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:300px; HEIGHT:200px" SRC="images/verreauxs_sifaka.jpg">
 
 ## Richard et al 2002
 <hr>
@@ -87,21 +91,21 @@ runtime: shiny
 <br/>
 
 * **1984 – 1999: Captured 426 animals**
-    + Each animal assigned an age based on toothwear analysis
-    + Recorded sex, survival and fertility
+    + Each animal tagged and aged based on toothwear
+    + Recorded sex, survival and fertility through time
     + No females under 3 years old gave birth.
 
-* **Today we will complete a static life stable**
+<br/>
 
-##
+* **Today we will complete a static life stable to determine whether this threatened population is at risk of extinction**
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:600px; HEIGHT:600px" SRC="images/fig6.png">
 
 ## Estimating Fecundity (mx)
 <hr>
 <br/>
+<br/>
 
-* **mx = per capita birth rate (number of offspring born per individual in age class x)**
+* **Mx = per capita birth rate (number of offspring born per individual in age class)**
 
 <br/>
 
@@ -114,14 +118,34 @@ runtime: shiny
 ## Estimating Fecundity (Mx)
 <hr>
 <br/>
+<br/>
 
 * **Life tables often include only data for females, as females limit reproduction, and hence population growth**
 
+<br/>
 
 * **Since Nx values are for females, we need an Mx estimate for number of females/female**
 
+<br/>
 
-* **Does m3-5 = 0.07?
-No, because every female sifaka mated with a male to produce a baby and female sifakas produced both male and female babies.
+* **?Does Mx(3-5) = 0.07?**
 
+## Age-dependent life table
+<hr>
+<br/>
+<br/>
 
+* **Calculate survivorship and maternal reproduction rate as a function of age**
+
+<br/>
+
+* **In nature, survivorship and reproduction rate depend on numerous factors**
+    + temperature, population density, etc.
+    + the effect of these factors are encompassed into age class dynamics
+
+<br/>
+
+* **Population growth Paratmeter (Ro): Sum of Survivorship x Fecundity**
+    + net reproductive rate
+    + if Ro > 1, population is growing
+    + Ro = 2.5 = a lemur produces 2.5 baby lemurs on average in a lifetime
