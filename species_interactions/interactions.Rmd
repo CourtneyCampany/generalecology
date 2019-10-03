@@ -94,12 +94,12 @@ runtime: shiny
 
 <br/>
 
-* **species cannot coexist at constant population values**
+* **Species cannot coexist at constant population values**
     + winner and loser
 
 <br/>
 
-* **leads to extinction of weaker competitor or to shift toward a different ecological niche**
+* **Leads to extinction of weaker competitor or shift to a different ecological niche**
 
 </div>
 
