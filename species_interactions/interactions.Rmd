@@ -54,20 +54,68 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/fitness.png">
 
-## Competition limits population growth
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/density.png">
-
-## Competion, evolutions and the realized niche
-<hr>
-
 ## WHO: Intra vs Inter-specific competition
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/flamingos.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:200px; HEIGHT:450px" SRC="images/stranglerfig.jpg">
+
+## Competition limits population growth
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/density.png">
+
+## Competition is a powerful driver of evolution
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Drives niche separation, specialization and species diversification**
+
+<br/>
+
+* **Natural selection favors individuals that do not compete**
+
+<br/>
+
+* **Directional selection can occur causing character displacment**
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/char_dis2.png>
+
+# Gause's Law: Theory of Competitive Exclusion
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Two species cannot occupy the same niche if they need the same resource**
+
+<br/>
+
+* **species cannot coexist at constant population values**
+    + winner and loser
+
+<br/>
+
+* **leads to extinction of weaker competitor or to shift toward a different ecological niche**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:450px; HEIGHT:225px" SRC="images/gause.png>
+
+# Gause's labaratory Paramecium study
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:700px; HEIGHT:3500px" SRC="images/competitive_exclusion.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/paramecium.png">
+
+## Competition results in the 'Realized Niche'
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niches.jpg">
 
 ## Divide sections
 
@@ -86,19 +134,6 @@ runtime: shiny
   + ourcomes: exlcusion - realized, coexistence, evolution
 
 
-## Competition is a powerful driver of evolution
-
-* **competition is an important evolutionary force that has led to niche separation, specialization, and species diversification**
-
-## Natural selection favors individual that do not compete
-
-* **Directional selection can occuer causing character displacment
-
-## Competition explains species niches
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niches.jpg">
-
 ## Competition among barnacles
 <hr>
 
@@ -111,25 +146,6 @@ runtime: shiny
 
 species get excluded from suitable habitat by interspecific competiion
 
-
-
-
-
-## competitive exclusion theory (Winner and Loser: Gause)
-
-* **Theory: two species cannot occupy the same niche in a habitat**
-
-* **two protozoan species, Paramecium aurelia and Paramecium caudatum**
-
-* **cannot grow together because share same food source**
-
-* **complete nice overlap**
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/competitive_exclusion.png">
-
-# fundamental and realized niches
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niches.jpg">
 
 # Coesitence through resource partitioning
 
