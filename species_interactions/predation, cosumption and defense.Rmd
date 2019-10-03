@@ -1,0 +1,22 @@
+---
+title: "predation"
+runtime: shiny
+output: ioslides_presentation
+---
+
+## Consumption: Herbiory, Predation and Parasitism
+
+
+## Consumption leads to Defenses: Plants
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_defense.jpg">
+
+## Consumption leads to Defenses: Animals
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/newt.jpg">
+
+## Consumption is an agent of natural selection
+<hr>
+
+## Mutualisms
+<hr>

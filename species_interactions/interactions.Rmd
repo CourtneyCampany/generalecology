@@ -9,6 +9,66 @@ output:
 runtime: shiny
 ---
 
+## Species in a community interact constantly
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:625px; HEIGHT:500px" SRC="images/crop_interaction.png">
+
+## Bird Networks in the Amazon (complexity)
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
+
+## Species interactions in ecology are broad
+<hr>
+<br/>
+
+* **Competition**
+    + today
+
+<br/>
+
+* **Mutualisms**
+    + jigsaw
+
+<br/>
+
+* **Predation and Consumption**
+    + all next week
+
+<br/>
+
+* **Parasites and hosts**
+    
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/interspecific_comp.jpg">
+
+## What is competition?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:700px; HEIGHT:500px" SRC="images/comp_bird.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/niche1.jpg">
+
+## Species relationships may have benefits/costs
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/fitness.png">
+
+## Competition limits population growth
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/density.png">
+
+## Competion, evolutions and the realized niche
+<hr>
+
+## WHO: Intra vs Inter-specific competition
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/flamingos.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:200px; HEIGHT:450px" SRC="images/stranglerfig.jpg">
+
 ## Divide sections
 
 1. Ecological effects
@@ -25,40 +85,14 @@ runtime: shiny
     
   + ourcomes: exlcusion - realized, coexistence, evolution
 
-## Species in a community interact constantly
-<hr>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/turtle.png">
+## Competition is a powerful driver of evolution
 
-## Species interact in different ways
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:500px" SRC="images/avoidance.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:500px" SRC="images/interspecific_comp.jpg">
-
-## Bird Networks in the Amazon (complexity)
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
-
-## Species relationships may have benefits/costs
-    Competition lowers the fitness of both individuals
-
-## Competition limits population growth
-
-* **Lower survivorship or reproduction at higher densities**
-    + WHY?
-
-* **Competition among individuals increases as the population size approaches carrying capacity**
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/density.png">
-
+* **competition is an important evolutionary force that has led to niche separation, specialization, and species diversification**
 
 ## Natural selection favors individual that do not compete
 
 * **Directional selection can occuer causing character displacment
-
-
 
 ## Competition explains species niches
 <hr>
@@ -70,42 +104,16 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/barnacles.png">
 
-
-## Consumption: Herbiory, Predation and Parasitism
-
-
-
-## Consumption leads to Defenses: Plants
-<hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_defense.jpg">
-
-## Consumption leads to Defenses: Animals
-<hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/newt.jpg">
-
-## Consumption is an agent of natural selection
-<hr>
-
-## Mutualisms
-<hr>
-
-## Mechanisms of Competition
-
-* **Competition occurs indirectly when two or more organismic units use the same resources and when those resources are in short supply**
-
-* **Interaction between the two organismic units reduces the fitness and/or equilibrium population density of each**
-    + expend energy on competition or  avoidance
-    
-* **competition is an important evolutionary force that has led to niche separation, specialization, and species diversification**
-
-## Intra vs Inter
-
-## Possible and Actual Consequences of competiton
+## Possible and actual consequences of competiton
 <hr>
 
 * **coexisting species overlap at larger spatial scales but tend to have distinct distributions when you zoom in** 
 
 species get excluded from suitable habitat by interspecific competiion
+
+
+
+
 
 ## competitive exclusion theory (Winner and Loser: Gause)
 
@@ -130,6 +138,8 @@ species get excluded from suitable habitat by interspecific competiion
 niche complementarity and temporal separation of resources
 
 The tendency for coexisting species which occupy a similar position along one niche dimension to differ along another.
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:500px" SRC="images/avoidance.jpg">
 
 ## Coexistence through niche differentation
 <hr>
