@@ -1,0 +1,12 @@
+name: lifetable
+title: lifetable
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1286041
+bundleId: 2468489
+url: https://courtneycampany.shinyapps.io/lifetable/
+when: 1570194426.3584
+asMultiple: FALSE
+asStatic: FALSE

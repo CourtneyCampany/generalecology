@@ -36,22 +36,26 @@ runtime: shiny
 
 <br/>
 
-* **Number alive**
+* **Number alive (N~x~)**
 
 <br/>
 
-* **Survivorship (Lx): mortality based on original cohort**
+* **Survivorship (L~x~): mortality based on original cohort**
 
 <br/>
 
-* **Fecundity (Mx): average offspring born to individuals of each age**
+* **Birthrate per capita (M~x~): average offspring born to individuals of each age**
 
 <br/>
 
-* **Survivorship x Fecundity (R): # of female young produced per indivdual**
-    + basic reproductive rate (age class)
+* **Fecundity (F~x~): total number of females produced by females**
+
+<br/>
+
+* **Survivorship x Birthrate (R): # of female young produced per individual**
+    + net reproductive rate (age class)
     
-## Survivorship curves: log(Lx) versus cohort age
+## Survivorship curves: log(L~x~) versus cohort age
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/survivor.png">
@@ -91,7 +95,7 @@ runtime: shiny
 <br/>
 
 * **1984 – 1999: Captured 426 animals**
-    + Each animal tagged and aged based on toothwear
+    + Each animal tagged and aged based on tooth wear
     + Recorded sex, survival and fertility through time
     + No females under 3 years old gave birth.
 
@@ -100,12 +104,12 @@ runtime: shiny
 * **Today we will complete a static life stable to determine whether this threatened population is at risk of extinction**
 
 
-## Estimating Fecundity (mx)
+## Estimating Fecundity (m~x~)
 <hr>
 <br/>
 <br/>
 
-* **Mx = per capita birth rate (number of offspring born per individual in age class)**
+* **m~x~ = per capita birth rate (number of offspring born per individual in age class)**
 
 <br/>
 
@@ -115,7 +119,7 @@ runtime: shiny
 
 * **From these data, the median birthrates for 3 year age classes are reported in Table 1 of the handout**
 
-## Estimating Fecundity (Mx)
+## Q1. Estimating Fecundity (m~x~)
 <hr>
 <br/>
 <br/>
@@ -124,11 +128,31 @@ runtime: shiny
 
 <br/>
 
-* **Since Nx values are for females, we need an Mx estimate for number of females/female**
+* **Since N~x~ values are for females, we need an m~x~ estimate for number of females/female**
 
 <br/>
 
-* **?Does Mx(3-5) = 0.07?**
+* **Does m~x~(3-5) = 0.07?**
+
+## Estimating Fecundity (m~x~)
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/datatable.png">
+
+<div style="float: left; width: 50%;">
+
+* **Sex ratio matters since our table is constructed for females**
+    + assume 1:1 Male:Female
+ 
+ <br/>
+ 
+* **Lemurs exhibit a male-biased sex ratio at birth**
+    + 46.5 % chance of being a female
+
+</div>
 
 ## Age-dependent life table
 <hr>
@@ -145,7 +169,7 @@ runtime: shiny
 
 <br/>
 
-* **Population growth Paratmeter (Ro): Sum of Survivorship x Fecundity**
+* **Population growth parameter (R~o~): Sum of Survivorship x Fecundity**
     + net reproductive rate
-    + if Ro > 1, population is growing
-    + Ro = 2.5 = a lemur produces 2.5 baby lemurs on average in a lifetime
+    + if R~o~ > 1, population is growing
+    + R~o~ = 2.5 = a lemur produces 2.5 baby lemurs on average in a lifetime

@@ -134,7 +134,7 @@ runtime: shiny
   + ourcomes: exlcusion - realized, coexistence, evolution
 
 
-## Competition among barnacles
+## Josepth Connel: Competition among barnacles
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/barnacles.png">
