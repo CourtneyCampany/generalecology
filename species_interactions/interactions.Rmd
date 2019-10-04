@@ -105,17 +105,92 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:450px; HEIGHT:225px" SRC="images/gause.png>
 
-# Gause's labaratory Paramecium study
+## Gause's labaratory Paramecium study
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:700px; HEIGHT:3500px" SRC="images/competitive_exclusion.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/paramecium.png">
 
-## Competition results in the 'Realized Niche'
+## Red vs Grey Squirrel in Britain (Murphy 2015)
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/redsquirell.png">
+
+## Competitve exclusion, however, is rare in nature
+<hr>
+
+<div style="float: right; width: 50%;">
+
+* **Spatial heterogeneity: resources are variable in an environment**
+
+<br/>
+
+* **Multiple resource competition: exclusion based on a single resource is too simple**
+
+<br/>
+
+* **Competition-Colonization trade-offs** 
+
+<br/>
+
+* **TAKE HOME: It is rare that two species occupy exactly identical niches**
+    + greater the overlap = greater the competition
+ 
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:300px; HEIGHT:450px" SRC="images/squirrel.png">
+
+## Competition does result in the 'Realized Niche'
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niches.jpg">
+
+## Josepth Connel: Competition among barnacles
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/barnacles.jpg">
+
+## Co-existence and natural selection
+<hr>
+
+* **Two species whose niches overlap may evolve use the environment differently, resulting in resource partitioning**
+    + alter their 'role' in the ecosystem
+
+<br/>
+
+* **Species whose niches only partly overlap may be able to coexist**
+    + use the environment differently (niche differentation)
+    + slowly evolve to make use of different/less overlapping resources (character displacement)
+    
+* **Species which occupy a similar position along one niche dimension may differ along another (niche complementarity)**
+    + temporal separation of resources
+    
+## Coexissitence through resource partitioning in lizards
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles.png">
+
+## Coexissitence through resource partitioning with warblers
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:500px" SRC="images/avoidance.jpg">
+
+## Niche complementarity: differ in use of microhabitats
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png">
+
+## Coexistence and character displacement
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/char_dis_simple.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/char_dis3.png">
+
+## Coexistence and character displacement: Frogs
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/char_dis.png">
 
 ## Divide sections
 
@@ -131,36 +206,12 @@ runtime: shiny
   + niche differentation: how to use same resouces
     + microhabit, small distirbution, temperoal
     
-  + ourcomes: exlcusion - realized, coexistence, evolution
+  + ourcomes: exclusion - realized, coexistence, evolution
 
 
-## Josepth Connel: Competition among barnacles
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/barnacles.png">
-
-## Possible and actual consequences of competiton
-<hr>
-
-* **coexisting species overlap at larger spatial scales but tend to have distinct distributions when you zoom in** 
-
-species get excluded from suitable habitat by interspecific competiion
 
 
-# Coesitence through resource partitioning
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles.png">
-
-niche complementarity and temporal separation of resources
-
-The tendency for coexisting species which occupy a similar position along one niche dimension to differ along another.
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:500px" SRC="images/avoidance.jpg">
-
-## Coexistence through niche differentation
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png">
 
 ## competition through unrelated species (large taxonimic differences)
 <hr>
@@ -207,4 +258,11 @@ evolutionary reponse to ineterspec competition - to avoid competition
 Character displacement is the phenomenon where differences among similar species whose distributions overlap geographically are accentuated in regions where the species co-occur, but are minimized or lost where the species’ distributions do not overlap.
 
 sympatry - living together
+
+A comparison of allopatric versus sympatric populations of species shows evolutionary evidence of competition in nature.
+Example: Galápagos finches
+When two species occur on the same island (sympatric populations), they tend to exhibit greater differences in morphology (shape of beak) and resource use than when found on different islands (allopatric populations).
+According to your text, “this tendency for characteristics to be more divergent in sympatric populations of two species than in allopatric populations of the same two species is called character displacement.”
+Character displacement allows the two species to avoid competition.
+
 
