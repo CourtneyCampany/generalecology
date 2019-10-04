@@ -12,18 +12,20 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Static life table: Based on age distribution at one point in time**
-    + Assumes age distribution is stable
 
 <br/>
-<br/>
 
-* **Cohort life table:Follows a cohort across time**
-    + assumes age distribution is stable
+* **Cohort life table: Follows a cohort across time**
     + difficult long-lived and/or highly mobile animals
+
+<br/>
+
+* **Both must assume age distribution is stable**
 
 </div>
 
@@ -36,15 +38,15 @@ runtime: shiny
 
 <br/>
 
-* **Number alive (N~x~)**
+* **Number alive (n~x~)**
 
 <br/>
 
-* **Survivorship (L~x~): mortality based on original cohort**
+* **Survivorship (l~x~): mortality based on original cohort**
 
 <br/>
 
-* **Birthrate per capita (M~x~): average offspring born to individuals of each age**
+* **Birthrate per capita (m~x~): average offspring born to individuals of each age**
 
 <br/>
 
@@ -55,7 +57,7 @@ runtime: shiny
 * **Survivorship x Birthrate (R): # of female young produced per individual**
     + net reproductive rate (age class)
     
-## Survivorship curves: log(L~x~) versus cohort age
+## Survivorship curves: log(l~x~) versus cohort age
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/survivor.png">

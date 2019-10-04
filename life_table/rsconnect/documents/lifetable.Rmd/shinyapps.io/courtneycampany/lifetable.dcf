@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1286041
-bundleId: 2468489
+bundleId: 2468770
 url: https://courtneycampany.shinyapps.io/lifetable/
-when: 1570194426.3584
+when: 1570200748.81885
 asMultiple: FALSE
 asStatic: FALSE
