@@ -18,7 +18,7 @@ runtime: shiny
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
 
-## Species interactions in ecology are broad
+## Relations between organisms are broad
 <hr>
 <br/>
 
@@ -33,7 +33,7 @@ runtime: shiny
 <br/>
 
 * **Predation and Consumption**
-    + all next week
+    + next week
 
 <br/>
 
@@ -72,15 +72,16 @@ runtime: shiny
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 45%;">
+
+* **Natural selection favors individuals that do not compete**
+
+<br/>
 
 * **Drives niche separation, specialization and species diversification**
 
 <br/>
 
-* **Natural selection favors individuals that do not compete**
-
-<br/>
 
 * **Directional selection can occur causing character displacment**
 
@@ -104,7 +105,8 @@ runtime: shiny
 
 <br/>
 
-* **Leads to extinction of weaker competitor or shift to a different ecological niche**
+* **Leads to local extinction of weaker competitor or shift to a different ecological niche**
+
 
 </div>
 
@@ -136,12 +138,11 @@ runtime: shiny
 
 <br/>
 
-* **Competition-Colonization trade-offs** 
+* **Complete niche overlap (test tube) is rare** 
 
 <br/>
 
-* **TAKE HOME: It is rare that two species occupy exactly identical niches**
-    + greater the overlap = greater the competition
+* **TAKE HOME: Greater the overlap = greater the competition**
  
 </div>
 
@@ -155,7 +156,15 @@ runtime: shiny
 ## Josepth Connel: Competition among barnacles
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/barnacles.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:490px" SRC="images/barnacles.jpg">
+
+## Can't we all just get along?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:227px; LEFT:25px; WIDTH:450px; HEIGHT:250px" SRC="images/lions.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/lions2.png">
+
 
 ## Co-existence and natural selection
 <hr>
@@ -163,37 +172,36 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **Overlaping species may evolve to use a niche differently**
-    + resource partitioning
-    + alter their 'role' in the ecosystem
+    + resource partitioning = division of resources
 
 <br/>
 
-* **Species whose niches only partly overlap may be able to coexist**
+* **Species whose niches only partly overlap coexist easier**
     + use the environment differently (niche differentation)
-    + evolve use different/less overlapping resources (character displacement)
+    + evolve traits to use different/less overlapping resources (character displacement)
 
 <br/>
 
-* **Species occupying similar positions along one niche dimension may differ along another (niche complementarity)**
-    + temporal separation of resources
+* **Species sharing one niche dimension may differ along another (niche complementarity)**
+    + temporal separation
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/lions.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:475px; HEIGHT:450px" SRC="images/lions3.jpg">
 
 ## 
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/lions2.png">
     
-## Coexissitence through resource partitioning in lizards
+## Co-exissitence through resource partitioning in lizards
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles.png">
 
-## Coexissitence through resource partitioning with birds
+## Co-exissitence through resource partitioning in birds
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:45px" SRC="images/warbler.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/warbler.jpeg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:600px; HEIGHT:300px" SRC="images/birds_resource.jpg">
 
@@ -202,89 +210,14 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png">
 
-## Coexistence and character displacement
+## Coexistence and character displacement: 
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/char_dis_simple.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:650px; HEIGHT:325px" SRC="images/char_dis3.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/char_dis3.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:325px; HEIGHT:450px" SRC="images/beaks.jpg">
 
-## Coexistence and character displacement: Frogs
-<hr>
+## 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/char_dis.png">
-
-## Divide sections
-
-1. Ecological effects
-  + fundamental and realized niches
-  + competitive exclusion
-  + patch habitats
-  
-2. evolutionary effects
-  + did ancestors compete? hard to prove but what are some of these traits
-  
-3. Interspeciric compeition structures communites
-  + niche differentation: how to use same resouces
-    + microhabit, small distirbution, temperoal
-    
-  + ourcomes: exclusion - realized, coexistence, evolution
-
-
-
-
-
-
-## competition through unrelated species (large taxonimic differences)
-<hr>
-
-## Intraspecific competition (members of the same species)
-<hr>
-
-* **rate of population increase that is limited by intraspecific competition **
-
-equation:rN, the intrinsic rate of increase [r] times the population size [N]) describes a population's growth in the absence of competition. The second term ([K-N] / K) incorporates intraspecific competition, or density-dependence, into the model, and takes a value between 0 and 1. As population size (N) approaches carrying capacity (K), the numerator (K-N) becomes smaller but the denominator (K) stays the same and the second term decreases. 
-
-rate of population growth that slows down as population size increases,
-
-#Lotka voltera
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/lotka.png">
-
-* **Question: Under what circumstances does each species increase or decrease in abundance?
-
-* **Take the intraspecific equationa and add a competition coefficient
-alpah12: the affect that species one has on species 2
-alpha21: the affect that species 2 has on 1
-
-the effect that species 2 has on species 1 (a12) is multiplied by the population size of species 2 (N2). When a12 is < 1 the effect of species 2 on species 1 is less than the effect of species 1 on its own members. Conversely, when a12is > 1 the effect of species 2 on species 1 is greater than the effect of species 1 on its own members
-
-# Lotka voltera: Case study
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/hare_lynx.png">
-
-## Zero Isoclines for 2 species
-<hr>
-
-Note that the zero isoclines divide each graph into two parts. Below and to the left of the isocline the population size increases because the combined abundances of both species are less than the carrying capacity of the one, while above and to the right the population size decreases because the combined abundances are greater than the carrying capacity. For the graph of the isocline of species 1, the isocline intersects the graph on the x-axis when N1 reaches its carrying capacity (K1) and no individuals of species 2 are present. The isocline intersects the graph on the y-axis at K1/a12, when the carrying capacity of species 1 is filled by the equivalent number of individuals of species 2 and no individuals of species 1 are present. The intersections of the isocline for species 2 are essentially the same, but on different axes.
-
-## character displacment
-<hr>
-
-When Brown and Wilson (1956) described character displacement, they proposed the following process: populations of two closely related species, after first coming into contact with each other, interact “in such a way as to diverge further from one another where they occur together”. Such divergence minimizes the chances of both competition and hybridization between the species, and therefore favors coexistence over exclusion.
-
-evolutionary reponse to ineterspec competition - to avoid competition
-
-Character displacement is the phenomenon where differences among similar species whose distributions overlap geographically are accentuated in regions where the species co-occur, but are minimized or lost where the species’ distributions do not overlap.
-
-sympatry - living together
-
-A comparison of allopatric versus sympatric populations of species shows evolutionary evidence of competition in nature.
-Example: Galápagos finches
-When two species occur on the same island (sympatric populations), they tend to exhibit greater differences in morphology (shape of beak) and resource use than when found on different islands (allopatric populations).
-According to your text, “this tendency for characteristics to be more divergent in sympatric populations of two species than in allopatric populations of the same two species is called character displacement.”
-Character displacement allows the two species to avoid competition.
-
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/cicada_displace.png">
 
