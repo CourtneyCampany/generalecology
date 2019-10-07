@@ -1,10 +1,69 @@
 ---
-title: "predation"
+title: "Predation, Consumption and Defense"
 runtime: shiny
 output: ioslides_presentation
 ---
 
+## Defining predation
+<hr>
+<br/>
+
+* **an organinms that consumers all or part of another organims (prey)**
+    + benefits its own fitness
+    + reduces the growth, fecudity, survival of the prey population
+
+<br/>
+
+* **not just lions and tigers and bears, oh my!**
+
+<br/>
+
+1. True predators: attack, kill & consume
+2. Grazers: attack many things, eat only a part and do not kill
+3. Parasites: attack few, consume (host), keep alive in short term
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:500px" SRC="images/polarbear_eats.jpg">
+
+## Predation may results in loss of prey abundance.....
+* **less food for predator...**
+
+* **may be subtle for grazers...**
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/carrying_capactity_predator.png"
+
+## 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/parasite_host_pop.png"
+
+## Is grazing always bad? Compensatory resonses...
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plants_comp.png"
+
+## Can predation help a prey population?
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/spiders.png"
+
+
 ## Consumption: Herbiory, Predation and Parasitism
+<hr>
+<br/>
+
+## Parasitoid Bodysnatchers: complicating predator definitions...
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/parasitoid1.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:500px" SRC="images/parasitoid_lifecyle.jpeg">
+
+## Consumption and co-existence
+
+Predators are commonly thought to promote diversity if they preferentially consume the strongest competitor species. Such a consumptive effect relieves competitive pressure on other species, thereby enabling the coexistence of multiple species
+
+## Predation and fear?....Refuge competition
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles_predation.jpg"
+
+without predators, brown and green anoles live in disparate locations and the green anoles competitively dominate the brown ones (left). Predator introduction had a non-consumptive effect: fear caused brown anoles to seek refuge higher up, which intensified competition with green anoles and thwarted coexistence (right).
 
 
 ## Consumption leads to Defenses: Plants
@@ -15,10 +74,9 @@ output: ioslides_presentation
 <hr>
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/newt.jpg">
 
-## Consumption is an agent of natural selection
-<hr>
+## predators adapt too
 
-## Mutualisms
+## Consumption is an agent of natural selection
 <hr>
 
 
