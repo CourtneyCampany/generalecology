@@ -9,16 +9,15 @@ output:
 runtime: shiny
 ---
 
-## Species in a community interact constantly
-<hr>
+##
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:225px; WIDTH:625px; HEIGHT:500px" SRC="images/crop_interaction.png">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:200px; WIDTH:675px; HEIGHT:550px" SRC="images/crop_interaction.png">
 
 ## Bird Networks in the Amazon (complexity)
 <hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/birds_network.jpg">
 
-## Relations between organisms are broad
+## Relationships between organisms are broad
 <hr>
 <br/>
 
@@ -45,9 +44,9 @@ runtime: shiny
 ## What is competition?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:350px; HEIGHT:300px" SRC="images/comp_bird.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:350px; HEIGHT:300px" SRC="images/comp_bird.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/niche1.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/niche1.jpg">
 
 ## Species relationships may have benefits/costs
 <hr>
@@ -57,14 +56,14 @@ runtime: shiny
 ## WHO: Intra vs Inter-specific competition
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/flamingos.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="images/flamingos.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:200px; HEIGHT:450px" SRC="images/stranglerfig.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:725px; WIDTH:200px; HEIGHT:450px" SRC="images/stranglerfig.jpg">
 
-## Competition limits population growth
+## Intraspecific competition limits population growth
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/density.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/density.png">
 
 ## Competition is a powerful driver of evolution
 <hr>
@@ -83,7 +82,7 @@ runtime: shiny
 <br/>
 
 
-* **Directional selection can occur causing character displacment**
+* **Directional selection can occur causing character displacement**
 
 </div>
 
@@ -93,6 +92,8 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <div style="float: right; width: 50%;">
 
@@ -100,7 +101,7 @@ runtime: shiny
 
 <br/>
 
-* **Species cannot coexist at constant population values**
+* **Species cannot coexist at constant populations**
     + winner and loser
 
 <br/>
@@ -115,17 +116,18 @@ runtime: shiny
 ## Gause's test tube Paramecium study
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:750px; HEIGHT:350px" SRC="images/competitive_exclusion.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:5px; WIDTH:800px; HEIGHT:350px" SRC="images/competitive_exclusion.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:765px; WIDTH:300px; HEIGHT:350px" SRC="images/parmecium.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:825px; WIDTH:250px; HEIGHT:300px" SRC="images/parmecium.png">
 
 ## Red vs Grey Squirrel in Britain (Murphy 2015)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/squirrel2.png">
 
-## Competitve exclusion, however, is rare in nature
+## Competitive exclusion, however, is rare in nature
 <hr>
+<br/>
 <br/>
 
 <div style="float: right; width: 60%;">
@@ -134,7 +136,8 @@ runtime: shiny
 
 <br/>
 
-* **Multiple resource competition: exclusion based on a single resource is too simple**
+* **Species compete for multiple resources**
+    + exclusion based on a single resource is too simple
 
 <br/>
 
@@ -142,7 +145,7 @@ runtime: shiny
 
 <br/>
 
-* **TAKE HOME: Greater the overlap = greater the competition**
+* **TAKE HOME: Greater overlap = greater competition**
  
 </div>
 
@@ -153,7 +156,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/niches.jpg">
 
-## Josepth Connel: Competition among barnacles
+## Joseph Connel: Competition among barnacles
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:490px" SRC="images/barnacles.jpg">
@@ -161,7 +164,7 @@ runtime: shiny
 ## Can't we all just get along?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:227px; LEFT:25px; WIDTH:450px; HEIGHT:250px" SRC="images/lions.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:450px; HEIGHT:250px" SRC="images/lions.jpg">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/lions2.png">
 
@@ -171,44 +174,40 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Overlaping species may evolve to use a niche differently**
-    + resource partitioning = division of resources
+* **Overlapping species evolve to use a niche differently**
+    + <ins>resource partitioning</ins> = division of resources
 
 <br/>
 
 * **Species whose niches only partly overlap coexist easier**
-    + use the environment differently (niche differentation)
-    + evolve traits to use different/less overlapping resources (character displacement)
+    + use the environment differently (<ins>niche differentiation</ins>)
+    + evolve traits to use different/less overlapping resources (<ins>character displacement</ins>)
 
 <br/>
 
-* **Species sharing one niche dimension may differ along another (niche complementarity)**
+* **Species sharing one niche dimension may differ along another (<ins>niche complementarity</ins>)**
     + temporal separation
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:475px; HEIGHT:450px" SRC="images/lions3.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:475px; HEIGHT:450px" SRC="images/lions3.jpg">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/lions2.png">
-    
-## Co-exissitence through resource partitioning in lizards
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles.png">
-
-## Co-exissitence through resource partitioning in birds
+## Co-existence through resource partitioning in birds
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/warbler.jpeg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:600px; HEIGHT:300px" SRC="images/birds_resource.jpg">
 
+## Co-existence through resource partitioning in lizards
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles.png">
+
 ## Niche complementarity: different use of microhabitats
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png">
 
 ## Coexistence and character displacement: 
 <hr>

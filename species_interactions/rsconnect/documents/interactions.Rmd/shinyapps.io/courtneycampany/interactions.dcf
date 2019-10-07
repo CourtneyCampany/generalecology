@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1291579
-bundleId: 2473816
+bundleId: 2476599
 url: https://courtneycampany.shinyapps.io/interactions/
-when: 1570379053.04445
+when: 1570459008.38823
 asMultiple: FALSE
 asStatic: FALSE
