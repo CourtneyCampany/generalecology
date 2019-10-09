@@ -24,6 +24,14 @@ output: ioslides_presentation
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:500px" SRC="images/polarbear_eats.jpg">
 
+## Parasitoid Bodysnatchers: complicating predator definitions...
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/parasitoid1.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:500px" SRC="images/parasitoid_lifecyle.jpeg">
+
 ## Predator behavior
 <hr>
 <br/>
@@ -62,24 +70,44 @@ output: ioslides_presentation
 
 * **to maximize fitness and predator must balance these**
 
-## Predation may results in loss of prey abundance.....
-* **less food for predator...**
-
-* **may be subtle for grazers...**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:200px; HEIGHT:400px" SRC="images/oft_bees.png"
 
 ## O.F.T. functional response curves
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:450px; HEIGHT:450px" SRC="images/responsecurve.jpg"
 
-## Optimal foraging in Bees
+## Optimal foraging in Oystercatcher Birds
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:450px; HEIGHT:450px" SRC="images/oft_bees.png"
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/oystercathcer.png"
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:450px; HEIGHT:450px" SRC="images/oft_bees2.jpg"
+* **expand niche due to resources scarcity**
 
-## Ideal Free Distribution (predator density)
+## Ideal Free Distribution
+<hr>
+<br/>
+
+* **Forgaing for prey likely increases competition**
+        + What kind?
+<br/>
+
+* **I.F.D. predicts that the # of foraging species in a patch relates to amount of rources**
+        + minimize competition
+
+<br/>
+
+* **animals are aware of each patch's quality, and they choose to forage in the patch with the highest quality**
+        + free = they can move
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:350px" SRC="images/ideal.jpg"
+
+## Predation may results in loss of prey abundance.....
+* **less food for predator...**
+
+* **may be subtle for grazers...**
+
 
 ## Prey abundance
 
@@ -106,15 +134,6 @@ output: ioslides_presentation
 ## Can predation help a prey population?
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/spiders.png"
 
-
-## Parasitoid Bodysnatchers: complicating predator definitions...
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/parasitoid1.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:500px" SRC="images/parasitoid_lifecyle.jpeg">
-
 ## Consumption and co-existence
 
 Predators are commonly thought to promote diversity if they preferentially consume the strongest competitor species. Such a consumptive effect relieves competitive pressure on other species, thereby enabling the coexistence of multiple species
@@ -132,6 +151,7 @@ without predators, brown and green anoles live in disparate locations and the gr
 
 ## Consumption leads to Defenses: Animals
 <hr>
+
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/newt.jpg">
 
 ## predators adapt too
@@ -139,41 +159,105 @@ without predators, brown and green anoles live in disparate locations and the gr
 ## Consumption is an agent of natural selection
 <hr>
 
+## Impacts of predation on populations is complex...
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **behavior/adaptataions of predators and prey**
+
+<br/>
+
+* **compensatory responses**
+
+<br/>
+
+* **life histories**
+
+<br/>
+
+* **Start SIMPLE and add on**
+        * lynx vs rabbit
+        
+ </div>   
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525; WIDTH:500px; HEIGHT:250px" SRC="images/lotka.png">
 
 ## Can we model competition?
-
-
-## Intraspecific competition (members of the same species)
 <hr>
+<br/>
 
-* **rate of population increase that is limited by intraspecific competition **
+1. Start with a lot of rabbits, who does well?
+2. Populations of lynx will ....
+3. Why does time matter at this step?
+4. Populations of prey will....
+5. Food for predators will 
+6. Over time predator populations will ....
 
-equation:rN, the intrinsic rate of increase [r] times the population size [N]) describes a population's growth in the absence of competition. The second term ([K-N] / K) incorporates intraspecific competition, or density-dependence, into the model, and takes a value between 0 and 1. As population size (N) approaches carrying capacity (K), the numerator (K-N) becomes smaller but the denominator (K) stays the same and the second term decreases. 
+<br/>
 
-rate of population growth that slows down as population size increases,
+* **These predator-prey patterns are mathematically described in the Lotka-Voltera model**
+        + 2 basic components:
+        + P = # of predators
+        + N = # of Predy
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525; WIDTH:500px; HEIGHT:400px" SRC="images/lynxrabbit.jpg">
 
 #Lotka voltera
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/lotka.png">
+<div style="float: left; width: 50%;">
 
-* **Question: Under what circumstances does each species increase or decrease in abundance?
+* **With no predators, prey populations (N) increase exponentially**
+        + dN/dt = rN 
 
-* **Take the intraspecific equationa and add a competition coefficient
-alpah12: the affect that species one has on species 2
-alpha21: the affect that species 2 has on 1
+<br/>
 
-the effect that species 2 has on species 1 (a12) is multiplied by the population size of species 2 (N2). When a12 is < 1 the effect of species 2 on species 1 is less than the effect of species 1 on its own members. Conversely, when a12is > 1 the effect of species 2 on species 1 is greater than the effect of species 1 on its own members
+* **Predators then need to remove prey at some rate**
+        + dN/dt = rN - aPN
+        + a = attacking efficiency
 
-# Lotka voltera: Case study
+<br/>
+
+* **Prey stable when dP/dt = 0**
+
+ </div>  
+
+
+<div style="float: right; width: 50%;">
+
+* **In the absense of food predator populations (P) will decline**
+        + dP/dt = -qP
+        + q = mortality rate
+        
+* **mortaility is buffered by births, which depends on food gain (aPN) and efficiency of food into offpsring (F) **
+        + + dP/dt = faPN -qP
+
+<br/>
+
+* **Predator stable when dP/dt = 0**
+ </div>
+
+## Zero Isoclines: when does each species + or - in abundance?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/hare_lynx.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/predatorpreyisoclintes.png">
 
-## Zero Isoclines for 2 species
+## Predator-prey have coupled population cycles
 <hr>
 
-Note that the zero isoclines divide each graph into two parts. Below and to the left of the isocline the population size increases because the combined abundances of both species are less than the carrying capacity of the one, while above and to the right the population size decreases because the combined abundances are greater than the carrying capacity. For the graph of the isocline of species 1, the isocline intersects the graph on the x-axis when N1 reaches its carrying capacity (K1) and no individuals of species 2 are present. The isocline intersects the graph on the y-axis at K1/a12, when the carrying capacity of species 1 is filled by the equivalent number of individuals of species 2 and no individuals of species 1 are present. The intersections of the isocline for species 2 are essentially the same, but on different axes.
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/hare_lynx_graph.png">
 
+## What about what the prey eats?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/rabbit.png">
+
+
+##
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/lynx">
 
 
