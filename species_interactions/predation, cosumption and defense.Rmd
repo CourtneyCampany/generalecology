@@ -24,16 +24,80 @@ output: ioslides_presentation
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:500px" SRC="images/polarbear_eats.jpg">
 
+## Predator behavior
+<hr>
+<br/>
+
+* **Depending on the type of predator, behavior to capture prey differs"
+
+<br/>
+
+* **True predators and Grazers are mostly foragers
+    + searching (active)
+    + sit and wait (passive)
+
+<br/>
+
+* **Parasite rely on transmission**
+    + contact between infected host and new host
+    + density dependent
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:500px" SRC="images/glowworm.jpg">
+
+## Optimal Foraging Theory
+<hr>
+<br/>
+
+* **behavioral model that predict how an animal behaves when searching for food**
+
+<br/>
+
+* **Obtaining food provides the animal with energy**
+
+<br/>
+
+* **searching for and capturing the food require both energy and time**
+
+<br/>
+
+* **to maximize fitness and predator must balance these**
+
 ## Predation may results in loss of prey abundance.....
 * **less food for predator...**
 
 * **may be subtle for grazers...**
 
+## O.F.T. functional response curves
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:450px; HEIGHT:450px" SRC="images/responsecurve.jpg"
+
+## Optimal foraging in Bees
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:450px; HEIGHT:450px" SRC="images/oft_bees.png"
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:450px; HEIGHT:450px" SRC="images/oft_bees2.jpg"
+
+## Ideal Free Distribution (predator density)
+
+## Prey abundance
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/carrying_capactity_predator.png"
 
 ## 
+
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/parasite_host_pop.png"
+
+## Predation and age: African predators
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/african_pred_age.png"
+
+## Predation and age: African prey
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/african_prey_age.png"
 
 ## Is grazing always bad? Compensatory resonses...
 
@@ -42,10 +106,6 @@ output: ioslides_presentation
 ## Can predation help a prey population?
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/spiders.png"
 
-
-## Consumption: Herbiory, Predation and Parasitism
-<hr>
-<br/>
 
 ## Parasitoid Bodysnatchers: complicating predator definitions...
 <hr>
