@@ -1,12 +1,19 @@
 ---
-title: "Predation, Consumption and Defense"
+title: "Predation & Consumption"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
 runtime: shiny
-output: ioslides_presentation
 ---
 
 ## Defining predation
 <hr>
 <br/>
+
+<div style="float: left; width: 50%;">
 
 * **an organinms that consumers all or part of another organims (prey)**
     + benefits its own fitness
@@ -14,33 +21,33 @@ output: ioslides_presentation
 
 <br/>
 
-* **not just lions and tigers and bears, oh my!**
-
-<br/>
-
 1. True predators: attack, kill & consume
 2. Grazers: attack many things, eat only a part and do not kill
 3. Parasites: attack few, consume (host), keep alive in short term
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:500px" SRC="images/polarbear_eats.jpg">
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:400px" SRC="images/polarbear_eats.jpg">
 
 ## Parasitoid Bodysnatchers: complicating predator definitions...
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/parasitoid1.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:400px; HEIGHT:250px" SRC="images/parasitoid1.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:500px" SRC="images/parasitoid_lifecyle.jpeg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/parasitoid_lifecyle.jpeg">
 
 ## Predator behavior
 <hr>
 <br/>
 
-* **Depending on the type of predator, behavior to capture prey differs"
+<div style="float: right; width: 60%;">
+
+* **Depending on the type of predator, behavior to capture prey differs**
 
 <br/>
 
-* **True predators and Grazers are mostly foragers
+* **True predators and Grazers are mostly foragers**
     + searching (active)
     + sit and wait (passive)
 
@@ -49,8 +56,10 @@ output: ioslides_presentation
 * **Parasite rely on transmission**
     + contact between infected host and new host
     + density dependent
-    
-<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:700px; HEIGHT:500px" SRC="images/glowworm.jpg">
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:350px; HEIGHT:400px" SRC="images/glowworm.jpg">
 
 ## Optimal Foraging Theory
 <hr>
@@ -110,6 +119,7 @@ output: ioslides_presentation
 
 
 ## Prey abundance
+<hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/carrying_capactity_predator.png"
 
@@ -128,17 +138,22 @@ output: ioslides_presentation
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/african_prey_age.png"
 
 ## Is grazing always bad? Compensatory resonses...
+<hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plants_comp.png"
 
 ## Can predation help a prey population?
+<hr>
+
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/spiders.png"
 
 ## Consumption and co-existence
+<hr>
 
 Predators are commonly thought to promote diversity if they preferentially consume the strongest competitor species. Such a consumptive effect relieves competitive pressure on other species, thereby enabling the coexistence of multiple species
 
 ## Predation and fear?....Refuge competition
+<hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles_predation.jpg"
 
@@ -147,6 +162,7 @@ without predators, brown and green anoles live in disparate locations and the gr
 
 ## Consumption leads to Defenses: Plants
 <hr>
+
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_defense.jpg">
 
 ## Consumption leads to Defenses: Animals
@@ -154,7 +170,10 @@ without predators, brown and green anoles live in disparate locations and the gr
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/newt.jpg">
 
-## predators adapt too
+## Predators also adapt to prey (Cattau et al. 2017)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/kite_applesnail.jpg">
 
 ## Consumption is an agent of natural selection
 <hr>
@@ -180,7 +199,7 @@ without predators, brown and green anoles live in disparate locations and the gr
 * **Start SIMPLE and add on**
         * lynx vs rabbit
         
- </div>   
+</div>   
  
 <IMG STYLE="position:absolute; TOP:200px; LEFT:525; WIDTH:500px; HEIGHT:250px" SRC="images/lotka.png">
 
@@ -238,6 +257,7 @@ without predators, brown and green anoles live in disparate locations and the gr
 <br/>
 
 * **Predator stable when dP/dt = 0**
+
  </div>
 
 ## Zero Isoclines: when does each species + or - in abundance?
@@ -259,5 +279,9 @@ without predators, brown and green anoles live in disparate locations and the gr
 ##
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/lynx">
+
+## Predation structures communites
+
+* **predator mediated coexistence**
 
 
