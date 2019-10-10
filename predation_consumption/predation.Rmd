@@ -59,13 +59,16 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:350px; HEIGHT:400px" SRC="images/glowworm.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:350px; HEIGHT:400px" SRC="images/glowworm.jpg">
 
 ## Optimal Foraging Theory
 <hr>
 <br/>
+<br/>
 
-* **behavioral model that predict how an animal behaves when searching for food**
+<div style="float: right; width: 60%;">
+
+* **Predicts how an animal behaves when searching for food**
 
 <br/>
 
@@ -77,21 +80,45 @@ runtime: shiny
 
 <br/>
 
-* **to maximize fitness and predator must balance these**
+* **To maximize fitness a predator must balance these**
+      + alpine bumble bees
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:200px; HEIGHT:400px" SRC="images/oft_bees.png"
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:225px; HEIGHT:450px" SRC="images/oft.jpg">
 
 ## O.F.T. functional response curves
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:450px; HEIGHT:450px" SRC="images/responsecurve.jpg"
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:440px" SRC="images/responsecurve.jpg">
+
+<div style="float: left; width: 50%;">
+
+* **Amount of time searching depends on the density of the prey**
+
+<br/>
+
+* **TYPE1: rate of prey capture increases linearly with food density**
+      + low prey densities = long search time
+      + predator spends most of its time searching, so eats every prey item 
+
+<br/>
+
+* **TYPE2: rate of prey capture negatively accelerates as it increases with food density**
+      + predator is limited by its capacity to process food
+      + predator spends less time searching and more and more time handling the prey
+
+<br/>
+
+* **TYPE3: prey capture increases at first with prey density but then at high densities changes to the negatively accelerated form (TYPE 2)**
+    + only at high prey densities can predator become choosy
+
+</div>
 
 ## Optimal foraging in Oystercatcher Birds
 <hr>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/oystercathcer.png"
-
-* **expand niche due to resources scarcity**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/oystercatcher.png">
 
 ## Ideal Free Distribution
 <hr>
@@ -109,8 +136,7 @@ runtime: shiny
 * **animals are aware of each patch's quality, and they choose to forage in the patch with the highest quality**
         + free = they can move
 
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:350px" SRC="images/ideal.jpg"
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:350px" SRC="images/ideal.jpg">
 
 ## Predation may results in loss of prey abundance.....
 * **less food for predator...**
@@ -121,16 +147,16 @@ runtime: shiny
 ## Prey abundance
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/carrying_capactity_predator.png"
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/carrying_capactity_predator.png">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/parasite_host_pop.png"
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/parasite_host_pop.png">
 
 ## Predation and age: African predators
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/african_pred_age.png"
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/african_pred_age.png">
 
 ## Predation and age: African prey
 <hr>
@@ -140,12 +166,12 @@ runtime: shiny
 ## Is grazing always bad? Compensatory resonses...
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plants_comp.png"
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plants_comp.png">
 
 ## Can predation help a prey population?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/spiders.png"
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/spiders.png">
 
 ## Consumption and co-existence
 <hr>
@@ -155,7 +181,7 @@ Predators are commonly thought to promote diversity if they preferentially consu
 ## Predation and fear?....Refuge competition
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles_predation.jpg"
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles_predation.jpg">
 
 without predators, brown and green anoles live in disparate locations and the green anoles competitively dominate the brown ones (left). Predator introduction had a non-consumptive effect: fear caused brown anoles to seek refuge higher up, which intensified competition with green anoles and thwarted coexistence (right).
 
