@@ -12,8 +12,9 @@ runtime: shiny
 ## Defining predation
 <hr>
 <br/>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 60%;">
 
 * **an organinms that consumers all or part of another organims (prey)**
     + benefits its own fitness
@@ -21,13 +22,15 @@ runtime: shiny
 
 <br/>
 
-1. True predators: attack, kill & consume
-2. Grazers: attack many things, eat only a part and do not kill
-3. Parasites: attack few, consume (host), keep alive in short term
+**1. True predators: attack, kill & consume**
+
+**2. Grazers: attack many things, eat only a part and do not kill**
+
+**3. Parasites: attack, consume (host), keep alive in short term**
 
 </div>
  
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:400px" SRC="images/polarbear_eats.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:670px; WIDTH:400px; HEIGHT:350px" SRC="images/polarbear_eats.jpg">
 
 ## Parasitoid Bodysnatchers: complicating predator definitions...
 <hr>
@@ -35,15 +38,16 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:400px; HEIGHT:250px" SRC="images/parasitoid1.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/parasitoid_lifecyle.jpeg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:400px; WIDTH:650px; HEIGHT:450px" SRC="images/parasitoid_lifecyle.jpeg">
 
 ## Predator behavior
 <hr>
 <br/>
+<br/>
 
 <div style="float: right; width: 60%;">
 
-* **Depending on the type of predator, behavior to capture prey differs**
+* **Behaviors to capture prey differ vastly**
 
 <br/>
 
@@ -72,11 +76,11 @@ runtime: shiny
 
 <br/>
 
-* **Obtaining food provides the animal with energy**
+* **Obtaining food provides energy**
 
 <br/>
 
-* **searching for and capturing the food require both energy and time**
+* **Searching for and capturing food requires energy and time**
 
 <br/>
 
@@ -85,83 +89,103 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:225px; HEIGHT:450px" SRC="images/oft.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:300px; HEIGHT:450px" SRC="images/oft.jpg">
 
-## O.F.T. functional response curves
-<hr>
+<!-- ## Optimal Foraging Theory depends on density -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:440px" SRC="images/responsecurve.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/responsecurve.jpg"> -->
 
-<div style="float: left; width: 50%;">
+<!-- <div style="float: left; width: 50%;"> -->
 
-* **Amount of time searching depends on the density of the prey**
+<!-- * **TYPE1: rate of prey capture increases linearly with food density** -->
+<!--     + low prey densities = long search time -->
+<!--     + predator searches a lot, so eats every prey item  -->
 
-<br/>
+<!-- <br/> -->
 
-* **TYPE1: rate of prey capture increases linearly with food density**
-      + low prey densities = long search time
-      + predator spends most of its time searching, so eats every prey item 
+<!-- * **TYPE2: rate of prey capture negatively accelerates as it increases with food density** -->
+<!--     + predator is limited by capacity to process food -->
+<!--     + predator searches less with more time handling prey -->
 
-<br/>
+<!-- <br/> -->
 
-* **TYPE2: rate of prey capture negatively accelerates as it increases with food density**
-      + predator is limited by its capacity to process food
-      + predator spends less time searching and more and more time handling the prey
+<!-- * **TYPE3: prey capture increases at first with prey density but then at high densities changes to the negatively accelerated form (TYPE 2)** -->
+<!--     + only at high prey densities can predator become choosy -->
 
-<br/>
-
-* **TYPE3: prey capture increases at first with prey density but then at high densities changes to the negatively accelerated form (TYPE 2)**
-    + only at high prey densities can predator become choosy
-
-</div>
+<!-- </div> -->
 
 ## Optimal foraging in Oystercatcher Birds
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/oystercatcher.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:700px; HEIGHT:500px" SRC="images/oystercatcher.png">
 
-## Ideal Free Distribution
+## Optimal foraging should be related to density
 <hr>
 <br/>
+<br/>
 
-* **Forgaing for prey likely increases competition**
+* **Prey densities impact predator search time**
+    + can predators be choosy?
+
+<br/>
+
+* **Foraging for prey may increase competition**
         + What kind?
+        
 <br/>
 
-* **I.F.D. predicts that the # of foraging species in a patch relates to amount of rources**
+* **# of foragers in a patch relates to amount of prey resources**
         + minimize competition
+        + group foraging? (Hintz & Lonzarich 2018)
 
 <br/>
 
-* **animals are aware of each patch's quality, and they choose to forage in the patch with the highest quality**
+* **Predators should choose to forage in a patch with the highest quality**
         + free = they can move
+        
+</div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:350px" SRC="images/ideal.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:250px; HEIGHT:450px" SRC="images/ideal.jpg">
+
+## Optimal foraging in African predators: Energy use
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **Calorie use by big predators**
+    + Cheetahs = 9,000 Kj
+    + Wild dogs = 15,000 Kj
+    + Lions = ?
+    + Humans = 9000 Kj
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/cheetahlazy.png">
+
+## Optimal foraging in African predators: Energy use
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/africa_pred_age.png">
+
+## Optimal foraging in African predators: Energy use
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/africa_prey_age.png">
 
 ## Predation may results in loss of prey abundance.....
+<hr>
+
 * **less food for predator...**
 
 * **may be subtle for grazers...**
 
 
-## Prey abundance
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/carrying_capactity_predator.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/carrying_capacity_predator.png">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/parasite_host_pop.png">
-
-## Predation and age: African predators
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/african_pred_age.png">
-
-## Predation and age: African prey
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/african_prey_age.png"
+<IMG STYLE="position:absolute; TOP:150px; LEFT:1500px; WIDTH:700px; HEIGHT:500px" SRC="images/parasite_host_pop.png">
 
 ## Is grazing always bad? Compensatory resonses...
 <hr>
