@@ -283,8 +283,8 @@ runtime: shiny
 
 * **These predator-prey patterns described in the Lotka-Voltera model**
     + 2 basic components:
-    + P = # of predators
-    + N = # of Predy
+    + *P* = # of predators
+    + *N* = # of Predy
 
 </div>
 
@@ -302,18 +302,18 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **With no predators, prey populations (N) increase exponentially**
-    + dN/dt = rN 
+    + *dN/dt* = *rN* 
 
 <br/>
 <br/>
 
 * **Predators then need to remove prey at some rate**
-    + dN/dt = rN - aPN
-    + a = attacking efficiency
+    + *dN/dt* = *rN - aPN*
+    + *a* = attacking efficiency
 
 <br/>
 
-* **Prey stable when dP/dt = 0**
+* **Prey stable when *dP/dt* = 0**
 
  </div>  
 
@@ -321,17 +321,17 @@ runtime: shiny
 <div style="float: right; width: 50%;">
 
 * **In the absense of food predator populations (P) will decline**
-    + dP/dt = -qP
-    + q = mortality rate
+    + *dP/dt* = *-qP*
+    + *q* = mortality rate
 
 <br/>
 
-* **mortaility is buffered by births, which depends on food gain (aPN) and efficiency of food into offpsring (F) **
-    + + dP/dt = faPN -qP
+* **Mortaility buffered by births, which depends on food gain (aPN) and efficiency of food into offpsring (F) **
+    + *dP/dt* = *faPN -qP*
 
 <br/>
 
-* **Predator stable when dP/dt = 0**
+* **Predator stable when *dP/dt* = 0**
 
  </div>
 
@@ -343,14 +343,16 @@ runtime: shiny
 ## Leftover questions: What does the prey eat?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/rabbit.png">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/rabbit.png">
 
 ## Leftover questions: Are predator-prey cycles that simple?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/lynx">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/lynx.png">
 
 ## 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -361,4 +363,4 @@ runtime: shiny
 * **Leftover questions: Are the cycles sustainable?**
 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:550px" SRC="images/maintain_cycle.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:550px; WIDTH:450px; HEIGHT:550px" SRC="images/maintain_cycle.jpg">
