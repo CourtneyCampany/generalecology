@@ -16,9 +16,9 @@ runtime: shiny
 
 <div style="float: left; width: 60%;">
 
-* **an organinms that consumers all or part of another organims (prey)**
+* **an organisms that consumers all or part of another organism (prey)**
     + benefits its own fitness
-    + reduces the growth, fecudity, survival of the prey population
+    + reduces the growth, fecundity, survival of the prey population
 
 <br/>
 
@@ -162,7 +162,7 @@ runtime: shiny
 
 * **Foraging Strategies**
     + Laziness
-    + Theivery
+    + Thievery
     + Group hunting
     + Seasonal prey choice
     
@@ -196,7 +196,7 @@ runtime: shiny
 
 <br/>
 
-* **Predation structures communites**
+* **Predation structures communities**
 
 </div>
 
@@ -247,7 +247,7 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Behavior/adaptataions of both predators and prey**
+* **Behavior/adaptations of both predators and prey**
   + natural selection
 
 <br/>
@@ -284,7 +284,7 @@ runtime: shiny
 * **These predator-prey patterns described in the Lotka-Voltera model**
     + 2 basic components:
     + *P* = # of predators
-    + *N* = # of Predy
+    + *N* = # of prey
 
 </div>
 
@@ -295,7 +295,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/foxhare.jpeg">
 
-## Lotka voltera
+## Lotka Voltera
 <hr>
 <br/>
 
@@ -320,13 +320,13 @@ runtime: shiny
 
 <div style="float: right; width: 50%;">
 
-* **In the absense of food predator populations (P) will decline**
+* **In the absence of food predator populations (P) will decline**
     + *dP/dt* = *-qP*
     + *q* = mortality rate
 
 <br/>
 
-* **Mortaility buffered by births, which depends on food gain (aPN) and efficiency of food into offpsring (F) **
+* **Mortality buffered by births, which depends on food gain (aPN) and efficiency of food into offspring (F) **
     + *dP/dt* = *faPN -qP*
 
 <br/>
