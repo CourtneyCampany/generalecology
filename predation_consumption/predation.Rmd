@@ -18,7 +18,7 @@ runtime: shiny
 
 * **An organisms that consumes all or part of another organism (prey)**
     + benefits its own fitness
-    + reduces the growth, fecundity, survival of the prey population
+    + reduces the growth, fecundity and survival of the prey population
 
 <br/>
 
@@ -58,8 +58,7 @@ runtime: shiny
 <br/>
 
 * **Parasite rely on transmission**
-    + contact between infected host and new host
-    + density dependent
+    + direct contact is density dependent
 
 </div>
 
@@ -90,30 +89,6 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:300px; HEIGHT:450px" SRC="images/oft.jpg">
 
-<!-- ## Optimal Foraging Theory depends on density -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/responsecurve.jpg"> -->
-
-<!-- <div style="float: left; width: 50%;"> -->
-
-<!-- * **TYPE1: rate of prey capture increases linearly with food density** -->
-<!--     + low prey densities = long search time -->
-<!--     + predator searches a lot, so eats every prey item  -->
-
-<!-- <br/> -->
-
-<!-- * **TYPE2: rate of prey capture negatively accelerates as it increases with food density** -->
-<!--     + predator is limited by capacity to process food -->
-<!--     + predator searches less with more time handling prey -->
-
-<!-- <br/> -->
-
-<!-- * **TYPE3: prey capture increases at first with prey density but then at high densities changes to the negatively accelerated form (TYPE 2)** -->
-<!--     + only at high prey densities can predator become choosy -->
-
-<!-- </div> -->
-
 ##
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:225px; WIDTH:700px; HEIGHT:500px" SRC="images/oystercatcher.png">
@@ -121,20 +96,17 @@ runtime: shiny
 ## Optimal foraging should be related to density
 <hr>
 <br/>
+<br/>
+<br/>
 
 <div style="float: left; width: 55%;">
 
-* **Prey densities impact predator search time**
+* **Prey densities impact handling/search times**
     + can predators be choosy?
-
-<br/>
-
-* **Foraging for prey may increase competition**
-    + What kind?
         
 <br/>
 
-* **# of foragers relates to amount of prey**
+* **# of foragers relates to prey density**
     + minimize competition
     + group foraging? (Hintz & Lonzarich 2018)
 
@@ -197,12 +169,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:750px; HEIGHT:400px" SRC="images/plants_comp.png">
 
-<!-- ## Compensatory response of grasshoppers to predation -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:255px; WIDTH:650px; HEIGHT:450px" SRC="images/spiders.png"> -->
-
-## Predation may promote biodiversity
+## Predation may also promote biodiversity
 <hr>
 <br/>
 <br/>
@@ -225,11 +192,10 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/predation_diversity.jpg">
 
-## Predation structures communites: Anoles lizards
-<hr>
+<!-- ## Predation structures communities: Anoles lizards -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/anoles_predation.jpg">
-
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/anoles_predation.jpg"> -->
 
 ## Predator vs Prey populations (Basics)
 <hr>
@@ -243,10 +209,11 @@ runtime: shiny
 ## Impacts of predation on populations is complex...
 <hr>
 <br/>
+<br/>
 
 <div style="float: left; width: 50%;">
 
-* **Behavior/adaptations of both predators and prey**
+* **Behavior/adaptations of predators and prey**
   + natural selection
 
 <br/>
@@ -280,7 +247,7 @@ runtime: shiny
 
 <br/>
 
-* **These predator-prey patterns described in the Lotka-Voltera model**
+* **These predator-prey patterns are described in the Lotka-Voltera model**
     + 2 basic components:
     + *P* = # of predators
     + *N* = # of prey
@@ -302,17 +269,19 @@ runtime: shiny
 
 * **With no predators, prey populations (N) increase exponentially**
     + *dN/dt* = *rN* 
+    + *r* = growth rate
 
 <br/>
-<br/>
 
-* **Predators then need to remove prey at some rate**
+* **Predators remove prey at some rate**
     + *dN/dt* = *rN - aPN*
     + *a* = attacking efficiency
+    
 
 <br/>
+<br/>
 
-* **Prey stable when *dP/dt* = 0**
+* **Prey stable when *dN/dt* = 0**
 
  </div>  
 
@@ -325,8 +294,10 @@ runtime: shiny
 
 <br/>
 
-* **Mortality buffered by births, which depends on food gain (aPN) and efficiency of food into offspring (F) **
+* **Mortality buffered by births (*faPN*)**
     + *dP/dt* = *faPN -qP*
+    + food gain (*aPN*)
+    + efficiency of food to offspring (*f*)
 
 <br/>
 
