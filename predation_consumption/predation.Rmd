@@ -1,5 +1,5 @@
 ---
-title: "Predation & Consumption"
+title: "Predation"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -9,14 +9,14 @@ output:
 runtime: shiny
 ---
 
-## Defining predation
+## Defining Predation
 <hr>
 <br/>
 <br/>
 
 <div style="float: left; width: 60%;">
 
-* **an organisms that consumers all or part of another organism (prey)**
+* **An organisms that consumes all or part of another organism (prey)**
     + benefits its own fitness
     + reduces the growth, fecundity, survival of the prey population
 
@@ -69,12 +69,11 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <div style="float: right; width: 60%;">
 
-* **Predicts how an animal behaves when searching for food**
-
-<br/>
 
 * **Obtaining food provides energy**
 
@@ -172,14 +171,38 @@ runtime: shiny
 ## Optimal foraging in African predators: Energy use
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/africa_pred_age.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/africa_pred_age.png">
 
 ## Optimal foraging in African predators: Energy use
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/africa_prey_age.png">
 
-## Predation may promotes biodiversity
+## Consumption is an agent of natural selection: Defense
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/newt.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/plant_defense.jpg">
+
+## Predators also adapt to prey (Cattau et al. 2017)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/kite_applesnail.jpg">
+
+## Is predation always bad for prey? Grazers
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:750px; HEIGHT:400px" SRC="images/plants_comp.png">
+
+<!-- ## Compensatory response of grasshoppers to predation -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:255px; WIDTH:650px; HEIGHT:450px" SRC="images/spiders.png"> -->
+
+## Predation may promote biodiversity
 <hr>
 <br/>
 <br/>
@@ -200,22 +223,13 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/predation_diversity.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/predation_diversity.jpg">
 
-## Consumption is an agent of natural selection: Defense
+## Predation structures communites: Anoles lizards
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/newt.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/anoles_predation.jpg">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/plant_defense.jpg">
-
-
-## Predators also adapt to prey (Cattau et al. 2017)
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/kite_applesnail.jpg">
 
 ## Predator vs Prey populations (Basics)
 <hr>
@@ -225,21 +239,6 @@ runtime: shiny
 ## 
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:250px; WIDTH:700px; HEIGHT:500px" SRC="images/parasite_host_pop.png">
-
-## Is predation always bad for prey? Grazers
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:750px; HEIGHT:400px" SRC="images/plants_comp.png">
-
-## Compensatory response of grasshoppers to predation
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:255px; WIDTH:650px; HEIGHT:450px" SRC="images/spiders.png">
-
-## Predation may also increase interspecific competition
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/anoles_predation.jpg">
 
 ## Impacts of predation on populations is complex...
 <hr>
@@ -266,7 +265,7 @@ runtime: shiny
  
 <IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/lotka.png">
 
-## Can we model competition?
+## Lotka Voltera: Modelling competition
 <hr>
 <br/>
 
@@ -293,7 +292,7 @@ runtime: shiny
 ## Lotka-Voltera predicts coupled population cycles
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/foxhare.jpeg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/foxhare.jpeg">
 
 ## Lotka Voltera
 <hr>
@@ -335,10 +334,10 @@ runtime: shiny
 
  </div>
 
-## Zero Isoclines: when does each species + or - in abundance?
+## Start each population cycle at the zero isocline
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/predatorpreyisoclintes.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/predatorpreyisoclintes2.png">
 
 ## Leftover questions: What does the prey eat?
 <hr>
@@ -351,6 +350,8 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/lynx.png">
 
 ## 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
