@@ -26,7 +26,7 @@ runtime: shiny
 
 **2. Grazers: attack many things, eat only a part and do not kill**
 
-**3. Parasites: attack, consume (host), keep alive in short term**
+**3. Parasites: infect one *host*, keep alive in short term**
 
 </div>
  
@@ -48,6 +48,7 @@ runtime: shiny
 <div style="float: right; width: 60%;">
 
 * **Behaviors to capture prey differ vastly**
+    + consumption rate
 
 <br/>
 
@@ -78,7 +79,7 @@ runtime: shiny
 
 <br/>
 
-* **Searching for and capturing food requires energy and time**
+* **Searching for and capturing food requires energy**
 
 <br/>
 
@@ -247,7 +248,7 @@ runtime: shiny
 
 <br/>
 
-* **These predator-prey patterns are described in the Lotka-Voltera model**
+* **These predator-prey patterns are described in the Lotka-Voltera 2 species model**
     + 2 basic components:
     + *P* = # of predators
     + *N* = # of prey
@@ -288,7 +289,7 @@ runtime: shiny
 
 <div style="float: right; width: 50%;">
 
-* **In the absence of food predator populations (P) will decline**
+* **In the absence of food, predator populations (P) will decline**
     + *dP/dt* = *-qP*
     + *q* = mortality rate
 
