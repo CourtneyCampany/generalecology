@@ -1,0 +1,240 @@
+---
+title: "Community Dynamics"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+##
+
+<IMG STYLE="position:absolute; TOP:10px; LEFT:75px; WIDTH:900px; HEIGHT:700px" SRC="images/ecosystem.png">
+
+## Diverse communities broaden ecosystem function
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Species occur together**
+    + not all perfectly adapted
+    + networks of trophic interactions
+    + ecosystems work better as a group
+
+<br/>
+
+* **Ecosystems work better as a group**
+    + No single species performs all roles
+    + larger threshold of environmental conditions
+    + fosters ecosystem resilience (ball & cup model)
+ </div>   
+        
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/interaction.jpg"> 
+
+## Not all species are created equal
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:250px; HEIGHT:475px" SRC="images/species_eco.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:250; HEIGHT:250px" SRC="images/bear.jpg">
+
+<IMG STYLE="position:absolute; TOP:500px; LEFT:550px; WIDTH:250; HEIGHT:250px" SRC="images/seastar.jpg">
+
+## Reintroduction of wolves in Yellowstone: Top down control
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:450px; HEIGHT:500px" SRC="images/yellowstone-wolves-species.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400; HEIGHT:300px" SRC="images/wolf.jpg">
+
+## Hierarchical levels in an community: Food webs
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:25px; WIDTH:600px; HEIGHT:500px" SRC="images/grazing_foodweb.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:725px; WIDTH:350px; HEIGHT:450px" SRC="images/energy_v_nutrients.jpg">
+
+## Energy flow limits length of food chain (10% rule)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/pyramid.jpg">
+
+## Building ecosystems: Succession
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:85px; WIDTH:900px; HEIGHT:550px" SRC="images/succession3.jpg">
+
+## Disturbance & succession
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/succession1c.jpg">
+
+## Disturbance
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Discrete event in time that:**
+    + Removes biomass
+    + alters populations & communities
+    + alters structure of ecosystems 
+    + changes resources availability
+    + changes physical environment
+
+<br/>
+
+* **Natural vs Human caused distubance**
+    + lightning, herbivory, flood
+    + mining, clearcutting
+
+<br/>
+
+* **Maintains communites in non-equilbrium**
+
+</div>
+  
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fire.jpg">
+
+## Severity of disturbance: intensity and size
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:800px; HEIGHT:400px" SRC="images/severity.png">
+
+## Severity of disturbance: frequency
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/disturbance_trend.png">
+
+## Primary succession
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **After severe disturbances**
+    + remove or bury biomass
+
+<br/>
+
+* **Glacial retreat, mudflows, floodplains, lava flows**
+
+<br/>
+
+* **Colonization:**
+    + species that handle stresses
+    + low nutrients / minimal soil
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/volcano.jpg">
+
+## Primary succession
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Initial Species composition:**
+    + nitrogen fixing plants
+    + **Facilitation**
+ 
+ <br/>
+ 
+* **Colonizers must disperse to site**
+    + wind dispersed seeds/spores
+    + algae & lichens
+    + small seeded plants
+    + distance matters
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/crust.jpg">
+
+## Secondary succession
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/succession2.jpg">
+
+## Secondary succession: pioneer species
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 40%;">
+
+* **Potential growth rate:**
+
+<br/>
+
+* **Tolerance:**
+
+<br/>
+
+* **Seed size & Number:**
+
+<br/>
+
+* **Longevity:**
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/pioneer.jpg">
+
+## Late succession: inhibition & tolerance increase
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/succession1.png">
+
+## Wildlife and succession
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/wildlife_succesion.jpg">
+
+## The Boreal: forests shaped by fire
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/boreal1.jpg">
+
+## Boreal forest: Secondary succesion
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:700px; HEIGHT:300px" SRC="images/boreal3.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:200px; HEIGHT:200px" SRC="images/jackpine.jpg">
+
+## Boreal forest: Secondary succesion
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/boreal_wildlife.jpg">
+
+## The future of boreal forests
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:475px; HEIGHT:475px" SRC="images/boreal5.gif">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/boreal4.gif">
+
+## Disturbance regimes of Giant Sequoia forests
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:450px; HEIGHT:400px" SRC="images/fire-sequoia.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:674px; WIDTH:300px; HEIGHT:500px" SRC="images/fire-sequoia2.jpg">
+
+## Fire regimes and humans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/WUI.gif">
+
+## Study aid: Glaciar Bay Alaska succession
+<hr>
+
+https://www.nps.gov/glba/learn/nature/succession.htm
+

@@ -1,0 +1,12 @@
+name: succession
+title: succession
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 603331
+bundleId: 2033730
+url: https://courtneycampany.shinyapps.io/succession/
+when: 1556051244.4792
+asMultiple: FALSE
+asStatic: FALSE

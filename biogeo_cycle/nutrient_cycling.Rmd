@@ -1,0 +1,180 @@
+---
+title: "Biogeochemical Cycling"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Matter is conserved
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/nutrients.jpg">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/matterconserved.jpg">
+
+## Energy flows, but matter is recycled
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/energy.png">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:600px; WIDTH:400px; HEIGHT:550px" SRC="images/general_cycle.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/biogeo2.png">
+
+## Importance of biogeochemical cycling
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/limitation_globe.jpg">
+
+## Transfer, transformation and storage
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/n_forms.gif">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/storage.jpg">
+
+## Biogeochemical cycles: Global
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/spheres.png">
+
+## Nutrient cycles: Ecosystem
+<hr>
+<br />
+<br />
+
+<div style="float: left; width: 40%;">
+
+* **Entry of nutrients into system**
+    + fixation
+    + weathering
+    + deposition
+
+<br />
+
+* **Internal transfer (recycling)**
+    + food webs
+    + decomposition
+ 
+ <br />
+ 
+* **Loss of nutrients from system**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:450px; WIDTH:550px; HEIGHT:500px" SRC="images/nutrient_cycle1.png">
+
+## Carbon cycle: Ecosystems
+<hr>
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/carboncycle.png"> -->
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/tree_photosyn.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/ocean.jpg">
+
+## Carbon cycle: Global
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/carboncycle.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/carbon_cycle2.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:10px; LEFT:250px; WIDTH:600px; HEIGHT:700px" SRC="images/storedC.png">
+
+## Nitrogen cycle: Ecosystems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/Nitrogen-cycle2.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/n-fixers.png">
+
+## Nitrogen cycle: Ecosystems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/Nitrogen-cycle2.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/nitro_aquatic.png">
+
+## Decomposition
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/decomp.png">
+
+## Decomposition rate: Biomes
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/decomp_biomes.jpg"> 
+
+## Nutrient transfer: Soils
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/uptake.jpg">
+
+## Nitrogen cycle: Global
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/globalN.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/algalbloom.jpg">
+
+## Primary productivity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:400px; WIDTH:600px; HEIGHT:300px" SRC="images/biomass_pyramids.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:300px; HEIGHT:500px" SRC="images/GPP.gif">
+
+## Global net primary production
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/oceans_vs_land.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:450px; HEIGHT:225px" SRC="images/Global-Patterns-of-NPP.jpg">
+
+## Global net primary production
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:40px; WIDTH:350px; HEIGHT:500px" SRC="images/NPP_seasons.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/npp_biome.jpg">
+
+## Net primary production and global change
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg">
+
+<!-- ## Eutrophication -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/erie.jpg"> -->
+
+<!-- ## Net primary productivity of plants and global change -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg"> -->
+
+
+
+<!-- ## Internal transfer: Mycorrhizal and Roots - SOIL N -->
+<!-- <hr> -->
+<!-- <br /> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/root_diameter_biomes.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr2.jpg"> -->

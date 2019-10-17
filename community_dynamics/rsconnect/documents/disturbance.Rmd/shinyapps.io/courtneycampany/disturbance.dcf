@@ -1,0 +1,12 @@
+name: disturbance
+title: disturbance
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 303606
+bundleId: 1282731
+url: https://courtneycampany.shinyapps.io/disturbance/
+when: 1521733973.47436
+asMultiple: FALSE
+asStatic: FALSE

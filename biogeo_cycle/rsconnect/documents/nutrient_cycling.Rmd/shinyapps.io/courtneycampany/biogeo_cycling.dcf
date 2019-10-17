@@ -1,0 +1,12 @@
+name: biogeo_cycling
+title: biogeo_cycling
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 610812
+bundleId: 2046770
+url: https://courtneycampany.shinyapps.io/biogeo_cycling/
+when: 1556547760.66908
+asMultiple: FALSE
+asStatic: FALSE
