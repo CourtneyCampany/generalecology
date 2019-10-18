@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 603331
-bundleId: 2033730
+bundleId: 2512024
 url: https://courtneycampany.shinyapps.io/succession/
-when: 1556051244.4792
+when: 1571413292.42302
 asMultiple: FALSE
 asStatic: FALSE

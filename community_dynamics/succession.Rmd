@@ -91,13 +91,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **Natural vs Human caused distubance**
+* **Natural vs Human caused disturbance**
     + lightning, herbivory, flood
-    + mining, clearcutting
+    + mining, clear-cutting
 
 <br/>
 
-* **Maintains communites in non-equilbrium**
+* **Maintains communities in non-equilibrium**
 
 </div>
   
@@ -126,7 +126,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **Glacial retreat, mudflows, floodplains, lava flows**
+* **Glacial retreat, mud-flows, floodplains, lava flows**
 
 <br/>
 
@@ -233,7 +233,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/WUI.gif">
 
-## Study aid: Glaciar Bay Alaska succession
+## Study aid: Glacier Bay Alaska succession
 <hr>
 
 https://www.nps.gov/glba/learn/nature/succession.htm
