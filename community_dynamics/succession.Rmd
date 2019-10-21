@@ -43,9 +43,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:250px; HEIGHT:475px" SRC="images/species_eco.png">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:250; HEIGHT:250px" SRC="images/bear.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:575px; WIDTH:250; HEIGHT:250px" SRC="images/bear.jpg">
 
-<IMG STYLE="position:absolute; TOP:500px; LEFT:550px; WIDTH:250; HEIGHT:250px" SRC="images/seastar.jpg">
+<IMG STYLE="position:absolute; TOP:430px; LEFT:600px; WIDTH:250; HEIGHT:250px" SRC="images/seastar.jpg">
 
 ## Reintroduction of wolves in Yellowstone: Top down control
 <hr>
@@ -109,7 +109,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:800px; HEIGHT:400px" SRC="images/severity.png">
 
-## Severity of disturbance: frequency
+## Severity of natural disturbances: frequency
 <hr>
 <br/>
 
@@ -123,6 +123,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **After severe disturbances**
     + remove or bury biomass
+    + no soil
 
 <br/>
 
@@ -136,14 +137,14 @@ knitr::opts_chunk$set(echo = FALSE)
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/volcano.jpg">
 
-## Primary succession
+## Primary succession: Facilitators
 <hr>
 <br/>
 <br/>
 <br/>
 
 * **Initial Species composition:**
-    + nitrogen fixing plants
+    + nitrogen fixers
     + **Facilitation**
  
  <br/>
@@ -187,7 +188,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/pioneer.jpg">
 
-## Late succession: inhibition & tolerance increase
+## Late succession: inhibition & tolerance
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/succession1.png">
@@ -202,7 +203,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/boreal1.jpg">
 
-## Boreal forest: Secondary succesion
+## Boreal forest succesion: Aspen - Spruce - Cedar
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:700px; HEIGHT:300px" SRC="images/boreal3.jpg">
