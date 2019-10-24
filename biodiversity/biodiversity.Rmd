@@ -1,0 +1,291 @@
+---
+title: "Biodiversity"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/components.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/diversity_role.jpg">
+
+## Biodiversity as insurance
+<hr>
+
+<div class="item-absolute">**Diversity buffers against functional changes**</div>
+</div>
+
+<div class="item-absolute2">**No one species fills all the roles of an ecosystem**</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:150px; WIDTH:700px; HEIGHT:250px" SRC="images/redund.jpg">
+
+## Genetic diversity bottlenecked for bees
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:650px; HEIGHT:400px" SRC="images/bees.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/bees90percent.jpg">
+
+## Todays topic: Species Diversity
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Intricate webs of interacting organisms**
+    + 2,000,000 species are known 
+    + ~18,000 new species discovered per year
+    + estimated 87% of Eukaryotas unknown
+
+<br/>
+
+* **Reflects billions of ways organisms have adapted, over and over, to a changing planet**
+
+<br/>
+
+* **Humans relentlessly alter ecosystems**
+    + aquatic and terrestrial
+    + ~150 species go exticnt each day
+    
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:475px; HEIGHT:250px" SRC="images/animals_biodiverse.jpg">
+
+## Measuring biodiversity (richness,eveness and Simpson's)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:40px; WIDTH:600px; HEIGHT:300px" SRC="images/diversity_example.jpeg">
+
+<IMG STYLE="position:absolute; TOP:500px; LEFT:40px; WIDTH:600px; HEIGHT:200px" SRC="images/simpson-index.jpeg">
+
+<IMG STYLE="position:absolute; TOP:325px; LEFT:675px; WIDTH:350px; HEIGHT:250px" SRC="images/simpsons_ex.png">
+
+<!-- ## Species diversity is also a balance -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/amazon_new.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/extinction4.jpg"> -->
+
+## Species types
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/australia_species.jpg">
+
+## The march of the cane toad
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/canetoad.png">
+
+## Exotic vs Invasive
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250x; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/exotic.jpg">
+
+<IMG STYLE="position:absolute; TOP:250x; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/ninja_turtles.jpg">
+
+##  
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/non-native.png">
+
+## Species diversity declines from tropics
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
+
+## Species diversity declines at altitude
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/altitude.jpg">
+
+## Mapping biodiversity: Soils
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soil_biodiversity.jpg">
+
+## Mapping biodiversity: Oceans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/ocean_richness.jpg">
+
+## Ecoregions: Where biodiversity hotspots exists
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/ecoregions.jpg">
+
+<!-- ## Hotspots: Endemic freshwater fish in the USA -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/fish_endemics.jpg"> -->
+
+## Hotspots: Andean uplift and bird diversity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/andes2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/endemic_birds.jpg">
+
+## Hotspots: Endemic species of Madagascar
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/madagascar.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/madagascar2.jpg">
+
+<!-- ## Biodiversity hotspots: species -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/Biodiversity_Hotspots_Map.jpg" -->
+
+<!-- ## Mapping biodiversity: Plants -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_global.png" -->
+
+<!-- ## Mapping biodiversity: Animals -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/animals_biodiverse.jpg"> -->
+
+## Threats to biodiversity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/biodiversity_threats.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/crops.gif">
+
+## Invasive species are increasing
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Change physical and biotic environment**
+
+<br/>
+<br/>
+
+* **Aquatic ecosystems heavily affected**
+
+<br/>
+<br/>
+
+* **Impacts outweigh natural extinction rates**
+ </div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/invasives2.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/species_ship.jpg">
+
+##
+<IMG STYLE="position:absolute; TOP:25x; LEFT:150px; WIDTH:900px; HEIGHT:600px" SRC="images/ecoregion_status.jpg">
+
+## Ecoregions versus humans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png">
+
+## Homogenization
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Replacement of native species by exotics**
+    + invasives are highly competitive
+    + ecosystems lose their uniqueness
+
+<br/>
+
+* **Taxonomic homogenization**
+    + increased similarity of species
+    + plants, insect, fish, birds & mammals
+
+<br/>
+
+* **Biotic homogenization tied to humans**
+    + landscape simplification
+    + habitat loss
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/blender.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:75px; WIDTH:950px; HEIGHT:600px" SRC="images/newtree.jpg">
+
+<!-- ## Homogenization: USA? -->
+<!-- <hr> -->
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_diverse.png"> -->
+
+<!-- ## Biodiversity in a changing world -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biodiversity_redistribution.jpg"> -->
+
+## Historical: Megafauna Extinction
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/lostmega.jpeg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/cows.png">
+
+## Historical: Are we experiencing a new mass extinction?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png">
+
+## Extinction versus humans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humans_pop.gif">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
+
+<!-- ## The most vulnerable species -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:400px" SRC="images/animals_threat.jpg"> -->
+
+## How bad is it?  Balancing rates of speciation vs extinction 
+<hr>
+
+<div style="float: left; width: 50%;">
+
+* **Humans drive rapid evolution**
+    + relocation, domestication and hunting
+    + novel ecosystem creation
+
+<br/>
+
+* **During previous epoch: Holocene**
+    + extinction and speciation balanced
+    + Bull and Maron 2016
+
+<br/>
+
+* **Actual human influence on speciation rates not quantified**
+    + listed mechanisms above are known
+
+<br/>
+
+* **Is a 'no net less' conservation strategy acceptable to you?**
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:250px; HEIGHT:450px" SRC="images/thomas_book.jpg">
