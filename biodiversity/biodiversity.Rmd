@@ -33,7 +33,7 @@ runtime: shiny
 
 <!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/bees90percent.jpg"> -->
 
-## Todays topic: Species Diversity
+## Today's topic: Species Diversity
 <hr>
 <br/>
 
@@ -52,13 +52,13 @@ runtime: shiny
 
 * **Humans relentlessly alter ecosystems**
     + aquatic and terrestrial
-    + ~150 species go exticnt each day
+    + ~150 species go extinct each day
     
  </div>
  
 <IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:475px; HEIGHT:250px" SRC="images/animals_biodiverse.jpg">
 
-## Measuring biodiversity (richness,eveness and Simpson's)
+## Measuring biodiversity (richness,evenness and Simpson's)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:40px; WIDTH:600px; HEIGHT:300px" SRC="images/diversity_example.jpeg">
