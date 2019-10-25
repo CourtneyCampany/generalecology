@@ -26,12 +26,12 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:150px; WIDTH:700px; HEIGHT:250px" SRC="images/redund.jpg">
 
-## Genetic diversity bottlenecked for bees
-<hr>
+<!-- ## Genetic diversity bottlenecked for bees -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:650px; HEIGHT:400px" SRC="images/bees.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:650px; HEIGHT:400px" SRC="images/bees.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/bees90percent.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/bees90percent.jpg"> -->
 
 ## Todays topic: Species Diversity
 <hr>
@@ -181,7 +181,7 @@ runtime: shiny
 * **Impacts outweigh natural extinction rates**
  </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/invasives2.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/invasives3.png">
 
 ##
 
@@ -221,6 +221,13 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/blender.jpg">
 
+## Historical homogenization: Megafauna
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/lostmega.jpeg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/cows.png">
+
 ##
 
 <IMG STYLE="position:absolute; TOP:25px; LEFT:75px; WIDTH:950px; HEIGHT:600px" SRC="images/newtree.jpg">
@@ -233,13 +240,6 @@ runtime: shiny
 <!-- <hr> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biodiversity_redistribution.jpg"> -->
-
-## Historical: Megafauna Extinction
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/lostmega.jpeg">
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/cows.png">
 
 ## Historical: Are we experiencing a new mass extinction?
 <hr>
