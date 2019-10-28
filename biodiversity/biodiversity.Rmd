@@ -56,9 +56,9 @@ runtime: shiny
     
  </div>
  
-<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:475px; HEIGHT:250px" SRC="images/animals_biodiverse.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:575px; WIDTH:475px; HEIGHT:250px" SRC="images/animals_biodiverse.jpg">
 
-## Measuring biodiversity (richness,evenness and Simpson's)
+## Measuring biodiversity (e.g. Simpson's or Shannons index)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:40px; WIDTH:600px; HEIGHT:300px" SRC="images/diversity_example.jpeg">
@@ -127,9 +127,9 @@ runtime: shiny
 ## Hotspots: Andean uplift and bird diversity
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/andes2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/andes2.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/endemic_birds.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/endemic_birds.jpg">
 
 ## Hotspots: Endemic species of Madagascar
 <hr>
@@ -159,7 +159,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/crops.gif">
 
-## Invasive species are increasing
+## Threats: Invasive species are increasing
 <hr>
 <br/>
 <br/>
@@ -181,7 +181,7 @@ runtime: shiny
 * **Impacts outweigh natural extinction rates**
  </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/invasives3.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:425px; HEIGHT:400px" SRC="images/invasives3.png">
 
 ##
 
@@ -195,15 +195,15 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png">
 
-## Homogenization
+## Homogenization: ecosystems losing their uniqueness
 <hr>
+<br/>
 <br/>
 
 <div style="float: left; width: 55%;">
 
 * **Replacement of native species by exotics**
     + invasives are highly competitive
-    + ecosystems lose their uniqueness
 
 <br/>
 
@@ -221,7 +221,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/blender.jpg">
 
-## Historical homogenization: Megafauna
+## Homogenization: Megafauna
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/lostmega.jpeg">
@@ -241,7 +241,7 @@ runtime: shiny
 
 <!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biodiversity_redistribution.jpg"> -->
 
-## Historical: Are we experiencing a new mass extinction?
+## Are we experiencing a new mass extinction?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png">
@@ -263,10 +263,10 @@ runtime: shiny
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:400px" SRC="images/animals_threat.jpg"> -->
 
-## How bad is it?  Balancing rates of speciation vs extinction 
+## How bad is it? Rates of speciation vs extinction...
 <hr>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 60%;">
 
 * **Humans drive rapid evolution**
     + relocation, domestication and hunting
@@ -274,13 +274,13 @@ runtime: shiny
 
 <br/>
 
-* **During previous epoch: Holocene**
+* **During Holocene (past 11,000 yrs)**
     + extinction and speciation balanced
     + Bull and Maron 2016
 
 <br/>
 
-* **Actual human influence on speciation rates not quantified**
+* **Human influence on speciation rates not quantified**
     + listed mechanisms above are known
 
 <br/>
@@ -288,4 +288,4 @@ runtime: shiny
 * **Is a 'no net less' conservation strategy acceptable to you?**
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:250px; HEIGHT:450px" SRC="images/thomas_book.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:300px; HEIGHT:425px" SRC="images/thomas_book.jpg">

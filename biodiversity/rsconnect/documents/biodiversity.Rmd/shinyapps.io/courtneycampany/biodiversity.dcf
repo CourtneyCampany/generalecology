@@ -1,0 +1,12 @@
+name: biodiversity
+title: biodiversity
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 600588
+bundleId: 2544083
+url: https://courtneycampany.shinyapps.io/biodiversity/
+when: 1572272755.72323
+asMultiple: FALSE
+asStatic: FALSE
