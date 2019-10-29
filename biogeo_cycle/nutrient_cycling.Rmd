@@ -34,14 +34,14 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Importance of biogeochemical cycling
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/limitation_globe.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/limitation_globe2.png">
 
 ## Transfer, transformation and storage
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/n_forms.gif">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/n_forms.gif">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/storage.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/storage.jpg">
 
 ## Biogeochemical cycles: Global
 <hr>
@@ -113,7 +113,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Decomposition
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/decomp.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:10px; WIDTH:750px; HEIGHT:325px" SRC="images/decomp.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:775px; WIDTH:300px; HEIGHT:450px" SRC="images/decomposers.png">
 
 ## Decomposition rate: Biomes
 <hr>
@@ -159,22 +161,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg">
 
+## Net primary production and humans (HANPP)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/hanpp.png">
+
 <!-- ## Eutrophication -->
 <!-- <hr> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/erie.jpg"> -->
 
-<!-- ## Net primary productivity of plants and global change -->
-<!-- <hr> -->
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg"> -->
-
-
-
-<!-- ## Internal transfer: Mycorrhizal and Roots - SOIL N -->
-<!-- <hr> -->
-<!-- <br /> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/root_diameter_biomes.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr2.jpg"> -->
