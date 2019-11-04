@@ -56,9 +56,9 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: left; width: 40%;">
 
 * **Entry of nutrients into system**
-    + fixation
-    + weathering
-    + deposition
+    + fixation (bacteria)
+    + weathering (rocks)
+    + deposition (acid rain)
 
 <br />
 
@@ -79,9 +79,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/carboncycle.png"> -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/tree_photosyn.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/tree_photosyn.png">
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/ocean.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/ocean.jpg">
 
 ## Carbon cycle: Global
 <hr>
@@ -131,16 +131,16 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Nitrogen cycle: Global
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/globalN.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/globalN.png">
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/algalbloom.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/algalbloom.jpg">
 
 ## Primary productivity
 <hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:400px; WIDTH:600px; HEIGHT:300px" SRC="images/biomass_pyramids.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:415px; WIDTH:600px; HEIGHT:450px" SRC="images/plant_mass2.png">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:300px; HEIGHT:500px" SRC="images/GPP.gif">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:40px; WIDTH:300px; HEIGHT:500px" SRC="images/GPP.gif">
 
 ## Global net primary production
 <hr>
@@ -156,10 +156,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/npp_biome.jpg">
 
-## Net primary production and global change
-<hr>
+<!-- ## Net primary production and global change -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg"> -->
 
 ## Net primary production and humans (HANPP)
 <hr>
