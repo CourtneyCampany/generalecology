@@ -54,7 +54,7 @@ runtime: shiny
 
 https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/all/3/1880-2019
 
-## Last 5sevral years are the warmest ever recorded (Ed Hawkins)
+## Last several years are the warmest ever recorded (Ed Hawkins)
 <hr>
 <br/>
 <br/>
@@ -93,25 +93,26 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:610px; WIDTH:400px; HEIGHT:400px" SRC="images/irpop.jpg"> -->
 
-## Haber-Bosch process and human population
+## Haber-Bosch process (1909) and human population
 <hr>
 
-<IMG STYLE="position:absolute; TOP:255px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/haber2.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:75px; WIDTH:300px; HEIGHT:250px" SRC="images/haber2.jpg">
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:500px; WIDTH:550px; HEIGHT:325px" SRC="images/haber3.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/nitrohaber.png">
 
 
-## The Great acceleration
-<hr>
+## 
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:475px; HEIGHT:515px" SRC="images/socio_trends.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:475px; HEIGHT:515px" SRC="images/socio_trends.png"> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:475px; HEIGHT:515px" SRC="images/earth_trends.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:475px; HEIGHT:515px" SRC="images/earth_trends.png"> -->
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:600px" SRC="images/acceleration3.png">
 
 ## Greenhouse gases (ice cores)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:725px; HEIGHT:500px" SRC="images/icecore.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:900px; HEIGHT:450px" SRC="images/icecores3.jpg">
 
 <!-- ## Atmospheric heating (review) -->
 <!-- <hr> -->
@@ -158,7 +159,7 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/nitrous2.jpg"> -->
 
-## Land use and biogeochemical cycles: Carbon
+## Land use and biogeochemical cycles: Carbon sinks
 <hr>
  
 <IMG STYLE="position:absolute; TOP:230px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/landsink.gif">
@@ -170,7 +171,7 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/deforest.png">
 
-## Land use and biogeochemical cycles: Water
+## Land use and biogeochemical cycles: Water Scarcity
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/irrigation.png">
@@ -189,7 +190,7 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/oceanshell.jpg">
 
-## Biological effects of global change: Greener plants and oceans?
+## Biological effects of global change: Greener Earth?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg">
@@ -228,7 +229,7 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/greenline.jpg">
 
-## What should you do....
+## What should we do....
 <hr>
 <br/>
 <br/>
