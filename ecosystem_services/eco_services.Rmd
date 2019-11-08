@@ -22,12 +22,12 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ethics.jpg">
 
-## Where do we fit in?
-<hr>
+<!-- ## Where do we fit in? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/humansfood.jpeg">
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/humansfood.jpeg"> -->
 
-<IMG STYLE="position:absolute; TOP:230px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/trophic.png">
+<!-- <IMG STYLE="position:absolute; TOP:230px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/trophic.png"> -->
 
 ## 
 

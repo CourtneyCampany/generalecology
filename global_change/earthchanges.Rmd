@@ -1,0 +1,287 @@
+---
+title: "Changes in Earth Systems"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Whats in a name...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/globalchange.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:450px; HEIGHT:450px" SRC="images/anthropocene2.jpg">
+
+## Unprecedented warming and the 'Hockey stick' controversy
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/hockeystick.gif">
+
+## Current global change at unprecedented rates
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/GHE.png">
+
+## Review: Enhancing the greenhouse gas effect
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/CO2_history.jpg">
+
+## Dutch Elfstedentocht: February 1985
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/icerace1985.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/Elfstedentocht-1997.gif">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/anamoly.png">
+
+## NOAA: climate at a glance
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/all/3/1880-2019
+
+## Last 5sevral years are the warmest ever recorded (Ed Hawkins)
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+http://blogs.reading.ac.uk/climate-lab-book/files/2018/12/spiral_2018_WMO_large.gif
+
+## Physical impacts of climate change
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/seaice2.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/seaice.png">
+
+## Last 12 years are smallest sea ice extents (Ed Hawkins)
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
+
+
+##   
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/agri.jpg">
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:610px; WIDTH:400px; HEIGHT:400px" SRC="images/irpop.jpg"> -->
+
+## Haber-Bosch process and human population
+<hr>
+
+<IMG STYLE="position:absolute; TOP:255px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/haber2.jpg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:500px; WIDTH:550px; HEIGHT:325px" SRC="images/haber3.jpg">
+
+
+## The Great acceleration
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:475px; HEIGHT:515px" SRC="images/socio_trends.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:475px; HEIGHT:515px" SRC="images/earth_trends.png">
+
+## Greenhouse gases (ice cores)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:725px; HEIGHT:500px" SRC="images/icecore.png">
+
+<!-- ## Atmospheric heating (review) -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:160px; WIDTH:775px; HEIGHT:500px" SRC="images/atmos_warming.jpg"> -->
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/climate-people.png">
+
+## Greenhouse gases: Carbon dioxide (CO~2~)
+<hr>
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/greenhouse.png"> -->
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:425px; HEIGHT:400px" SRC="images/ca_sector.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/carbonbudget.jpg">
+
+##
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kCmwKbVFbWg?start=15" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/anthropogenic-co2-by-country.png"> -->
+
+## Greenhouse gases: Methane (CH~4~)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/methane.png">
+
+## In the news: Methane
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:350px; HEIGHT:450px" SRC="images/gnd.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:590px; HEIGHT:450px" SRC="images/methane.jpg">
+
+<!-- ## Nitrous oxide (N~2~O) -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:40px; WIDTH:400px; HEIGHT:450px" SRC="images/nitrous_source.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/nitrous2.jpg"> -->
+
+## Land use and biogeochemical cycles: Carbon
+<hr>
+ 
+<IMG STYLE="position:absolute; TOP:230px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/landsink.gif">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/carbonusa.png">
+
+## Land use and biogeochemical cycles: Energy & water
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/deforest.png">
+
+## Land use and biogeochemical cycles: Water
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/irrigation.png">
+
+## Land use and biogeochemical cycles: Nitrogen
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/eutro.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/erie.jpg">
+
+## Biological effects of global change: Oceans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/oceanph.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/oceanshell.jpg">
+
+## Biological effects of global change: Greener plants and oceans?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg">
+
+
+## Biological effects of global change: Homogenization
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/extinction4.jpg"> 
+
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:575px; WIDTH:500px; HEIGHT:250px" SRC="images/humans_pop.gif"> -->
+
+<!-- ## Ecoregions versus humans -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200x; LEFT:200px; WIDTH:450px; HEIGHT:450px" SRC="images/ecoregion.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png"> -->
+
+<!-- ## -->
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg"> -->
+
+<!-- ## -->
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png"> -->
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/climatepeople.jpg">
+
+<!-- ## Biological effects of global change: People -->
+<!-- <hr> -->
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/foodinsecurity.png"> -->
+
+## Is 1.5C target of the Paris Climate Agreement reachable?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/greenline.jpg">
+
+## What should you do....
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **If CO~2~ emissions stopped today:**
+    + 50% absorbed by land/water in 30 yrs
+    + 30% in atmosphere for centuries
+    + 20% in atmosphere for 1000 yrs
+
+<br/>
+
+* **Future warming is inevitable**
+    + land sinks uncertain
+    + ocean sinks weakening
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/nasa.png">
+
+## What should you do
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/cow.jpg">
+
+<!-- ## Climate and Weather changes -->
+<!-- <hr> -->
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/extreme.jpg"> -->
+
+<!-- ## Extremes - Heat Waves -->
+<!-- <hr> -->
+
+<!-- <div class="centered"><span style="color:red"> -->
+<!-- Almost everywhere these heat waves are now warmer than a century ago -->
+<!-- </span></div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/heatwaves.png"> -->
+
+<!-- ## Extremes - Precipitation in the USA -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/downpours.jpg"> -->
+
+<!-- ## Extremes - Precipitation in the USA -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/soil_moisture.jpg"> -->
+
+<!-- ## Ocean evaporation going up -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/oceanevap.jpg"> -->

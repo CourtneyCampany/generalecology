@@ -1,0 +1,18 @@
+name: globalchange
+title: globalchange
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 614397
+<<<<<<< HEAD
+bundleId: 2079141
+url: https://courtneycampany.shinyapps.io/globalchange/
+when: 1557703070.93542
+=======
+bundleId: 2052541
+url: https://courtneycampany.shinyapps.io/globalchange/
+when: 1556715960.08465
+>>>>>>> 3dd5da066a6db1a06df51eb508af2cd58e71bddb
+asMultiple: FALSE
+asStatic: FALSE
