@@ -37,9 +37,9 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/Elfstedentocht-1997.gif">
 
-## 
+##
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/anamoly.png">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/anamoly2.png">
 
 ## NOAA: climate at a glance
 <hr>
@@ -107,7 +107,7 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:475px; HEIGHT:515px" SRC="images/earth_trends.png"> -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:600px" SRC="images/acceleration3.png">
+<IMG STYLE="position:absolute; TOP:125px; LEFT:175px; WIDTH:731px; HEIGHT:477px" SRC="images/acceleration3.png">
 
 ## Greenhouse gases (ice cores)
 <hr>
@@ -176,7 +176,7 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/irrigation.png">
 
-## Land use and biogeochemical cycles: Nitrogen
+## Land use and biogeochemical cycles: Nutrients
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/eutro.png">
@@ -233,7 +233,6 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 45%;">
 
@@ -248,6 +247,10 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
     + land sinks uncertain
     + ocean sinks weakening
 
+<br/>
+
+* **Response options?**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/nasa.png">
@@ -255,7 +258,9 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 ## What should you do
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/cow.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:780px; HEIGHT:430px" SRC="images/cow.jpg">
+
+<IMG STYLE="position:absolute; TOP:325px; LEFT:850px; WIDTH:200px; HEIGHT:200px" SRC="images/foot.jpg">
 
 <!-- ## Climate and Weather changes -->
 <!-- <hr> -->
