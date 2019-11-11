@@ -13,22 +13,22 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/globalchange.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:450px; HEIGHT:450px" SRC="images/anthropocene2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:595px; WIDTH:500px; HEIGHT:450px" SRC="images/words.jpg">
 
 ## Unprecedented warming and the 'Hockey stick' controversy
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/hockeystick.gif">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:850px; HEIGHT:500px" SRC="images/hockeystick.gif">
 
 ## Current global change at unprecedented rates
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/GHE.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/CO2_history.jpg">
 
 ## Review: Enhancing the greenhouse gas effect
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/CO2_history.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/GHE.png">
 
 ## Dutch Elfstedentocht: February 1985
 <hr>
@@ -70,9 +70,9 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2018/12/spiral_2018_WMO_large.
 ## Physical impacts of climate change
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/seaice2.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:550px; HEIGHT:400px" SRC="images/seaice2.png">
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/seaice.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/seaice.png">
 
 ## Last 12 years are smallest sea ice extents (Ed Hawkins)
 <hr>
@@ -128,13 +128,13 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/greenhouse.png"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:425px; HEIGHT:400px" SRC="images/ca_sector.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:475px; HEIGHT:400px" SRC="images/ca_sector.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/carbonbudget.jpg">
 
-##
+<!-- ## -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kCmwKbVFbWg?start=15" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/kCmwKbVFbWg?start=15" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 <!-- ## -->
 
