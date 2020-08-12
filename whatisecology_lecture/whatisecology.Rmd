@@ -1,16 +1,17 @@
 ---
-title: "General Ecology Day 1"
+title: "What is Ecology?"
 output: 
   ioslides_presentation:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## About me
 <hr>
 <br/>
+<br />
+<br />
 <br />
 <br />
 
@@ -21,24 +22,8 @@ runtime: shiny
 
 * www.courtneycampany.com  
 
-<br />
-
-* **Extra Credit**: .5 point final grade
-  + Come see me by Friday
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:410px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
-
-## Syllabus, Sakai and Textbook
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br />
-
-https://courses.shepherd.edu/portal/
 
 ## This semester we will practice being an ecologist
 <hr>
@@ -47,10 +32,6 @@ https://courses.shepherd.edu/portal/
 
 ## This semester we will ....
 <hr>
-<br/>
-<br/>
-<br/>
-
 <div style="float: left; width: 50%;">
 * **Immerse ourselves in weekly ecological themes**
     + lecture
@@ -63,15 +44,12 @@ https://courses.shepherd.edu/portal/
 
 <br/>
 
-* **Build your own experiment**
+* **Run ecological experiments**
 
-</div>
-
-<div style="float: right; width: 50%;">
+<br/>
 
 * **SOLVE a major ecological issue!**
 
-<br/>
 <br/>
 
 * **Practice communicating science**
@@ -79,10 +57,40 @@ https://courses.shepherd.edu/portal/
    
 </div>
 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/ecologist2.jpg">
+
 ## What is ecology (textbook)?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ecologypic.jpg">
+
+## What is ecology (textbook)?
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/earth.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **Relations of organisms to one another and to their physical surroundings**
+    + living and non-living components
+
+<br/>
+
+* **(1) Distribution and abundance of organisms**
+
+
+<br/>
+
+
+* **(2) Interactions among organisms**
+
+<br/>
+
+* **(3) Transformation and flux of energy and matter**
+    
+</div>
 
 ## Ecology spans many scales
 <hr>
@@ -97,26 +105,24 @@ https://courses.shepherd.edu/portal/
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/vultures.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/vultures.png">
 
 ##
 
 <IMG STYLE="position:absolute; TOP:10px; LEFT:250px; WIDTH:600px; HEIGHT:680px" SRC="images/data_prarie.png">
 
-## What is the central need for the goals of an ecologist?
+## What is the central need for ecology?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/datatypes.png">
 
-## For Wednesday (journal) and Friday (data day)
+## For Journal Club this week....
 <hr>
-<br/>
-<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
 
-* **Read "100 articles every ecologist should read""**
+* **Read "100 articles every ecologist should read"**
     + article and cheat sheet on SAKAI
 
 <br/>
@@ -127,29 +133,12 @@ https://courses.shepherd.edu/portal/
     + Is there a take home message?
     + Is there anything you don't understand?
 
-</div>
+<br/>
 
-<div style="float: right; width: 50%;">
 * **Pay attention to little details**
     + Are there any patterns you see?
     + Do you detect any issues?
+    
 </div>
 
-## For lab this week
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-
-* **Grand Challenge Assignment**
-    + meet teammates
-    + brainstorm
-    + divide and conquer
-    
-<br/>
-    
-* **Basics in Excel**
-    + bring laptop
-    
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/excel.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/100.png">
