@@ -13,6 +13,11 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Earth's Energy Budget and Water Cycle
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/world1.jpg">
+
 ## What makes up the BIOSPHERE?
 <hr>
 
@@ -236,10 +241,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/water_sphere.jpg">
 
-## Changing water cycle
-<hr>
+<!-- ## Changing water cycle -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:190px; WIDTH:700px; HEIGHT:500px" SRC="images/people_climate.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:190px; WIDTH:700px; HEIGHT:500px" SRC="images/people_climate.jpg"> -->
 
 ## Groundwater now supports 40% of modern agriculture
 <hr>

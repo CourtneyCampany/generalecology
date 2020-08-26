@@ -5,8 +5,7 @@ output:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
---- 
+---
 
 ## The Yin and Yang: Swallowtail butterflies
 <hr>
@@ -32,6 +31,7 @@ runtime: shiny
 * **Species**:
 
     >- group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding successfully
+    
 <br/>
 
 * **Evolution by Natural Selection**: 
@@ -50,7 +50,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/generational_time.png">
 
-## Evolution by **Natural Selection**: Darwin and Wallace
+## Evolution by **Natural Selection**: Darwin and others
 <hr>
 <br/>
 <br/>
@@ -243,13 +243,13 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:450px; HEIGHT:450px" SRC="images/angio.gif">
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve.JPG">
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve.JPG"> -->
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve2.jpg"> -->
 
 ## Ecological speciation
 <hr>

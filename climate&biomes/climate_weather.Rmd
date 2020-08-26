@@ -6,8 +6,12 @@ output:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
+
+## Climate and the Earth's Biomes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:350px; WIDTH:450px; HEIGHT:450px" SRC="images/earth_climate.jpg">
 
 ## Climate vs Weather
 <hr>
@@ -151,7 +155,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 ## Climate and ecology questions are scale dependent
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:900px; HEIGHT:450px" SRC="images/scale.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/scale.png">
 
 ## Ocean Biomes: Depth, light and nutrients
 <hr>
@@ -165,11 +169,11 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/coastal1.jpg">
 
-## Deep Ocean: Subtropical Gyres
-<hr>
-<br />
+<!-- ## Deep Ocean: Subtropical Gyres -->
+<!-- <hr> -->
+<!-- <br /> -->
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/gyres.png">
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/gyres.png"> -->
 
 ## How does climate impact ecology?
 <hr>
