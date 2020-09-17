@@ -24,11 +24,16 @@ runtime: shiny
 
 * **Timing of critical life stages can be triggered by external environmental clues**
     + seasonal temperature change,
-    + photoperiod (day length)
+    + photo period (day length)
     + precipitation
+ 
+<br/>
+
+* **An important component of the culture of many indigenous communities** 
+    
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:300px; HEIGHT:300px" SRC="images/aboriginal_calendar.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/aboriginal_calendar.jpg">
     
 ## Global Change and Phenology
 <hr>
@@ -36,66 +41,82 @@ runtime: shiny
 <br/>
 <br/>
 
-* **Shifts in weather patterns and/climate can alter an organism's phenology** 
-    + Species that interact may no longer be synced
+<div style="float: left; width: 50%;">
+
+* **Shifts in climate can alter an organism's phenology** 
 
 <br/>
 
-* **Flowering times and insect emergence are a great example**
-    + insect and plant species life cycles connected
+* **Insect and plant life cycles are connected**
+    + e.g. flowering and insect emergence 
 
 <br/>
 
-* **What happens when their interactions become mismatched?**
+* **What happens when species interactions become mismatched?**
 
-## Environmental triggers are changing (climate)
-<hr>
+</div>
 
-<IMG STYLE="position:absolute; TOP:165px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/springtime.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/lifecycle.gif">
 
-## Environmental triggers alter phenology
-<hr>
+##
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/bloomdate.png">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/springtime.jpg">
+
 
 ## Scheduling the DC Cherry Blossum Festival
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cherrytime.png">
-    
-## Goal today: Phenology from the plants perspective
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/blooms.png">
+
+## Phenology from the plants perspective
 <hr>
 <br/>
 <br/>
+<br/>
+<br/>
 
-* **Which is more important for plant reproduction and success?**
+**Question: Which is more important for plant reproduction and success?**
 
 <br/>
 
 **Flowering time as a function of temperature changes**
   
-  <br/>
-  
+<br/>
 **or**
 
 <br/>
+**Timing of butterfly adult flights**
 
-**Timing of butterfly adult flights in Bristish Columbia**
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:300px; HEIGHT:300px" SRC="images/butterfly_emerge.jpg">
 
-## DATA SETS
+<IMG STYLE="position:absolute; TOP:300px; LEFT:760px; WIDTH:300px; HEIGHT:300px" SRC="images/butterfly_emerge.jpg">
+
+## Data: Modified from  Kharouba and Vellend, 2015
 <hr>
 <br/>
 
-* **Go to Sakai > Resources > Data Fridays > and open the excel file labeled “Phenology_student_data"**
+* **Go to Sakai > Open the excel file labeled “Phenology_student_data"**
+    + link in Week 4 To Do list
 
 <br/>
 
-* **Read the “Metadata” tab to understand what datasets you have available to explore our question**
+* **Read the “Metadata” tab to understand what datasets you have available to explore**
+
+<br/>
+
+* **Dataset:  Temperature sensitivity of the timing of adult flight in butterflies vs. flowering of their potential nectar food plants in British Columbia, Canada.**
+    + many butterfly species
+    + day of first flight
+    + climate data
 
 ## Understanding changes in butterfly phenology
 <hr>
+<br/>
+<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
