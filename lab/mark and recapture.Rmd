@@ -1,0 +1,148 @@
+---
+title: "Mark and Recapture"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Estimating population sizes can be tricky
+<hr>
+<br/>
+
+* **Various techniques based on biology of organism**
+    + enumeration method: capture all animals
+    + population surveys: deer counts
+
+<br/>
+
+* **Many organisms are not easy to count in a straightforward was**
+    + aquatic organisms
+    + small animals
+    + elusive animals
+
+<br/>
+
+* **Often we use indirect methods to calculate population size**
+
+## Depletion method (DeLury)
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Popular for fish estimates**
+
+<br/>
+
+* **Methods relies on:**
+    + CPUE: Catch per unit effort
+    + Cumulative catch
+
+<br/>
+
+* **The X intercept gives an approximate measure of population size.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/delury.gif">
+
+## Assumptions of DeLury method
+<hr>
+
+* **Catchability remains the same**
+
+<br/>
+
+* **Intensity of effort stays the same**
+    + methods of capture do not interfere
+    
+<br/>
+
+* **Population is constant**
+    + no recruitment or immigration
+    + no births or deaths
+
+<br/>
+
+* **All organisms are equally vulnerable to capture**
+
+<br/>
+
+* **Linear line describes the data!**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/delury.gif">
+
+## Mark and Re-capture method
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/markrecapture.jpeg">
+
+## Lincoln-Peterson index
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:600px; HEIGHT:350px" SRC="images/lincoln.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/tag.jpg">
+
+## Assumptions of Mark and Re-Capture
+<hr>
+
+* **All organisms are equally vulnerable to capture**
+
+<br/>
+
+* **Marked individuals are randomly dispersed**
+
+<br/>
+
+* **Individuals with marks have the same probability of survival**
+
+<br/>
+
+*  **Marks do not come off**
+
+<br/>
+
+* **Recapture rates are high enough to support an accurate estimate**
+
+<br/>
+
+* **Population is constant**
+    + no recruitment or immigration
+    + no births or deaths
+    
+<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:250px; HEIGHT:250px" SRC="images/snails.png">
+
+## Water Strider Biology
+<hr>
+
+<div style="float: right; width: 48%;">
+
+* **Predatory insects that skate on the surface of slow-moving water**
+
+<br/>
+
+* **To mobile to count easily**
+
+<br/>
+
+* **Not overly difficult to catch with nets**
+    + Delury method possible
+
+<br/>
+
+* **Thorax large enough to mark**
+    + Mark Re-Capture possible
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/striders.jpg">
+
+## Open up the excel file!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/townrun.jpg">
