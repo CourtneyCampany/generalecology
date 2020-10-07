@@ -1,12 +1,10 @@
 ---
 title: "Population, Birth, Death & Movement"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## WHAT: Defining a population can be tricky
@@ -32,7 +30,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/aphid.jpg">
 
-## WHY: understanding population structure (aka Demography)?
+## WHY: Understanding population structure (Demography)
 <hr>
 <br/>
 <br/>
@@ -45,7 +43,7 @@ runtime: shiny
     
 <br/>
 
-* **Understanding the results of interactions in ecology**
+* **describes the results of interactions**
  
 <br/>
  
@@ -54,7 +52,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:640px; WIDTH:400px; HEIGHT:300px" SRC="images/baldeagle.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/baldeagle.png">
 
 ## Case Study: Deer population size
 <hr>
@@ -126,7 +124,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/homerange.jpg">
 
-## Life History: more than just birth and death
+## Life History: More than just birth and death
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/life_cycle_generic.png">
@@ -151,7 +149,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/desertflower.jpg">
 
-## Life History: growth vs making babies conflict
+## Life History: Growth vs making babies conflict
 <hr>
 <br/>
 <br/>
@@ -208,7 +206,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/wood_thrush.png">
 
-## Populations dynamics: monitoring birth and death
+## Populations dynamics: Monitoring birth and death
 <hr>
 <br/>
 <br/>
@@ -230,7 +228,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/life_table1.png">
 
-## r/K selection theory: growth and reproduction strategies
+## r/K selection theory: Growth and reproduction strategies
 <hr>
 <br/>
 <br/>
@@ -248,7 +246,7 @@ runtime: shiny
 
 * **These are the 2 ends of a spectrum**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/survivorship_curve2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/survivorship_curve2.jpg">
 
 ## 
 
@@ -257,7 +255,7 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:275px; LEFT:625px; WIDTH:400px; HEIGHT:150px" SRC="images/rvsk.jpeg">
 
 
-## Populations dynamics: movement (dispersal and migration)
+## Populations dynamics: Movement (dispersal and migration)
 <hr>
 <br/>
 
@@ -265,7 +263,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/cornworm.png">
 
-## Populations with unlimited resources: exponential growth
+## Populations with unlimited resources: Exponential growth
 <hr>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:15px; WIDTH:425px; HEIGHT:200px" SRC="images/elephant.png">
@@ -298,7 +296,7 @@ runtime: shiny
 ## Population cycles
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/isle_royale.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/isle_royale.png">
 
 
 

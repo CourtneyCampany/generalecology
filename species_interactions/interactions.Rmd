@@ -132,7 +132,8 @@ runtime: shiny
 
 <div style="float: right; width: 60%;">
 
-* **Spatial heterogeneity: resources are variable in an environment**
+* **Resources are variable/limiting in an environment**
+    + leads to symmetric competition
 
 <br/>
 
@@ -185,8 +186,7 @@ runtime: shiny
 
 <br/>
 
-* **Species sharing one niche dimension may differ along another (<ins>niche complementarity</ins>)**
-    + temporal separation
+* **Co-existing species can overlap by using different forms of resources (niche complementarity)**
 
 </div>
 

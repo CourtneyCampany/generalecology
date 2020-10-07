@@ -1,5 +1,5 @@
 ---
-title: "Mark and Recapture"
+title: "Estimating Population Size"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -12,12 +12,12 @@ output:
 <br/>
 
 * **Various techniques based on biology of organism**
-    + enumeration method: capture all animals
+    + enumeration method: capture and count all animals
     + population surveys: deer counts
 
 <br/>
 
-* **Many organisms are not easy to count in a straightforward was**
+* **Most organisms are not easy to count in a straightforward way**
     + aquatic organisms
     + small animals
     + elusive animals
@@ -119,6 +119,9 @@ output:
 
 ## Water Strider Biology
 <hr>
+<br/>
+<br/>
+<br/>
 
 <div style="float: right; width: 48%;">
 
@@ -131,7 +134,7 @@ output:
 <br/>
 
 * **Not overly difficult to catch with nets**
-    + Delury method possible
+    + DeLury method possible
 
 <br/>
 

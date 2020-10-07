@@ -20,8 +20,8 @@ runtime: shiny
 
 <br/>
 
-* **Cohort life table: Follows a cohort across time**
-    + difficult long-lived and/or highly mobile animals
+* **Cohort life table: Follows individuals across time**
+    + difficult for long-lived and/or mobile animals
 
 <br/>
 
@@ -54,18 +54,18 @@ runtime: shiny
 
 <br/>
 
-* **Survivorship x Birthrate (R): # of female young produced per individual**
-    + net reproductive rate (age class)
+* **Net reproductive rate(R): Survivorship x Birthrate (age class)**
+    + some will die without making offspring
     
 ## Survivorship curves: log(l~x~) versus cohort age
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/survivor.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/survivor.png">
 
 ## Survivorship curves: constructed for a cohort from life table
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/survivorship_curve2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/survivorship_curve2.jpg">
 
 ## Verreaux’s Sifakas Lemurs
 <hr>
@@ -84,7 +84,8 @@ runtime: shiny
 <br/>
 
 * **Females have just one infant at a time**
-    + Relative to other mammals of their size, female sifakas reach reproductive maturity later and live longer
+    + Relative similar sized mammals, female sifakas reach reproductive maturity later and live longer
+    + R vs K selected species?
     
 <IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:300px; HEIGHT:200px" SRC="images/verreauxs_sifaka.jpg">
 
@@ -98,15 +99,15 @@ runtime: shiny
 
 * **1984 – 1999: Captured 426 animals**
     + Each animal tagged and aged based on tooth wear
-    + Recorded sex, survival and fertility through time
+    + Recorded gender, survival and fertility through time
     + No females under 3 years old gave birth.
 
 <br/>
 
-* **Today we will complete a static life stable to determine whether this threatened population is at risk of extinction**
+* **Today we will complete a static life stable (1999) to determine whether this threatened population is at risk of extinction**
 
 
-## Estimating Fecundity (m~x~)
+## Q1. Estimating Fecundity (m~x~)
 <hr>
 <br/>
 <br/>
@@ -126,7 +127,8 @@ runtime: shiny
 <br/>
 <br/>
 
-* **Life tables often include only data for females, as females limit reproduction, and hence population growth**
+* **Life tables often include only data for females, as females limit reproduction**
+    + males do not grow a population
 
 <br/>
 
@@ -174,4 +176,4 @@ runtime: shiny
 * **Population growth parameter (R~o~): Sum of Survivorship x Fecundity**
     + net reproductive rate
     + if R~o~ > 1, population is growing
-    + R~o~ = 2.5 = a lemur produces 2.5 baby lemurs on average in a lifetime
+    + R~o~ = 2.5 = a female produces 2.5 baby lemurs on average in a lifetime
