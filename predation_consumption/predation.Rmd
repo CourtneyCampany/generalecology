@@ -1,12 +1,10 @@
 ---
 title: "Predation"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Defining Predation
@@ -36,25 +34,30 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:400px; HEIGHT:250px" SRC="images/parasitoid1.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:15px; WIDTH:400px; HEIGHT:250px" SRC="images/parasitoid1.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:400px; WIDTH:650px; HEIGHT:450px" SRC="images/parasitoid_lifecyle.jpeg">
+<IMG STYLE="position:absolute; TOP:450px; LEFT:15px; WIDTH:400px; HEIGHT:200px" SRC="images/parasitic-wasps.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:425px; WIDTH:650px; HEIGHT:450px" SRC="images/parasitoid_lifecyle.jpeg">
 
 ## Predator behavior
 <hr>
-<br/>
 <br/>
 
 <div style="float: right; width: 60%;">
 
 * **Behaviors to capture prey differ vastly**
-    + consumption rate
+    + *consumption rate*: average quantity consumed over a time interval
 
 <br/>
 
 * **True predators and grazers are mostly foragers**
     + searching (active)
     + sit and wait (passive)
+    
+<br/>
+
+* **Prey behavior (evasiveness) impacts consumption rate**
 
 <br/>
 
@@ -92,7 +95,7 @@ runtime: shiny
 
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:225px; WIDTH:700px; HEIGHT:500px" SRC="images/oystercatcher.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:800px; HEIGHT:600px" SRC="images/oystercatcher.png">
 
 ## Optimal foraging should be related to density
 <hr>
@@ -205,7 +208,7 @@ runtime: shiny
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:250px; WIDTH:700px; HEIGHT:500px" SRC="images/parasite_host_pop.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:800px; HEIGHT:600px" SRC="images/parasite_host_pop.png">
 
 ## Impacts of predation on populations is complex...
 <hr>
@@ -311,10 +314,10 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/predatorpreyisoclintes2.png">
 
-## Leftover questions: What does the prey eat?
-<hr>
+<!-- ## Leftover questions: What does the prey eat? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/rabbit.png">
+<!-- <IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/rabbit.png"> -->
 
 ## Leftover questions: Are predator-prey cycles that simple?
 <hr>
