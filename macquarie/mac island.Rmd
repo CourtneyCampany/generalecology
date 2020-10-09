@@ -10,8 +10,9 @@ output:
 ## Macquarie Island ecosystem
 <hr>
 <br/>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 65%;">
 
 * **Macquarie island is part of the state of Tasmania**
     + UNESCO world heritage site
@@ -20,8 +21,7 @@ output:
 <br/>
 
 * **Important ecosystems to conserve**
-    + breeding grounds for elephant seals
-    + bredding grounds for royal penguins
+    + breeding grounds for elephant seals, penguins and birds
     
  <br/>
  
@@ -30,7 +30,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:570px; WIDTH:500px; HEIGHT:450px" SRC="images/macisland2.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/macisland2.jpg">
 
 
 ## The sealing era: Captain Frederick Hasselborough
@@ -65,14 +65,15 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
-* **Any place on earth, at the time, visited by ships likely introduced rats**
+* **Any place on earth, at the time, visited by ships likely face rat introductions**
 
 <br/>
 
-* **Macquarie island had no rodent before seal hunting**
+* **Macquarie island had no rodents before seal hunting**
 
 <br/>
 
@@ -80,7 +81,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/rats.jpg">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:620px; WIDTH:450px; HEIGHT:350px" SRC="images/rats.jpg">
 
 ## Any good seafarer knows how to control rats...
 <hr>
@@ -94,18 +95,19 @@ output:
 
 <br/>
 
-* **Within 10 years, large feral cats on the island**
+* **Within 10 years, large feral cats populations**
     + Unfortunately, cats eat more than rats....
     
 <br/>
+<br/>
 
-* **The Otago Whaling Company also released rabbits in 1870**
-    + food source for workers
+* **The Otago Whaling Company also released rabbits**
+    + food source for workers in 1870
     + rabbits share niche with sea birds...
  
  </div>
  
-<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/cats.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/cats.jpg">
 
 ## 1970: Scientists decided to fix things (sigh)
 <hr>
@@ -114,11 +116,12 @@ output:
 
 * **Ecosystem was wrecked**
     + Seals & penguins were recovering
-    + Rbbits were everywhere
+    + Rabbits were everywhere
 
 <br/>
 
-* **Scientists introduced Myxoma (via fleas) a fatal rabbit virus**
+* **Scientists introduced Myxoma (via fleas)**
+    + fatal rabbit virus
     + reduced rabbits fro 130,000 - 10,000
     + but........
 
@@ -129,7 +132,7 @@ output:
 <br/>
 
 * **Hunting dogs were used to kill the cats**
-    + the rabbits were still around.....
+    + some rabbits were still around.....
 
 </div>
 
@@ -139,8 +142,9 @@ output:
 <hr>
 <br/>
 <br/>
+<br/>
 
-<div style="float: left; width: 60%;">
+
 
 * **Use the integrated diagrams to unpack species interactions on the island**
     + petrel, prion, shearwaters and wekas are all birds
@@ -148,9 +152,13 @@ output:
 
 <br/>
 
-* **Work together to understand the new plan hathed in 2010:**
+* **These graphs are complex, so collaborate to find answers**
+
+<br/>
+
+* **Work together to understand the new plan hatched in 2010:**
     + eliminate all invasive species at one time
 
-</div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:700px; WIDTH:300px; HEIGHT:175px" SRC="images/seabird4.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:725px; WIDTH:300px; HEIGHT:175px" SRC="images/seabird4.jpg">
