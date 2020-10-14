@@ -1,0 +1,120 @@
+---
+title: "Wolf Spider foraging"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Animal foragers
+<hr>
+<br/>
+
+**Which forager type would typically get the best balance of nutrients from their food?**
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/animals.png">
+
+## Carnivore foraging
+<hr>
+
+* **Carnivore prey items contain essentially the same mix of nutrients**
+    + unlike herbivore and omnivores
+* **Foraging success is assumed to be limited by prey availability (quantity)**
+    + Rather than nutritional balance (quality).
+ 
+<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/hare_lynx_graph.png">
+
+## Carnivore Foraging: Quanitity vs Quality
+<hr>
+
+* **Food quantity driving consumption rates, and thus predator-prey populations, is often challenged**
+    + Lotka Voltera vs Optimal Foraging
+    
+<IMG STYLE="position:absolute; TOP:250px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/honeybee.jpg">   
+    
+## Case study #1: Wolf spiders, prey quality and consumption
+<hr>
+
+<div style="float: left; width: 60%;">
+* **Wolf spider feeds near standing water in California (Greenstone 1979)**
+    + 80% of the diet is shore flies, water boatmen and mosquitoes
+ 
+ <br />
+ 
+* **Prey species were marked as either present or absent in each spider gut**
+    + spiders classified into groups (answer Q1)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:700px; WIDTH:350px; HEIGHT:250px" SRC="images/wolffeed.jpg">  
+
+<IMG STYLE="position:absolute; TOP:390px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/groups.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/pools.png">
+
+##
+<br />
+<br />
+<br />
+<br />
+
+<div style="float: left; width: 50%;">
+
+* **Spider stomach contents (total N = 1226) from 13 different pools of water**
+
+<br />
+<br />
+
+* **Spiders from 7 out of 13 pools were more likley than by chance to have consumed all 3 prey**
+    + polyphagy
+    
+<br />
+
+* **Side note: Can you imagine making graphs without modern computers!!!**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:575px; WIDTH:400px; HEIGHT:600px" SRC="images/greenwood.png">
+
+## Leveling up with Mayntz et al. 2005
+<hr>
+<br />
+
+* **Hypothesis: IF wolf spiders optimize nutrient intake, THEN they should choose a prey type that remedies a prior nutritional deficiency**
+    + experiment manipulating findings from Greenwood (1979)
+
+<br />
+
+* **Nutritional state of the Wolf spiders manipulated by feeding them a pre-treatment diet**
+    + fruit flies with high or low ratio of protein to lipid for 1-2 days. 
+
+
+<br />
+
+* **Then tested feeding responses to the pre-treatment food and/or a complementary alternative**
+    + offered only 1 choice (same or different prey)
+    + recorded how much of each was eaten
+    + Answer Question 3
+
+## Leveling up with Mayntz et al. 2005 (answer Questsion 4)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:750px; HEIGHT:450px" SRC="images/method.png">
+
+## Today Quantitative Reasoning Practice
+<hr>
+<br />
+<br />
+
+* **In your groups, work through interpretation of the results from these papers**
+
+<br />
+
+* **Use your knowledge of species interactions and evolution to theorize about more complex predator-prey relationships**
+
+<br />
+
+* **These are great practice exam questions!!!**

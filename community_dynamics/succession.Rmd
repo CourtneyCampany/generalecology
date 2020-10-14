@@ -5,7 +5,6 @@ output:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
@@ -38,10 +37,32 @@ knitr::opts_chunk$set(echo = FALSE)
         
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/interaction.jpg"> 
 
+## Diverse communities broaden ecosystem function
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Species occur together**
+    + not all perfectly adapted
+    + networks of trophic interactions
+    + ecosystems work better as a group
+
+<br/>
+
+* **Ecosystems work better as a group**
+    + No single species performs all roles
+    + larger threshold of environmental conditions
+    + fosters ecosystem resilience (ball & cup model)
+ </div>   
+        
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/ballcup.png"> 
+
 ## Not all species are created equal
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:250px; HEIGHT:475px" SRC="images/species_eco.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:275px; HEIGHT:500px" SRC="images/species_eco.png">
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:575px; WIDTH:250; HEIGHT:250px" SRC="images/bear.jpg">
 
@@ -210,10 +231,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:200px; HEIGHT:200px" SRC="images/jackpine.jpg">
 
-## Boreal forest: Secondary succesion
-<hr>
+<!-- ## Boreal forest: Secondary succesion -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/boreal_wildlife.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/boreal_wildlife.jpg"> -->
 
 ## The future of boreal forests
 <hr>
@@ -222,20 +243,25 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/boreal4.gif">
 
-## Disturbance regimes of Giant Sequoia forests
-<hr>
+<!-- ## Disturbance regimes of Giant Sequoia forests -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:450px; HEIGHT:400px" SRC="images/fire-sequoia.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:450px; HEIGHT:400px" SRC="images/fire-sequoia.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:674px; WIDTH:300px; HEIGHT:500px" SRC="images/fire-sequoia2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:674px; WIDTH:300px; HEIGHT:500px" SRC="images/fire-sequoia2.jpg"> -->
 
-## Fire regimes and humans
-<hr>
+<!-- ## Fire regimes and humans -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/WUI.gif">
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/WUI.gif"> -->
 
 ## Study aid: Glacier Bay Alaska succession
 <hr>
+<br/>
 
-https://www.nps.gov/glba/learn/nature/succession.htm
+https://www.youtube.com/watch?v=eEvRLAACNz4
+
+<br/>
+
+https://wps.pearsoncustom.com/wps/media/objects/2128/2179441/28_03.html
 
