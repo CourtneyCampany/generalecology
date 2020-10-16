@@ -1,5 +1,5 @@
 ---
-title: "Wolf Spider foraging"
+title: "Wolf spider foraging"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -19,11 +19,12 @@ output:
 <hr>
 
 * **Carnivore prey items contain essentially the same mix of nutrients**
-    + unlike herbivore and omnivores
-* **Foraging success is assumed to be limited by prey availability (quantity)**
+<br/>
+
+* **Foraging success is often assumed to be limited by prey availability (quantity)**
     + Rather than nutritional balance (quality).
  
-<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/hare_lynx_graph.png">
+<IMG STYLE="position:absolute; TOP:290px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/hare_lynx_graph.png">
 
 ## Carnivore Foraging: Quanitity vs Quality
 <hr>
@@ -38,12 +39,12 @@ output:
 
 <div style="float: left; width: 60%;">
 * **Wolf spider feeds near standing water in California (Greenstone 1979)**
-    + 80% of the diet is shore flies, water boatmen and mosquitoes
+    + 80% of the diet is *shore flies*, *water boatmen* and *mosquitoes*
  
  <br />
  
 * **Prey species were marked as either present or absent in each spider gut**
-    + spiders classified into groups (answer Q1)
+    + spiders classified into groups (**answer Q1**)
 
 </div>
 
@@ -68,8 +69,9 @@ output:
 <br />
 <br />
 
-* **Spiders from 7 out of 13 pools were more likley than by chance to have consumed all 3 prey**
-    + polyphagy
+* **Spiders from 7 out of 13 pools were more likely than by chance to have consumed all 3 prey**
+    + polyphagy (eat a variety of food)
+    + **answer Q2**
     
 <br />
 
@@ -97,14 +99,14 @@ output:
 * **Then tested feeding responses to the pre-treatment food and/or a complementary alternative**
     + offered only 1 choice (same or different prey)
     + recorded how much of each was eaten
-    + Answer Question 3
+    + **answer Q3**
 
-## Leveling up with Mayntz et al. 2005 (answer Questsion 4)
+## Leveling up with Mayntz et al. 2005 (answer Q4)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:750px; HEIGHT:450px" SRC="images/method.png">
 
-## Today Quantitative Reasoning Practice
+## Today: Quantitative reasoning practice
 <hr>
 <br />
 <br />
