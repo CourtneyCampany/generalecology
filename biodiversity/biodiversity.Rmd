@@ -2,10 +2,9 @@
 title: "Biodiversity"
 output: 
   ioslides_presentation:
-    css: custom2.css
+    css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ##
@@ -18,13 +17,14 @@ runtime: shiny
 
 ## Biodiversity as insurance
 <hr>
+<br/>
 
 <div class="item-absolute">**Diversity buffers against functional changes**</div>
 </div>
 
 <div class="item-absolute2">**No one species fills all the roles of an ecosystem**</div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:150px; WIDTH:700px; HEIGHT:250px" SRC="images/redund.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:175px; WIDTH:700px; HEIGHT:250px" SRC="images/redund.jpg">
 
 <!-- ## Genetic diversity bottlenecked for bees -->
 <!-- <hr> -->
@@ -74,7 +74,7 @@ runtime: shiny
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/extinction4.jpg"> -->
 
-## Species types
+## Species types (native, endemic, non-native, exotic, invasive)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/australia_species.jpg">
@@ -228,9 +228,9 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/cows.png">
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:75px; WIDTH:950px; HEIGHT:600px" SRC="images/newtree.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:25px; LEFT:75px; WIDTH:950px; HEIGHT:600px" SRC="images/newtree.jpg"> -->
 
 <!-- ## Homogenization: USA? -->
 <!-- <hr> -->
@@ -263,29 +263,29 @@ runtime: shiny
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:400px" SRC="images/animals_threat.jpg"> -->
 
-## How bad is it? Rates of speciation vs extinction...
-<hr>
+<!-- ## How bad is it? Rates of speciation vs extinction... -->
+<!-- <hr> -->
 
-<div style="float: left; width: 60%;">
+<!-- <div style="float: left; width: 60%;"> -->
 
-* **Humans drive rapid evolution**
-    + relocation, domestication and hunting
-    + novel ecosystem creation
+<!-- * **Humans drive rapid evolution** -->
+<!--     + relocation, domestication and hunting -->
+<!--     + novel ecosystem creation -->
 
-<br/>
+<!-- <br/> -->
 
-* **During Holocene (past 11,000 yrs)**
-    + extinction and speciation balanced
-    + Bull and Maron 2016
+<!-- * **During Holocene (past 11,000 yrs)** -->
+<!--     + extinction and speciation balanced -->
+<!--     + Bull and Maron 2016 -->
 
-<br/>
+<!-- <br/> -->
 
-* **Human influence on speciation rates not quantified**
-    + listed mechanisms above are known
+<!-- * **Human influence on speciation rates not quantified** -->
+<!--     + listed mechanisms above are known -->
 
-<br/>
+<!-- <br/> -->
 
-* **Is a 'no net less' conservation strategy acceptable to you?**
-</div>
+<!-- * **Is a 'no net l0ss' conservation strategy acceptable to you?** -->
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:300px; HEIGHT:425px" SRC="images/thomas_book.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:300px; HEIGHT:425px" SRC="images/thomas_book.jpg"> -->

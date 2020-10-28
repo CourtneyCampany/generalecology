@@ -5,12 +5,7 @@ output:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 ## Matter is conserved
 <hr>
@@ -25,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/energy.png">
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:600px; WIDTH:400px; HEIGHT:550px" SRC="images/general_cycle.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:400px; HEIGHT:550px" SRC="images/general_cycle.jpg">
 
 ## 
 
@@ -90,7 +85,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/carbon_cycle2.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/2019.png">
 
 ##
 
@@ -138,9 +133,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Primary productivity
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:415px; WIDTH:600px; HEIGHT:450px" SRC="images/plant_mass2.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:415px; WIDTH:600px; HEIGHT:450px" SRC="images/npp.jpg">
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:40px; WIDTH:300px; HEIGHT:500px" SRC="images/GPP.gif">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/massonearth.png">
 
 ## Global net primary production
 <hr>
@@ -161,10 +160,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg"> -->
 
-## Net primary production and humans (HANPP)
-<hr>
+<!-- ## Net primary production and humans (HANPP) -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/hanpp.png">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/hanpp.png"> -->
 
 <!-- ## Eutrophication -->
 <!-- <hr> -->
