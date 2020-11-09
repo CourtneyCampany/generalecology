@@ -11,7 +11,7 @@ runtime: shiny
 ## Whats in a name...
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/globalchange.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/climatesick.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:595px; WIDTH:500px; HEIGHT:450px" SRC="images/words.jpg">
 
@@ -39,22 +39,17 @@ runtime: shiny
 
 ##
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/anamoly2.png">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/anamoly2020.png">
 
 ## NOAA: climate at a glance
 <hr>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/all/3/1880-2019
 
-## Last several years are the warmest ever recorded (Ed Hawkins)
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/1997.png">
+
+## How warm has is gotten? (Ed Hawkins)
 <hr>
 <br/>
 <br/>
@@ -65,16 +60,16 @@ https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/all/3/1880-201
 <br/>
 <br/>
 
-http://blogs.reading.ac.uk/climate-lab-book/files/2018/12/spiral_2018_WMO_large.gif
+http://blogs.reading.ac.uk/climate-lab-book/files/2020/05/spiral_2020_large.gif
 
 ## Physical impacts of climate change
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:550px; HEIGHT:400px" SRC="images/seaice2.png">
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/seaice.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:475px; HEIGHT:400px" SRC="images/seaice.png">
 
-## Last 12 years are smallest sea ice extents (Ed Hawkins)
+## Last decade reveals smallest sea ice extents (Ed Hawkins)
 <hr>
 <br/>
 <br/>
@@ -84,7 +79,7 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2018/12/spiral_2018_WMO_large.
 <br/>
 <br/>
 <br/>
-http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
+http://blogs.reading.ac.uk/climate-lab-book/files/2017/06/maparctic_sept_large2_L.gif
 
 
 ##   
@@ -94,13 +89,14 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 ## Haber-Bosch process (1909) and human population
 <hr>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:75px; WIDTH:300px; HEIGHT:250px" SRC="images/haber2.jpg">
+<IMG STYLE="position:absolute; TOP:255px; LEFT:50px; WIDTH:350px; HEIGHT:300px" SRC="images/haber2.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/nitrohaber.png">
 
 ## 
+http://www.anthropocene.info/great-acceleration.php
 
-<IMG STYLE="position:absolute; TOP:125px; LEFT:175px; WIDTH:731px; HEIGHT:477px" SRC="images/acceleration3.png">
+<IMG STYLE="position:absolute; TOP:120px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/acceleration3.png">
 
 ## Greenhouse gases (ice cores)
 <hr>

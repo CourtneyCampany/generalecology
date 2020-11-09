@@ -33,19 +33,19 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:25px; LEFT:200px; WIDTH:650px; HEIGHT:650px" SRC="images/Ecosystem-Services2.png">
 
-## Provisioning services
+## Provisioning services: Raw materials
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/provision.png">
 
-## Regulating services
+## Regulating services: Natural ecosystem processes
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/catskills2.jpg">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/catskills.jpg">
 
-## Cultural services
+## Cultural services: Non-material benefits
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:700px; HEIGHT:400px" SRC="images/cultural.png">
@@ -59,7 +59,7 @@ runtime: shiny
 
 <!-- <IMG STYLE="position:absolute; TOP:260px; LEFT:625px; WIDTH:450px; HEIGHT:300px" SRC="images/outdoors.jpg"> -->
 
-## Supporting services
+## Supporting services: Key ecosystem functions
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:700px; HEIGHT:400px" SRC="images/bees.png">

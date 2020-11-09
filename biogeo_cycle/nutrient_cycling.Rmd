@@ -7,9 +7,13 @@ output:
     smaller: true
 ---
 
+## Biogeochemical Cycling
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/carbonatmos.jpg">
+
 ## Matter is conserved
 <hr>
-<br />
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/nutrients.jpg">
 
