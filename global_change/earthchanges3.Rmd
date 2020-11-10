@@ -112,46 +112,18 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/co2emissions.png">
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:475px; HEIGHT:400px" SRC="images/ca_sector.png"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/carbonbudget.jpg"> -->
-
 ## 
 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:550px" SRC="images/methane.png">
 
-<!-- ## In the news: Methane -->
-<!-- <hr> -->
+## 
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:350px; HEIGHT:450px" SRC="images/gnd.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:590px; HEIGHT:450px" SRC="images/methane.jpg"> -->
-
-## Global cabon sinks can not keep up
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:700px; HEIGHT:450px" SRC="images/carbonbudget2018.png">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:550px" SRC="images/carbonbudget2018.png">
  
-<!-- <IMG STYLE="position:absolute; TOP:230px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/landsink.gif"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/carbonusa.png"> -->
-
-<!-- ## Land use and biogeochemical cycles: Energy & water -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/deforest.png"> -->
-
 ## Global Change: Fresh Water Scarcity
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/waterstress.jpg">
-
-<!-- ## Land use and biogeochemical cycles: Nutrients -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/eutro.png"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/erie.jpg"> -->
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/waterstress.jpg">
 
 ## Global Change: Ocean acidification
 <hr>
@@ -160,22 +132,54 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/oceanshell.jpg">
 
-## Global Change: Greener Earth?
+## Global Change: Sea Level Rise
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/sealevel.png">
 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/sealevel2.png">
 
-## Global Change: Homogenization
+<!-- ## Global Change: Greener Earth? -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg"> -->
+
+## Global Change: Homogenization (Journal Club)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/extinction4.jpg"> 
 
-## Global Change: Humans?
+## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/climatepeople.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:10px; WIDTH:800px; HEIGHT:500px" SRC="images/climatepeople.jpg">
 
-## Is 1.5C target of the Paris Climate Agreement reachable?
+<IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:300px; HEIGHT:200px" SRC="images/hurricane.jpg">
+
+## Paris Climate Agreement
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Accord between nation in UN to address climate change**
+
+<br/>
+
+* **Goal to keep increase in global temperature below 2 °C**
+    + pursue efforts to limit increase to 1.5
+
+<br/>
+
+* **Contributions by country determined by that country**
+    + no emissions targets or dates
+    + must go beyond current efforts
+    + framework for transparency
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/pga3.jpg">
+
+## Are targets of the Paris Climate Agreement reachable?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/greenline.jpg">
@@ -200,13 +204,13 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 
 <br/>
 
-* **Response options?**
+* **Negative emissions tech?**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/nasa.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:525px; HEIGHT:275px" SRC="images/nasa.png">
 
-## What should you do
+## What should you do (Journal Club)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:780px; HEIGHT:430px" SRC="images/cow.jpg">
