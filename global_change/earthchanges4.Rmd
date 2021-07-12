@@ -1,0 +1,217 @@
+---
+title: "Changes in Earth Systems"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## What's in a name...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/climatesick.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:595px; WIDTH:500px; HEIGHT:450px" SRC="images/words.jpg">
+
+## Unprecedented warming and the 'Hockey Stick' controversy
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:850px; HEIGHT:500px" SRC="images/hockeystick.gif">
+
+## Current global change at unprecedented rates
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/CO2_history.jpg">
+
+## Review: Enhancing the greenhouse gas effect
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/GHE.png">
+
+## Dutch Elfstedentocht: February 1985
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/icerace1985.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/Elfstedentocht-1997.gif">
+
+##
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/anamoly2020.png">
+
+## NOAA: climate at a glance
+<hr>
+<br/>
+
+https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/all/3/1880-2019
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/1997.png">
+
+## How warm has is gotten? (Ed Hawkins)
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+http://blogs.reading.ac.uk/climate-lab-book/files/2020/05/spiral_2020_large.gif
+
+## Physical impacts of climate change
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:550px; HEIGHT:400px" SRC="images/seaice2.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:475px; HEIGHT:400px" SRC="images/seaice.png">
+
+## Last decade reveals smallest sea ice extents (Ed Hawkins)
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+http://blogs.reading.ac.uk/climate-lab-book/files/2017/06/maparctic_sept_large2_L.gif
+
+
+##   
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/agri.jpg">
+
+## Haber-Bosch process (1909) and human population
+<hr>
+
+<IMG STYLE="position:absolute; TOP:255px; LEFT:50px; WIDTH:350px; HEIGHT:300px" SRC="images/haber2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/nitrohaber.png">
+
+## 
+Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
+
+<IMG STYLE="position:absolute; TOP:130px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/acceleration3.png">
+
+## Greenhouse gases (ice cores)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:900px; HEIGHT:450px" SRC="images/icecores3.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/climate-people.png">
+
+## Greenhouse gases: Carbon dioxide (CO~2~)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/co2emissions.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:550px" SRC="images/methane.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:550px" SRC="images/carbonbudget2018.png">
+ 
+## Global Change: Fresh Water Scarcity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/waterstress.jpg">
+
+## Global Change: Ocean acidification
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/oceanph.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/oceanshell.jpg">
+
+## Global Change: Sea Level Rise
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/sealevel.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/sealevel2.png">
+
+<!-- ## Global Change: Greener Earth? -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg"> -->
+
+## Global Change: Homogenization (Journal Club)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/extinction4.jpg"> 
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:10px; WIDTH:800px; HEIGHT:500px" SRC="images/climatepeople.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:300px; HEIGHT:200px" SRC="images/hurricane.png">
+
+## Paris Climate Agreement
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Accord between nation in UN to address climate change**
+
+<br/>
+
+* **Goal to keep increase in global temperature below 2 °C**
+    + pursue efforts to limit increase to 1.5
+
+<br/>
+
+* **Contributions by country determined by that country**
+    + no emissions targets or dates
+    + must go beyond current efforts
+    + framework for transparency
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/pga3.jpg">
+
+## Are targets of the Paris Climate Agreement reachable?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/greenline.jpg">
+
+## What should we do....
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **If CO~2~ emissions stopped today:**
+    + 50% absorbed by land/water in 30 yrs
+    + 30% in atmosphere for centuries
+    + 20% in atmosphere for 1000 yrs
+
+<br/>
+
+* **Future warming is inevitable**
+    + land sinks uncertain
+    + ocean sinks weakening
+
+<br/>
+
+* **Negative emissions tech?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:525px; HEIGHT:275px" SRC="images/nasa.png">
+
+## What should you do (Journal Club)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:780px; HEIGHT:430px" SRC="images/cow.jpg">
+
+<IMG STYLE="position:absolute; TOP:325px; LEFT:850px; WIDTH:200px; HEIGHT:200px" SRC="images/foot.jpg">

@@ -123,7 +123,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Read "100 articles every ecologist should read"**
-    + article and cheat sheet on SAKAI
+    + article and cheat sheet on Brightspace
 
 <br/>
 
@@ -142,3 +142,19 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/100.png">
+
+## Journal Club warning...
+<hr>
+
+* **If there is one thing that I know in life it is ferns!**
+
+<br/>
+
+* **If there are two things that I know the second is if you have read the paper. It is obvious to me when you are not prepared for the readings. I can easily distinguish between misunderstanding and poor preparation!**
+
+<br/>
+
+* **I take this very seriously and you will NOT do well in this class if you do not participate**
+    + come to class prepared to speak!
+    
+<IMG STYLE="position:absolute; TOP:440px; LEFT:250px; WIDTH:600px; HEIGHT:250px" SRC="images/warn.jpg">

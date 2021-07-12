@@ -153,7 +153,7 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:10px; WIDTH:800px; HEIGHT:500px" SRC="images/climatepeople.jpg">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:300px; HEIGHT:200px" SRC="images/hurricane.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:300px; HEIGHT:200px" SRC="images/hurricane.png">
 
 ## Paris Climate Agreement
 <hr>
