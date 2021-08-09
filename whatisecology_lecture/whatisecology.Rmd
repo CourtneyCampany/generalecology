@@ -116,6 +116,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/datatypes.png">
 
+## Warning: We will be moving up Bloom's ladder
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:800px; HEIGHT:500px" SRC="images/blooms.png">
+
 ## For Journal Club this week....
 <hr>
 <br/>
