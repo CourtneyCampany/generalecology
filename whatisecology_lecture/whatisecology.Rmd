@@ -11,24 +11,27 @@ output:
 <hr>
 <br/>
 <br />
-<br />
-<br />
+
+* **Plant Ecophysiologist**
+    + climate change
+    + physiology
+    + evolution
+    
 <br />
 
-* Plant Ecophysologist  
-* Ecosystem Ecologist
+* **Ecosystem Ecologist**
+    + global change
 
 <br />
 
-* www.courtneycampany.com  
-
+* **twitter: @court_campany**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:410px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
 
 ## This semester we will practice being an ecologist
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ecologist.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/ecologist.jpg">
 
 ## This semester we will ....
 <hr>
@@ -95,9 +98,9 @@ output:
 ## Ecology spans many scales
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:600px; HEIGHT:500px" SRC="images/scales.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/scales.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/scales_riverine.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:500px; HEIGHT:450px" SRC="images/scales2.jpg">
 
 ## Ecologist try to explain, understand and predict
 <hr>
@@ -105,7 +108,7 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/vultures.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/vultures.png">
 
 ##
 
@@ -114,9 +117,9 @@ output:
 ## What is the central need for ecology?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/datatypes.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/datatypes.png">
 
-## Warning: We will be moving up Bloom's ladder
+## Class Warning: We will be moving up Bloom's ladder
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:800px; HEIGHT:500px" SRC="images/blooms.png">
@@ -137,6 +140,7 @@ output:
     + Do you feel any themes are missing?
     + Is there a take home message?
     + Is there anything you don't understand?
+    + *learn a new science word or term*
 
 <br/>
 
@@ -146,7 +150,7 @@ output:
     
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/100.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:580px; WIDTH:450px; HEIGHT:500px" SRC="images/100.png">
 
 ## Journal Club warning...
 <hr>
@@ -155,11 +159,37 @@ output:
 
 <br/>
 
-* **If there are two things that I know the second is if you have read the paper. It is obvious to me when you are not prepared for the readings. I can easily distinguish between misunderstanding and poor preparation!**
+* **If there are two things that I know, the second is if you have read the paper.**
+    + It is obvious to me when you are not prepared for the readings.
+    + I can easily distinguish between misunderstanding and poor preparation!
+    + I expect you to have a copy of the paper and notes in class
 
 <br/>
 
 * **I take this very seriously and you will NOT do well in this class if you do not participate**
     + come to class prepared to speak!
     
-<IMG STYLE="position:absolute; TOP:440px; LEFT:250px; WIDTH:600px; HEIGHT:250px" SRC="images/warn.jpg">
+<IMG STYLE="position:absolute; TOP:485px; LEFT:300px; WIDTH:500px; HEIGHT:200px" SRC="images/warn.jpg">
+
+## Introducing the 'Pot of Doom'
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<div style="float: right; width: 63%;">
+
+* **At the start of Journal Club one name will be drawn**
+
+<br/>
+<br/>
+
+* **Student will be responsible for 2 things:**
+    + 1 minute brief on what the paper addresses (theme, species, issue, etc.)
+    + Definition or explanation of a science word or concept from the paper you did not know (so you had to look it up)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/doom2.jpg">
