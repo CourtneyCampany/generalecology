@@ -28,7 +28,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:410px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
 
-## This semester we will practice being an ecologist
+## This semester we will practice being a modern ecologist
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/ecologist.jpg">
@@ -89,13 +89,17 @@ output:
 
 * **(2) Interactions among organisms**
 
-<br/>
+<br/> 
 
 * **(3) Transformation and flux of energy and matter**
+
+<br/>
+
+**<span style="color:red">Are humans a part of ecology?</span>**
     
 </div>
 
-## Ecology spans many scales
+## Ecology spans many scales 
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/scales.jpg">
