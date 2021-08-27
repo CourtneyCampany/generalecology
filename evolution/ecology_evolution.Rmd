@@ -14,10 +14,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:725px; WIDTH:225px; HEIGHT:450px" SRC="images/catepillarcolor.png">
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/swallowtail_stages.png">
+
 ## Review: Evolution Basics
 <hr>
 <br/>
-
+ 
 * **Evolution**:
 
     >- change in the genetic composition of a population over generational time
@@ -45,11 +49,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:300px; HEIGHT:300px" SRC="images/giraffefur.jpg">
 
-## What is Generational Time? 
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/generational_time.png">
-
 ## Evolution by **Natural Selection**: Darwin and others
 <hr>
 <br/>
@@ -76,8 +75,35 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:615px; WIDTH:400px; HEIGHT:400px" SRC="images/genetic_component.jpg">
 
+## What is Generational Time? Why does it matter?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/generational_time.png">
+
 ## Species are so specialized, they are absent almost everywhere
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**How many species of bees do you think there are in the USA?**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:400px" SRC="images/ochid_bee.jpg">
 
@@ -111,11 +137,11 @@ output:
 
 <br/>
 
->- **Environment matters a lot!**
+>- **The components and themes of ecology matters a lot!**
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/swallowtail.jpg">
 
-## Natural selection and evolution occur within a species
+## Ecological forces drive evolution
 <hr>
 <br/>
 <br/>
@@ -131,7 +157,7 @@ output:
 <br/>
 
 * **Species traits vary over geographic ranges**
-    + as long as migration occurs
+    + why?
     
 ## 'Ohi'a lehua tree on Hawaiian Islands
 <hr>  
@@ -191,10 +217,10 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 * **Selection forces**: pressures on an trait by natural selection driving evolution of a population
 
+<br/>
 <br/>
 
 * **Steam guppies in Trinidad are separated by waterfalls**
@@ -204,6 +230,8 @@ output:
 <br/>
 
 * **What selection forces could be driving these changes?**
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:625px; WIDTH:400px; HEIGHT:300px" SRC="images/trinidad.jpg">
 
 ## Predation, sex and flamboyance in guppies
 <hr>
@@ -236,12 +264,12 @@ output:
 
 https://www.youtube.com/embed/_uHJGdTgtXE
 
-## The massive diversification of flowering plants
+## This Ying and Yang has happened forever
 <hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:150px; WIDTH:225px; HEIGHT:225px" SRC="images/angio2.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/angio.gif">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:525px; WIDTH:450px; HEIGHT:450px" SRC="images/angio.gif">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/insectphylo.jpg">
 
 <!-- ## -->
 
@@ -251,7 +279,7 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/insect_evolve2.jpg"> -->
 
-## Ecological speciation
+## Ecologically driven speciation
 <hr>
 <br/>
 <br/>
@@ -274,7 +302,10 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 ##
 
-<IMG STYLE="position:absolute; TOP:15px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/darwinsfinch.png">
+<IMG STYLE="position:absolute; TOP:15px; LEFT:25px; WIDTH:500px; HEIGHT:650px" SRC="images/darwinsfinch.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:600px; HEIGHT:350px" SRC="images/giraffe.jpg">
+
 
 <!-- ## Parallel evolution -->
 <!-- <hr> -->
@@ -339,19 +370,19 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 <hr>
 
 * **There is a reciprocal relationship between evolution and ecology**
-    + swallowtail
+    + <span style="color:red">swallowtail catepillars</span>
     
 <br/>
 
 * **Ecological processes enact strong selection pressures on species**
-    + guppy
+    + <span style="color:red">guppy</span>
     
 <br/>
 
 * **Ecology plays a specific role in a tenant of natural selection: *reproductive isolation* **
-    + giraffe
+    + <span style="color:red">giraffe</span>
     
 <br/>
 
 * **Patterns in ecological processes have driven evolution over very long periods of time...**
-    + flowering plants and insects
+    + <span style="color:red">flowering plants and insects</span>
