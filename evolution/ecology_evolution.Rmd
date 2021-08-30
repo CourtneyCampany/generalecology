@@ -24,7 +24,7 @@ output:
  
 * **Evolution**:
 
-    >- change in the genetic composition of a population over generational time
+    <!-- >- change in the genetic composition of a population over generational time -->
 <br/>
 
 * **Population**: 
@@ -38,7 +38,7 @@ output:
     
 <br/>
 
-* **Evolution by Natural Selection**: 
+* **<span style="color:blue">Evolution by Natural Selection</span>**: 
 
     >- organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing the traits to increase in frequency over generations
 
@@ -53,7 +53,9 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
+
+* **A few things need to be true...**
+
 <br/>
 
 <div style="float: left; width: 55%;">
@@ -131,13 +133,14 @@ output:
 >- **This term is a little misleading, should read:**
 <br/>
 
->- **Survival of the better designed for an immediate, local environment**
-      + survived death and destruction
+>- **<span style="color:red">Survival of the better designed for an immediate, local environment</span>**
+      + survived death
       + reproduced successfully
 
 <br/>
 
 >- **The components and themes of ecology matters a lot!**
+      + environment is hardly ever stable
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/swallowtail.jpg">
 
@@ -171,26 +174,26 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:675px; WIDTH:400px; HEIGHT:300px" SRC="images/grass_zinc.jpg">
 
-## Thought question:
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- ## Thought question: -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 45%;">
+<!-- <div style="float: left; width: 45%;"> -->
 
-* **Flowering times of plants at Zinc mines did not overlap with those of natural fields**
-    + for 40 years!
+<!-- * **Flowering times of plants at Zinc mines did not overlap with those of natural fields** -->
+<!--     + for 40 years! -->
 
-<br/>
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Why is this important?**
+<!-- * **Why is this important?** -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/zinc2.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/zinc2.png"> -->
 
 <!-- ## Investigating local adaptation: Gypsy moth -->
 <!-- <hr> -->
@@ -218,7 +221,7 @@ output:
 <br/>
 <br/>
 
-* **Selection forces**: pressures on an trait by natural selection driving evolution of a population
+* **<span style="color:purple">Selection forces</span>**: pressures on an trait by natural selection driving evolution of a population
 
 <br/>
 <br/>
@@ -295,7 +298,7 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 <br/>
 
 * **Populations become isolated, then selection drives change**
-
+    + new species may evolve
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/speciation.png">
@@ -342,6 +345,28 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/convergent3.png"> -->
 
+
+## Take Home Messages
+<hr>
+
+* **There is a reciprocal relationship between evolution and ecology**
+    + <span style="color:red">swallowtail catepillars</span>
+    
+<br/>
+
+* **Ecological processes enact strong selection pressures on species**
+    + <span style="color:red">guppy</span>
+    
+<br/>
+
+* **Ecology plays a specific role in a tenant of natural selection: *reproductive isolation* **
+    + <span style="color:red">giraffe</span>
+    
+<br/>
+
+* **Patterns in ecological processes have driven evolution over very long periods of time...**
+    + <span style="color:red">flowering plants and insects</span>
+    
 ## Ecology, Evolution and Global Change
 <hr>
 <br/>
@@ -365,24 +390,3 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 </div> 
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:200px; HEIGHT:400px" SRC="images/Change_animals.jpg">
-
-## Take Home Messages
-<hr>
-
-* **There is a reciprocal relationship between evolution and ecology**
-    + <span style="color:red">swallowtail catepillars</span>
-    
-<br/>
-
-* **Ecological processes enact strong selection pressures on species**
-    + <span style="color:red">guppy</span>
-    
-<br/>
-
-* **Ecology plays a specific role in a tenant of natural selection: *reproductive isolation* **
-    + <span style="color:red">giraffe</span>
-    
-<br/>
-
-* **Patterns in ecological processes have driven evolution over very long periods of time...**
-    + <span style="color:red">flowering plants and insects</span>
