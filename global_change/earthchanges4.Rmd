@@ -118,11 +118,24 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 ## 
 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:550px" SRC="images/carbonbudget2018.png">
+
+## Water vapor feedback loop
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/wv_feedback.gif">
  
 ## Global Change: Fresh Water Scarcity
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/waterstress.jpg">
+
+<!-- ## Groundwater now supports 40% of modern agriculture -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:400px; HEIGHT:400px" SRC="images/fossilwater2.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:450px; WIDTH:600px; HEIGHT:300px" SRC="images/groundwater.jpg"> -->
 
 ## Global Change: Ocean acidification
 <hr>

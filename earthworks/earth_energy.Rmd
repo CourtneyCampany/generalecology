@@ -1,29 +1,43 @@
 ---
 title: "Earth's Energy Budget and Water Cycle"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-## Earth's Energy Budget and Water Cycle
+## Ecology is studied at very large scales: Biosphere
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/world1.jpg">
 
-## What makes up the BIOSPHERE?
-<hr>
+**What makes up the <span style="color:dodgerblue">BIOSPHERE?</span>**
+<br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:100px; WIDTH:350px; HEIGHT:250px" SRC="images/biosphere.jpg">
+**Energy and water exist and move around the biosphere in different forms**
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/biosphere2.jpg">
+**Where does <span style="color:orange">energy</span> come from?**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/biosphere.jpg">
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:570px; WIDTH:400px; HEIGHT:400px" SRC="images/biosphere2.jpg">
 
 ##
 
@@ -50,14 +64,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div class="centered"><span style="color:green">"A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise" -Aldo Leopold </span></div>
 
-##
+## Painting Chalon Sombrero
+<hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/albedo_paint.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/albedo_paint.jpg">
 
 ## Albedo
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/albedo.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/albedo.png">
 
 ## Global albedo is highly variable
 <hr>
@@ -69,25 +84,32 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:300px" SRC="images/albedo3.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/snowball.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:580px; WIDTH:500px; HEIGHT:500px" SRC="images/snowball.jpg">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:350px; HEIGHT:600px" SRC="images/albedo2.jpg">
+<div style="float: left; width: 55%;">
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/greenland.png">
+**Earth's average albedo is ~0.3, keeping surface @ 15°C**
+<br/>
 
-<div class="item-absolute">Earth's average albedo is ~0.3, but it is changing. What does this actually mean? </div>
+**Do you think albedo is changing?**
+<br/>
+
+**Albedo: cold generates cold but.....**
+
 </div>
 
-## Sun is the Earth's primary form of heat, via radiation
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:600px; HEIGHT:400px" SRC="images/greenland.png">
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:650px; WIDTH:350px; HEIGHT:600px" SRC="images/albedo2.jpg">
+
+## Sun is the Earth's primary form of heat energy, via radiation
 <hr>
 <br/>
 <br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 45%;">
+<div style="float: left; width: 50%;">
 
 * **~1/3 of sunlight energy reflects back to space**
 
@@ -98,9 +120,21 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Exact amount absorbed depends on both surface and atmosphere**
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:525px; HEIGHT:350px" SRC="images/newradiation2.png">
+
+<div style="float: left; width: 100%;">
+<br/>
+<br/>
+<br/>
+
+*  **The balance of incoming and outgoing radiation makes up <span style="color:red">Earth Energy Budget</span>**
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:565px; WIDTH:500px; HEIGHT:325px" SRC="images/newradiation2.png">
 
 ##
 
@@ -112,11 +146,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/clouds.jpg">
 
-## 
+##
 
 <IMG STYLE="position:absolute; TOP:80px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/rad_balance.jpg">
 
-## 
+##
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/2018GreenhouseEffect.png">
 
@@ -132,7 +166,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:75px; WIDTH:400px; HEIGHT:300px" SRC="images/air-composition.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:5px; WIDTH:550px; HEIGHT:450px" SRC="images/air-composition.jpg">
 
 <div style="float: right; width: 50%;">
 <br/>
@@ -140,14 +174,14 @@ knitr::opts_chunk$set(echo = FALSE)
 * **Gases have different RESIDENCE TIMES**
     + N<sub>2</sub> = 13 million years
     + O<sub>2</sub> = 10,000 years
-    + N<sub>2</sub>0 = 114 years
-    + **CO<sub>2</sub> = 5-200 years (1/2 removed quickly)**
-    + **CH<sub>4</sub> (methane) = 12 years**
+    + <span style="color:orangered">**N<sub>2</sub>0 = 114 years</span>**
+    + <span style="color:orangered">**CH<sub>4</sub> (methane) = 12 years</span>**
+    + <span style="color:mediumvioletred">**CO<sub>2</sub> = 5-200 years (1/2 removed quickly)</span>**
 
 <br/>
 <br/>
 
-* **Water vapor is reactive and variable**
+* **Water vapor is reactive and highly variable**
     + **10 day residence time**
     + seasonally and spatially
 
@@ -168,25 +202,47 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: left; width: 50%;">
 
-* **NASA recently confirmed heat-trapping effect of water in the air** 
+* **NASA recently confirmed heat-trapping effect of water in the air**
     + critical component of global change
     + collects at tropical latitudes
 
 <br/>
 
 * **2x climate warming caused by increased CO<sub>2</sub>**
-</div> 
+</div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:475px; HEIGHT:375px" SRC="images/watervapor_globe.jpg">
 
-## Water vapor feedback loop
-<hr>
-<br/>
+<!-- ## Water vapor feedback loop -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/wv_feedback.gif">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/wv_feedback.gif"> -->
 
 ## Solar energy & water cycle connected
 <hr>
+
+<div class="centered">Water cycle = continuous movement of water within the earth and atmosphere</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div class="centered"><strong><span style="color:red">25% of incoming solar energy leaves the surface through evaporation</span></strong></div>
 
@@ -200,16 +256,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: left; width: 50%;">
 
+* **Water has high specific heat**
+    + 4x more energy to heat water than air
+    + uses up solar energy
+
+<br/>
+
 * **30% of oceans evaporate per year**
 * **>60% of rainfall is lost to evapotranspiration**
 
 <br />
-
-* **Water has high specific heat**
-    + 4x more energy to heat water than air
-    + uses up solar energy 
-
-<br/>
 
 * **Large energy fluxes when water changes state**
     + evapotranspiration cools surfaces
@@ -219,10 +275,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/evapotrans.png">
 
-## Evapotranspiration USA
-<hr>
+<!-- ## Evapotranspiration USA -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/evapotrans_usa.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/evapotrans_usa.png"> -->
 
 ## Global water cycle: 577,000 km^3^ of water circulates each year
 <hr>
@@ -245,13 +301,6 @@ knitr::opts_chunk$set(echo = FALSE)
 <!-- <hr> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:190px; WIDTH:700px; HEIGHT:500px" SRC="images/people_climate.jpg"> -->
-
-## Groundwater now supports 40% of modern agriculture
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:400px; HEIGHT:400px" SRC="images/fossilwater2.png">
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:450px; WIDTH:600px; HEIGHT:300px" SRC="images/groundwater.jpg">
 
 
 
