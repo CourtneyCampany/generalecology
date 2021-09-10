@@ -8,21 +8,16 @@ output:
     smaller: true
 ---
 
-## Climate and the Earth's Biomes
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:350px; WIDTH:450px; HEIGHT:450px" SRC="images/earth_climate.jpg">
-
-## Climate vs Weather
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/trumpcold.jpg">
-
 ## Current vs Collective state of the atmosphere
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/climate_weather.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:525px" SRC="images/climate_weather.png">
+
+## Climate vs Weather: Words matter
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/tweets.png">
 
 ## Elements of climate and weather
 <hr>
@@ -82,10 +77,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/seasons2.jpg">
 
-## Changes in Earth's tilt and Ice Ages
-<hr>
+<!-- ## Changes in Earth's tilt and Ice Ages -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ice_ages.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ice_ages.jpg"> -->
 
 ## Atmosphere circulation impacts climate via "Air Donuts"
 <hr>
@@ -101,7 +96,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:425px; HEIGHT:425px" SRC="images/coriolis.png">
 
-## Earth surface processes impact climate
+## Earth surface processes also impact climate
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/landsurface.jpg">
@@ -116,7 +111,7 @@ output:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1eRp0EGOmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Vegetation alters on climate
+## Vegetation alters weather and climate
 <hr>
 https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
@@ -152,22 +147,51 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:275px; WIDTH:450px; HEIGHT:450px" SRC="images/biomes_temp.png">
 
-## Climate and ecology questions are scale dependent
+## How does climate impact ecology? A question of scale...
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/scale.png">
 
-## Ocean Biomes: Depth, light and nutrients
+## Ocean Biome: Depth, light and nutrients
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/oceanbiomes.png">
-
-## Ocean Biomes: Coastal productivity
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/coastal2.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:600px; HEIGHT:400px" SRC="images/oceanbiomes.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/coastal1.jpg">
+
+## Take home messages
+<hr>
+
+* **Climate and weather are connected but should not be used interchangeably**
+    + current vs collective atmospheric conditions
+
+<br />
+
+* **The Earth is round, tilted and spinning**
+    + adds complexity to how energy interacts with the surface
+    + more than just albedo
+
+<br />
+
+* **There are broad climate patterns with latitude and altitude**
+
+<br />
+
+* **HOWEVER - lots of other factors make weather and climate patterns more complex**
+    + know some examples
+    
+<br />
+
+* **Biomes represent climate zones composed of living things adapted to specific climate conditions**
+    + largely related to precipiation and temperature
+
+
+<!-- ## Ocean Biomes: Coastal productivity -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/coastal2.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/coastal1.jpg"> -->
 
 <!-- ## Deep Ocean: Subtropical Gyres -->
 <!-- <hr> -->
@@ -175,8 +199,8 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/gyres.png"> -->
 
-## How does climate impact ecology?
-<hr>
+<!-- ## How does climate impact ecology? A question of scale... -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/climate_ecology.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/climate_ecology.png"> -->
 
