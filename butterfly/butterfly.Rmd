@@ -35,7 +35,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/aboriginal_calendar.jpg">
     
-## Global Change and Phenology
+## Climate Change and Phenology
 <hr>
 <br/>
 <br/>
@@ -56,11 +56,11 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/lifecycle.gif">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/butterfly.png">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/springtime.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/spring2018.png">
 
 
 ## Scheduling the DC Cherry Blossum Festival
@@ -99,7 +99,7 @@ runtime: shiny
 <hr>
 <br/>
 
-* **Go to Sakai > Open the excel file labeled “Phenology_student_data"**
+* **Go to Brightspace > Open the excel file labeled “Phenology_student_data"**
     + link in Week 4 To Do list
 
 <br/>
@@ -111,7 +111,7 @@ runtime: shiny
 * **Dataset:  Temperature sensitivity of the timing of adult flight in butterflies vs. flowering of their potential nectar food plants in British Columbia, Canada.**
     + many butterfly species
     + day of first flight
-    + climate data
+    + annual and seasonal climate data
 
 ## Understanding changes in butterfly phenology
 <hr>

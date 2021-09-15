@@ -13,12 +13,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:525px" SRC="images/climate_weather.png">
 
-## Climate vs Weather: Words matter
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/tweets.png">
-
 ## Elements of climate and weather
 <hr>
 <br />
@@ -58,7 +52,13 @@ output:
     * type and # are important
 </div>
 
-## Climate controls life, but what controls climate?
+## Climate vs Weather: Words matter
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/tweets.png">
+
+## The Earth is divided into different climate zones
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climatezones.gif">
@@ -145,12 +145,12 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 ## Climate controls life: Terrestrial biomes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:275px; WIDTH:450px; HEIGHT:450px" SRC="images/biomes_temp.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:550px; HEIGHT:500px" SRC="images/biomes_temp.png">
 
 ## How does climate impact ecology? A question of scale...
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/scale.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/scale.png">
 
 ## Ocean Biome: Depth, light and nutrients
 <hr>
