@@ -1,5 +1,5 @@
 ---
-title: "Climate and Phenology and Butterflies"
+title: "Climate and Phenology"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -63,10 +63,10 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/spring2018.png">
 
 
-## Scheduling the DC Cherry Blossum Festival
-<hr>
+<!-- ## Scheduling the DC Cherry Blossum Festival -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cherrytime.png">
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cherrytime.png"> -->
 
 ##
 
@@ -100,7 +100,7 @@ runtime: shiny
 <br/>
 
 * **Go to Brightspace > Open the excel file labeled “Phenology_student_data"**
-    + link in Week 4 To Do list
+    + Data Exercises module
 
 <br/>
 
@@ -108,7 +108,7 @@ runtime: shiny
 
 <br/>
 
-* **Dataset:  Temperature sensitivity of the timing of adult flight in butterflies vs. flowering of their potential nectar food plants in British Columbia, Canada.**
+* **Dataset:  Temperature sensitivity of the timing of adult flight in butterflies in British Columbia, Canada.**
     + many butterfly species
     + day of first flight
     + annual and seasonal climate data

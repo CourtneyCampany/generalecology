@@ -1,12 +1,10 @@
 ---
 title: "Species Distributions"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ## Species composition of the biospere
@@ -40,7 +38,7 @@ runtime: shiny
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humboldt4.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/humboldt4.jpg">
 
 ## Species are spatially arranged
 <hr>
