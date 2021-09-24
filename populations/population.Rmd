@@ -34,33 +34,36 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **# of individuals is how we measure populations**
-    + is it growing, declining, holding steady?
     
 <br/>
 
-* **describes the results of interactions**
+* **Age of a population, peak reproductive ages**
+
+<br/>
+
+* **Sex ratios determining mating potential**
  
 <br/>
  
 * **Measuring, predicting and evaluating population sizes guides ecologist**
-    + management and conservation
+    + is it growing, declining, holding steady?
+
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:350px" SRC="images/baldeagle.png">
+<IMG STYLE="position:absolute; TOP:215px; LEFT:575px; WIDTH:500px; HEIGHT:375px" SRC="images/baldeagle.png">
 
 ## Case Study: Deer population size
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/deer.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:450px; HEIGHT:350px" SRC="images/deer.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/deerpop.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:535px; WIDTH:570px; HEIGHT:375px" SRC="images/deerpop2.png">
 
 ## Case Study: Deer population density
 <hr>
@@ -117,12 +120,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:420px; WIDTH:600px; HEIGHT:400px" SRC="images/bear_sight.png">
 
-## What forces control deer abundance in Jefferson Co.?
-<hr>
+<!-- ## What forces control deer abundance in Jefferson Co.? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:25px; WIDTH:350px; HEIGHT:250px" SRC="images/bambi.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:25px; WIDTH:350px; HEIGHT:250px" SRC="images/bambi.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/homerange.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/homerange.jpg"> -->
 
 ## Life History: More than just birth and death
 <hr>
@@ -132,7 +135,7 @@ output:
 ## Reproductive effort and life cycles: Long lived organisms
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/longlife.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:520px" SRC="images/longlife.png">
 
 ## Semelparous: One-off reproduction
 <hr>
@@ -149,7 +152,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/desertflower.jpg">
 
-## Life History: Growth vs making babies conflict
+## Life History: Sexual conflict
 <hr>
 <br/>
 <br/>
@@ -160,13 +163,19 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 * **When and how to spend your resources**
     + reproduction comes at a cost of growth
     + flowers + seeds = ↓ leaves and roots
     + are enough resources available to support pregnancy?
+    + death vs growing the population...
     
-<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/plantreproduction.png">
+<IMG STYLE="position:absolute; TOP:140px; LEFT:350px; WIDTH:650px; HEIGHT:400px" SRC="images/plantreproduction.png">
 
 ## The mystery of large 'Mast' years in botany
 <hr>
@@ -179,7 +188,7 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 58%;">
 
 * **Annual organism may spend part of the year dormant**
     + Seeds,Spores, Cysts, etc.
@@ -195,16 +204,41 @@ output:
 
 <br/>
 
-* **How would this affect a population? **  
+* **How does this affect a population? **  
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:300px" SRC="images/seeds.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:605px; WIDTH:450px; HEIGHT:300px" SRC="images/seeds.jpg">
 
-## Populations and life histories: Wood Thrush
-<hr>
+## 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/wood_thrush.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:25px; WIDTH:700px; HEIGHT:600px" SRC="images/wood_thrush.png">
+
+<div style="float: right; width: 65%;">
+
+* **Populations are composites of individual Life Histories**
+    + who survived from previous year
+    + new individuals (births/immigration)
+    + survivability of offspring
+    
+<br/>
+
+**Survirvorship = **
+</div>
+
 
 ## Populations dynamics: Monitoring birth and death
 <hr>
@@ -223,10 +257,10 @@ output:
 
 <br/>
 
-* **Static life table: describe the # of survivors at different ages**
+* **Static life table: describe # of survivors at different ages**
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/life_table1.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:425px; HEIGHT:425px" SRC="images/life_table1.png">
 
 ## r/K selection theory: Growth and reproduction strategies
 <hr>
@@ -246,29 +280,30 @@ output:
 
 * **These are the 2 ends of a spectrum**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/survivorship_curve2.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:505px; WIDTH:575px; HEIGHT:475px" SRC="images/survivorship_curve2.jpg">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:500px; HEIGHT:450px" SRC="images/survivorship_curve.jpg">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:50px; WIDTH:700px; HEIGHT:550px" SRC="images/survivorship_curve.jpg">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:625px; WIDTH:400px; HEIGHT:150px" SRC="images/rvsk.jpeg">
-
+<IMG STYLE="position:absolute; TOP:505px; LEFT:550px; WIDTH:500px; HEIGHT:200px" SRC="images/rvsk.jpeg">
 
 ## Populations dynamics: Movement (dispersal and migration)
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/coyote.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/longmigrate.png">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/cornworm.png">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/coyote.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/cornworm.png"> -->
 
 ## Populations with unlimited resources: Exponential growth
 <hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:15px; WIDTH:425px; HEIGHT:200px" SRC="images/elephant.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:650px; HEIGHT:450px" SRC="images/elephant2.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/kruger.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:750px; WIDTH:300px; HEIGHT:450px" SRC="images/kruger2.png">
 
 ## Population growth regulation
 <hr>
