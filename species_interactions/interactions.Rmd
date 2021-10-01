@@ -19,7 +19,6 @@ runtime: shiny
 
 ## Relationships between organisms are broad
 <hr>
-<br/>
 
 * **Competition**
     + today
@@ -37,6 +36,11 @@ runtime: shiny
 <br/>
 
 * **Parasites and hosts**
+
+<br/>
+
+* **Humans vs other species**
+    + friday data exercise
     
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/interspecific_comp.jpg">
@@ -44,14 +48,14 @@ runtime: shiny
 ## What is competition?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:350px; HEIGHT:300px" SRC="images/comp_bird.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:400px; HEIGHT:350px" SRC="images/comp_bird.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/niche1.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/niche1.jpg">
 
-## Species relationships may have benefits/costs
+## Species relationships may have benefits/costs to fitness
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/fitness.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:1000px; HEIGHT:400px" SRC="images/fitness.png">
 
 ## WHO: Intra vs Inter-specific competition
 <hr>
@@ -63,7 +67,7 @@ runtime: shiny
 ## Intraspecific competition limits population growth
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/density.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/density.png">
 
 ## Competition is a powerful driver of evolution
 <hr>
@@ -86,7 +90,11 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/char_dis2.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/characterdisp.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/characterdisp2.png">
 
 ## Gause's Law: Theory of Competitive Exclusion
 <hr>
@@ -111,7 +119,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:450px; HEIGHT:225px" SRC="images/gause.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:500px; HEIGHT:275px" SRC="images/gause.png">
 
 ## Gause's test tube Paramecium study
 <hr>
@@ -123,7 +131,7 @@ runtime: shiny
 ## Red vs Grey Squirrel in Britain (Murphy 2015)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/squirrel2.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/squirrel2.png">
 
 ## Competitive exclusion, however, is rare in nature
 <hr>

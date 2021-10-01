@@ -177,12 +177,12 @@ output:
     
 <IMG STYLE="position:absolute; TOP:140px; LEFT:350px; WIDTH:650px; HEIGHT:400px" SRC="images/plantreproduction.png">
 
-## The mystery of large 'Mast' years in botany
-<hr>
+<!-- ## The mystery of large 'Mast' years in botany -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mast2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mast2.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/mast3.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/mast3.jpg"> -->
 
 ## Populations and life cycles: Dormancy
 <hr>
@@ -328,10 +328,10 @@ output:
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:375px; WIDTH:700px; HEIGHT:350px" SRC="images/seals.png">
 
-## Population cycles
-<hr>
+<!-- ## Population cycles -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/isle_royale.png">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/isle_royale.png"> -->
 
 
 

@@ -107,13 +107,14 @@ runtime: shiny
 * **Today we will complete a static life stable (1999) to determine whether this threatened population is at risk of extinction**
 
 
-## Q1. Estimating Fecundity (m~x~)
+## Q1. Estimating Birthrate (m~x~) and Fecundity (f~x~)
 <hr>
 <br/>
 <br/>
 
 * **m~x~ = per capita birth rate (number of offspring born per individual in age class)**
-
+    
+    
 <br/>
 
 * **Richard et al. (2002) recorded the proportion of female sifakas of every age (3 – 26) that gave birth in each year from 1984 – 1999**
@@ -122,13 +123,13 @@ runtime: shiny
 
 * **From these data, the median birthrates for 3 year age classes are reported in Table 1 of the handout**
 
-## Q1. Estimating Fecundity (m~x~)
+## Q1. Estimating Birthrate (m~x~) and Fecundity (f~x~)
 <hr>
 <br/>
 <br/>
 
 * **Life tables often include only data for females, as females limit reproduction**
-    + males do not grow a population
+    + only females add to a population
 
 <br/>
 
@@ -138,9 +139,8 @@ runtime: shiny
 
 * **Does m~x~(3-5) = 0.07?**
 
-## Estimating Fecundity (m~x~)
+## Estimating Birthrate (m~x~) and Fecundity (f~x~)
 <hr>
-<br/>
 <br/>
 <br/>
 
@@ -155,6 +155,15 @@ runtime: shiny
  
 * **Lemurs exhibit a male-biased sex ratio at birth**
     + 46.5 % chance of being a female
+
+ <br/>
+ 
+* **Female birthrate (m~x~):**
+    + Age class 3-5 = .07 x 0.465
+
+ <br/>
+ 
+* **How would we calculate total number of female births (fecundity, f~x~)?**
 
 </div>
 
@@ -173,7 +182,7 @@ runtime: shiny
 
 <br/>
 
-* **Population growth parameter (R~o~): Sum of Survivorship x Fecundity**
+* **Population growth parameter (R~o~): Sum of Survivorship x Birth Rate (each age class)**
     + net reproductive rate
     + if R~o~ > 1, population is growing
     + R~o~ = 2.5 = a female produces 2.5 baby lemurs on average in a lifetime
