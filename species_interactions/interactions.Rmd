@@ -1,12 +1,10 @@
 ---
 title: "Species Interactions"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 ##
@@ -90,7 +88,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/characterdisp.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:486px" SRC="images/characterdisp.png">
 
 ##
 
@@ -131,7 +129,9 @@ runtime: shiny
 ## Red vs Grey Squirrel in Britain (Murphy 2015)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/squirrel2.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap.jpg">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap3.jpg">
 
 ## Competitive exclusion, however, is rare in nature
 <hr>
@@ -220,11 +220,11 @@ runtime: shiny
 ## Coexistence and character displacement: 
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:650px; HEIGHT:325px" SRC="images/char_dis3.png">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:650px; HEIGHT:325px" SRC="images/char_dis3.png"> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:325px; HEIGHT:450px" SRC="images/beaks.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:325px; HEIGHT:450px" SRC="images/beaks.jpg"> -->
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/cicada_displace.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cicada_displace.png">
 
