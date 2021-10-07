@@ -117,6 +117,7 @@ output:
 * **Ecosystem was wrecked**
     + Seals & penguins were recovering
     + Rabbits were everywhere
+    + Bird were declining
 
 <br/>
 
