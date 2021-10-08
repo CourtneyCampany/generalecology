@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## Defining Predation
+## Defining Predation (+,-)
 <hr>
 <br/>
 <br/>
@@ -47,7 +47,8 @@ output:
 <div style="float: right; width: 60%;">
 
 * **Behaviors to capture prey differ vastly**
-    + *consumption rate*: average quantity consumed over a time interval
+    + *consumption rate*: 
+    + consumption rate impacts populations
 
 <br/>
 
@@ -86,6 +87,10 @@ output:
 
 <br/>
 
+* **Foraging is a banking problem: Return on Investment**
+
+<br/>
+
 * **To maximize fitness a predator must balance these**
     + alpine bumble bees
 
@@ -95,7 +100,7 @@ output:
 
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:800px; HEIGHT:600px" SRC="images/oystercatcher.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/oystercatcher.png">
 
 ## Optimal foraging should be related to density
 <hr>
@@ -105,8 +110,9 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Prey densities impact handling/search times**
-    + can predators be choosy?
+* **Can predators be choosy?**
+    + Prey densities impact handling/search times
+
         
 <br/>
 
@@ -120,7 +126,7 @@ output:
         
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:250px; HEIGHT:450px" SRC="images/coho.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:275px; HEIGHT:500px" SRC="images/coho.png">
 
 ## Optimal foraging in African predators: Energy use
 <hr>
@@ -168,12 +174,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/kite_applesnail.jpg">
 
-## Is predation always bad for prey? Grazers
-<hr>
+<!-- ## Is predation always bad for prey? Grazers -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:750px; HEIGHT:400px" SRC="images/plants_comp.png">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:750px; HEIGHT:400px" SRC="images/plants_comp.png"> -->
 
-## Predation may also promote biodiversity
+## Predation may promote biodiversity
 <hr>
 <br/>
 <br/>
@@ -236,7 +242,7 @@ output:
  
 <IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/lotka.png">
 
-## Lotka Voltera: Modelling competition
+## Lotka Voltera: Modelling predator-prey dynamics
 <hr>
 <br/>
 
