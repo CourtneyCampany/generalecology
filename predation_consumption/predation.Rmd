@@ -20,11 +20,11 @@ output:
 
 <br/>
 
-**1. True predators: attack, kill & consume**
+**1. True predators: **
 
-**2. Grazers: attack many things, eat only a part and do not kill**
+**2. Grazers: **
 
-**3. Parasites: infect one *host*, keep alive in short term**
+**3. Parasites: **
 
 </div>
  
@@ -83,7 +83,7 @@ output:
 
 <br/>
 
-* **Searching for and capturing food requires energy**
+* **Searching for and capturing food uses energy**
 
 <br/>
 
@@ -155,10 +155,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/africa_pred_age.png">
 
-## Optimal foraging in African predators: Energy use
-<hr>
+<!-- ## Optimal foraging in African predators: Energy use -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/africa_prey_age.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/africa_prey_age.png"> -->
 
 ## Consumption is an agent of natural selection: Defense
 <hr>
@@ -248,19 +248,19 @@ output:
 
 <div style="float: left; width: 50%;">
 
-1. Start with a lot of rabbits, who does well?
-2. Populations of lynx will ....
-3. Why does time matter at this step?
-4. Populations of prey will....
-5. Food for predators will 
-6. Over time predator populations will ....
-
-<br/>
-
 * **These predator-prey patterns are described in the Lotka-Voltera 2 species model**
     + 2 basic components:
     + *P* = # of predators
     + *N* = # of prey
+
+<br/> 
+
+1. Start with a lot of rabbits, who does well?
+2. Populations of lynx will ....
+3. Why does **time** matter at this step?
+4. Populations of prey will....
+5. Food for predators will 
+6. Over time predator populations will ....
 
 </div>
 
@@ -271,13 +271,13 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/foxhare.jpeg">
 
-## Lotka Voltera
+## Lotka Voltera equations
 <hr>
 <br/>
 
 <div style="float: left; width: 50%;">
 
-* **With no predators, prey populations (N) increase exponentially**
+* **With no predators, <span style="color:blue">prey</span> populations (N) increase exponentially**
     + *dN/dt* = *rN* 
     + *r* = growth rate
 
@@ -291,14 +291,14 @@ output:
 <br/>
 <br/>
 
-* **Prey stable when *dN/dt* = 0**
+* **<span style="color:blue">Prey</span> stable when *dN/dt* = 0**
 
  </div>  
 
 
 <div style="float: right; width: 50%;">
 
-* **In the absence of food, predator populations (P) will decline**
+* **In the absence of food, <span style="color:red">predator</span> populations (P) will decline**
     + *dP/dt* = *-qP*
     + *q* = mortality rate
 
@@ -311,7 +311,7 @@ output:
 
 <br/>
 
-* **Predator stable when *dP/dt* = 0**
+* **<span style="color:red">Predator</span> stable when *dP/dt* = 0**
 
  </div>
 
@@ -325,24 +325,24 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/rabbit.png"> -->
 
-## Leftover questions: Are predator-prey cycles that simple?
-<hr>
+<!-- ## Leftover questions: Are predator-prey cycles that simple? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/lynx.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/lynx.png"> -->
 
-## 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- ##  -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Leftover questions: Are the cycles sustainable?**
+<!-- * **Leftover questions: Are the cycles sustainable?** -->
 
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:550px; WIDTH:450px; HEIGHT:550px" SRC="images/maintain_cycle.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:550px; WIDTH:450px; HEIGHT:550px" SRC="images/maintain_cycle.jpg"> -->
