@@ -19,20 +19,21 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 <br/>
+<br/>
 
 <div style="float: left; width: 45%;">
 
 * **Species occur together**
     + not all perfectly adapted
     + networks of trophic interactions
-    + ecosystems work better as a group
 
 <br/>
 
 * **Ecosystems work better as a group**
     + No single species performs all roles
     + larger threshold of environmental conditions
-    + fosters ecosystem resilience (ball & cup model)
+    + fosters ecosystem resilience
+        + ball & cup model
  </div>   
         
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/interaction.jpg"> 
@@ -41,23 +42,29 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 <br/>
+<br/>
 
 <div style="float: left; width: 45%;">
 
 * **Species occur together**
     + not all perfectly adapted
     + networks of trophic interactions
-    + ecosystems work better as a group
 
 <br/>
 
 * **Ecosystems work better as a group**
     + No single species performs all roles
     + larger threshold of environmental conditions
-    + fosters ecosystem resilience (ball & cup model)
+    + fosters ecosystem resilience
+        + ball & cup model
+        
  </div>   
         
-<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/ballcup.png"> 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:300px" SRC="images/ballcup2.png"> 
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/ballcup3.png"> 
 
 ## Not all species are created equal
 <hr>
@@ -97,14 +104,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/succession1c.jpg">
 
-## Disturbance
+## Disturbances are the major cause of fluctuation in succession
 <hr>
 <br/>
 
 <div style="float: left; width: 45%;">
 
 * **Discrete event in time that:**
-    + Removes biomass
+    + removes biomass
     + alters populations & communities
     + alters structure of ecosystems 
     + changes resources availability
@@ -119,7 +126,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Maintains communities in non-equilibrium**
-
+    + ecosystems rarely reach steady-state
 </div>
   
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fire.jpg">
@@ -144,7 +151,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **After severe disturbances**
     + remove or bury biomass
-    + no soil
+    + no soil or seeds remain
 
 <br/>
 
@@ -162,10 +169,9 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 <br/>
-<br/>
 
 * **Initial Species composition:**
-    + nitrogen fixers
+    + nitrogen fixers (bacteria, plants)
     + **Facilitation**
  
  <br/>
@@ -175,6 +181,10 @@ knitr::opts_chunk$set(echo = FALSE)
     + algae & lichens
     + small seeded plants
     + distance matters
+
+ <br/>
+ 
+* **Is primary succession fast or slow?**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/crust.jpg">
 

@@ -38,7 +38,7 @@ output:
 <hr>
 
 <div style="float: left; width: 60%;">
-* **Wolf spider feeds near standing water in California (Greenstone 1979)**
+* **Wolf spiders feed near standing water in California (Greenstone 1979)**
     + 80% of the diet is *shore flies*, *water boatmen* and *mosquitoes*
  
  <br />

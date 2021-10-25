@@ -24,7 +24,7 @@ output:
 
 <div class="item-absolute2">**No one species fills all the roles of an ecosystem**</div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:175px; WIDTH:700px; HEIGHT:250px" SRC="images/redund.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/redund.jpg">
 
 <!-- ## Genetic diversity bottlenecked for bees -->
 <!-- <hr> -->
@@ -157,7 +157,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/biodiversity_threats.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/crops.gif">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:575px; WIDTH:500px; HEIGHT:500px" SRC="images/crops.gif">
 
 ## Threats: Invasive species are increasing
 <hr>
@@ -196,37 +196,37 @@ output:
 <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png">
 
 ## Homogenization: ecosystems losing their uniqueness
-<hr>
-<br/>
-<br/>
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 55%;">
+<!-- <div style="float: left; width: 55%;"> -->
 
-* **Replacement of native species by exotics**
-    + invasives are highly competitive
+<!-- * **Replacement of native species** -->
+<!--     + invasives are highly competitive -->
 
-<br/>
+<!-- <br/> -->
 
-* **Taxonomic homogenization**
-    + increased similarity of species
-    + plants, insect, fish, birds & mammals
+<!-- * **Taxonomic homogenization** -->
+<!--     + increased similarity of species -->
+<!--     + plants, insect, fish, birds & mammals -->
 
-<br/>
+<!-- <br/> -->
 
-* **Biotic homogenization tied to humans**
-    + landscape simplification
-    + habitat loss
+<!-- * **Biotic homogenization tied to humans** -->
+<!--     + landscape simplification -->
+<!--     + habitat loss -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/blender.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/blender.jpg"> -->
 
-## Homogenization: Megafauna
-<hr>
+<!-- ## Homogenization: Megafauna -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/lostmega.jpeg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/lostmega.jpeg"> -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/cows.png">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/cows.png"> -->
 
 <!-- ## -->
 
@@ -241,23 +241,23 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biodiversity_redistribution.jpg"> -->
 
-## Are we experiencing a new mass extinction?
-<hr>
+<!-- ## Are we experiencing a new mass extinction? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png"> -->
 
-## Extinction versus humans
-<hr>
+<!-- ## Extinction versus humans -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humans_pop.gif">
+<!-- <IMG STYLE="position:absolute; TOP:200x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humans_pop.gif"> -->
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg"> -->
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png"> -->
 
 <!-- ## The most vulnerable species -->
 
