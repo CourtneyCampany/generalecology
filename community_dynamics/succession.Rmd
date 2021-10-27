@@ -102,7 +102,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Disturbance & succession
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/succession1c.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/succession1c.jpg">
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/disturbance5.png"> -->
 
 ## Disturbances are the major cause of fluctuation in succession
 <hr>
@@ -151,7 +153,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **After severe disturbances**
     + remove or bury biomass
-    + no soil or seeds remain
+    + *no soil or seeds remain*
 
 <br/>
 
@@ -229,29 +231,29 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/wildlife_succesion.jpg">
 
-## The Boreal: forests shaped by fire
-<hr>
+<!-- ## The Boreal: forests shaped by fire -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/boreal1.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/boreal1.jpg"> -->
 
-## Boreal forest succesion: Aspen - Spruce - Cedar
-<hr>
+<!-- ## Boreal forest succesion: Aspen - Spruce - Cedar -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:700px; HEIGHT:300px" SRC="images/boreal3.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:700px; HEIGHT:300px" SRC="images/boreal3.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:200px; HEIGHT:200px" SRC="images/jackpine.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:200px; HEIGHT:200px" SRC="images/jackpine.jpg"> -->
 
 <!-- ## Boreal forest: Secondary succesion -->
 <!-- <hr> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:180; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/boreal_wildlife.jpg"> -->
 
-## The future of boreal forests
-<hr>
+<!-- ## The future of boreal forests -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:475px; HEIGHT:475px" SRC="images/boreal5.gif">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:475px; HEIGHT:475px" SRC="images/boreal5.gif"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/boreal4.gif">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/boreal4.gif"> -->
 
 <!-- ## Disturbance regimes of Giant Sequoia forests -->
 <!-- <hr> -->
