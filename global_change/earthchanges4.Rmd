@@ -38,7 +38,7 @@ output:
 
 ##
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/anamoly2020.png">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/anamoly2021.png">
 
 ## NOAA: climate at a glance
 <hr>
@@ -50,16 +50,26 @@ https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/all/3/1880-201
 
 ## How warm has is gotten? (Ed Hawkins)
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 http://blogs.reading.ac.uk/climate-lab-book/files/2020/05/spiral_2020_large.gif
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Globe: combined land and ocean-surface temperature was 0.93 of a degree C above the 20th-century average**
+
+<br/>
+
+* **Northern Hemisphere: land-surface temperature was the highest ever recorded for July, 1.54 degrees C above average**
+
+<br/>
+
+* **Asia had its hottest July on record, Europe had its second-hottest July and North America, South America, Africa and Oceania all had a top-10 warmest July**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:425px" SRC="images/hotmonth.png">
 
 ## Physical impacts of climate change
 <hr>
@@ -68,18 +78,14 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2020/05/spiral_2020_large.gif
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:475px; HEIGHT:400px" SRC="images/seaice.png">
 
-## Last decade reveals smallest sea ice extents (Ed Hawkins)
+## Last decade reveals smallest sea ice extents
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 http://blogs.reading.ac.uk/climate-lab-book/files/2017/06/maparctic_sept_large2_L.gif
 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:75px; WIDTH:350px; HEIGHT:400px" SRC="images/currentice.png">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/greenlandmelt.png">
 
 ##   
 
@@ -113,13 +119,13 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:550px" SRC="images/methane.png">
-
-## 
-
 <IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:550px" SRC="images/carbonbudget2018.png">
 
-## Water vapor feedback loop
+<!-- ##  -->
+
+<!-- <IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:550px" SRC="images/methane.png"> -->
+
+## Global Change and Water are intimately linked
 <hr>
 <br/>
 
@@ -128,7 +134,7 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 ## Global Change: Fresh Water Scarcity
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/waterstress.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/waterstress2.png">
 
 <!-- ## Groundwater now supports 40% of modern agriculture -->
 <!-- <hr> -->
@@ -222,9 +228,9 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:525px; HEIGHT:275px" SRC="images/nasa.png">
 
-## What should you do (Journal Club)
-<hr>
+<!-- ## What should you do (Journal Club) -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:780px; HEIGHT:430px" SRC="images/cow.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:780px; HEIGHT:430px" SRC="images/cow.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:325px; LEFT:850px; WIDTH:200px; HEIGHT:200px" SRC="images/foot.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:325px; LEFT:850px; WIDTH:200px; HEIGHT:200px" SRC="images/foot.jpg"> -->

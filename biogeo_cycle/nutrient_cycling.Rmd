@@ -7,10 +7,10 @@ output:
     smaller: true
 ---
 
-## Biogeochemical Cycling
-<hr>
+<!-- ## Biogeochemical Cycling -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/carbonatmos.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/carbonatmos.jpg"> -->
 
 ## Matter is conserved
 <hr>
@@ -33,19 +33,19 @@ output:
 ## Importance of biogeochemical cycling
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/limitation_globe2.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/limitation_globe2.png">
 
-## Transfer, transformation and storage
+## Cycling = Transfer, transformation and storage
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/n_forms.gif">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:400px" SRC="images/n_forms.gif">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/storage.jpg">
 
 ## Biogeochemical cycles: Global
 <hr>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/spheres.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/spheres.png">
 
 ## Nutrient cycles: Ecosystem
 <hr>
@@ -54,7 +54,7 @@ output:
 
 <div style="float: left; width: 40%;">
 
-* **Entry of nutrients into system**
+* **Entry of nutrients into system (IN)**
     + fixation (bacteria)
     + weathering (rocks)
     + deposition (acid rain)
@@ -67,7 +67,11 @@ output:
  
  <br />
  
-* **Loss of nutrients from system**
+* **Loss of nutrients from system (OUT)**
+
+ <br />
+ 
+* **Steady State = ?**
 
 </div>
 
@@ -89,7 +93,7 @@ output:
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/2019.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/2020.png">
 
 ##
 
@@ -112,17 +116,17 @@ output:
 ## Decomposition
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:10px; WIDTH:750px; HEIGHT:325px" SRC="images/decomp.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/decomp.png">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:775px; WIDTH:300px; HEIGHT:450px" SRC="images/decomposers.png">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:775px; WIDTH:300px; HEIGHT:600px" SRC="images/decomposers.png"> -->
 
 ## Decomposition rate: Biomes
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/decomp_biomes.jpg"> 
+<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/decomp_biomes.jpg"> 
 
-## Nutrient transfer: Soils
+## Nutrient transfer: Soil commmunity
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/uptake.jpg">
@@ -134,30 +138,30 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/algalbloom.jpg">
 
-## Primary productivity
+## Primary productivity: Generation of biomass
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:415px; WIDTH:600px; HEIGHT:450px" SRC="images/npp.jpg">
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:40px; WIDTH:300px; HEIGHT:500px" SRC="images/GPP.gif">
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/massonearth.png">
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/massonearth.png"> -->
 
-## Global net primary production
-<hr>
+<!-- ## Global net primary production -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/oceans_vs_land.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/oceans_vs_land.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:450px; HEIGHT:225px" SRC="images/Global-Patterns-of-NPP.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:450px; HEIGHT:225px" SRC="images/Global-Patterns-of-NPP.jpg"> -->
 
-## Global net primary production
-<hr>
+<!-- ## Global net primary production -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:40px; WIDTH:350px; HEIGHT:500px" SRC="images/NPP_seasons.png">
+<!-- <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:450px; HEIGHT:450px" SRC="images/NPP_seasons.png"> --> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/npp_biome.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/npp_biome.jpg"> -->
 
 <!-- ## Net primary production and global change -->
 <!-- <hr> -->
