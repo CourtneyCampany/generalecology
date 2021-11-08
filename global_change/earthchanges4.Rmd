@@ -57,7 +57,7 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2020/05/spiral_2020_large.gif
 
 <div style="float: left; width: 50%;">
 
-* **Globe: combined land and ocean-surface temperature was 0.93 of a degree C above the 20th-century average**
+* **Globe: combined land and ocean-surface temperature was 0.93 of a degree C above the 20th-century average for July**
 
 <br/>
 
@@ -119,7 +119,7 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:550px" SRC="images/carbonbudget2018.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:600px; HEIGHT:600px" SRC="images/carbonbudget2020.png">
 
 <!-- ##  -->
 
@@ -162,10 +162,10 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg"> -->
 
-## Global Change: Homogenization (Journal Club)
-<hr>
+<!-- ## Global Change: Homogenization (Journal Club) -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/extinction4.jpg"> 
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/extinction4.jpg">  -->
 
 ## 
 
@@ -185,7 +185,8 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 
 * **Goal to keep increase in global temperature below 2 °C**
     + pursue efforts to limit increase to 1.5
-
+    + pursue net zero emissions
+    
 <br/>
 
 * **Contributions by country determined by that country**
@@ -222,7 +223,7 @@ Anthropocene Era: http://www.anthropocene.info/great-acceleration.php
 
 <br/>
 
-* **Negative emissions tech?**
+* **Negative emissions techology?**
 
 </div>
 
