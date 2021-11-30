@@ -17,26 +17,70 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/ma2005.png">
 
-## Ethics of ecology: Ego versus Eco
+## Ethics of ecology: Ego- versus Ecocentric
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ethics.jpg">
 
-<!-- ## Where do we fit in? -->
-<!-- <hr> -->
+## Are humans apex predators?
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/humansfood.jpeg"> -->
+<IMG STYLE="position:absolute; TOP:230px; LEFT:575px; WIDTH:515px; HEIGHT:300px" SRC="images/humansfood.jpeg">
 
-<!-- <IMG STYLE="position:absolute; TOP:230px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/trophic.png"> -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:5px; WIDTH:600px; HEIGHT:450px" SRC="images/trophic.png">
 
-## 
+## 4 major categories of ecosystem services
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:200px; WIDTH:650px; HEIGHT:650px" SRC="images/Ecosystem-Services2.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:500px; HEIGHT:450px" SRC="images/Ecosystem-Services2.png">
+
+<div style="float: right; width: 50%;">
+
+* **Provisioning services**
+
+<br/>
+
+* **Regulating services**
+
+<br/>
+
+* **Cultural services**
+
+<br/>
+
+* **Supporting services**
+
+ </div>
 
 ## Provisioning services: Raw materials
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/provision.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/provision.png">
+
+**Forest Service economists estimated the minimum value of water from National Forest System lands to be $3.7 billion per year**
 
 ## Regulating services: Natural ecosystem processes
 <hr>
@@ -44,6 +88,13 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/catskills2.jpg">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/catskills.jpg">
+
+## Case study: Pollination
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:700px; HEIGHT:400px" SRC="images/bees.png">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/chinaapple.jpg">
 
 ## Cultural services: Non-material benefits
 <hr>
@@ -59,12 +110,12 @@ runtime: shiny
 
 <!-- <IMG STYLE="position:absolute; TOP:260px; LEFT:625px; WIDTH:450px; HEIGHT:300px" SRC="images/outdoors.jpg"> -->
 
-## Supporting services: Key ecosystem functions
+## Supporting services: Underlying natural processes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:700px; HEIGHT:400px" SRC="images/bees.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/photosyn.jpg">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/chinaapple.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:535px; WIDTH:550px; HEIGHT:450px" SRC="images/soil2.jpg">
 
 <!-- ## Conservation and restoration -->
 <!-- <hr> -->
