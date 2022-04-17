@@ -5,7 +5,6 @@ output:
     css: custom.css
     widescreen: true
     smaller: true
-runtime: shiny
 ---
 
 <!-- ## -->
@@ -36,9 +35,9 @@ runtime: shiny
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:500px; HEIGHT:450px" SRC="images/Ecosystem-Services2.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:550px; HEIGHT:500px" SRC="images/Ecosystem-Services2.png">
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 40%;">
 
 * **Provisioning services**
 
@@ -92,16 +91,16 @@ runtime: shiny
 ## Case study: Pollination
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:700px; HEIGHT:400px" SRC="images/bees.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:500px; HEIGHT:500px" SRC="images/pollination.png">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/chinaapple.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/chinaapple.jpg">
 
-## Cultural services: Non-material benefits
+## Cultural services: Non-material benefits (health & well-being)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:700px; HEIGHT:400px" SRC="images/cultural.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:650px; HEIGHT:400px" SRC="images/cultural.png">
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:775px; WIDTH:300px; HEIGHT:400px" SRC="images/birding.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:680px; WIDTH:400px; HEIGHT:350px" SRC="images/highline.jpg">
 
 <!-- ## Are we disconnected from nature? -->
 <!-- <hr> -->
