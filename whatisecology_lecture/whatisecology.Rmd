@@ -24,8 +24,10 @@ output:
 
 <br />
 
-* **twitter: @court_campany**
-
+* **Shepherd Research:**
+    + aquaponics 
+    + urban tree ecology
+    
 <IMG STYLE="position:absolute; TOP:200px; LEFT:410px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
 
 ## This semester we will practice being a modern ecologist
@@ -92,14 +94,15 @@ output:
 <br/> 
 
 * **(3) Transformation and flux of energy and matter**
-
-<br/>
-
-**<span style="color:red">Are humans a part of ecology?</span>**
     
 </div>
 
-## Ecology spans many scales 
+## Are humans a part of ecology?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/humans.jpg">
+
+## Ecology questions span many scales, including time
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/scales.jpg">
@@ -144,7 +147,7 @@ output:
     + Do you feel any themes are missing?
     + Is there a take home message?
     + Is there anything you don't understand?
-    + *learn a new science word or term*
+    + *Complete and submit your 3-2-1 on Brightspace*
 
 <br/>
 
@@ -159,7 +162,7 @@ output:
 ## Journal Club warning...
 <hr>
 
-* **If there is one thing that I know in life it is ferns!**
+* **If there is one thing that I know in life it is plants !**
 
 <br/>
 
