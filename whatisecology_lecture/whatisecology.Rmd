@@ -1,5 +1,5 @@
 ---
-title: "What is Ecology?"
+title: "What is Ecology in the 21st Century?"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -27,8 +27,35 @@ output:
 * **Shepherd Research:**
     + aquaponics 
     + urban tree ecology
+    + ?????
     
-<IMG STYLE="position:absolute; TOP:200px; LEFT:410px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:275px; HEIGHT:400px" SRC="images/team.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:275px; HEIGHT:400px" SRC="images/wtc.jpg">
+
+## About me
+<hr>
+<br/>
+<br />
+
+* **Plant Ecophysiologist**
+    + climate change
+    + physiology
+    + evolution
+    
+<br />
+
+* **Ecosystem Ecologist**
+    + global change
+
+<br />
+
+* **Shepherd Research:**
+    + aquaponics 
+    + urban tree ecology
+    + ?????
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
 
 ## This semester we will practice being a modern ecologist
 <hr>
@@ -69,7 +96,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ecologypic.jpg">
 
-## What is ecology (textbook)?
+## Ecology has a few big themes
 <hr>
 <br/>
 <br/>
