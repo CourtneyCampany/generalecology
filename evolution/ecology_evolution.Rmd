@@ -62,7 +62,7 @@ output:
 
 >- Individuals in a population are not identical
 
->- Some variation among individuals in heritable
+>- Some variation among individuals is heritable
 
 >- Individuals sometimes die before reproducing
 
@@ -159,13 +159,16 @@ output:
 
 <br/>
 
-* **Species traits vary over geographic ranges**
+* **Traits of a species often vary over geographic ranges**
     + why?
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:300px; HEIGHT:400px" SRC="images/mussel.jpg">
+
     
 ## 'Ohi'a lehua tree on Hawaiian Islands
 <hr>  
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/intra_plants.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/hawaii.png">
     
 ## Intra-specific variation can occur at short distances
 <hr>
@@ -267,12 +270,12 @@ output:
 
 https://www.youtube.com/embed/_uHJGdTgtXE
 
-## This Ying and Yang has happened forever
+## This Ying and Yang has happened since life began
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/angio.gif">
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/insectphylo.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:485px; WIDTH:600px; HEIGHT:400px" SRC="images/insectphylo.jpg">
 
 <!-- ## -->
 
@@ -286,6 +289,28 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 <hr>
 <br/>
 <br/>
+
+<div style="float: left; width: 50%;">
+
+* **Divergent selection between different environments leads to the creation of reproductive barriers**
+    + driven by difference in environment
+    + driven by interaction with other species
+
+<br/>
+<br/>
+
+* **Populations become isolated, then selection drives change**
+
+<br/>
+
+* **Eventually may lead to evolution of new species**
+</div>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:350px; HEIGHT:500px" SRC="images/darwinsfinch.png">
+
+## Ecologically driven speciation
+<hr>
+<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
@@ -298,14 +323,13 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 <br/>
 
 * **Populations become isolated, then selection drives change**
-    + new species may evolve
+
+<br/>
+
+* **Eventually may lead to evolution of new species**
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/speciation.png">
 
-##
-
-<IMG STYLE="position:absolute; TOP:15px; LEFT:25px; WIDTH:500px; HEIGHT:650px" SRC="images/darwinsfinch.png">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:600px; HEIGHT:350px" SRC="images/giraffe.jpg">
 
@@ -345,6 +369,17 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/convergent3.png"> -->
 
+## Adaptive Radiation: Rapid speciation with sudden change
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/adaptiverad.png">
+
+## We view the past and present of evolution with phylogenic trees
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/mammaltree.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:550px; HEIGHT:450px" SRC="images/tree.png">
 
 ## Take Home Messages
 <hr>
@@ -366,27 +401,27 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 * **Patterns in ecological processes have driven evolution over very long periods of time...**
     + <span style="color:red">flowering plants and insects</span>
-    
-## Ecology, Evolution and Global Change
-<hr>
-<br/>
-<br/>
-<br/>
 
-<div style="float: right; width: 70%;">
+<!-- ## Ecology, Evolution and Global Change -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Evolution drives adaptation but time is important**
+<!-- <div style="float: right; width: 70%;"> -->
 
-<br/>
+<!-- * **Evolution drives adaptation but time is important** -->
 
-* **Speed of environmental change may cause evolutionary mismatches**
+<!-- <br/> -->
 
-<br/>
+<!-- * **Speed of environmental change may cause evolutionary mismatches** -->
 
-* **Rapid evolution can/may occur, but depends on what?**
-  + lizards with more sticky feed (15-20 generations)
-  + salmon migrating 2 weeks earlier (2 generations)
+<!-- <br/> -->
 
-</div> 
+<!-- * **Rapid evolution can/may occur, but depends on what?** -->
+<!--   + lizards with more sticky feed (15-20 generations) -->
+<!--   + salmon migrating 2 weeks earlier (2 generations) -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:200px; HEIGHT:400px" SRC="images/Change_animals.jpg">
+<!-- </div>  -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:200px; HEIGHT:400px" SRC="images/Change_animals.jpg"> -->
