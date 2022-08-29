@@ -71,7 +71,7 @@ output:
 <br/>
 <br/>
 
-* **How did giraffes get long necks? (Lamarck vs Darwin)**
+* **If enough change results in reproductive isolation between populations, new species can evolve**
 
 </div>
 
@@ -84,6 +84,7 @@ output:
 
 ## Species are so specialized, they are absent almost everywhere
 <hr>
+**<span style="color:blue">How does this related to the dualism between ecology and evolution?</span>**
 <br/>
 <br/>
 <br/>
@@ -308,30 +309,26 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:350px; HEIGHT:500px" SRC="images/darwinsfinch.png">
 
-## Ecologically driven speciation
-<hr>
-<br/>
-<br/>
+<!-- ## Ecologically driven speciation -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 50%;">
+<!-- <div style="float: left; width: 48%;"> -->
 
-* **Divergent selection between different environments leads to the creation of reproductive barriers**
-    + driven by difference in environment
-    + driven by interaction with other species
+<!-- * **Divergent selection between different environments leads to the creation of reproductive barriers** -->
+<!--     + driven by selection pressures -->
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Populations become isolated, then selection drives change**
 
-<br/>
-
-* **Eventually may lead to evolution of new species**
-</div>
+<!-- * **Reproductive isolation and selection may eventually lead to the evolution of new species** -->
+<!-- </div> -->
 
 
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:600px; HEIGHT:350px" SRC="images/giraffe.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:600px; HEIGHT:350px" SRC="images/giraffe.jpg"> -->
 
 
 <!-- ## Parallel evolution -->
