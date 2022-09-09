@@ -72,7 +72,7 @@ output:
 ## Albedo
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/albedo.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/albedo.png">
 
 ## Global albedo is highly variable
 <hr>
@@ -152,7 +152,7 @@ output:
 
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/2018GreenhouseEffect.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/2018GreenhouseEffect.png">
 
 ## Atmospheric absorption spectra for outgoing radiation
 <hr>
