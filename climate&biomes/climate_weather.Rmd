@@ -60,7 +60,7 @@ output:
 
 ## The Earth is divided into different climate zones
 <hr>
-
+**Largely distinguished by latitude (but not completely)**
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climatezones.gif">
 
 ## Slope of Earth's surface causes uneven heating
@@ -72,7 +72,7 @@ output:
 
 ## Earth's axial tilt (23.5&deg;) creates seasons
 <hr>
-
+**Even greater uneven heating**
 <IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:700px; HEIGHT:250px" SRC="images/seasons.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/seasons2.jpg">
@@ -82,9 +82,9 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ice_ages.jpg"> -->
 
-## Atmosphere circulation impacts climate via "Air Donuts"
+## Atmosphere circulation creates moving via "Air Donuts"
 <hr>
-
+**Creates wet and dry regions on land surfaces**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hadley.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/hadley2.jpg">
@@ -96,7 +96,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:425px; HEIGHT:425px" SRC="images/coriolis.png">
 
-## Earth surface processes also impact climate
+## Earth surface features also impact climate
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/landsurface.jpg">
@@ -106,18 +106,30 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/rainshadow.jpg">
 
-## Surface features impacts weather: Atlantic hurricanes
+## Closeness to large bodies 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/sanfran.png">
+
+## Surface features also impact weather: Atlantic hurricanes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/hurricanes.jpg">
+
+## Surface features impact weather: Atlantic hurricanes
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1eRp0EGOmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Vegetation alters weather and climate
 <hr>
+**Trees pull water from the ground and release water vapor through their leaves, generating atmospheric rivers of moisture**
+<br />
 https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:500px; HEIGHT:400px" SRC="images/cloudforest.jpg">
+<IMG STYLE="position:absolute; TOP:235px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/cloudforest.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/trees_rain.jpg">
+<IMG STYLE="position:absolute; TOP:280px; LEFT:540px; WIDTH:500px; HEIGHT:300px" SRC="images/evatrans.jpg">
 
 ## Why is London warmer than Boston?
 <hr>
@@ -144,8 +156,24 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 ## Climate controls life: Terrestrial biomes
 <hr>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:550px; HEIGHT:500px" SRC="images/biomes_temp.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:550px; HEIGHT:500px" SRC="images/biomes_temp.png">
+
+<div style="float: right; width: 40%;">
+
+**Why is the yin and yang of ecology and evolution key here?**
+
+</div>
+
 
 ## How does climate impact ecology? A question of scale...
 <hr>
