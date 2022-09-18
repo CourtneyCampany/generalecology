@@ -141,7 +141,7 @@ output:
 
 ## Ranges versus distribution: Plants
 <hr>
-**<span style="color:red">seed dispersal: gravity, wind, ballistic, water, and by animals = </span>**
+**<span style="color:red">seed dispersal: gravity, wind, ballistic, water, and by animals </span>**
 <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/seeds.png">
 
 ## Species distributions: Coconut tree
