@@ -20,7 +20,7 @@ output:
 
 <br/>
 
-* **Reflects billions of ways organisms have adapted, over and over, to a changing planet**
+* **Current composition reflects billions of ways organisms have adapted, over and over, to a changing planet**
 
 <br/>
 
@@ -34,11 +34,12 @@ output:
 ## "Essay of the geography of plants” by Humboldt, 1817
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px;HEIGHT:500px" SRC="images/humboldt2.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px;HEIGHT:500px" SRC="images/humboldt2.jpg">
 
-## 
+## Uneven distribution of plants....
+<hr>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/humboldt4.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/humboldt4.jpg">
 
 ## Species are spatially arranged
 <hr>
@@ -60,14 +61,17 @@ output:
 ## Climate drives broad distribution of terrestrial biomes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:15px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/shift.png">
+
 
 ## Biomes have distinct soil types
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soils2.png">
 
-## Species distribution varies within biomes
+## Species distribution varies widely within biomes
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/south_america2.jpg">
@@ -93,27 +97,27 @@ output:
 
 ## Niches define the limiting factors for a species
 <hr>
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/tolerance.jpg">
+**<span style="color:red">Ecological Niche = </span>**
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/tolerance.jpg">
 
 ## Tolerance Range: Coral Reefs
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/coral_map.jpeg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/coral_map.jpeg">
 
 ## Ecological niches exist in n-dimensions
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:900px; HEIGHT:330px" SRC="images/niche_dimension.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/niche_dimension.png">
 
 ## Distribution within biological communities
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:120px; WIDTH:300px; HEIGHT:450px" SRC="images/desert.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/desert.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
 
-## Species distributions are related to their niche space
+## Species distributions are related to their realized niche space
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/warbler.jpg">
@@ -125,14 +129,19 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:475px; WIDTH:550px; HEIGHT:450px" SRC="images/avoidance.jpg">
 
-## Ranges versus distribution: Crocodile
+## Ranges versus distribution: Crocodiles
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/croc.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/crocs.jpg">
+
+## Ranges versus distribution: Crocodiles
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/croc.png">
 
 ## Ranges versus distribution: Plants
 <hr>
-
+**<span style="color:red">seed dispersal: gravity, wind, ballistic, water, and by animals = </span>**
 <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/seeds.png">
 
 ## Species distributions: Coconut tree
