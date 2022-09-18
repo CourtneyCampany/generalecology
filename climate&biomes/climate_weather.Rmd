@@ -70,17 +70,17 @@ output:
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:550px; HEIGHT:275px" SRC="images/annual_energy.png">
 
-## Earth's axial tilt (23.5&deg;) creates seasons
+## Earth's axial tilt (23.5&deg;) and rotation creates seasons
 <hr>
-**Even greater uneven heating**
+**More uneven heating**
 <IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:700px; HEIGHT:250px" SRC="images/seasons.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/seasons2.jpg">
 
-<!-- ## Changes in Earth's tilt and Ice Ages -->
-<!-- <hr> -->
+## Fun Fact: Changes in Earth's tilt and Ice Ages
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ice_ages.jpg"> -->
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ice_ages.jpg">
 
 ## Atmosphere circulation creates moving via "Air Donuts"
 <hr>
@@ -148,7 +148,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
 
-## Biomes: Usually defined by communities of plants and animals
+## Biomes: Usually defined by communities of plants
 <hr>
 <br />
 
@@ -180,7 +180,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/scale.png">
 
-## Ocean Biome: Depth, light and nutrients
+## Aquatic Biomes: Depth, light and nutrients
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:600px; HEIGHT:400px" SRC="images/oceanbiomes.png">
