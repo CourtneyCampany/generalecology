@@ -65,7 +65,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/shift.png">
 
-
 ## Biomes have distinct soil types
 <hr>
 
@@ -78,7 +77,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/south_america.jpg">
 
-## Seasons can impact species distribution
+## Seasons can impact species distributions
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/seasons_monarch.png">
@@ -110,9 +109,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/niche_dimension.png">
 
-## Distribution within biological communities
+## Distribution of species within biological communities overlap
 <hr>
-
+**<span style="color:red">Fundamental vs Realized Niche = </span>**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/desert.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
@@ -132,7 +131,7 @@ output:
 ## Ranges versus distribution: Crocodiles
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/crocs.jpg">
+<IMG STYLE="position:absolute; TOP:140px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/crocs.jpg">
 
 ## Ranges versus distribution: Crocodiles
 <hr>
@@ -157,7 +156,7 @@ output:
 ## Zoogeographic regions: Wallace
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/zoo_regions.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/zoo_regions.jpg">
 
 <!-- ## Global change: climate refugia (Polar bear) -->
 <!-- <hr> -->
