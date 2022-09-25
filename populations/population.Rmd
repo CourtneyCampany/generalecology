@@ -69,12 +69,12 @@ output:
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/deereast.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:500px" SRC="images/deereast.png">
 
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/deerharvest.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/deerharvest.jpg">
 
-## Case Study: Zombie Deer
+## Case Study: Zombie and population density
 <hr>
 <br/>
 
@@ -104,7 +104,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/hayscentedfern.jpg">
 
-## HOW: Estimates from representative sample
+## HOW: Estimates from representative samples
 <hr>
 <br/>
 <br/>
@@ -116,7 +116,7 @@ output:
     + Census techniques
     + Mark & Recapture
     + Spatial component
-    + Temporal Component
+    + Temporal component
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:420px; WIDTH:600px; HEIGHT:400px" SRC="images/bear_sight.png">
 
@@ -130,7 +130,7 @@ output:
 ## Life History: More than just birth and death
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/life_cycle_generic.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/life_cycle_generic.png">
 
 ## Reproductive effort and life cycles: Long lived organisms
 <hr>
@@ -173,7 +173,7 @@ output:
     + reproduction comes at a cost of growth
     + flowers + seeds = ↓ leaves and roots
     + are enough resources available to support pregnancy?
-    + death vs growing the population...
+    + surviving vs growing the population...
     
 <IMG STYLE="position:absolute; TOP:140px; LEFT:350px; WIDTH:650px; HEIGHT:400px" SRC="images/plantreproduction.png">
 
@@ -191,7 +191,7 @@ output:
 <div style="float: left; width: 58%;">
 
 * **Annual organism may spend part of the year dormant**
-    + Seeds,Spores, Cysts, etc.
+    + Seeds, Spores, Cysts, etc.
 
 <br/>
 
@@ -257,7 +257,7 @@ output:
 
 <br/>
 
-* **Static life table: describe # of survivors at different ages**
+* **Static life table: count # of survivors at different ages**
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:425px; HEIGHT:425px" SRC="images/life_table1.png">
@@ -324,7 +324,7 @@ output:
 <br/>
 
 * **Carrying Capacity**
-    + environmental resistance
+    + environmental resistance leads to logistic growth
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:375px; WIDTH:700px; HEIGHT:350px" SRC="images/seals.png">
 
