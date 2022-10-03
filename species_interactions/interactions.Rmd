@@ -50,17 +50,17 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/niche1.jpg">
 
-## Species relationships may have benefits/costs to fitness
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:1000px; HEIGHT:400px" SRC="images/fitness.png">
-
 ## WHO: Intra vs Inter-specific competition
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="images/flamingos.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:725px; WIDTH:200px; HEIGHT:450px" SRC="images/stranglerfig.jpg">
+
+## Competition always results costs to fitness
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:1000px; HEIGHT:400px" SRC="images/fitness.png">
 
 ## Intraspecific competition limits population growth
 <hr>
@@ -79,7 +79,7 @@ output:
 
 <br/>
 
-* **Drives niche separation, specialization and species diversification**
+* **Drives niche separation, trait specialization and species diversification**
 
 <br/>
 
@@ -141,7 +141,7 @@ output:
 <div style="float: right; width: 60%;">
 
 * **Resources are variable/limiting in an environment**
-    + leads to symmetric competition
+    + leads to more symmetric competition
 
 <br/>
 
@@ -183,7 +183,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Overlapping species evolve to use a niche differently**
+* **Overlapping species may evolve to use a niche differently**
     + <ins>resource partitioning</ins> = division of resources
 
 <br/>
@@ -200,12 +200,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:475px; HEIGHT:450px" SRC="images/lions3.jpg">
 
-## Co-existence through resource partitioning in birds
-<hr>
+<!-- ## Co-existence through resource partitioning in birds -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/warbler.jpeg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/warbler.jpeg"> -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:600px; HEIGHT:300px" SRC="images/birds_resource.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:600px; HEIGHT:300px" SRC="images/birds_resource.jpg"> -->
 
 ## Co-existence through resource partitioning in lizards
 <hr>

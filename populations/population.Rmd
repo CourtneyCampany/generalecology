@@ -1,5 +1,5 @@
 ---
-title: "Population, Birth, Death & Movement"
+title: "Population Ecology"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -11,10 +11,11 @@ output:
 <hr>
 <br/>
 
-* **A group of organisms from one species**
+* **A group of organisms from one species...**
     + abundance
     + sex ratios
     + age structure
+    + density
     
 <br/>
 
@@ -33,15 +34,18 @@ output:
 ## WHY: Understanding population structure (Demography)
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
-* **# of individuals is how we measure populations**
+* **# of individuals is how we measure population size**
     
 <br/>
 
 * **Age of a population, peak reproductive ages**
+
+<br/>
+
+* **Frequency of reproduction, reproductive effort**
 
 <br/>
 
@@ -74,7 +78,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/deerharvest.jpg">
 
-## Case Study: Zombie and population density
+## Case Study: Zombie deer and population density
 <hr>
 <br/>
 
@@ -117,8 +121,23 @@ output:
     + Mark & Recapture
     + Spatial component
     + Temporal component
+    
+<br/>
+<br/>
+
+* **Most methods are indirect estimates**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:420px; WIDTH:600px; HEIGHT:400px" SRC="images/bear_sight.png">
+
+## Populations dynamics: Movement (dispersal and migration)
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/longmigrate.png">
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/coyote.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/cornworm.png"> -->
 
 <!-- ## What forces control deer abundance in Jefferson Co.? -->
 <!-- <hr> -->
@@ -132,7 +151,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/life_cycle_generic.png">
 
-## Reproductive effort and life cycles: Long lived organisms
+## Reproductive effort and life cycles differ greatly
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:520px" SRC="images/longlife.png">
@@ -145,7 +164,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/cicada_mating.jpg">
 
-## Populations and life cycles: Annuals & Ephemerals
+## Populations with short life cycles: Annuals & Ephemerals
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/annual_insect.jpg">
@@ -166,14 +185,15 @@ output:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 * **When and how to spend your resources**
     + reproduction comes at a cost of growth
     + flowers + seeds = ↓ leaves and roots
-    + are enough resources available to support pregnancy?
-    + surviving vs growing the population...
+    + are enough resources available to support pregnancy in animals?
+    + *surviving vs growing the population...*
+<br/>
+
+* **Life histories of males and females may differ**
     
 <IMG STYLE="position:absolute; TOP:140px; LEFT:350px; WIDTH:650px; HEIGHT:400px" SRC="images/plantreproduction.png">
 
@@ -204,7 +224,7 @@ output:
 
 <br/>
 
-* **How does this affect a population? **  
+* **How does this affect population estimates? **  
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:605px; WIDTH:450px; HEIGHT:300px" SRC="images/seeds.jpg">
@@ -258,6 +278,10 @@ output:
 <br/>
 
 * **Static life table: count # of survivors at different ages**
+
+<br/>
+
+* **Tells us a lot about age structure**
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:425px; HEIGHT:425px" SRC="images/life_table1.png">
@@ -288,16 +312,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:505px; LEFT:550px; WIDTH:500px; HEIGHT:200px" SRC="images/rvsk.jpeg">
 
-## Populations dynamics: Movement (dispersal and migration)
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/longmigrate.png">
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/coyote.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/cornworm.png"> -->
-
 ## Populations with unlimited resources: Exponential growth
 <hr>
 
@@ -309,7 +323,7 @@ output:
 <hr>
 <br/>
 
-* **Density dependent**
+* **Density-dependent**
     + competition
     + predation
     + disease
@@ -317,13 +331,13 @@ output:
  
 <br/>
 
-* **Density independent**
-    + weather
-    + disturbance
+* **Density-independent**
+    + weather events
+    + disturbances
 
 <br/>
 
-* **Carrying Capacity**
+* **Carrying Capacity:**
     + environmental resistance leads to logistic growth
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:375px; WIDTH:700px; HEIGHT:350px" SRC="images/seals.png">
