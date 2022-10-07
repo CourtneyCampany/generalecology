@@ -49,7 +49,7 @@ output:
 <br/>
 
 * **Europeans arrived on the Perseverance**
-    + hunted seals to near local extinction
+    + hunted seals to near local extinction for oil
 
 <br/>
 
@@ -60,7 +60,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/penguin.jpg">
 
-## Unintended consequences
+## Unintended ecosystem consequences of human acitivities
 <hr>
 <br/>
 <br/>
@@ -69,7 +69,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Any place on earth, at the time, visited by ships likely face rat introductions**
+* **Any place on earth, at the time, visited by ships likely faced rat introductions**
 
 <br/>
 
@@ -109,6 +109,13 @@ output:
  
 <IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/cats.jpg">
 
+## Macquarie Island is an vital nesting site for seabirds
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/nesting.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/nesting2.jpg">
+
 ## 1970: Scientists decided to fix things (sigh)
 <hr>
 
@@ -133,7 +140,7 @@ output:
 <br/>
 
 * **Hunting dogs were used to kill the cats**
-    + some rabbits were still around.....
+    + some rabbits survived....
 
 </div>
 
@@ -149,7 +156,8 @@ output:
 
 * **Use the integrated diagrams to unpack species interactions on the island**
     + petrel, prion, shearwaters and wekas are all birds
-    + examine the interactions between species on Fig 2
+    + examine the interactions between species on Figure 2
+        + *read captions carefully*
 
 <br/>
 
