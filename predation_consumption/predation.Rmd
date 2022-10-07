@@ -117,7 +117,7 @@ output:
 <br/>
 
 * **# of foragers relates to prey density**
-    + minimize competition
+    + competition for available prey
     + group foraging? (Hintz & Lonzarich 2018)
 
 <br/>
@@ -259,7 +259,7 @@ output:
 2. Populations of lynx will ....
 3. Why does **time** matter at this step?
 4. Populations of prey will....
-5. Food for predators will 
+5. Food for predators will....
 6. Over time predator populations will ....
 
 </div>
