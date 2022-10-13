@@ -14,7 +14,7 @@ output:
 
 <div style="float: left; width: 60%;">
 
-* **An organisms that consumes all or part of another organism (prey)**
+* **An organism (predator) that consumes all or part of another organism (prey)**
     + benefits its own fitness
     + reduces the growth, fecundity and survival of the prey population
 
@@ -62,8 +62,8 @@ output:
 
 <br/>
 
-* **Parasite rely on transmission**
-    + direct contact is density dependent
+* **Parasites rely on direct transmission**
+    + contact is density dependent
 
 </div>
 
@@ -71,7 +71,6 @@ output:
 
 ## Optimal Foraging Theory
 <hr>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -96,7 +95,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:300px; HEIGHT:450px" SRC="images/oft.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:325px; HEIGHT:500px" SRC="images/oft.jpg">
 
 ##
 
@@ -144,13 +143,13 @@ output:
 * **Foraging Strategies**
     + Laziness
     + Thievery
-    + Group hunting
+    + Group hunting 
     + Seasonal prey choice
     
     
 <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:300px; HEIGHT:450px" SRC="images/cheetahlazy.png">
 
-## Optimal foraging in African predators: Energy use
+## Optimal foraging in African predators: Prey choice
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/africa_pred_age.png">
@@ -165,9 +164,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/newt.jpg">
 
-## 
+## Defenses can be 'constitutive' of 'induced'
+<hr>
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/plant_defense.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/plant_defense2.jpg">
 
 ## Predators also adapt to prey (Cattau et al. 2017)
 <hr>
@@ -179,7 +179,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:750px; HEIGHT:400px" SRC="images/plants_comp.png"> -->
 
-## Predation may promote biodiversity
+## Predation can promote biodiversity
 <hr>
 <br/>
 <br/>
@@ -212,13 +212,13 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:550px; HEIGHT:450px" SRC="images/carrying_capacity_predator.png">
 
-## 
+## Prey populations are always lower in the presence of predators
+<hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:800px; HEIGHT:600px" SRC="images/parasite_host_pop.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/parasite_host_pop.png">
 
 ## Impacts of predation on populations is complex...
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
@@ -229,6 +229,10 @@ output:
 <br/>
 
 * **Compensatory responses**
+
+<br/>
+
+* **Assumption of a 1 vs 1 relationship**
 
 <br/>
 
@@ -315,10 +319,10 @@ output:
 
  </div>
 
-## Start each population cycle at the zero isocline
-<hr>
+<!-- ## Start each population cycle at the zero isocline -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/predatorpreyisoclintes2.png">
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/predatorpreyisoclintes2.png"> -->
 
 <!-- ## Leftover questions: What does the prey eat? -->
 <!-- <hr> -->
