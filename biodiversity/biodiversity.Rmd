@@ -9,7 +9,7 @@ output:
 
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/components.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/components.jpg">
 
 ## 
 
@@ -22,7 +22,7 @@ output:
 <div class="item-absolute">**Diversity buffers against functional changes**</div>
 </div>
 
-<div class="item-absolute2">**No one species fills all the roles of an ecosystem**</div>
+<div class="item-absolute2">**No one species fills all the roles (functions)  of an ecosystem**</div>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/redund.jpg">
 
@@ -47,7 +47,8 @@ output:
 <br/>
 
 * **Reflects billions of ways organisms have adapted, over and over, to a changing planet**
-
+    + biodiversity 'hot spots" exist
+    
 <br/>
 
 * **Humans relentlessly alter ecosystems**
@@ -60,12 +61,20 @@ output:
 
 ## Measuring biodiversity (e.g. Simpson's or Shannons index)
 <hr>
+<span style="color:darkred">**Assumption: All species are equally important**</span>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:40px; WIDTH:600px; HEIGHT:300px" SRC="images/diversity_example.jpeg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/diversity_example.jpeg">
 
-<IMG STYLE="position:absolute; TOP:500px; LEFT:40px; WIDTH:600px; HEIGHT:200px" SRC="images/simpson-index.jpeg">
+<!-- <IMG STYLE="position:absolute; TOP:500px; LEFT:40px; WIDTH:600px; HEIGHT:200px" SRC="images/simpson-index.jpeg"> -->
 
-<IMG STYLE="position:absolute; TOP:325px; LEFT:675px; WIDTH:350px; HEIGHT:250px" SRC="images/simpsons_ex.png">
+<!-- <IMG STYLE="position:absolute; TOP:325px; LEFT:675px; WIDTH:350px; HEIGHT:250px" SRC="images/simpsons_ex.png"> -->
+
+## Richness and Evenness both contribute to functional diversity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:10px; WIDTH:500px; HEIGHT:500px" SRC="images/richeven.jpg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:520px; WIDTH:550px; HEIGHT:275px" SRC="images/field.jpg">
 
 <!-- ## Species diversity is also a balance -->
 <!-- <hr> -->
@@ -84,28 +93,28 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/canetoad.png">
 
-## Exotic vs Invasive
-<hr>
+<!-- ## Exotic vs Invasive -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:250x; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/exotic.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:250x; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/exotic.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:250x; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/ninja_turtles.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:250x; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/ninja_turtles.jpg"> -->
 
 ##  
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/non-native.png">
 
-## Species diversity declines from tropics
+## Where: Species diversity declines from tropics
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
 
-## Species diversity declines at altitude
+## Where: Species diversity declines at altitude
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/altitude.jpg">
 
-## Mapping biodiversity: Soils
+## Mapping biodiversity: Soil community diversity matters
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soil_biodiversity.jpg">
@@ -133,6 +142,7 @@ output:
 
 ## Hotspots: Endemic species of Madagascar
 <hr>
+<span style="color:darkred">**What factors contribute to 90% endemism?**</span>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/madagascar.png">
 
@@ -161,7 +171,7 @@ output:
 
 ## Threats: Invasive species are increasing
 <hr>
-<br/>
+<br/> 
 <br/>
 <br/>
 <br/>
@@ -195,7 +205,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png">
 
-## Homogenization: ecosystems losing their uniqueness
+## Biodiversity is decreasing rapidly (Living Planet Index 2022)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/vertebrate.jpg">
+
+<!-- ## Homogenization: ecosystems losing their uniqueness -->
 <!-- <hr> -->
 <!-- <br/> -->
 <!-- <br/> -->

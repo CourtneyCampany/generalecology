@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##
 
-<IMG STYLE="position:absolute; TOP:10px; LEFT:75px; WIDTH:900px; HEIGHT:700px" SRC="images/ecosystem.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:550px" SRC="images/ecosystem.png">
 
 ## Diverse communities broaden ecosystem function
 <hr>
@@ -25,13 +25,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Species occur together**
     + not all perfectly adapted
-    + networks of trophic interactions
+    + networks of *trophic* interactions
 
 <br/>
 
 * **Ecosystems work better as a group**
     + No single species performs all roles
-    + larger threshold of environmental conditions
+    + larger threshold for environmental change
     + fosters ecosystem resilience
         + ball & cup model
  </div>   
@@ -66,7 +66,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/ballcup3.png"> 
 
-## Not all species are created equal
+## Not all species in a community are equal in importance
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:275px; HEIGHT:500px" SRC="images/species_eco.png">
@@ -91,8 +91,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Energy flow limits length of food chain (10% rule)
 <hr>
+**Inefficient energy flow limits the number of trophic levels**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/pyramid.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/pyramid.jpg">
+
+## Bottom up control of communties: resources limit producers
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:520px" SRC="images/bottomup.jpg">
+
+## Trophic cascades: Multi-level disruptions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/otters.jpg">
 
 ## Building ecosystems: Succession
 <hr>
@@ -128,7 +139,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Maintains communities in non-equilibrium**
-    + ecosystems rarely reach steady-state
+    + *ecosystems rarely reach steady-state*
 </div>
   
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fire.jpg">
@@ -162,7 +173,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 
 * **Colonization:**
-    + species that handle stresses
+    + species that handle high stress
     + low nutrients / minimal soil
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/volcano.jpg">
@@ -174,7 +185,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Initial Species composition:**
     + nitrogen fixers (bacteria, plants)
-    + **Facilitation**
+    + **Facilitation:**
  
  <br/>
  
@@ -190,7 +201,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/crust.jpg">
 
-## Secondary succession
+## Secondary succession: soil is key...
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/succession2.jpg">
@@ -221,7 +232,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/pioneer.jpg">
 
-## Late succession: inhibition & tolerance
+## Late succession: inhibition & tolerance (shade matters!)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/succession1.png">
