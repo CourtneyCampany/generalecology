@@ -18,14 +18,16 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Diverse communities broaden ecosystem function
 <hr>
 <br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 45%;">
+<div style="floatb left; width: 45%;">
 
 * **Species occur together**
     + not all perfectly adapted
     + networks of *trophic* interactions
+    
+<br/>
+
+* **Functioning: Individual and colletive contributions**
 
 <br/>
 
@@ -33,7 +35,8 @@ knitr::opts_chunk$set(echo = FALSE)
     + No single species performs all roles
     + larger threshold for environmental change
     + fosters ecosystem resilience
-        + ball & cup model
+        + *ball & cup model*
+
  </div>   
         
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/interaction.jpg"> 
@@ -82,7 +85,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400; HEIGHT:300px" SRC="images/wolf.jpg">
 
-## Hierarchical levels in an community: Food webs
+## Hierarchical levels in an community: Food webs/trophic levels
 <hr>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:25px; WIDTH:600px; HEIGHT:500px" SRC="images/grazing_foodweb.png">
@@ -95,7 +98,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/pyramid.jpg">
 
-## Bottom up control of communties: resources limit producers
+## Bottom up control of communities: resources limit producers
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:520px" SRC="images/bottomup.jpg">
@@ -237,10 +240,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/succession1.png">
 
-## Wildlife and succession
-<hr>
+<!-- ## Wildlife and succession -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/wildlife_succesion.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/wildlife_succesion.jpg"> -->
 
 <!-- ## The Boreal: forests shaped by fire -->
 <!-- <hr> -->

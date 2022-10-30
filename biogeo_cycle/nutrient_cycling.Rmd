@@ -27,10 +27,33 @@ output:
 <IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:400px; HEIGHT:550px" SRC="images/general_cycle.jpg">
 
 ## 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/biogeo2.png">
+**Each cycle includes aspects of Biology + Chemistry + Geology as elements move or are stored in the componenets of the biosphere**
 
-## Importance of biogeochemical cycling
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/biogeo2.png">
+
+## Importance of biogeochemical cycling: Nutrient limitation
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/limitation_globe2.png">
@@ -50,28 +73,28 @@ output:
 ## Nutrient cycles: Ecosystem
 <hr>
 <br />
-<br />
 
 <div style="float: left; width: 40%;">
 
-* **Entry of nutrients into system (IN)**
+* **Entry of nutrients into system <span style="color:blue">(IN)</span>**
     + fixation (bacteria)
     + weathering (rocks)
     + deposition (acid rain)
 
 <br />
 
-* **Internal transfer (recycling)**
+* **Internal transfer <span style="color:blue">(recycling)</span>**
     + food webs
     + decomposition
+    + inorganic - organic
  
  <br />
  
-* **Loss of nutrients from system (OUT)**
+* **Loss of nutrients from system <span style="color:blue">(OUT)</span>**
 
  <br />
  
-* **Steady State = ?**
+* **Steady State and Succession....**
 
 </div>
 
@@ -86,7 +109,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/ocean.jpg">
 
-## Carbon cycle: Global
+## Carbon cycle: Global (Sinks and Sources of C)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/carboncycle.jpg">
@@ -113,14 +136,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/nitro_aquatic.png">
 
-## Decomposition
+## Decomposition - Ecosystem internal recycling
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/decomp.png">
 
 <!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:775px; WIDTH:300px; HEIGHT:600px" SRC="images/decomposers.png"> -->
 
-## Decomposition rate: Biomes
+## Decomposition rate: Biomes (climate+microbes+material)
 <hr>
 <br />
 
