@@ -14,7 +14,7 @@ output:
 
 ## Matter is conserved
 <hr>
-
+<span style="color:darkred">**Chemical elements (and water) are stored in different forms across the biosphere**</span>
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/nutrients.jpg">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/matterconserved.jpg">
@@ -72,7 +72,6 @@ output:
 
 ## Nutrient cycles: Ecosystem
 <hr>
-<br />
 
 <div style="float: left; width: 40%;">
 
@@ -91,7 +90,8 @@ output:
  <br />
  
 * **Loss of nutrients from system <span style="color:blue">(OUT)</span>**
-
+    + gas loss, leaching, disturbance
+    
  <br />
  
 * **Steady State and Succession....**
@@ -116,7 +116,7 @@ output:
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/2020.png">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/2021.png">
 
 ##
 
