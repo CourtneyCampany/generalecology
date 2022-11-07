@@ -99,7 +99,7 @@ https://cpb-eu-w2.wpmucdn.com/blogs.reading.ac.uk/dist/3/187/files/2017/06/mapar
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/acceleration3.png">
 
-## Greenhouse gases (ice cores) correlate to warming
+## Greenhouse gases (ice cores) correlate to warming trends
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/icecores3.jpg">
@@ -149,7 +149,7 @@ https://cpb-eu-w2.wpmucdn.com/blogs.reading.ac.uk/dist/3/187/files/2017/06/mapar
 ## Global Change: Sea Level Rise
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:550px; HEIGHT:450px" SRC="images/searise.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:560px; HEIGHT:450px" SRC="images/searise.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/sealevel2.png">
 
