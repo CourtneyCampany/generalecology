@@ -1,0 +1,24 @@
+---
+title: "Global Change and Extinctions"
+output: 
+  ioslides_presentation:
+    css: custom3.css
+    widescreen: true
+    smaller: true
+---
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
+
+
+## Extinctions are historically driven by humans: Megafauna
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/megafauna.png">
+
+## Extinction rate are now picking up....
+
+<IMG STYLE="position:absolute; TOP:1800px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/extinction2.png">
