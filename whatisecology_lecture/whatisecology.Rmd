@@ -29,9 +29,7 @@ output:
     + urban tree ecology
     + ?????
     
-<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:275px; HEIGHT:400px" SRC="images/team.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:275px; HEIGHT:400px" SRC="images/wtc.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
 
 ## About me
 <hr>
@@ -55,7 +53,10 @@ output:
     + urban tree ecology
     + ?????
     
-<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:275px; HEIGHT:400px" SRC="images/team.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:275px; HEIGHT:400px" SRC="images/wtc.jpg">
+
 
 ## This semester we will practice being a modern ecologist
 <hr>
@@ -91,7 +92,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/ecologist2.jpg">
 
-## What is ecology (textbook)?
+## What is ecology (textbook definition)?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ecologypic.jpg">
@@ -129,7 +130,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/humans.jpg">
 
-## Ecology questions span many scales, including time
+## Ecology concepts span many scales, including time
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/scales.jpg">
@@ -205,7 +206,7 @@ output:
     
 <IMG STYLE="position:absolute; TOP:485px; LEFT:300px; WIDTH:500px; HEIGHT:200px" SRC="images/warn.jpg">
 
-## Introducing the 'Pot of Doom'
+## Keep the 'Pot of Doom' locked away
 <hr>
 <br/>
 <br/>
