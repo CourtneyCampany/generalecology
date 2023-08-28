@@ -79,8 +79,9 @@ output:
 
 ## What is Generational Time? Why does it matter?
 <hr>
+<span style="color:blue">**Generation time determines the rate (speed) of evolution**</span>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/generational_time.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/generational_time2.png">
 
 ## Species are so specialized, they are absent almost everywhere
 <hr>
@@ -116,7 +117,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:10px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/backyard_bees.jpg">
 
-## Diversity of living things evolves over long time periods
+## The 'Tree of Life' evolved over geologic time periods
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/diversity_time.gif">
@@ -127,7 +128,7 @@ output:
 <br/>
 <br/>
 
-* **Survival of the fittest** is tied to organisms interacting with their environment
+* **Survival of the fittest** is tied to organisms interacting with their environment (living & non-living)
 
 <br/>
 
@@ -140,8 +141,8 @@ output:
 
 <br/>
 
->- **The components and themes of ecology matters a lot!**
-      + environment is hardly ever stable
+>- **The components and themes of ecology matter a lot!**
+      + environments are often not stable for very long
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/swallowtail.jpg">
 
@@ -151,7 +152,7 @@ output:
 <br/>
 <br/>
 
-* **Some traits of plants and animals are 'conserved'**
+* **Some traits of living things are 'conserved'**
     + not easily modified
 
 <br/>
@@ -171,7 +172,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/hawaii.png">
     
-## Intra-specific variation can occur at short distances
+## Within species variation can occur at short distances
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:700px; HEIGHT:400px" SRC="images/zinc.png">
@@ -247,21 +248,25 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/guppy3.png">
 
-## Great tit (Parus major) and bird feeders (Bosse et al. 2017)
-<hr>
+<!-- ## Great tit (Parus major) and bird feeders (Bosse et al. 2017) -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:700px; HEIGHT:400px" SRC="images/tits_data.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:700px; HEIGHT:400px" SRC="images/tits_data.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:825px; WIDTH:220px; HEIGHT:220px" SRC="images/tit.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:825px; WIDTH:220px; HEIGHT:220px" SRC="images/tit.jpg"> -->
 
 ## When species interact, co-evolution can occur
 <hr>
 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/newt_tradeoffs.gif">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/newt_tradeoffs2.gif">
+
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird2.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:150px" SRC="images/coevolve.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:150px" SRC="images/coevolve.jpg"> -->
 
 ## Co-evolution of orchid bee and ochid flowers
 <hr>
@@ -271,7 +276,7 @@ output:
 
 https://www.youtube.com/embed/_uHJGdTgtXE
 
-## This Yin and Yang has happened since life began
+## This Yin and Yang is key for life on land
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/angio.gif">
@@ -371,7 +376,7 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/adaptiverad.png">
 
-## We view the past and present of evolution with phylogenic trees
+## We view the past & present of evolution with phylogenetic trees
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/mammaltree.png">
