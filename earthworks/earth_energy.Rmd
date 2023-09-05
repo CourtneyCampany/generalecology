@@ -142,9 +142,15 @@ output:
 
 ## Why clouds are cool...
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/clouds.jpg">
+
+## Oceans store the most heat (OHC)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/schuckmann_budget_oceancapacity.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/schuckmann_budget.png">
 
 ##
 
@@ -154,7 +160,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/2018GreenhouseEffect.png">
 
-## Atmospheric absorption spectra for outgoing radiation
+## Greenhouse gas absorption spectra for outgoing radiation
 <hr>
 <br />
 
@@ -258,7 +264,7 @@ output:
 
 * **Water has high specific heat**
     + 4x more energy to heat water than air
-    + uses up solar energy
+    + absorbs/holds solar energy
 
 <br/>
 
@@ -290,7 +296,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:900px; HEIGHT:425px" SRC="images/water_residence.png">
 
-## Fresh water for animals, including humans....
+## Fresh water for humans....
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/waterpeople.png">
