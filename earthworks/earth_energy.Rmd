@@ -145,12 +145,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/clouds.jpg">
 
-## Oceans store the most heat (OHC)
-<hr>
+<!-- ## Oceans store the most heat (OHC) -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/schuckmann_budget_oceancapacity.png">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/schuckmann_budget_oceancapacity.png"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/schuckmann_budget.png">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/schuckmann_budget.png"> -->
 
 ##
 
@@ -209,7 +209,7 @@ output:
 <div style="float: left; width: 50%;">
 
 * **NASA recently confirmed heat-trapping effect of water in the air**
-    + critical component of global change
+    + critical component of climate change
     + collects at tropical latitudes
 
 <br/>
@@ -228,7 +228,7 @@ output:
 ## Solar energy & water cycle connected
 <hr>
 
-<div class="centered">Water cycle = continuous movement of water within the earth and atmosphere</div>
+<div><strong><span style="color:blue">Water cycle = movement of water within the earth and atmosphere</span></strong></div>
 
 <br/>
 <br/>
@@ -250,7 +250,7 @@ output:
 <br/>
 <br/>
 
-<div class="centered"><strong><span style="color:red">25% of incoming solar energy leaves the surface through evaporation</span></strong></div>
+<div><strong><span style="color:red">25% of incoming solar energy leaves the surface through evaporation</span></strong></div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/Solar-Energy.jpg">
 
@@ -289,7 +289,9 @@ output:
 ## Global water cycle: 577,000 km^3^ of water circulates each year
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/water_cycle.png">
+<div class="centered"><strong><span style="color:blue">Net movement as precipitation ≠ evapotranspiration</span></strong></div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/water_cycle.png">
 
 ## Global water cycle: Residence times matter
 <hr>
