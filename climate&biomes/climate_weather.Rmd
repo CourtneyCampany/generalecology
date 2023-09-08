@@ -60,7 +60,7 @@ output:
 
 ## The Earth is divided into different climate zones
 <hr>
-**Largely distinguished by latitude (but not completely)**
+**Distinguished by several key physical biosphere features**
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climatezones.gif">
 
 ## Slope of Earth's surface causes uneven heating
@@ -77,10 +77,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/seasons2.jpg">
 
-## Fun Fact: Changes in Earth's tilt and Ice Ages
-<hr>
+<!-- ## Fun Fact: Changes in Earth's tilt and Ice Ages -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ice_ages.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ice_ages.jpg"> -->
 
 ## Atmosphere circulation creates moving via "Air Donuts"
 <hr>
