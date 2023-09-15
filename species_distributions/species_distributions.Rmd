@@ -15,7 +15,7 @@ output:
 
 * **Intricate webs of interacting organisms**
     + 2,000,000 species are known 
-    + 18,000 plants & animals discovered per year
+    + ~18,000 plants & animals discovered yearly
     + estimated 87% of Eukaryotas unknown
 
 <br/>
@@ -41,12 +41,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/humboldt4.jpg">
 
-## Species are spatially arranged
+## Humboldt lessons: Species are spatially arranged
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/scattered.jpg">
 
-## Species are spatially arranged
+## Humboldt lessons: Species are spatially arranged
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/scattered.jpg">
@@ -77,7 +77,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/south_america.jpg">
 
-## Seasons can impact species distributions
+## Seasons may impact species distributions
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/seasons_monarch.png">
@@ -94,17 +94,17 @@ output:
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/articfur.jpg">
 
-## Niches define the limiting factors for a species
+## Niche defines the limiting factors for a species
 <hr>
 **<span style="color:red">Ecological Niche = </span>**
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/tolerance.jpg">
 
-## Tolerance Range: Coral Reefs
+## Tolerance Ranges: Coral Reefs
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/coral_map.jpeg">
 
-## Ecological niches exist in n-dimensions
+## Ecological niches exist in n-dimensions (many factors)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/niche_dimension.png">
@@ -112,9 +112,11 @@ output:
 ## Distribution of species within biological communities overlap
 <hr>
 **<span style="color:red">Fundamental vs Realized Niche = </span>**
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/desert.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/niches2.png">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/desert.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg"> -->
 
 ## Species distributions are related to their realized niche space
 <hr>
@@ -128,22 +130,24 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:475px; WIDTH:550px; HEIGHT:450px" SRC="images/avoidance.jpg">
 
-## Ranges versus distribution: Crocodiles
+## Species ranges versus distribution: Crocodiles
 <hr>
 
 <IMG STYLE="position:absolute; TOP:140px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/crocs.jpg">
 
-## Ranges versus distribution: Crocodiles
+## Species ranges versus distribution: Crocodiles
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/croc.png">
 
 ## Ranges versus distribution: Plants
 <hr>
-**<span style="color:red">seed dispersal: gravity, wind, ballistic, water, and by animals </span>**
+**<span style="color:blue">dispersal: movement of individuals or gametes</span>**
+<br/>
+**<span style="color:green">seed dispersal: gravity, wind, ballistic, water, and by animals </span>**
 <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/seeds.png">
 
-## Species distributions: Coconut tree
+## Species ranges versus distribution: Coconut tree
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/coconut.png">
