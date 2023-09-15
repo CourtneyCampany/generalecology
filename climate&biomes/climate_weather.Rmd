@@ -70,7 +70,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:550px; HEIGHT:275px" SRC="images/annual_energy.png">
 
-## Earth's axial tilt (23.5&deg;) and rotation creates seasons
+## Earth's axial tilt (23.5&deg;) and orbit creates seasons
 <hr>
 **More uneven heating**
 <IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:700px; HEIGHT:250px" SRC="images/seasons.jpg">
@@ -82,16 +82,16 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ice_ages.jpg"> -->
 
-## Atmosphere circulation creates moving via "Air Donuts"
+## Atmosphere circulation creates large climate patterns
 <hr>
 **Creates wet and dry regions on land surfaces**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hadley.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/hadley2.jpg">
 
-## Earth's atmosphere contains six rotating "Air Donuts"
+## Earth's atmosphere contains six rotating cells
 <hr>
-
+**Coriolis effect deflects cells in different directions above/below equator**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:450px" SRC="images/circulation_zones.png">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:425px; HEIGHT:425px" SRC="images/coriolis.png">
@@ -131,7 +131,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:280px; LEFT:540px; WIDTH:500px; HEIGHT:300px" SRC="images/evatrans.jpg">
 
-## Why is London warmer than Boston?
+## Why is London warmer than Boston in the winter?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/boston.png">
@@ -148,7 +148,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
 
-## Biomes: Usually defined by communities of plants
+## Biomes: Defined by communities of plants + climate
 <hr>
 <br />
 
