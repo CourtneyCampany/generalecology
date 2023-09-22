@@ -36,7 +36,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px;HEIGHT:500px" SRC="images/humboldt2.jpg">
 
-## Uneven distribution of plants....
+## Underlying causes of the uneven distribution of plants....
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/humboldt4.jpg">

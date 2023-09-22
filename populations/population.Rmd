@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## WHAT: Defining a population can be tricky
+## WHAT: Defining a population is multi-faceted
 <hr>
 <br/>
 
@@ -36,12 +36,12 @@ output:
 <br/>
 
 <div style="float: left; width: 50%;">
-
-* **# of individuals is how we measure population size**
+* **is population size ↑ ←→ ↓ ?**
     
 <br/>
 
 * **Age of a population, peak reproductive ages**
+
 
 <br/>
 
@@ -53,15 +53,15 @@ output:
  
 <br/>
  
-* **Measuring, predicting and evaluating population sizes guides ecologist**
-    + is it growing, declining, holding steady?
+* **Measuring, predicting and evaluating population sizes guides decisions**
+    + conservation, pest management, harvesting
 
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:215px; LEFT:575px; WIDTH:500px; HEIGHT:375px" SRC="images/baldeagle.png">
 
-## Case Study: Deer population size
+## Case Study: Deer population size 
 <hr>
 <br/>
 
@@ -69,7 +69,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:535px; WIDTH:570px; HEIGHT:375px" SRC="images/deerpop2.png">
 
-## Case Study: Deer population density
+## Case Study: Deer population density matters too...
 <hr>
 <br/>
 
@@ -97,7 +97,7 @@ output:
 
 <br/>
 
-* **Modular organisms are harder**
+* **Modular organisms: colonies, etc.**
     + bacteria, algae, corals
     + plants: ferns grow by rhizomes
 
@@ -164,7 +164,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/cicada_mating.jpg">
 
-## Populations with short life cycles: Annuals & Ephemerals
+## Species with short life cycles: Annuals & Ephemerals
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/annual_insect.jpg">
@@ -225,6 +225,7 @@ output:
 <br/>
 
 * **How does this affect population estimates? **  
+    + Reproductive effort (seeds) and offspring may not be synced
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:605px; WIDTH:450px; HEIGHT:300px" SRC="images/seeds.jpg">
@@ -281,7 +282,7 @@ output:
 
 <br/>
 
-* **Tells us a lot about age structure**
+* **Tells us a lot about age structure of a population**
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:425px; HEIGHT:425px" SRC="images/life_table1.png">
@@ -312,7 +313,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:505px; LEFT:550px; WIDTH:500px; HEIGHT:200px" SRC="images/rvsk.jpeg">
 
-## Populations with unlimited resources: Exponential growth
+## Populations with unlimited resources: **Exponential growth**
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:650px; HEIGHT:450px" SRC="images/elephant2.jpg">
@@ -338,7 +339,7 @@ output:
 <br/>
 
 * **Carrying Capacity:**
-    + environmental resistance leads to logistic growth
+    + environmental resistance leads to **Logistic growth**
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:375px; WIDTH:700px; HEIGHT:350px" SRC="images/seals.png">
 
