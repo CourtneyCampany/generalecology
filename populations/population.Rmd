@@ -36,7 +36,7 @@ output:
 <br/>
 
 <div style="float: left; width: 50%;">
-* **is population size ↑ ←→ ↓ ?**
+* **Is population size ↑ ←→ ↓ ?**
     
 <br/>
 
@@ -113,6 +113,9 @@ output:
 <br/>
 <br/>
 <br/>
+
+* **Most methods are indirect estimates**
+
 <br/>
 <br/>
 
@@ -121,11 +124,6 @@ output:
     + Mark & Recapture
     + Spatial component
     + Temporal component
-    
-<br/>
-<br/>
-
-* **Most methods are indirect estimates**
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:420px; WIDTH:600px; HEIGHT:400px" SRC="images/bear_sight.png">
 
@@ -171,13 +169,38 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/desertflower.jpg">
 
+## Populations and life cycles: Dormancy
+<hr>
+<br/>
+
+<div style="float: left; width: 58%;">
+
+* **Annual organism may spend part of the year dormant**
+    + Seeds, Spores, Cysts, etc.
+
+<br/>
+
+* **Thousands of seeds per square meter of soil**
+
+<br/>
+
+* **Dormancy can last for long periods of time**
+    + protection from harsh environments
+
+<br/>
+
+* **How does this affect population estimates? **  
+    + Reproductive effort and offspring may not be synced
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:605px; WIDTH:450px; HEIGHT:300px" SRC="images/seeds.jpg">
+
 ## Life History: Sexual conflict
 <hr>
 <br/>
 <br/>
 
-* **Annuals vs Perennials**
-    + not just plants
+* **Goal to pass on genes...**
 
 <br/>
 <br/>
@@ -203,32 +226,6 @@ output:
 <!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mast2.jpg"> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/mast3.jpg"> -->
-
-## Populations and life cycles: Dormancy
-<hr>
-<br/>
-
-<div style="float: left; width: 58%;">
-
-* **Annual organism may spend part of the year dormant**
-    + Seeds, Spores, Cysts, etc.
-
-<br/>
-
-* **Thousands of seeds per square meter of soil**
-
-<br/>
-
-* **Dormancy can last for long periods of time**
-    + protection from harsh environments
-
-<br/>
-
-* **How does this affect population estimates? **  
-    + Reproductive effort (seeds) and offspring may not be synced
-</div>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:605px; WIDTH:450px; HEIGHT:300px" SRC="images/seeds.jpg">
 
 ## 
 <br/>
