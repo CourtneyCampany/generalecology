@@ -79,7 +79,7 @@ output:
 
 <br/>
 
-* **Drives niche separation, trait specialization and species diversification**
+* **Drives niche separation, trait specialization and potentially species diversification**
 
 <br/>
 
@@ -189,8 +189,8 @@ output:
 <br/>
 
 * **Species whose niches only partly overlap coexist easier**
-    + use the environment differently (<ins>niche differentiation</ins>)
-    + evolve traits to use different/less overlapping resources (<ins>character displacement</ins>)
+    + use the environment differently = <ins>niche differentiation</ins>
+    + evolve traits to use different/less overlapping resources = <ins>character displacement</ins>
 
 <br/>
 
@@ -212,7 +212,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles.png">
 
-## Niche complementarity: different use of microhabitats
+## Niche differentiation: different use of microhabitats
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png">
