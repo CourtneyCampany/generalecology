@@ -46,9 +46,9 @@ output:
 ## What is competition?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:400px; HEIGHT:350px" SRC="images/comp_bird.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/plantoverlap.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/niche1.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/niche1.jpg"> -->
 
 ## WHO: Intra vs Inter-specific competition
 <hr>
@@ -75,11 +75,11 @@ output:
 
 <div style="float: left; width: 45%;">
 
-* **Natural selection favors individuals that do not compete**
+* **<span style="color:blue">Natural selection favors individuals that do not compete</span>**
 
 <br/>
 
-* **Drives niche separation, trait specialization and potentially species diversification**
+* **Drives niche differentiation, trait specialization and potentially species diversification**
 
 <br/>
 
@@ -194,7 +194,7 @@ output:
 
 <br/>
 
-* **Co-existing species can overlap by using different forms of resources (niche complementarity)**
+* **Co-existing species can overlap by using different forms of resources**
 
 </div>
 
