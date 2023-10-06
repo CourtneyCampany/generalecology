@@ -40,7 +40,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:425px; WIDTH:650px; HEIGHT:450px" SRC="images/parasitoid_lifecyle.jpeg">
 
-## Predator behavior
+## Predator behavior is super diverse
 <hr>
 <br/>
 
@@ -53,8 +53,8 @@ output:
 <br/>
 
 * **True predators and grazers are mostly foragers**
-    + searching (active)
-    + sit and wait (passive)
+    + searching (active foraging)
+    + sit and wait (passive foraging)
     
 <br/>
 
@@ -90,8 +90,7 @@ output:
 
 <br/>
 
-* **To maximize fitness a predator must balance these**
-    + alpine bumble bees
+* **To maximize fitness a forager must balance these**
 
 </div>
 
@@ -187,8 +186,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **If they consume the strongest competitor**
-    + invasive species...
+* **If they consume the strongest competitor then the community may become more 'even'**
 
 <br/>
 
@@ -236,7 +234,7 @@ output:
 
 <br/>
 
-* **Life histories**
+* **Life histories via reproductive traits**
 
 <br/>
 
