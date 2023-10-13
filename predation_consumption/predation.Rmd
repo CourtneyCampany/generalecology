@@ -48,7 +48,7 @@ output:
 
 * **Behaviors to capture prey differ vastly**
     + *consumption rate*: 
-    + consumption rate impacts populations
+    + consumption rate impacts population sizes
 
 <br/>
 
@@ -114,13 +114,13 @@ output:
         
 <br/>
 
-* **# of foragers relates to prey density**
+* **# of foragers also relates to prey density**
     + competition for available prey
     + group foraging? (Hintz & Lonzarich 2018)
 
 <br/>
 
-* **Predators should choose to forage in a patch with the highest quality**
+* **Take Home: Predators should choose to forage in a patch with the highest quality**
         
 </div>
 
@@ -186,7 +186,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **If they consume the strongest competitor then the community may become more 'even'**
+* **If predators consume the strongest competitor then the community may become more 'even'**
 
 <br/>
 
@@ -194,7 +194,7 @@ output:
 
 <br/>
 
-* **Predation structures communities**
+* **<span style="color:blue">Predation structures communities</span>**
 
 </div>
 
@@ -226,7 +226,7 @@ output:
 
 <br/>
 
-* **Compensatory responses**
+* **Compensatory responses (not kill)**
 
 <br/>
 

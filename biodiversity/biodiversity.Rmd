@@ -59,9 +59,9 @@ output:
  
 <IMG STYLE="position:absolute; TOP:300px; LEFT:575px; WIDTH:475px; HEIGHT:250px" SRC="images/animals_biodiverse.jpg">
 
-## Measuring biodiversity (e.g. Simpson's or Shannons index)
+## HOW: Measuring biodiversity (e.g. Simpson's or Shannons index)
 <hr>
-<span style="color:darkred">**Assumption: All species are equally important**</span>
+<span style="color:red">**Assumption: All species are equally important**</span>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/diversity_example.jpeg">
 
@@ -83,7 +83,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/extinction4.jpg"> -->
 
-## Species types (native, endemic, non-native, exotic, invasive)
+## WHO: Species types (native, endemic, non-native, invasive)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/australia_species.jpg">
