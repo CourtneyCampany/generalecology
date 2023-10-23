@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
     
 <br/>
 
-* **Functioning: Individual and colletive contributions**
+* **Functioning: Individual and collective contributions to energy flow and matter recycling**
 
 <br/>
 
@@ -103,7 +103,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:520px" SRC="images/bottomup.jpg">
 
-## Trophic cascades: Multi-level disruptions
+## Trophic cascades: Multi-level disruptions in food web
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/otters.jpg">
@@ -147,7 +147,7 @@ knitr::opts_chunk$set(echo = FALSE)
   
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fire.jpg">
 
-## Severity of disturbance: intensity and size
+## Severity of disturbance: intensity, size, and duration
 <hr>
 <br/>
 
@@ -237,7 +237,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Late succession: inhibition & tolerance (shade matters!)
 <hr>
-
+**Post disturbance in an Appalachian ecosystem**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/succession1.png">
 
 <!-- ## Wildlife and succession -->

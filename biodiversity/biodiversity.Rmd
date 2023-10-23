@@ -59,7 +59,7 @@ output:
  
 <IMG STYLE="position:absolute; TOP:300px; LEFT:575px; WIDTH:475px; HEIGHT:250px" SRC="images/animals_biodiverse.jpg">
 
-## HOW: Measuring biodiversity (e.g. Simpson's or Shannons index)
+## HOW: Measuring biodiversity (e.g. Simpson's index)
 <hr>
 <span style="color:red">**Assumption: All species are equally important**</span>
 
