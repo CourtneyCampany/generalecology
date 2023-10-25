@@ -49,12 +49,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: left; width: 45%;">
 
-* **Species occur together**
-    + not all perfectly adapted
-    + networks of trophic interactions
-
-<br/>
-
 * **Ecosystems work better as a group**
     + No single species performs all roles
     + larger threshold of environmental conditions
@@ -78,13 +72,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:430px; LEFT:600px; WIDTH:250; HEIGHT:250px" SRC="images/seastar.jpg">
 
-## Reintroduction of wolves in Yellowstone: Top down control
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:450px; HEIGHT:500px" SRC="images/yellowstone-wolves-species.jpg">
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400; HEIGHT:300px" SRC="images/wolf.jpg">
-
 ## Hierarchical levels in an community: Food webs/trophic levels
 <hr>
 
@@ -94,31 +81,33 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Energy flow limits length of food chain (10% rule)
 <hr>
-**Inefficient energy flow limits the number of trophic levels**
+**Inefficient energy flow limits the number of trophic levels (~3-5 max)**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/pyramid.jpg">
+
+## Trophic cascades: Multi-level disruptions in food web
+<hr>
+
+**Trophic Cascade: When a trophic level is suppressed, causing changes at one or more other levels**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/otters.jpg">
+
+## Reintroduction of wolves in Yellowstone: Top down control
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:450px; HEIGHT:500px" SRC="images/yellowstone-wolves-species.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400; HEIGHT:300px" SRC="images/wolf.jpg">
 
 ## Bottom up control of communities: resources limit producers
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:520px" SRC="images/bottomup.jpg">
 
-## Trophic cascades: Multi-level disruptions in food web
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/otters.jpg">
-
 ## Building ecosystems: Succession
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:85px; WIDTH:900px; HEIGHT:550px" SRC="images/succession3.jpg">
-
-## Disturbance & succession
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/succession1c.jpg">
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/disturbance5.png"> -->
 
 ## Disturbances are the major cause of fluctuation in succession
 <hr>
@@ -146,6 +135,13 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
   
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fire.jpg">
+
+## Disturbance & succession
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/succession1c.jpg">
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/disturbance5.png"> -->
 
 ## Severity of disturbance: intensity, size, and duration
 <hr>
@@ -175,13 +171,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **Colonization:**
+* **Initial Colonization:**
     + species that handle high stress
     + low nutrients / minimal soil
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/volcano.jpg">
 
-## Primary succession: Facilitators
+## Primary succession: facilitators
 <hr>
 <br/>
 <br/>
@@ -206,7 +202,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Secondary succession: soil is key...
 <hr>
-
+**Nutrients and seed banks in soil allows succession to occur faster**
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/succession2.jpg">
 
 ## Secondary succession: pioneer species
