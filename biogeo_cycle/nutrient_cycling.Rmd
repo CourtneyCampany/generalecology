@@ -109,18 +109,20 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/ocean.jpg">
 
-## Carbon cycle: Global (Sinks and Sources of C)
+## Carbon cycle: Global "sinks" and "sources" of carbon
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/carboncycle.jpg">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/2021.png">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/2022.png">
 
-##
+## Humans vs carbon sinks and storage...
+<hr>
+<IMG STYLE="position:absolute; TOP:160px; LEFT:5px; WIDTH:450px; HEIGHT:500px" SRC="images/storedC.png">
 
-<IMG STYLE="position:absolute; TOP:10px; LEFT:250px; WIDTH:600px; HEIGHT:700px" SRC="images/storedC.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/sinksource.png">
 
 ## Nitrogen cycle: Ecosystems
 <hr>
