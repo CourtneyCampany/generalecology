@@ -170,23 +170,23 @@ output:
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:40px; WIDTH:300px; HEIGHT:500px" SRC="images/GPP.gif">
 
-<!-- ##  -->
+<!-- ## -->
 
 <!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/massonearth.png"> -->
 
-<!-- ## Global net primary production -->
-<!-- <hr> -->
+## Global net primary production
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/oceans_vs_land.jpg"> -->
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/oceans_vs_land.jpg">
 
-<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:450px; HEIGHT:225px" SRC="images/Global-Patterns-of-NPP.jpg"> -->
+<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:450px; HEIGHT:225px" SRC="images/Global-Patterns-of-NPP.jpg">
 
-<!-- ## Global net primary production -->
-<!-- <hr> -->
+## Global net primary production
+<hr>
 
-<!-- <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:450px; HEIGHT:450px" SRC="images/NPP_seasons.png"> --> -->
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:450px; HEIGHT:450px" SRC="images/NPP_seasons.png"> -->
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/npp_biome.jpg"> -->
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/npp_biome.jpg">
 
 <!-- ## Net primary production and global change -->
 <!-- <hr> -->
