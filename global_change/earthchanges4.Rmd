@@ -60,7 +60,7 @@ https://svs.gsfc.nasa.gov/5137/
 <br/>
 <div style="float: left; width: 50%;">
 
-**This past July was the hottest month every recorded. July 2023 was0.24 degrees Celsius (C) warmer than any other July in NASA’s record**
+**This past July was the hottest month every recorded. July 2023 was 0.24 degrees Celsius (C) warmer than any other July in NASA’s record**
 
 </div>
 
@@ -78,11 +78,11 @@ https://svs.gsfc.nasa.gov/5137/
 
 <!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:555px; WIDTH:520px; HEIGHT:300x" SRC="images/seaiceextent.png"> -->
 
-## Warming and sea ice might now be decoupled.....
+## Warming and sea ice melt might now be decoupled.....
 <hr>
 https://www.youtube.com/watch?v=AuwOwqzT6rk
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:900px; HEIGHT:450px" SRC="images/artictemp.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:475px" SRC="images/artictemp.png">
 
 ## The argument for humans as the culprit (pop'n = 7.98 billion)
 <hr>
