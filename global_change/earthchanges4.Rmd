@@ -172,6 +172,19 @@ https://www.youtube.com/watch?v=AuwOwqzT6rk
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/socialimpacts.png">
 
+## Climate Change Resilience is Related to Affluency
+<hr>
+**Countries with darker colors have greater potential for climate resiliency**
+<br/>
+**Affluence = an abundant supply of money, goods, property, wealth**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/climateresilient.png">
+
+## Resilient countries often are responsible for more emissions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/cop1.png">
+
 ## Paris Climate Agreement
 <hr>
 <br/>
@@ -202,11 +215,6 @@ https://www.youtube.com/watch?v=AuwOwqzT6rk
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/greenline.jpg">
 
-## Recent Paris Climate Agreement news..
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/cop1.png">
-
 ##
 
 <IMG STYLE="position:absolute; TOP:0px; LEFT:250px; WIDTH:500px; HEIGHT:700px" SRC="images/cop2.png">
@@ -235,7 +243,7 @@ https://www.youtube.com/watch?v=AuwOwqzT6rk
 
 <br/>
 
-* **Negative emissions techology?**
+* **Negative emissions technologies (carbon capture) are in start up phases**
 
 </div>
 
