@@ -21,12 +21,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ethics.jpg">
 
-<!-- ## Are humans apex predators? -->
-<!-- <hr> -->
+## Where are humans placed in a trophic system?
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:230px; LEFT:575px; WIDTH:515px; HEIGHT:300px" SRC="images/humansfood.jpeg"> -->
+<IMG STYLE="position:absolute; TOP:230px; LEFT:575px; WIDTH:515px; HEIGHT:300px" SRC="images/humansfood.jpeg">
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:5px; WIDTH:600px; HEIGHT:450px" SRC="images/trophic.png"> -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:5px; WIDTH:600px; HEIGHT:450px" SRC="images/trophic.png">
 
 ## 4 major categories of ecosystem services
 <hr>
@@ -55,7 +55,7 @@ output:
 
  </div>
 
-## Provisioning services: Raw materials
+## Provisioning services: Raw materials for development of society
 <hr>
 <br/>
 <br/>
@@ -81,7 +81,7 @@ output:
 
 **Forest Service economists estimated the minimum value of water from National Forest System lands to be $3.7 billion per year**
 
-## Regulating services: Natural ecosystem processes
+## Regulating services: Beneficial ecosystem processes
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/catskills2.jpg">
@@ -95,6 +95,13 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/chinaapple.jpg">
 
+## Case study: Pollination
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:500px; HEIGHT:500px" SRC="images/insectdown.jpeg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/windshield.jpg">
+
 ## Cultural services: Non-material benefits (health & well-being)
 <hr>
 
@@ -102,12 +109,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:680px; WIDTH:400px; HEIGHT:350px" SRC="images/highline.jpg">
 
-<!-- ## Are we disconnected from nature? -->
-<!-- <hr> -->
+## Are we disconnected from nature?
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/naturewords.png"> -->
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/naturewords.png">
 
-<!-- <IMG STYLE="position:absolute; TOP:260px; LEFT:625px; WIDTH:450px; HEIGHT:300px" SRC="images/outdoors.jpg"> -->
+<IMG STYLE="position:absolute; TOP:260px; LEFT:625px; WIDTH:450px; HEIGHT:300px" SRC="images/outdoors.jpg">
 
 ## Supporting services: Underlying natural processes
 <hr>
