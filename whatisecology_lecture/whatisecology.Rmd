@@ -36,7 +36,7 @@ output:
 <br/>
 <br />
 
-* **Plant Ecophysiologist**
+* **Plant Ecologist**
     + climate change
     + physiology
     + evolution
@@ -81,7 +81,7 @@ output:
 
 <br/>
 
-* **SOLVE a major ecological issue!**
+* **You will SOLVE a major ecological issue!**
 
 <br/>
 
@@ -197,12 +197,12 @@ output:
 * **If there are two things that I know, the second is if you have read the paper.**
     + It is obvious to me when you are not prepared for the readings.
     + I can easily distinguish between misunderstanding and poor preparation!
-    + I expect you to have a copy of the paper and notes in class
+    + <span style="color:red">I expect you to have a copy of the paper and notes in class</span>
 
 <br/>
 
 * **I take this very seriously and you will NOT do well in this class if you do not participate**
-    + come to class prepared to speak!
+    + <span style="color:red">you can only earn points for the 3-2-1 if you are in class!</span>
     
 <IMG STYLE="position:absolute; TOP:485px; LEFT:300px; WIDTH:500px; HEIGHT:200px" SRC="images/warn.jpg">
 
