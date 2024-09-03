@@ -44,6 +44,27 @@ output:
 
 ## Brown et al. 2007: 6 genetically distinct lineages of giraffe
 <hr>
+The IUCN recognizes 1 species and 9 subspecies of giraffe.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+However, the Giraffe Conservation Foundation performed the first-ever comprehensive DNA sampling of all major populations of giraffe throughout Africa, revealing 4 distinct species and several subspecies.
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:650px; HEIGHT:425px" SRC="images/giraffe.jpg">
 
@@ -54,7 +75,7 @@ output:
 <br/>
 <br/>
 
-* **A few things need to be true...**
+* **A few things need to be true for a population to adapt**
 
 <br/>
 
@@ -126,7 +147,6 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 * **Survival of the fittest** is tied to organisms interacting with their environment (living & non-living)
 
@@ -138,6 +158,7 @@ output:
 >- **<span style="color:red">Survival of the better designed for an immediate, local environment</span>**
       + survived death
       + reproduced successfully
+      + passed on more genes that less fortunate
 
 <br/>
 
@@ -167,7 +188,7 @@ output:
 <IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:300px; HEIGHT:400px" SRC="images/mussel.jpg">
 
     
-## 'Ohi'a lehua tree on Hawaiian Islands
+## 'Ohi'a lehua tree on Hawaiian Islands has many forms
 <hr>  
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/hawaii.png">
@@ -226,7 +247,7 @@ output:
 <br/>
 <br/>
 
-* **<span style="color:purple">Selection forces</span>**: pressures on an trait by natural selection driving evolution of a population
+* **<span style="color:purple">Selection forces**: pressures on an trait by environmental factors driving evolution of a population </span>
 
 <br/>
 <br/>
@@ -299,8 +320,8 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 <div style="float: left; width: 50%;">
 
 * **Divergent selection between different environments leads to the creation of reproductive barriers**
-    + driven by difference in environment
-    + driven by interaction with other species
+    + driven by differences in environment
+    + driven by interactions with other species
 
 <br/>
 <br/>
@@ -376,7 +397,12 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/adaptiverad.png">
 
-## We view the past & present of evolution with phylogenetic trees
+## Adaptive Radiation: Occurs at small scales too
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/adaptiverad2.jpg">
+
+## We view the macroevolution with phylogenetic trees
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/mammaltree.png">
