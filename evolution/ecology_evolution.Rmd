@@ -41,6 +41,13 @@ output:
 * **<span style="color:blue">Evolution by Natural Selection</span>**: 
 
     >- organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing the traits to increase in frequency over generations
+    
+## Brown et al. 2007: 6 genetically distinct lineages of giraffe
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:650px; HEIGHT:425px" SRC="images/giraffe.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:300px; HEIGHT:300px" SRC="images/giraffefur.jpg">
 
 ## Brown et al. 2007: 6 genetically distinct lineages of giraffe
 <hr>
@@ -158,12 +165,13 @@ However, the Giraffe Conservation Foundation performed the first-ever comprehens
 >- **<span style="color:red">Survival of the better designed for an immediate, local environment</span>**
       + survived death
       + reproduced successfully
-      + passed on more genes that less fortunate
+      + passed on more genes than the less fortunate
 
 <br/>
 
 >- **The components and themes of ecology matter a lot!**
       + environments are often not stable for very long
+      + even when they are stable - natural selection is still occurring
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:775px; WIDTH:300px; HEIGHT:300px" SRC="images/swallowtail.jpg">
 
