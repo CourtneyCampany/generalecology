@@ -120,12 +120,11 @@ output:
 <br/>
 
 * **Exact amount absorbed depends on both surface and atmosphere**
-
+    + albedo related
 </div>
 
 
 <div style="float: left; width: 100%;">
-<br/>
 <br/>
 <br/>
 
@@ -158,6 +157,10 @@ output:
 
 ##
 
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/balance.png">
+
+##
+
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/2018GreenhouseEffect.png">
 
 ## Greenhouse gas absorption spectra for outgoing radiation
@@ -168,7 +171,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/spectra.png">
 
-## Composition of the atmosphere
+## Composition of the atmosphere alters the greenhouse effect
 <hr>
 <br/>
 
@@ -178,8 +181,8 @@ output:
 <br/>
 
 * **Gases have different RESIDENCE TIMES**
-    + N<sub>2</sub> = 13 million years
-    + O<sub>2</sub> = 10,000 years
+    + N<sub>2</sub> = 13 million years (inert)
+    + O<sub>2</sub> = 10,000 years (inert)
     + <span style="color:orangered">**N<sub>2</sub>0 = 114 years</span>**
     + <span style="color:orangered">**CH<sub>4</sub> (methane) = 12 years</span>**
     + <span style="color:mediumvioletred">**CO<sub>2</sub> = 5-200 years (1/2 removed quickly)</span>**
@@ -256,15 +259,15 @@ output:
 
 ## Evapotranspiration: Energetics of water movement
 <hr>
-<br/>
+<span style="color:blue">**Water enters the atmosphere as vapor from surfaces (evaporation) and from leaves (transpiration)**</span>
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: right; width: 50%;">
 
 * **Water has high specific heat**
     + 4x more energy to heat water than air
-    + absorbs/holds solar energy
+    + absorbs/holds solar energy well
 
 <br/>
 
@@ -279,7 +282,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/evapotrans.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/evapotrans.png">
 
 <!-- ## Evapotranspiration USA -->
 <!-- <hr> -->
@@ -289,7 +292,7 @@ output:
 ## Global water cycle: 577,000 km^3^ of water circulates each year
 <hr>
 
-<div class="centered"><strong><span style="color:blue">Net movement as precipitation ≠ evapotranspiration</span></strong></div>
+<div class="centered"><strong><span style="color:blue">Global net movement as precipitation ≠ evapotranspiration</span></strong></div>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/water_cycle.png">
 
