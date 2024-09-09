@@ -30,7 +30,7 @@ output:
 **What makes up the <span style="color:dodgerblue">BIOSPHERE?</span>**
 <br/>
 
-**Energy and water exist and move around the biosphere in different forms**
+**Energy and water exist and move around the biosphere in different forms/states**
 <br/>
 
 **Where does <span style="color:orange">energy</span> come from?**
@@ -93,7 +93,7 @@ output:
 **Earth's average albedo is ~0.3, keeping surface @ 15°C**
 <br/>
 
-**Do you think albedo is changing?**
+**Do you think global albedo is stable?**
 <br/>
 
 **Albedo: cold generates cold but.....**
@@ -120,7 +120,7 @@ output:
 <br/>
 
 * **Exact amount absorbed depends on both surface and atmosphere**
-    + albedo related
+    + major contributor of the Earth Energy Budget
 </div>
 
 
@@ -128,7 +128,7 @@ output:
 <br/>
 <br/>
 
-*  **The balance of incoming and outgoing radiation makes up <span style="color:red">Earth Energy Budget</span>**
+*  **The balance of incoming and outgoing radiation makes up the <span style="color:red">Earth Energy Budget</span>**
 
 </div>
 
