@@ -13,7 +13,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:525px" SRC="images/climate_weather.png">
 
-## Elements of climate and weather
+## Atmospheric elements of climate and weather
 <hr>
 <br />
 
@@ -32,6 +32,7 @@ output:
 * **Atmospheric pressure**
     * force exerted on a surface by the weight of the atmosphere. 
     * varies vertically; decrease as you ascend
+    * influences the movement of air
 
 </div>
 
@@ -63,7 +64,7 @@ output:
 **Distinguished by several key physical biosphere features**
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climatezones.gif">
 
-## Slope of Earth's surface causes uneven heating
+## Slope of Earth's surface causes uneven heating across latitudes
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/uneven_heating.gif">
@@ -98,7 +99,7 @@ output:
 
 ## Earth surface features also impact climate
 <hr>
-
+**Weather and climate do not just happen to a landscape...**
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/landsurface.jpg">
 
 ## Mountains and the rain shadow effect
@@ -148,7 +149,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
 
-## Biomes: Defined by communities of plants + climate
+## Biomes: Defined by communities of plants adapted to climate
 <hr>
 <br />
 
