@@ -31,7 +31,7 @@ output:
 
 * **Atmospheric pressure**
     * force exerted on a surface by the weight of the atmosphere. 
-    * varies vertically; decrease as you ascend
+    * varies vertically; decreases as air ascends
     * influences the movement of air
 
 </div>
@@ -149,7 +149,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
 
-## Biomes: Defined by communities of plants adapted to climate
+## Biomes: Defined by communities of plants
 <hr>
 <br />
 
