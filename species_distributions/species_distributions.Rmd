@@ -14,9 +14,9 @@ output:
 <div style="float: left; width: 50%;">
 
 * **Intricate webs of interacting organisms**
-    + 2,000,000 species are known 
+    + ~2,000,000 species are described
     + ~18,000 plants & animals discovered yearly
-    + estimated 87% of Eukaryotas unknown
+    + estimated >85% of species unknown
 
 <br/>
 
@@ -89,14 +89,14 @@ output:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fpK3U1EkwYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Species may also be adapted for seasonal habitats
+## Species may instead be adapted for seasonal habitats
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:480px; HEIGHT:450px" SRC="images/fur.png">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/articfur.jpg">
 
-## Niche defines the limiting factors for a species
+## Niche defines the limiting tolerance factors for a species
 <hr>
 **<span style="color:red">Ecological Niche = </span>**
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/tolerance.jpg">
@@ -142,7 +142,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/croc.png">
 
-## Ranges versus distribution: Plants
+## Ranges versus distribution: Plants more limited by dispersal
 <hr>
 **<span style="color:blue">dispersal: movement of individuals or gametes</span>**
 <br/>
@@ -156,8 +156,8 @@ output:
 
 ## Biogeography and animal ranges: Alfred Wallace 1859
 <hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/wallaces-line.png">
+**Wallace developed theories of evolution at the same time as Darwin to explain the patterns in biogeography he observed**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/wallaces-line.png">
 
 ## Zoogeographic regions: Wallace
 <hr>
