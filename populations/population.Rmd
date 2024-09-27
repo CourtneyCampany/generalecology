@@ -45,7 +45,7 @@ output:
 
 <br/>
 
-* **Frequency of reproduction, reproductive effort**
+* **Frequency of reproduction, reproductive output**
 
 <br/>
 
@@ -53,7 +53,7 @@ output:
  
 <br/>
  
-* **Measuring, predicting and evaluating population sizes guides decisions**
+* **Measuring, predicting and evaluating population structure/sizes guides decisions**
     + conservation, pest management, harvesting
 
 
@@ -149,7 +149,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/life_cycle_generic.png">
 
-## Reproductive effort and life cycles differ greatly
+## Reproductive effort and life cycles differ across organisms
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:520px" SRC="images/longlife.png">
@@ -195,9 +195,8 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:605px; WIDTH:450px; HEIGHT:300px" SRC="images/seeds.jpg">
 
-## Life History: Sexual conflict
+## Life History: Reproductive conflict
 <hr>
-<br/>
 <br/>
 
 * **Goal to pass on genes...**
@@ -208,15 +207,17 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 * **When and how to spend your resources**
     + reproduction comes at a cost of growth
-    + flowers + seeds = ↓ leaves and roots
+    + ↑ flowers + seeds = ↓ leaves and roots
     + are enough resources available to support pregnancy in animals?
     + *surviving vs growing the population...*
 <br/>
 
-* **Life histories of males and females may differ**
+* **Life histories of males and females may differ due to reproductive investment**
     
 <IMG STYLE="position:absolute; TOP:140px; LEFT:350px; WIDTH:650px; HEIGHT:400px" SRC="images/plantreproduction.png">
 
@@ -247,7 +248,7 @@ output:
 
 <div style="float: right; width: 65%;">
 
-* **Populations are composites of individual Life Histories**
+* **Populations are composites of individual life histories**
     + who survived from previous year
     + new individuals (births/immigration)
     + survivability of offspring
@@ -270,8 +271,8 @@ output:
 <br/>
 
 * **Cohort Life tables: follow the fate of individuals from a single cohort**
-    + survivorship
-    + difficult for mobile animals
+    + survivorship of every individual
+    + practically difficult (e.g., mobile animals)
 
 <br/>
 
