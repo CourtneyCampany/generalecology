@@ -36,7 +36,7 @@ output:
 <br/>
 
 <div style="float: left; width: 50%;">
-* **Is population size ↑ ←→ ↓ ?**
+* **<span style="color:blue">Is population size ↑ ←→ ↓ ?</span>**
     
 <br/>
 
@@ -97,8 +97,8 @@ output:
 
 <br/>
 
-* **Modular organisms: colonies, etc.**
-    + bacteria, algae, corals
+* **Modular organisms: colonies**
+    + bacteria, algae, corals, biofilms
     + plants: ferns grow by rhizomes
 
 <br/>
@@ -144,7 +144,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/homerange.jpg"> -->
 
-## Life History: More than just birth and death
+## Life History: Births and death through time
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/life_cycle_generic.png">
@@ -211,7 +211,7 @@ output:
 <br/>
 
 * **When and how to spend your resources**
-    + reproduction comes at a cost of growth
+    + <span style="color:red">reproduction comes at a cost of growth</span>
     + ↑ flowers + seeds = ↓ leaves and roots
     + are enough resources available to support pregnancy in animals?
     + *surviving vs growing the population...*
@@ -251,11 +251,11 @@ output:
 * **Populations are composites of individual life histories**
     + who survived from previous year
     + new individuals (births/immigration)
-    + survivability of offspring
+    + survivability of offspring and parents in a year
     
 <br/>
 
-**Survirvorship = **
+**Survivorship = **
 </div>
 
 
@@ -318,7 +318,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:750px; WIDTH:300px; HEIGHT:450px" SRC="images/kruger2.png">
 
-## Population growth regulation
+## Population growth eventually faces resistance
 <hr>
 <br/>
 
@@ -341,10 +341,10 @@ output:
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:375px; WIDTH:700px; HEIGHT:350px" SRC="images/seals.png">
 
-<!-- ## Population cycles -->
-<!-- <hr> -->
+## Population cycles
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/isle_royale.png"> -->
+<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/isle_royale.png">
 
 
 
