@@ -57,7 +57,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:725px; WIDTH:200px; HEIGHT:450px" SRC="images/stranglerfig.jpg">
 
-## Competition always results costs to fitness
+## Competition always reduces the fitness of both parties
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:1000px; HEIGHT:400px" SRC="images/fitness.png">
@@ -101,14 +101,14 @@ output:
 <br/>
 <br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 53%;">
 
-* **Two species cannot occupy the same niche if they need the same resource**
+* **Two species cannot occupy the exact same niche if they need the same resource**
 
 <br/>
 
-* **Species cannot coexist at constant populations**
-    + winner and loser
+* **Those species cannot coexist at stable constant populations**
+    + a winner and loser will emerge
 
 <br/>
 
@@ -128,10 +128,10 @@ output:
 
 ## Red vs Grey Squirrel in Britain (Murphy 2015)
 <hr>
+**Competitive exclusion is harder to detect in nature**
+<IMG STYLE="position:absolute; TOP:170px; LEFT:50px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap.jpg">
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap.jpg">
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap3.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap3.jpg">
 
 ## Competitive exclusion, however, is rare in nature
 <hr>
@@ -141,7 +141,7 @@ output:
 <div style="float: right; width: 60%;">
 
 * **Resources are variable/limiting in an environment**
-    + leads to more symmetric competition
+    + leads to more symmetric competition (both struggle)
 
 <br/>
 
@@ -183,7 +183,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Overlapping species may evolve to use a niche differently**
+* **Overlapping species may alter resource use to minimize competition**
     + <ins>resource partitioning</ins> = division of resources
 
 <br/>
@@ -214,10 +214,10 @@ output:
 
 ## Niche differentiation: different use of microhabitats
 <hr>
-
+**Here, different insects forage for resources at different locations and times**
 <IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png">
 
-## Coexistence and character displacement: 
+## Character displacement in cicada mating calls
 <hr>
 
 <!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:650px; HEIGHT:325px" SRC="images/char_dis3.png"> -->
