@@ -38,7 +38,7 @@ output:
 <br/>
 
 * **Humans vs other species**
-    + friday data exercise
+    + data exercise
     
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/interspecific_comp.jpg">
@@ -84,7 +84,7 @@ output:
 <br/>
 
 
-* **Directional selection can occur causing character displacement**
+* **Natural selection can  cause *character displacement* in areas where overlap is high**
 
 </div>
 
@@ -103,7 +103,7 @@ output:
 
 <div style="float: right; width: 53%;">
 
-* **Two species cannot occupy the exact same niche if they need the same resource**
+* **<span style="color:blue">Two species cannot occupy the exact same niche if they need the same resource</span>**
 
 <br/>
 
@@ -128,12 +128,12 @@ output:
 
 ## Red vs Grey Squirrel in Britain (Murphy 2015)
 <hr>
-**Competitive exclusion is harder to detect in nature**
+**Competitive exclusion in nature?**
 <IMG STYLE="position:absolute; TOP:170px; LEFT:50px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap.jpg">
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap3.jpg">
 
-## Competitive exclusion, however, is rare in nature
+## Competitive exclusion is hard to detect in nature
 <hr>
 <br/>
 <br/>
@@ -160,7 +160,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/squirrel.jpg">
 
-## Competition does result in the 'Realized Niche'
+## Interspecific competition results in the 'Realized Niche'
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/niches.jpg">
