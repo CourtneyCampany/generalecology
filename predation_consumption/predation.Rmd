@@ -47,7 +47,7 @@ output:
 <div style="float: right; width: 60%;">
 
 * **Behaviors to capture prey differ vastly**
-    + *consumption rate*: 
+    + determines *consumption rate* of prey 
     + consumption rate impacts population sizes
 
 <br/>
@@ -63,7 +63,7 @@ output:
 <br/>
 
 * **Parasites rely on direct transmission**
-    + contact is density dependent
+    + contact is *density dependent*
 
 </div>
 
@@ -120,7 +120,7 @@ output:
 
 <br/>
 
-* **Take Home: Predators should choose to forage in a patch with the highest quality**
+* ***Take Home*: Predators should choose to forage in a patch with the highest quality**
         
 </div>
 
@@ -140,10 +140,10 @@ output:
 <br/>
 
 * **Foraging Strategies**
-    + Laziness
+    + Short Bursts
     + Thievery
     + Group hunting 
-    + Seasonal prey choice
+    + Seasonal prey choice may alter behaviors
     
     
 <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:300px; HEIGHT:450px" SRC="images/cheetahlazy.png">
@@ -158,7 +158,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/africa_prey_age.png"> -->
 
-## Consumption is an agent of natural selection: Defense
+## Consumption is a driver of natural selection: Defense
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/newt.jpg">
