@@ -21,7 +21,7 @@ output:
 * **Carnivore prey items contain essentially the same mix of nutrients**
 <br/>
 
-* **Foraging success is often assumed to be limited by prey availability (quantity)**
+* **Foraging success is often assumed (theory) to be limited by prey availability (quantity)**
     + Rather than nutritional balance (quality).
  
 <IMG STYLE="position:absolute; TOP:290px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/hare_lynx_graph.png">
