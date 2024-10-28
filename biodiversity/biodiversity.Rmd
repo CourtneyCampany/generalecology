@@ -16,15 +16,15 @@ output:
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/diversity_role.jpg">
 
 ## Biodiversity as insurance
-<hr>
-<br/>
+<hr>>
 
-<div class="item-absolute">**Diversity buffers against functional changes**</div>
+<div class="item-absolute">**Diversity buffers against changes**</div>
 </div>
+<br/>
+<div class="item-absolute2">**No one species fills all the roles (functions)  of an ecosystem (species diveristy)**</div>
+<div class="item-absolute2">**No one individual has all the alleles for a gene (genetic diversity)**</div>
 
-<div class="item-absolute2">**No one species fills all the roles (functions)  of an ecosystem**</div>
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/redund.jpg">
+<IMG STYLE="position:absolute; TOP:285px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/redund.jpg">
 
 <!-- ## Genetic diversity bottlenecked for bees -->
 <!-- <hr> -->
@@ -42,7 +42,7 @@ output:
 * **Intricate webs of interacting organisms**
     + 2,000,000 species are known 
     + ~18,000 new species discovered per year
-    + estimated 87% of Eukaryotas unknown
+    + estimated >85% of species unknown
 
 <br/>
 

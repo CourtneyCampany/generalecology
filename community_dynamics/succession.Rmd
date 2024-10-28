@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Ecosystems work better as a group**
     + No single species performs all roles
-    + larger threshold for environmental change
+    + larger threshold for dealing with environmental change
     + fosters ecosystem resilience
         + *ball & cup model*
 
@@ -51,7 +51,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Ecosystems work better as a group**
     + No single species performs all roles
-    + larger threshold of environmental conditions
+    + larger threshold for dealing with environmental change
     + fosters ecosystem resilience
         + ball & cup model
         
