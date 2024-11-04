@@ -49,7 +49,7 @@ output:
 <br />
 <br />
 
-**Each cycle includes aspects of Biology + Chemistry + Geology as elements move or are stored in the componenets of the biosphere**
+**Each cycle includes aspects of Biology + Chemistry + Geology as elements move or are stored in the components of the biosphere in different forms or states**
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/biogeo2.png">
 
@@ -67,8 +67,8 @@ output:
 
 ## Biogeochemical cycles: Global
 <hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/spheres.png">
+**Each element will have a reservoir/s in part of the biosphere**
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/spheres.png">
 
 ## Nutrient cycles: Ecosystem
 <hr>
@@ -181,7 +181,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:450px; HEIGHT:225px" SRC="images/Global-Patterns-of-NPP.jpg">
 
-## Global net primary production
+## Global net primary production by biome
 <hr>
 
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:450px; HEIGHT:450px" SRC="images/NPP_seasons.png"> -->
