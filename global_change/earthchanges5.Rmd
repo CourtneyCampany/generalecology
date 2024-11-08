@@ -1,0 +1,255 @@
+---
+title: "Changes in Earth Systems"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## What's in a name...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/climatesick.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:595px; WIDTH:500px; HEIGHT:450px" SRC="images/words.jpg">
+
+<!-- ## Unprecedented warming and the 'Hockey Stick' controversy -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:850px; HEIGHT:500px" SRC="images/hockeystick.gif"> -->
+
+## Current atmospheric change at unprecedented rates
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/CO2_history.jpg">
+
+## Greenhouse gases (ice cores) correlate to warming trends
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/icecores3.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:50px; WIDTH:1000px; HEIGHT:700px" SRC="images/ggereview.png">
+
+## Dutch Elfstedentocht: February 1985
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:375px; HEIGHT:500px" SRC="images/icerace1985.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:500px; HEIGHT:500px" SRC="images/Elfstedentocht-1997.gif">
+
+## 476 months since any month was colder than average
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/anamoly2023.png">
+
+## Back to the race.....
+<hr>
+https://www.bbc.com/sport/winter-sports/67926417
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/1997.png">
+
+## How warm has is gotten?
+<hr>
+<div style="float: left; width: 50%;">
+
+**This past July was the hottest month every recorded. July 2024 essentially tied with July 2023 has the hottest periods in modern history. July was the 14th straight month that Earth set a new warmth record for that month in both NASA and NOAA's data, a streak that started in June 2023.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/florida100.png">
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/july2024.jpg">
+
+## Physical impacts of climate change are visible
+<hr>
+**The September 2024 Artic sea ice minimum was 19% lower (1.1 million km^2^) than the past 30 year average. This was the 7th lowest recorded in satelitte era**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/seaice2024.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/seaice2024_picture.jpg">
+
+<!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:555px; WIDTH:520px; HEIGHT:300x" SRC="images/seaiceextent.png"> -->
+
+## Warming and sea ice melt might now be decoupled.....
+<hr>
+https://www.youtube.com/watch?v=AuwOwqzT6rk
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:475px" SRC="images/artictemp.png">
+
+## The argument for humans as the culprit (pop'n = 8.19 billion)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/agri.jpg">
+
+## Haber-Bosch process (1909) and human population
+<hr>
+<br/>
+<div style="float: left; width: 45%;">
+**Due to its dramatic impact on the human ability to grow food, the Haber process served as the "detonator of the population explosion"**
+</div>
+<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:350px; HEIGHT:300px" SRC="images/haber2.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/nitrohaber.png">
+
+## 
+**Anthropocene Epoch:** http://www.anthropocene.info/great-acceleration.php
+<br/>
+**Linking socio-economic trends to earth system changes post-1950**
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/acceleration3.png">
+
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/climate-people.png">
+
+## Greenhouse gases: Carbon dioxide (CO~2~)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/co2emissions.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/co2emissions_now.png">
+
+<!-- ##  -->
+
+<!-- <IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:550px" SRC="images/methane.png"> -->
+
+## Global Change and Water are intimately linked
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/wv_feedback.gif">
+ 
+## Global Change: Fresh Water Scarcity for 2/3's of the world
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/waterstress2.png">
+
+<!-- ## Groundwater now supports 40% of modern agriculture -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:400px; HEIGHT:400px" SRC="images/fossilwater2.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:275px; LEFT:450px; WIDTH:600px; HEIGHT:300px" SRC="images/groundwater.jpg"> -->
+
+## Global Change: Ocean acidification has multiple feedbacks
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/oceanph.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/oceanshell.jpg">
+
+## Global Change: Sea Level Rise
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:560px; HEIGHT:450px" SRC="images/searise.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/sealevel2.png">
+
+<!-- ## Global Change: Greener Earth? -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg"> -->
+
+<!-- ## Global Change: Homogenization (Journal Club) -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/extinction4.jpg">  -->
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/climatepeople.jpg">
+
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/socialimpacts.png">
+
+## Climate Change Resilience is Related to Affluency
+<hr>
+**Countries with darker colors have greater potential for climate resiliency**
+<br/>
+**Affluence = an abundant supply of money, goods, property, wealth**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/climateresilient.png">
+
+## Resilient countries often are responsible for more emissions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/cop1.png">
+
+## Paris Climate Agreement
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Accord between nation in UN to address climate change**
+
+<br/>
+
+* **Goal to keep increase in global temperature below 2 °C**
+    + pursue efforts to limit increase to 1.5
+    + pursue net zero emissions
+    
+<br/>
+
+* **Contributions by country determined by that country**
+    + no emissions targets or dates
+    + must go beyond current efforts
+    + framework for transparency
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/pga3.jpg">
+
+## Are targets of the Paris Climate Agreement reachable?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/greenline.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:250px; WIDTH:500px; HEIGHT:700px" SRC="images/cop2.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:1000px; HEIGHT:550px" SRC="images/cop3.png">
+
+## What should we do....
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **If CO~2~ emissions stopped today:**
+    + 50% absorbed by land/water in 30 yrs
+    + 30% in atmosphere for centuries
+    + 20% in atmosphere for 1000 yrs
+
+<br/>
+
+* **Future warming is inevitable**
+    + land sinks uncertain
+    + ocean sinks weakening
+
+<br/>
+
+* **Negative emissions technologies (carbon capture) are in start up phases**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:525px; HEIGHT:275px" SRC="images/nasa.png">
+
+<!-- ## What should you do (Journal Club) -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:780px; HEIGHT:430px" SRC="images/cow.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:325px; LEFT:850px; WIDTH:200px; HEIGHT:200px" SRC="images/foot.jpg"> -->
