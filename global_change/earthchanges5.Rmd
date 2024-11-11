@@ -19,19 +19,24 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:850px; HEIGHT:500px" SRC="images/hockeystick.gif"> -->
 
+<!-- ## Current atmospheric change at unprecedented rates -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/CO2_history.jpg"> -->
+
+<!-- ## Greenhouse gases (ice cores) correlate to warming trends -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/icecores3.jpg"> -->
+
 ## Current atmospheric change at unprecedented rates
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/CO2_history.jpg">
-
-## Greenhouse gases (ice cores) correlate to warming trends
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/icecores3.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:25px; WIDTH:1050px; HEIGHT:500px" SRC="images/maunaloa2024.png">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:0px; LEFT:50px; WIDTH:1000px; HEIGHT:700px" SRC="images/ggereview.png">
+<IMG STYLE="position:absolute; TOP:0px; LEFT:50px; WIDTH:1000px; HEIGHT:700px" SRC="images/gge_review.png">
 
 ## Dutch Elfstedentocht: February 1985
 <hr>
@@ -94,26 +99,26 @@ https://www.youtube.com/watch?v=AuwOwqzT6rk
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/nitrohaber.png">
 
-## 
-**Anthropocene Epoch:** http://www.anthropocene.info/great-acceleration.php
-<br/>
-**Linking socio-economic trends to earth system changes post-1950**
+<!-- ##  -->
+<!-- **Anthropocene Epoch:** http://www.anthropocene.info/great-acceleration.php -->
+<!-- <br/> -->
+<!-- **Linking socio-economic trends to earth system changes post-1950** -->
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/acceleration3.png">
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/acceleration3.png"> -->
 
 
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/climate-people.png">
 
-## Greenhouse gases: Carbon dioxide (CO~2~)
+## Greenhouse gases: Anthropogenic CO~2~ emissions trends
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/co2emissions.png">
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/co2emissions_now.png">
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/co2emissions_now.png"> -->
 
 <!-- ##  -->
 
@@ -127,8 +132,8 @@ https://www.youtube.com/watch?v=AuwOwqzT6rk
  
 ## Global Change: Fresh Water Scarcity for 2/3's of the world
 <hr>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/waterstress2.png">
+**Agricutural systems now require 5x more irrigation than a century ago**
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/waterstress2.png">
 
 <!-- ## Groundwater now supports 40% of modern agriculture -->
 <!-- <hr> -->
@@ -139,7 +144,7 @@ https://www.youtube.com/watch?v=AuwOwqzT6rk
 
 ## Global Change: Ocean acidification has multiple feedbacks
 <hr>
-
+**CO~2~ dissolving in ocean water creates carbonic acids, acidifying the oceans**
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/oceanph.png">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/oceanshell.jpg">
@@ -156,15 +161,19 @@ https://www.youtube.com/watch?v=AuwOwqzT6rk
 
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg"> -->
 
-<!-- ## Global Change: Homogenization (Journal Club) -->
-<!-- <hr> -->
+## Global Change: Humans have altered most ice-free surfaces
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/extinction4.jpg">  -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/surface.png">
+
+## Global Change: New Mass Extinction?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/extinction4.jpg">
 
 ## 
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/climatepeople.jpg">
-
 
 ## 
 
@@ -213,9 +222,10 @@ https://www.youtube.com/watch?v=AuwOwqzT6rk
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/greenline.jpg">
 
-##
+## Climate Finance Pledges ($100 million/year) are Lagging
+<hr>
 
-<IMG STYLE="position:absolute; TOP:0px; LEFT:250px; WIDTH:500px; HEIGHT:700px" SRC="images/cop2.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/climatemoney.png">
 
 ##
 
