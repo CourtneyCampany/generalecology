@@ -7,12 +7,11 @@ output:
     smaller: true
 ---
 
-## About me
+## About me: A diverse ecologist
 <hr>
 <br/>
-<br />
 
-* **Plant Ecophysiologist**
+* **Plant Ecologist**
     + climate change
     + physiology
     + evolution
@@ -20,7 +19,8 @@ output:
 <br />
 
 * **Ecosystem Ecologist**
-    + global change
+    + climate change
+    + fire ecology
 
 <br />
 
@@ -34,7 +34,6 @@ output:
 ## About me
 <hr>
 <br/>
-<br />
 
 * **Plant Ecologist**
     + climate change
@@ -44,7 +43,8 @@ output:
 <br />
 
 * **Ecosystem Ecologist**
-    + global change
+    + climate change
+    + fire ecology
 
 <br />
 
@@ -69,7 +69,7 @@ output:
 * **Immerse ourselves in weekly ecological themes**
     + lecture
     + journal club
-    + quantitative reasoning
+    + quantitative reasoning (data fridays)
 
 <br/>
 
@@ -77,7 +77,7 @@ output:
 
 <br/>
 
-* **Run ecological experiments**
+* **Contribute to ecological experiments**
 
 <br/>
 
@@ -175,7 +175,7 @@ output:
     + Do you feel any themes are missing?
     + Is there a take home message?
     + Is there anything you don't understand?
-    + *Complete and submit your 3-2-1 on Brightspace*
+    + *Complete and submit your reflection on Brightspace*
 
 <br/>
 
@@ -202,7 +202,7 @@ output:
 <br/>
 
 * **I take this very seriously and you will NOT do well in this class if you do not participate**
-    + <span style="color:red">you can only earn points for the 3-2-1 if you are in class!</span>
+    + <span style="color:red">The reflection is required to participate in Journal Club. No points will be rewarded for late submission</span>
     
 <IMG STYLE="position:absolute; TOP:485px; LEFT:300px; WIDTH:500px; HEIGHT:200px" SRC="images/warn.jpg">
 
