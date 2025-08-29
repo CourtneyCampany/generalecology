@@ -25,7 +25,6 @@ output:
 <br />
 
 * **Shepherd Research:**
-    + aquaponics 
     + urban tree ecology
     + ?????
     
@@ -49,7 +48,6 @@ output:
 <br />
 
 * **Shepherd Research:**
-    + aquaponics 
     + urban tree ecology
     + ?????
     
@@ -125,7 +123,7 @@ output:
     
 </div>
 
-## Are humans a part of ecology?
+## Are humans a part of ecology? YES!
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/humans.jpg">
@@ -137,17 +135,30 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:500px; HEIGHT:450px" SRC="images/scales2.jpg">
 
-## Ecologist try to explain, understand and predict
+## Ecologist try to understand, explain, and predict
 <hr>
-<br/>
-<br/>
-<br/>
+**Ecological questions rarely have one simple answer**
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/vultures.png">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:10px; LEFT:250px; WIDTH:600px; HEIGHT:680px" SRC="images/data_prarie.png">
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+
+<div style="float: left; width: 35%;">
+
+**Ecological process develop over long time periods**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:10px; LEFT:400px; WIDTH:600px; HEIGHT:680px" SRC="images/data_prarie.png">
 
 ## What is the central need for ecology?
 <hr>
@@ -197,7 +208,7 @@ output:
 * **If there are two things that I know, the second is if you have read the paper.**
     + It is obvious to me when you are not prepared for the readings.
     + I can easily distinguish between misunderstanding and poor preparation!
-    + <span style="color:red">I expect you to have a copy of the paper and notes in class</span>
+    + <span style="color:red">I expect you to have a copy of the paper and notes in class (phone is not acceptable) </span>
 
 <br/>
 
