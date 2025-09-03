@@ -40,18 +40,18 @@ output:
 
 * **<span style="color:blue">Evolution by Natural Selection</span>**: 
 
-    >- organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing the traits to increase in frequency over generations
+    >- organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing the traits to **increase in frequency over generations**
     
-## Brown et al. 2007: 6 genetically distinct lineages of giraffe
+## Brown et al. 2007: 6 genetically distinct lineages of giraffe?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:650px; HEIGHT:425px" SRC="images/giraffe.jpg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:300px; HEIGHT:300px" SRC="images/giraffefur.jpg">
 
-## Brown et al. 2007: 6 genetically distinct lineages of giraffe
+## Brown et al. 2007: 6 genetically distinct lineages of giraffe?
 <hr>
-The IUCN recognizes 1 species and 9 subspecies of giraffe.
+**The IUCN now recognizes the Northern, Southern, Masai and Reticulated giraffe species**
 
 <br/>
 <br/>
@@ -71,7 +71,7 @@ The IUCN recognizes 1 species and 9 subspecies of giraffe.
 <br/>
 <br/>
 
-However, the Giraffe Conservation Foundation performed the first-ever comprehensive DNA sampling of all major populations of giraffe throughout Africa, revealing 4 distinct species and several subspecies.
+The Giraffe Conservation Foundation performed the first-ever comprehensive DNA sampling of all major populations of giraffe throughout Africa, revealing 4 distinct species and several subspecies.
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:650px; HEIGHT:425px" SRC="images/giraffe.jpg">
 
@@ -99,7 +99,7 @@ However, the Giraffe Conservation Foundation performed the first-ever comprehens
 <br/>
 <br/>
 
-* **If enough change results in reproductive isolation between populations, new species can evolve**
+* **If enough change results in reproductive isolation between populations, new species *can* evolve**
 
 </div>
 
@@ -145,9 +145,9 @@ However, the Giraffe Conservation Foundation performed the first-ever comprehens
 
 <IMG STYLE="position:absolute; TOP:10px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/backyard_bees.jpg">
 
-## The 'Tree of Life' evolved over geologic time periods
+## The 'Tree of Life' evolved over geologic time periods (deep time)
 <hr>
-
+**The fossil record allows us to explore ecology:evolution in deep time**
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/diversity_time.gif">
 
 ## Why does this matter for Ecology?
@@ -261,8 +261,8 @@ However, the Giraffe Conservation Foundation performed the first-ever comprehens
 <br/>
 
 * **Steam guppies in Trinidad are separated by waterfalls**
-    + isolated populations
-    + tons of different traits across guppy populations
+    + creates isolated populations
+    + different traits appear across guppy populations
 
 <br/>
 
@@ -334,7 +334,7 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 <br/>
 <br/>
 
-* **Populations become isolated, then selection drives change**
+* **If populations become geographically isolated, new selection pressures drive change**
 
 <br/>
 
