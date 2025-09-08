@@ -64,7 +64,7 @@ output:
 
 <div class="centered"><span style="color:green">"A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise" -Aldo Leopold </span></div>
 
-## Painting Chalon Sombrero
+## Painting Chalon Sombrero mountain in Peru
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/albedo_paint.jpg">
@@ -74,12 +74,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/albedo.png">
 
-## Global albedo is highly variable
+## Global albedo is highly variable in time and place
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O0B8Yi7AZvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Albedo feedbacks and Snowball Earth
+## Albedo positive feedbacks and Snowball Earth
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:300px" SRC="images/albedo3.jpg">
@@ -163,14 +163,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/2018GreenhouseEffect.png">
 
-## Greenhouse gas absorption spectra for outgoing radiation
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/spectra2.png">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/spectra.png">
-
 ## Composition of the atmosphere alters the greenhouse effect
 <hr>
 <br/>
@@ -196,6 +188,14 @@ output:
 
 </div>
 
+## Greenhouse gas absorption spectra for outgoing radiation
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/spectra2.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/spectra.png">
+
 ## Changes in composition impact atmospheric heating
 <hr>
 
@@ -205,19 +205,23 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
-* **NASA recently confirmed heat-trapping effect of water in the air**
+* **NASA recently confirmed heat-trapping effect of water vapor in the atmosphere**
     + critical component of climate change
     + collects at tropical latitudes
 
 <br/>
 
 * **2x climate warming caused by increased CO<sub>2</sub>**
+
+<br/>
+
+* **Difficult to quantify**
+    + residence time in days
+    + consider cloud variability
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:475px; HEIGHT:375px" SRC="images/watervapor_globe.jpg">
@@ -296,8 +300,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/water_cycle.png">
 
-## Global water cycle: Residence times matter
+## Global water cycle: Residence times matter for availability
 <hr>
+**Water is exists in different 'storage pools' for variable amounts of time**
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:900px; HEIGHT:425px" SRC="images/water_residence.png">
 
