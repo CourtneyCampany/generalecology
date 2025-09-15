@@ -92,7 +92,7 @@ output:
 
 ## Earth's atmosphere contains six rotating cells
 <hr>
-**Coriolis effect deflects cells in different directions above/below equator**
+**Coriolis effect (from spinning earth) deflects cells in different directions above/below equator**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:450px" SRC="images/circulation_zones.png">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:425px; HEIGHT:425px" SRC="images/coriolis.png">
@@ -107,7 +107,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/rainshadow.jpg">
 
-## Closeness to large bodies 
+## Closeness to large bodies (remember the water cycle)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/sanfran.png">
@@ -124,7 +124,7 @@ output:
 
 ## Vegetation alters weather and climate
 <hr>
-**Trees pull water from the ground and release water vapor through their leaves, generating atmospheric rivers of moisture**
+**Trees pull water from the ground and release water vapor through their leaves, generating atmospheric rivers of moisture in tropical 'rain' forests**
 <br />
 https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
@@ -149,7 +149,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
 
-## Biomes: Defined by communities of plants
+## Biomes: Defined by communities of plants w/ shared climate
 <hr>
 <br />
 
