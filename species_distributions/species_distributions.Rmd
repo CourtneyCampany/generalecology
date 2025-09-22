@@ -43,7 +43,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/humboldt4.jpg">
 
-## Humboldt lessons: Species are spatially arranged
+## Humboldt's lessons: Species are spatially arranged
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/scattered.jpg">
