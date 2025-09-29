@@ -63,7 +63,6 @@ output:
 
 ## Case Study: Deer population size 
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:450px; HEIGHT:350px" SRC="images/deer.jpg">
 
@@ -71,7 +70,7 @@ output:
 
 ## Case Study: Deer population density matters too...
 <hr>
-<br/>
+**Hunting regulations, disease vectors, car insurance...**
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:500px" SRC="images/deereast.png">
 
@@ -144,19 +143,19 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/homerange.jpg"> -->
 
-## Life History: Births and death through time
+## Life history traits are super variable across species
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/life_cycle_generic.png">
 
-## Reproductive effort and life cycles differ across organisms
+## Reproductive timing differs across organisms
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:520px" SRC="images/longlife.png">
 
 ## Semelparous: One-off reproduction
 <hr>
-<br/>
+**Making offspring is expensive, so reproductive output is a strategy under natural selection**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/salmon.jpg">
 
@@ -164,6 +163,7 @@ output:
 
 ## Species with short life cycles: Annuals & Ephemerals
 <hr>
+**Making offspring is expensive, so reproductive output is a strategy under natural selection**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/annual_insect.jpg">
 
@@ -266,7 +266,7 @@ output:
 
 <div style="float: left; width: 60%;">
 
-* **Measuring rates of birth and death can tell us if a population is growing or shrinking**
+* **Measuring rates of birth rates and survivorship tell us if a population is growing or shrinking**
 
 <br/>
 
@@ -341,7 +341,7 @@ output:
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:375px; WIDTH:700px; HEIGHT:350px" SRC="images/seals.png">
 
-## Population cycles
+## Population cycles are often tied to other species
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/isle_royale.png">
