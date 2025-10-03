@@ -11,20 +11,18 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
 * **Static life table: Based on age distribution at one point in time**
+    + infer survivorship across ages
+    + age distribution should be stable (representative)
+        + if distorted (recent die-off, immigration) then inferred suvivorship will be biased
 
 <br/>
 
 * **Cohort life table: Follows individuals across time**
     + difficult for long-lived and/or mobile animals
-
-<br/>
-
-* **Both must assume age distribution is stable**
 
 </div>
 
@@ -45,7 +43,7 @@ output:
 
 <br/>
 
-* **Birthrate per capita (m~x~): average offspring born to individuals of each age**
+* **Birthrate per capita (m~x~): average # offspring born to females of each age**
 
 <br/>
 
