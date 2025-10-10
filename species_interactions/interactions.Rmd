@@ -172,6 +172,7 @@ output:
 
 ## Can't we all just get along?
 <hr>
+**Evolution should also favor coexistence...**
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:450px; HEIGHT:250px" SRC="images/lions.jpg">
 
@@ -195,7 +196,8 @@ output:
 <br/>
 
 * **Co-existing species can overlap by using different forms of resources**
-
+    + reduces/eliminates competition
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:475px; HEIGHT:450px" SRC="images/lions3.jpg">
