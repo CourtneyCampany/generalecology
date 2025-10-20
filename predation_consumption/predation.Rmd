@@ -63,7 +63,7 @@ output:
 <br/>
 
 * **Parasites rely on direct transmission**
-    + contact is *density dependent*
+    + contact is *density dependent* 
 
 </div>
 
@@ -140,7 +140,8 @@ output:
 <br/>
 
 * **Foraging Strategies**
-    + Short Bursts
+    + Short bursts
+    + Constant foraging
     + Thievery
     + Group hunting 
     + Seasonal prey choice may alter behaviors
