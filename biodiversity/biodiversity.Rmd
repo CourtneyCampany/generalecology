@@ -21,7 +21,7 @@ output:
 <div class="item-absolute">**Diversity buffers against changes**</div>
 </div>
 <br/>
-<div class="item-absolute2">**No one species fills all the roles (functions)  of an ecosystem (species diveristy)**</div>
+<div class="item-absolute2">**No one species fills all the roles (functions)  of an ecosystem **</div>
 <div class="item-absolute2">**No one individual has all the alleles for a gene (genetic diversity)**</div>
 
 <IMG STYLE="position:absolute; TOP:285px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/redund.jpg">
@@ -104,7 +104,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/non-native.png">
 
-## Where: Species diversity declines from tropics
+## Where: Species diversity generally declines from tropics
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
@@ -142,7 +142,7 @@ output:
 
 ## Hotspots: Endemic species of Madagascar
 <hr>
-<span style="color:darkred">**What factors contribute to 90% endemism?**</span>
+<span style="color:darkred">**What factors contribute to the 90% endemism of Madagascar species?**</span>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/madagascar.png">
 
@@ -189,6 +189,7 @@ output:
 <br/>
 
 * **Impacts outweigh natural extinction rates**
+
  </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:425px; HEIGHT:400px" SRC="images/invasives3.png">
@@ -198,12 +199,13 @@ output:
 <IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/species_ship.jpg">
 
 ##
+
 <IMG STYLE="position:absolute; TOP:25x; LEFT:150px; WIDTH:900px; HEIGHT:600px" SRC="images/ecoregion_status.jpg">
 
-## Ecoregions versus humans
-<hr>
+<!-- ## Ecoregions versus humans -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png">
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png"> -->
 
 ## Biodiversity is decreasing rapidly (Living Planet Index 2022)
 <hr>
@@ -256,15 +258,15 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biodiversity_redistribution.jpg"> -->
 
-<!-- ## Are we experiencing a new mass extinction? -->
-<!-- <hr> -->
+## Are we experiencing a new mass extinction?
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png"> -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png">
 
-<!-- ## Extinction versus humans -->
-<!-- <hr> -->
+## Extinction versus humans
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:200x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humans_pop.gif"> -->
+<IMG STYLE="position:absolute; TOP:200x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humans_pop.gif">
 
 <!-- ## -->
 
@@ -274,9 +276,9 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png"> -->
 
-<!-- ## The most vulnerable species -->
+## The most vulnerable species
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:400px" SRC="images/animals_threat.jpg"> -->
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:400px" SRC="images/animals_threat.jpg">
 
 <!-- ## How bad is it? Rates of speciation vs extinction... -->
 <!-- <hr> -->
