@@ -26,7 +26,7 @@ output:
 
 * **Shepherd Research:**
     + urban tree ecology
-    + ?????
+    + aquaponics at Tabler Farm
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
 
@@ -49,12 +49,11 @@ output:
 
 * **Shepherd Research:**
     + urban tree ecology
-    + ?????
+    + aquaponics at Tabler Farm
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:275px; HEIGHT:400px" SRC="images/team.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:275px; HEIGHT:400px" SRC="images/wtc.jpg">
-
 
 ## This semester we will practice being a modern ecologist
 <hr>
@@ -63,33 +62,57 @@ output:
 
 ## This semester we will ....
 <hr>
+
 <div style="float: left; width: 50%;">
-* **Immerse ourselves in weekly ecological themes**
+
+* **LEARN ecology**
     + lecture
     + journal club
-    + quantitative reasoning (data fridays)
 
 <br/>
 
-* **Go outside!!!**
-
+* **Do Ecology**
+    + labs + fieldwork + data exercises
+    
 <br/>
 
 * **Contribute to ecological experiments**
 
 <br/>
 
-* **You will SOLVE a major ecological issue!**
-
-<br/>
-
-* **Practice communicating science**
-   + Find your voice!
+* **APPLY ecology**
+    + A CURE for Invasions
    
 </div>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/ecologist2.jpg">
 
+##
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:768px; HEIGHT:1024px" SRC="images/festivalposter2.png">
+
+## FALL 2026: A C.U.R.E for Invasions
+<hr>
+<br/>
+<br/>
+
+* **A C.U.R.E. (Course-based Undergraduate Research Experience) is a class where students do real, original scientific research or creative inquiry as part of the regular curriculum**
+
+<br/>
+
+* **You will need to build the skills to solve/mitigate the issues of your invasive species**
+
+<br/>
+
+* **Find data → Clean data → Analyze → Map → Research management → Communicate → Build an Action Plan**
+    + Real tools. Real data. Real ecological problem.
+
+<br/>
+
+* **Each Friday (+ a little more) you will learn new applied skills to eventually be able to tackle your species**
+    + these skills are transferable on the job market (your Resume)
+    + you will build a portfolio of products that you can use in an internship, job, or graduate-school interview.
+    
 ## What is ecology (textbook definition)?
 <hr>
 
@@ -111,9 +134,7 @@ output:
 
 * **(1) Distribution and abundance of organisms**
 
-
 <br/>
-
 
 * **(2) Interactions among organisms**
 
