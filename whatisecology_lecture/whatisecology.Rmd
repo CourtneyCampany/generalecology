@@ -30,30 +30,30 @@ output:
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:625px; HEIGHT:400px" SRC="images/me_pic.png">
 
-## About me
-<hr>
-<br/>
+<!-- ## About me -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **Plant Ecologist**
-    + climate change
-    + physiology
-    + evolution
-    
-<br />
+<!-- * **Plant Ecologist** -->
+<!--     + climate change -->
+<!--     + physiology -->
+<!--     + evolution -->
 
-* **Ecosystem Ecologist**
-    + climate change
-    + fire ecology
+<!-- <br /> -->
 
-<br />
+<!-- * **Ecosystem Ecologist** -->
+<!--     + climate change -->
+<!--     + fire ecology -->
 
-* **Shepherd Research:**
-    + urban tree ecology
-    + aquaponics at Tabler Farm
-    
-<IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:275px; HEIGHT:400px" SRC="images/team.jpg">
+<!-- <br /> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:275px; HEIGHT:400px" SRC="images/wtc.jpg">
+<!-- * **Shepherd Research:** -->
+<!--     + urban tree ecology -->
+<!--     + aquaponics at Tabler Farm -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:400px; WIDTH:275px; HEIGHT:400px" SRC="images/team.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:275px; HEIGHT:400px" SRC="images/wtc.jpg"> -->
 
 ## This semester we will practice being a modern ecologist
 <hr>
@@ -62,6 +62,7 @@ output:
 
 ## This semester we will ....
 <hr>
+<br/>
 
 <div style="float: left; width: 50%;">
 
@@ -89,11 +90,10 @@ output:
 
 ##
 
-<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:768px; HEIGHT:1024px" SRC="images/festivalposter2.png">
+<IMG STYLE="position:absolute; TOP:0px; LEFT:100px; WIDTH:900px; HEIGHT:800px" SRC="images/festivalposter2.png">
 
 ## FALL 2026: A C.U.R.E for Invasions
 <hr>
-<br/>
 <br/>
 
 * **A C.U.R.E. (Course-based Undergraduate Research Experience) is a class where students do real, original scientific research or creative inquiry as part of the regular curriculum**
@@ -111,7 +111,7 @@ output:
 
 * **Each Friday (+ a little more) you will learn new applied skills to eventually be able to tackle your species**
     + these skills are transferable on the job market (your Resume)
-    + you will build a portfolio of products that you can use in an internship, job, or graduate-school interview.
+    + create a portfolio of products that you can use in an internship, job, or graduate-school interview.
     
 ## What is ecology (textbook definition)?
 <hr>
@@ -127,8 +127,8 @@ output:
 
 <div style="float: right; width: 55%;">
 
-* **Relations of organisms to one another and to their physical surroundings**
-    + living and non-living components
+* **study of the interactions between living organisms and their physical environment**
+    + includes living and non-living components
 
 <br/>
 
@@ -260,3 +260,23 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/doom2.jpg">
+
+## Lab tomorrow....
+<hr>
+
+* **Meet in kab (Byrd)**
+
+<br/>
+
+* **C.U.R.E**
+    + get your species and first learning group
+    + practice research question and hypothesis writing
+    + Discuss why invasive species matter in ecology
+
+<br/>
+
+* **Walk to Carl Bell arboretum**
+    + visit the Deer exclosure experiment
+    + start a decomposistion experiment
+    + wear field appropirate clothes
+    
