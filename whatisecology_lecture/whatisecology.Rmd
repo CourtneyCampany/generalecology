@@ -66,14 +66,14 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **LEARN ecology**
-    + lecture
-    + journal club
+* **<span style="color: blue;">Learn</span> ecology**
+    + Lecture
+    + Journal club
 
 <br/>
 
-* **Do Ecology**
-    + labs + fieldwork + data exercises
+* **<span style="color: blue;">Do</span> Ecology**
+    + Labs + fieldwork + data exercises
     
 <br/>
 
@@ -81,8 +81,8 @@ output:
 
 <br/>
 
-* **APPLY ecology**
-    + A CURE for Invasions
+* **<span style="color: blue;">Apply</span> ecology**
+    + A C.U.R.E for Invasions
    
 </div>
 
@@ -109,26 +109,24 @@ output:
 
 <br/>
 
-* **Each Friday (+ a little more) you will learn new applied skills to eventually be able to tackle your species**
-    + these skills are transferable on the job market (your Resume)
-    + create a portfolio of products that you can use in an internship, job, or graduate-school interview.
+* **Each Friday (+ a little more) you will learn new applied skills to eventually mitigate your species**
+    + These skills are transferable on the job market (your resume)
+    + Create a portfolio of products that you can use in an internship, job, or graduate-school interview.
     
 ## What is ecology (textbook definition)?
 <hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ecologypic.jpg">
-
-## Ecology has a few big themes
-<hr>
-<br/>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/earth.jpg">
 
 <div style="float: right; width: 55%;">
 
+* **Ecology has a few big themes:**
+
+<br/>
+
 * **study of the interactions between living organisms and their physical environment**
-    + includes living and non-living components
+    + Includes living and non-living components
 
 <br/>
 
@@ -175,7 +173,7 @@ output:
 
 <div style="float: left; width: 35%;">
 
-**Ecological process develop over long time periods**
+**Ecological processes develop over long time periods**
 
 </div>
 
@@ -207,7 +205,7 @@ output:
     + Do you feel any themes are missing?
     + Is there a take home message?
     + Is there anything you don't understand?
-    + *Complete and submit your reflection on Brightspace*
+    + *Complete and submit your reflection in person before class starts*
 
 <br/>
 
@@ -236,7 +234,7 @@ output:
 * **I take this very seriously and you will NOT do well in this class if you do not participate**
     + <span style="color:red">The reflection is required to participate in Journal Club. No points will be rewarded for late submission</span>
     
-<IMG STYLE="position:absolute; TOP:485px; LEFT:300px; WIDTH:500px; HEIGHT:200px" SRC="images/warn.jpg">
+<IMG STYLE="position:absolute; TOP:495px; LEFT:300px; WIDTH:500px; HEIGHT:200px" SRC="images/warn.jpg">
 
 ## Keep the 'Pot of Doom' locked away
 <hr>
@@ -263,20 +261,21 @@ output:
 
 ## Lab tomorrow....
 <hr>
+<br/>
 
-* **Meet in kab (Byrd)**
+* **Meet in lab (Byrd 210)**
 
 <br/>
 
 * **C.U.R.E**
-    + get your species and first learning group
-    + practice research question and hypothesis writing
+    + Get your species and first learning group
+    + Practice research question and hypothesis writing
     + Discuss why invasive species matter in ecology
 
 <br/>
 
 * **Walk to Carl Bell arboretum**
-    + visit the Deer exclosure experiment
-    + start a decomposistion experiment
-    + wear field appropirate clothes
+    + Visit the Deer exclosure experiment
+    + Start a decomposition experiment
+    + Wear field appropriate clothes
     
