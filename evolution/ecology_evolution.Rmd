@@ -10,13 +10,16 @@ output:
 ## The Yin and Yang: Swallowtail butterflies
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/masquerade.jpg">
+<span style="color:blue">**The struggle for existence (ecology) drives changes in organisms (evolution)**</span>
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/masquerade.jpg">
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:725px; WIDTH:225px; HEIGHT:450px" SRC="images/catepillarcolor.png">
 
 ##
+<span style="color:blue">**Ecology creates the challenges. Evolution shapes the solutions. <br/>Those solutions then change the ecology**</span>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/swallowtail_stages.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/swallowtail_stages.png">
 
 ## Review: Evolution Basics
 <hr>
@@ -40,7 +43,7 @@ output:
 
 * **<span style="color:blue">Evolution by Natural Selection</span>**: 
 
-    >- organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing the traits to **increase in frequency over generations**
+    >- Due to the struggle for existence, organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing those traits to **increase in frequency over generations**
     
 ## Brown et al. 2007: 6 genetically distinct lineages of giraffe?
 <hr>
@@ -90,7 +93,7 @@ The Giraffe Conservation Foundation performed the first-ever comprehensive DNA s
 
 >- Individuals in a population are not identical
 
->- Some variation among individuals is heritable
+>- This variation among individuals is heritable
 
 >- Individuals sometimes die before reproducing
 
@@ -143,7 +146,25 @@ The Giraffe Conservation Foundation performed the first-ever comprehensive DNA s
 
 ##
 
-<IMG STYLE="position:absolute; TOP:10px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/backyard_bees.jpg">
+<div style="float: left; width:47%;">
+
+<br/>
+<br/>
+<br/>
+
+
+* **Ecology determines where an evolved organism can live**
+    + bees require flowering plants, specific climates, competitors, and nesting habitat
+    + bees are constrained by competitors, predators, parasites, and pathogens
+    
+<br/>
+
+* **Evolution determines what kind of organism ecology has to work with**
+    + generations of natural selection have shaped bee species to succeed under a particular set of conditions.
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:10px; LEFT:550px; WIDTH:550px; HEIGHT:700px" SRC="images/beespecies.jpg">
 
 ## The 'Tree of Life' evolved over geologic time periods (deep time)
 <hr>
@@ -179,30 +200,58 @@ The Giraffe Conservation Foundation performed the first-ever comprehensive DNA s
 <hr>
 <br/>
 <br/>
-<br/>
+
+<div style="float: left; width:60%;">
 
 * **Some traits of living things are 'conserved'**
-    + not easily modified
+    + The genes responsible for essential functions often change very little over evolutionary time because mutations would be selected against
 
 <br/>
 
-* **However,we often seem lots of variation within a species**
+* **Regardless, we often seem lots of variation within a species**
 
 <br/>
 
 * **Traits of a species often vary over geographic ranges**
     + why?
-    
-<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:300px; HEIGHT:400px" SRC="images/mussel.jpg">
 
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:300px; HEIGHT:400px" SRC="images/mussel.jpg">
     
 ## 'Ohi'a lehua tree on Hawaiian Islands has many forms
 <hr>  
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/hawaii.png">
+**Ōhiʻa (*Metrosideros polymorpha*) occurs across the Hawaiian Islands from near sea level to more than 2,200 m elevation, and from dry habitats to extremely wet forests.**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<div style="float: right; width:50%;">
+
+**The species epithet, *polymorpha*, literally refers to its many forms, with 8 varieties now recognized**
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:950px; HEIGHT:475px" SRC="images/hawaii.png">
     
 ## Within species variation can occur at short distances
 <hr>
+
+**Strong local selection can create genetically distinct populations over very short distances when a trait is advantageous only in a specific environment.**
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:700px; HEIGHT:400px" SRC="images/zinc.png">
 
@@ -287,30 +336,64 @@ The Giraffe Conservation Foundation performed the first-ever comprehensive DNA s
 ## When species interact, co-evolution can occur
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/newt_tradeoffs.gif">
+<div style="float: left; width: 60%;">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/newt_tradeoffs2.gif">
+**Coevolution is the process in which two interacting species reciprocally influence each other’s evolution over time.**
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird.jpg"> -->
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/hummingbird2.jpg"> -->
+* **Bats evolved echolocation to detect and capture flying insects in darkness**
 
-<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:150px" SRC="images/coevolve.jpg"> -->
+<br/>
 
-## Co-evolution of orchid bee and ochid flowers
+* **Many moths evolved ears that detect bat ultrasound and trigger evasive flight**
+
+<br/>
+
+* **Some bats evolved quieter or altered calls that make detection harder**
+
+<br/>
+
+* **Some moths evolved ultrasonic clicks that can interfere with echolocation**
+
+<br/>
+
+* **Each adaptation changes the selective pressure on the other species — a classic coevolutionary arms race**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:375px; HEIGHT:500px" SRC="images/mothbat.jpg">
+
+## Coevolution can also be evolutionary partnership
 <hr>
 <br/>
+
+<div style="float: left; width: 60%;">
+
+**Coevolution can be an evolutionary arms race—or an evolutionary partnership**
+
 <br/>
+
+* **Some orchids are pollinated by only one or a few orchid bee species, creating an extremely specialized partnership**
+
+<br/>
+
+* **This specialization can increase pollination efficiency—but it also means the orchid may be highly dependent on the presence of the right pollinator**
+
 <br/>
 
 https://www.youtube.com/embed/_uHJGdTgtXE
 
-## This Yin and Yang is key for life on land
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:375px; HEIGHT:500px" SRC="images/orchid.png">
+
+## Co-evolution shaped life on land
 <hr>
+**Yin and Yang: Ecological interactions between flowering plants and insects created new selective pressures, while evolutionary innovations in both groups reshaped terrestrial ecosystems**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/angio.gif">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/angio.gif">
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:485px; WIDTH:600px; HEIGHT:400px" SRC="images/insectphylo.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:485px; WIDTH:600px; HEIGHT:400px" SRC="images/insectphylo.jpg">
 
 <!-- ## -->
 
@@ -327,7 +410,7 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <div style="float: left; width: 50%;">
 
-* **Divergent selection between different environments leads to the creation of reproductive barriers**
+* **Divergent selection between different environments can lead to the creation of reproductive barriers within a species**
     + driven by differences in environment
     + driven by interactions with other species
 
@@ -338,7 +421,8 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <br/>
 
-* **Eventually may lead to evolution of new species**
+* **Eventually *may* lead to evolution of new species**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:350px; HEIGHT:500px" SRC="images/darwinsfinch.png">
@@ -400,28 +484,43 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/convergent3.png"> -->
 
-## Adaptive Radiation: Rapid speciation with sudden change
+<!-- ## Adaptive Radiation: Rapid speciation with sudden change -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/adaptiverad.png"> -->
+
+## Creating new species can apply quickly...
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/adaptiverad.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:0px; WIDTH:600px; HEIGHT:500px" SRC="images/adaptiverad2.jpg">
 
-## Adaptive Radiation: Occurs at small scales too
-<hr>
+<div style="float: right; width: 42%;">
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/adaptiverad2.jpg">
+**Adaptive radiation =  rapid diversification of a ancestor species into multiple species adapted to different ecological niches**
 
-## We view the macroevolution with phylogenetic trees
-<hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/mammaltree.png">
+* **In Lake Victoria’s cichlid fishes, a relatively small number of ancestral lineages diversified into hundreds of species over a geologically short period**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:550px; HEIGHT:450px" SRC="images/tree.png">
+<br/>
+
+* **Different species evolved to feeding on algae, insects, plankton, snails, other fish, or detritus.**
+    + jaws, teeth, body form, behaviors, and habitat use changed separately
+
+</div>
+
+<!-- ## We view the macroevolution with phylogenetic trees -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/mammaltree.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:550px; HEIGHT:450px" SRC="images/tree.png"> -->
 
 ## Take Home Messages
 <hr>
 
 * **There is a reciprocal relationship between evolution and ecology**
-    + <span style="color:red">swallowtail catepillars</span>
+    + <span style="color:red">swallowtail caterpillars</span>
     
 <br/>
 
