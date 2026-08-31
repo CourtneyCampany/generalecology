@@ -32,7 +32,8 @@ output:
 
 * **Population**: 
 
-    >- group of individuals of the same species, occupying the same time and space, with the potential of interbreeding
+    >- group of individuals of the same species, occupying the same time and space, with the potential of interbreeding <span style="color: red;">(Populations are the lowest unit of evolution, Individuals DO NOT evolve)</span>
+    
 <br/>
 
 * **Species**:
@@ -45,14 +46,14 @@ output:
 
     >- Due to the struggle for existence, organisms with heritable traits that favor survival and reproduction will tend to leave more offspring than their peers, causing those traits to **increase in frequency over generations**
     
-## Brown et al. 2007: 6 genetically distinct lineages of giraffe?
+## Brown et al. 2007: many genetically distinct lineages of giraffe
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:650px; HEIGHT:425px" SRC="images/giraffe.jpg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:725px; WIDTH:300px; HEIGHT:300px" SRC="images/giraffefur.jpg">
 
-## Brown et al. 2007: 6 genetically distinct lineages of giraffe?
+## Brown et al. 2007: UPDATE!!!!
 <hr>
 **The IUCN now recognizes the Northern, Southern, Masai and Reticulated giraffe species**
 
@@ -154,13 +155,13 @@ The Giraffe Conservation Foundation performed the first-ever comprehensive DNA s
 
 
 * **Ecology determines where an evolved organism can live**
-    + bees require flowering plants, specific climates, competitors, and nesting habitat
+    + bees require flowering plants, specific climates, and nesting habitats
     + bees are constrained by competitors, predators, parasites, and pathogens
     
 <br/>
 
 * **Evolution determines what kind of organism ecology has to work with**
-    + generations of natural selection have shaped bee species to succeed under a particular set of conditions.
+    + generations of natural selection have shaped bee species to succeed under particular sets of conditions.
 
 </div>
 
@@ -176,7 +177,7 @@ The Giraffe Conservation Foundation performed the first-ever comprehensive DNA s
 <br/>
 <br/>
 
-* **Survival of the fittest** is tied to organisms interacting with their environment (living & non-living)
+* **Survival of the fittest** is tied to organisms interacting with their environment (abiotic & biotic factors)
 
 <br/>
 
@@ -238,10 +239,9 @@ The Giraffe Conservation Foundation performed the first-ever comprehensive DNA s
 <br/>
 <br/>
 <br/>
-<br/>
 
 
-<div style="float: right; width:50%;">
+<div style="float: right; width:45%;">
 
 **The species epithet, *polymorpha*, literally refers to its many forms, with 8 varieties now recognized**
 </div>
@@ -304,7 +304,7 @@ The Giraffe Conservation Foundation performed the first-ever comprehensive DNA s
 <br/>
 <br/>
 
-* **<span style="color:purple">Selection forces**: pressures on an trait by environmental factors driving evolution of a population </span>
+* **<span style="color:purple">Selection forces**: pressures on an trait by environmental factors driving evolution in a population </span>
 
 <br/>
 <br/>
@@ -319,7 +319,7 @@ The Giraffe Conservation Foundation performed the first-ever comprehensive DNA s
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:625px; WIDTH:400px; HEIGHT:300px" SRC="images/trinidad.jpg">
 
-## Predation, sex and flamboyance in guppies
+## Predation, sex and flamboyance in male guppies
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:10px; WIDTH:500px; HEIGHT:300px" SRC="images/guppy2.jpg">
@@ -384,6 +384,7 @@ The Giraffe Conservation Foundation performed the first-ever comprehensive DNA s
 
 https://www.youtube.com/embed/_uHJGdTgtXE
 
+</div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:375px; HEIGHT:500px" SRC="images/orchid.png">
 
@@ -489,14 +490,14 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/adaptiverad.png"> -->
 
-## Creating new species can apply quickly...
+## Creating new species can happen quickly...
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:0px; WIDTH:600px; HEIGHT:500px" SRC="images/adaptiverad2.jpg">
 
 <div style="float: right; width: 42%;">
 
-**Adaptive radiation =  rapid diversification of a ancestor species into multiple species adapted to different ecological niches**
+**Adaptive radiation =  rapid diversification of an ancestor into multiple species adapted to different ecological niches**
 
 <br/>
 
@@ -516,26 +517,24 @@ https://www.youtube.com/embed/_uHJGdTgtXE
 
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:550px; HEIGHT:450px" SRC="images/tree.png"> -->
 
-## Take Home Messages
+## Testable concepts in this lecture
 <hr>
+<br/>
 
-* **There is a reciprocal relationship between evolution and ecology**
-    + <span style="color:red">swallowtail caterpillars</span>
+* **The reciprocal relationship between evolution and ecology**
+
     
 <br/>
 
-* **Ecological processes enact strong selection pressures on species**
-    + <span style="color:red">guppy</span>
+* **The ecological processes that enact strong selection pressures on species**
     
 <br/>
 
-* **Ecology plays a specific role in a tenant of natural selection: *reproductive isolation* **
-    + <span style="color:red">giraffe</span>
+* **The specific role of ecology in *reproductive isolation* **
     
 <br/>
 
-* **Patterns in ecological processes have driven evolution over very long periods of time...**
-    + <span style="color:red">flowering plants and insects</span>
+* **Patterns in ecological processes that have driven evolution over geologic time**
 
 <!-- ## Ecology, Evolution and Global Change -->
 <!-- <hr> -->
