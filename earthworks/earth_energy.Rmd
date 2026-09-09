@@ -64,7 +64,7 @@ output:
 
 <div class="centered"><span style="color:green">"A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise" -Aldo Leopold </span></div>
 
-## Painting Chalon Sombrero mountain in Peru
+## Painting Chalon Sombrero mountain in Peru...WHY?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/albedo_paint.jpg">
@@ -79,7 +79,7 @@ output:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O0B8Yi7AZvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Albedo positive feedbacks and Snowball Earth
+## Albedo *positive feedbacks* and Snowball Earth
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:300px" SRC="images/albedo3.jpg">
@@ -107,7 +107,6 @@ output:
 ## Sun is the Earth's primary form of heat energy, via radiation
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 50%;">
 
@@ -115,12 +114,14 @@ output:
 
 <br/>
 
-* **Rest is absorbed by land, ocean and atmosphere**
-
+* **Rest is absorbed by land, *oceans*, and atmosphere**
+    + majority of absorbed radiation stored as ocean heat
+    + ocean heat buffers land surfaces from warming
+    
 <br/>
 
-* **Exact amount absorbed depends on both surface and atmosphere**
-    + major contributor of the Earth Energy Budget
+* **Exact amount absorbed depends on both surface and atmosphere (greenhouse effect)**
+
 </div>
 
 
@@ -170,9 +171,8 @@ output:
 <IMG STYLE="position:absolute; TOP:180px; LEFT:5px; WIDTH:550px; HEIGHT:450px" SRC="images/air-composition.jpg">
 
 <div style="float: right; width: 50%;">
-<br/>
 
-* **Gases have different RESIDENCE TIMES**
+* **Gases have different RESIDENCE TIMES in the atmosphere**
     + N<sub>2</sub> = 13 million years (inert)
     + O<sub>2</sub> = 10,000 years (inert)
     + <span style="color:orangered">**N<sub>2</sub>0 = 114 years</span>**
@@ -196,7 +196,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/spectra.png">
 
-## Changes in composition impact atmospheric heating
+## Changes in composition impact *atmospheric heating*
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/greenhouse-gas-potential.jpg">
@@ -318,8 +318,22 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:190px; WIDTH:700px; HEIGHT:500px" SRC="images/people_climate.jpg"> -->
 
+## Testable concepts in this lecture
+<hr>
+<br/>
 
+* **The components of the Earth's energy budget**
+    + the role of albedo
 
+<br/>
+
+* **The greenhouse gas effect (atmospheric heating)**
+    + major greenhouse gases
+
+<br/>
+
+* **How water moves and is stored within global water cycle**
+    + evapotranspiration has the connection between energy flow and the water cycle
 
 
 
