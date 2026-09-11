@@ -1,6 +1,5 @@
 ---
 title: "Climate and the Earth's Biomes"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
     css: custom.css
@@ -144,6 +143,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 ## Global climate: El Nino (https://www.climate.gov/enso)
 <hr>
+**As of NOAA's September 2026 update, we are in El Niño, and it is strengthening rapidly**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/elnino.jpg">
 
@@ -155,7 +155,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/biomes.jpg">
 
-## Climate controls life: Terrestrial biomes
+## Climate envelopes define the boundaries of biomes
 <hr>
 <br />
 <br />
@@ -167,7 +167,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 <br />
 <br />
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:550px; HEIGHT:500px" SRC="images/biomes_temp.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:550px; HEIGHT:500px" SRC="images/whittaker.png">
 
 <div style="float: right; width: 40%;">
 
@@ -175,6 +175,26 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 </div>
 
+## Biome Detective: Whittaker's diagram is insufficient
+<hr>
+
+* **Climate Sets the Stage — But It Doesn’t Tell the Whole Story**
+    + Whittaker narrows the possibilities; ecological context resolves the ambiguity.
+    
+<br />
+
+* **Seasonality: Same climates can produce very different conditions depending on when heat and water occur**
+    + temperate forest vs grasslands
+    
+<br />
+
+* **Fire/Disturbance: Climate may permit substantial tree cover, but  fire can alter vegetation**
+    + seasonal tropical forest vs savanna
+    
+<br />
+
+* **Elevation: Regional climate might suggest one biome, but elevation creates colder local conditions**
+    + boreal forest vs alpine tundra
 
 ## How does climate impact ecology? A question of scale...
 <hr>
@@ -188,7 +208,7 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/coastal1.jpg">
 
-## Take home messages
+## Testable concepts in this lecture
 <hr>
 
 * **Climate and weather are connected but should not be used interchangeably**
@@ -211,8 +231,8 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
     
 <br />
 
-* **Biomes represent climate zones composed of living things adapted to specific climate conditions**
-    + largely related to precipiation and temperature
+* **Biomes = climate zones composed of living things adapted to specific climate conditions**
+    + largely related to precipitation and temperature ranges
 
 
 <!-- ## Ocean Biomes: Coastal productivity -->
