@@ -7,16 +7,16 @@ output:
     smaller: true
 ---
 
-## Species composition of the biospere
+## Species composition of the biosphere
 <hr>
 <br/>
 
 <div style="float: left; width: 50%;">
 
 * **Intricate webs of interacting organisms**
-    + ~2,000,000 species are described
-    + ~18,000 plants & animals discovered yearly
-    + estimated >85% of species unknown
+    + ~2,200,000 species are described
+    + ~17,000 new species described each year
+    + estimated ~8.7 million eukaryotic species exist
 
 <br/>
 
@@ -25,9 +25,9 @@ output:
 <br/>
 
 * **Humans have altered 75% of ice-free surface**
-    + alters species composition
-    + alters livable habitats
-    + alters climate
+    + impacts livable habitats
+    + impacts climate
+    + impacts species diversity
     
  </div>
  
@@ -55,31 +55,31 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/bald_eagle_map.jpg">
 
-## Similar biological communities reside within our biomes
+## Similar biological communities reside within shared biomes
 <hr>
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/biomes3.jpg">
 
 ## Climate drives broad distribution of terrestrial biomes
 <hr>
-
+**Journal Club lessons: Ecotones are dynamic!!**
 <IMG STYLE="position:absolute; TOP:175px; LEFT:15px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/shift.png">
 
 ## Biomes also have distinct soil types
 <hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soils2.png">
+**Aboveground diversity (plants) are adapted to soil resources and may have evolutionary partnerships with the living soil community**
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soils2.png">
 
 ## Species distribution varies widely within biomes
 <hr>
-
+**Journal Club lessons: Ecotones are dynamic, Lecture lessions: altitude, latitude, mountains, distance from oceans, currents...**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/south_america2.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/south_america.jpg">
 
-## Seasons may impact species distributions
+## Seasons may impact certain species distributions
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/seasons_monarch.png">
@@ -87,7 +87,14 @@ output:
 ## Migration can cross many biomes: Birds
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fpK3U1EkwYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://dashboard.birdcast.org/live-maps"
+   target="_blank"
+   title="Open the live BirdCast migration map">
+  <img
+    src="https://is-birdcast-observed-prod.s3.us-east-1.amazonaws.com/mosaic/2026/09/16/mosaic_202609162200.jpg"
+    class="birdcast-static-map"
+    alt="BirdCast live bird migration map showing migration intensity across the contiguous United States">
+</a>
 
 ## Species may instead be adapted for seasonal habitats
 <hr>
@@ -156,30 +163,29 @@ output:
 
 ## Biogeography and animal ranges: Alfred Wallace 1859
 <hr>
-**Wallace developed theories of evolution at the same time as Darwin to explain the patterns in biogeography he observed**
-<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/wallaces-line.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:500px; HEIGHT:500px" SRC="images/wallaces-line.png">
+
+<div style="float: right; width: 50%;">
+
+* **Wallace line is an invisible boundary separating the distinct animal species of Asia from the species of Australasia**
+    + cuts a famous 20 mile gap between Bali and Lombok
+    
+<br/>
+
+* **The line represents a deep ocean channel and separation of two tectonic plates**
+    + biogeographical barrier for animals
+    + even during ice ages, deep water channel remained
+    + rainforst birds refuse to fly over open ocean water!
+
+<br/>
+
+* **Wallace's observations lead to his theory of evolution (at the same times as Darwin!)**
+    
+ </div>
 
 ## Zoogeographic regions: Wallace
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/zoo_regions.jpg">
 
-<!-- ## Global change: climate refugia (Polar bear) -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/polar_bear2.jpg"> -->
-
-<!-- ## Global change: Range shifts of plants -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/tree_move.jpg"> -->
-
-<!-- ## Global change: Range expansion -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/mosquito.png"> -->
-
-<!-- ## Species distributions: Human impacts -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_climate.jpg"> -->
