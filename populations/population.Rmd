@@ -9,9 +9,8 @@ output:
 
 ## WHAT: Defining a population is multi-faceted
 <hr>
-<br/>
 
-* **A group of organisms from one species...**
+* **A group of organisms from one species can be evaluated in many ways**
     + abundance
     + sex ratios
     + age structure
@@ -19,19 +18,19 @@ output:
     
 <br/>
 
-* **Defining the population boundary...**
+* **Defining the population boundary is tricky**
     + a lake
-    + ecosystem
-    + country or state
+    + a lake and streams
+    + the whole watershed 
 
 <br/>
 
 * **Aphid population: leaf, plant, grassland, ecosystem?**
-    + depends on the study and the questions
+    + depends on the study and the question
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/aphid.jpg">
 
-## WHY: Understanding population structure (Demography)
+## WHY: Understanding population structure (*Demography*)
 <hr>
 <br/>
 
@@ -53,7 +52,7 @@ output:
  
 <br/>
  
-* **Measuring, predicting and evaluating population structure/sizes guides decisions**
+* **Measuring, predicting, and evaluating population structure/sizes guides decisions**
     + conservation, pest management, harvesting
 
 
@@ -61,14 +60,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:215px; LEFT:575px; WIDTH:500px; HEIGHT:375px" SRC="images/baldeagle.png">
 
-## Case Study: Deer population size 
+## Case Study: White-tailed d eer population size 
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:450px; HEIGHT:350px" SRC="images/deer.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:535px; WIDTH:570px; HEIGHT:375px" SRC="images/deerpop2.png">
 
-## Case Study: Deer population density matters too...
+## Case Study: Deer population *density* is super informative
 <hr>
 **Hunting regulations, disease vectors, car insurance...**
 
@@ -77,9 +76,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/deerharvest.jpg">
 
-## Case Study: Zombie deer and population density
+## Case Study: Zombie deer
 <hr>
-<br/>
+**Understanding deer density helps predict spread of CWD**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cwd_deer.jpg">
 
@@ -92,17 +91,19 @@ output:
 
 <div style="float: left; width: 50%;">
 * **Unitary organism: forming a single entity**
-    + deer, bird, spider, etc.
+    + deer, bird, spider, human, etc.
 
 <br/>
 
 * **Modular organisms: colonies**
     + bacteria, algae, corals, biofilms
-    + plants: ferns grow by rhizomes
+    + certain plants: ferns grow by rhizomes
 
 <br/>
 
-* **Some modular organisms may themselves be populations**
+* **Some modular organisms may themselves be ecolgogical populations**
+    + One coral colony contains many connected polyps, and each polyp grows, feeds, reproduces, and dies
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/hayscentedfern.jpg">
@@ -126,15 +127,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:420px; WIDTH:600px; HEIGHT:400px" SRC="images/bear_sight.png">
 
-## Populations dynamics: Movement (dispersal and migration)
+## Populations dynamics: Movement
 <hr>
-<br/>
+**Immigration and emigration can change population size even when births and deaths stay the same, making population dynamics harder to interpret.**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/longmigrate.png">
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/coyote.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/cornworm.png"> -->
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/longmigrate.png">
 
 <!-- ## What forces control deer abundance in Jefferson Co.? -->
 <!-- <hr> -->
@@ -143,25 +140,25 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/homerange.jpg"> -->
 
-## Life history traits are super variable across species
+## Life history traits determine reproductive output/timing
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/life_cycle_generic.png">
 
-## Reproductive timing differs across organisms
+## Life history traits differs vastly across organisms
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:520px" SRC="images/longlife.png">
 
-## Semelparous: One-off reproduction
+## Life history trait examples: One-off reproduction
 <hr>
-**Making offspring is expensive, so reproductive output is a strategy under natural selection**
+**Making offspring is expensive, so reproductive output is a  strategy under natural selection**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/salmon.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/cicada_mating.jpg">
 
-## Species with short life cycles: Annuals & Ephemerals
+## Life history trait examples: Species with short life cycles
 <hr>
 **Making offspring is expensive, so reproductive output is a strategy under natural selection**
 
@@ -169,33 +166,40 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/desertflower.jpg">
 
-## Populations and life cycles: Dormancy
+## Life history trait examples: Dormancy
 <hr>
-<br/>
 
-<div style="float: left; width: 58%;">
+<div style="float: left; width: 100%;">
 
-* **Annual organism may spend part of the year dormant**
-    + Seeds, Spores, Cysts, etc.
-
-<br/>
-
-* **Thousands of seeds per square meter of soil**
+* **Some organisms spend part of their life cycle dormant**
+    + seeds, spores, resting eggs, developmental arrest, etc.
 
 <br/>
 
-* **Dormancy can last for long periods of time**
-    + protection from harsh environments
-
-<br/>
-
-* **How does this affect population estimates? **  
-    + Reproductive effort and offspring may not be synced
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:605px; WIDTH:450px; HEIGHT:300px" SRC="images/seeds.jpg">
+* **Dormant individuals can be a large, hidden part of a population**
+    + thousands of viable seeds may occur in a square meter of soil
+    
+<br/>
 
-## Life History: Reproductive conflict
+<div style="float: left; width: 55%;">
+
+* **Allows individuals to survive unfavorable conditions**
+    + protection from harsh environments
+    + some remain dormant for very long
+
+<br/>
+
+* **How does this complicate population dynamics?**  
+    + dormant individuals are easy to miss when estimating population size
+    + offspring produce may not enter the next active generation
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:370px; LEFT:605px; WIDTH:450px; HEIGHT:300px" SRC="images/seeds.jpg">
+
+## Life History traits: Reproductive conflict
 <hr>
 <br/>
 
@@ -221,12 +225,6 @@ output:
     
 <IMG STYLE="position:absolute; TOP:140px; LEFT:350px; WIDTH:650px; HEIGHT:400px" SRC="images/plantreproduction.png">
 
-<!-- ## The mystery of large 'Mast' years in botany -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mast2.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/mast3.jpg"> -->
 
 ## 
 <br/>
@@ -259,31 +257,32 @@ output:
 </div>
 
 
-## Populations dynamics: Monitoring birth and death
+## Survival and reproduction determine population change
 <hr>
-<br/>
-<br/>
 
 <div style="float: left; width: 60%;">
 
-* **Measuring rates of birth rates and survivorship tell us if a population is growing or shrinking**
+* **Birth rates and survivorship tell us whether a population is likely to grow, shrink, or remain stable**
 
 <br/>
 
-* **Cohort Life tables: follow the fate of individuals from a single cohort**
-    + survivorship of every individual
-    + practically difficult (e.g., mobile animals)
+* **Survival and reproduction differ among ages or life stages**
+    + juveniles, reproductive adults, and older individuals contribute differently to population growth
 
 <br/>
 
-* **Static life table: count # of survivors at different ages**
+* **Life tables summarize these age-specific patterns**
+    + Cohort: follow individuals born at the same time through their lives
+    + Static: compare the ages of individuals present at one point in time
 
 <br/>
 
-* **Tells us a lot about age structure of a population**
+* **These patterns reveal more than population size alone**
+    + age structure, when mortality is high, which age contributes the most to population growth, etc.
+    
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:425px; HEIGHT:425px" SRC="images/life_table1.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:635px; WIDTH:425px; HEIGHT:425px" SRC="images/life_table1.png">
 
 ## r/K selection theory: Growth and reproduction strategies
 <hr>
@@ -313,12 +312,13 @@ output:
 
 ## Populations with unlimited resources: **Exponential growth**
 <hr>
+**Population growth that accelerates because a larger population produces more new individuals at constant rates**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:650px; HEIGHT:450px" SRC="images/elephant2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:650px; HEIGHT:450px" SRC="images/elephant2.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:750px; WIDTH:300px; HEIGHT:450px" SRC="images/kruger2.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:750px; WIDTH:300px; HEIGHT:450px" SRC="images/kruger2.png">
 
-## Population growth eventually faces resistance
+## Population growth eventually faces environmental resistance
 <hr>
 <br/>
 
@@ -331,13 +331,13 @@ output:
 <br/>
 
 * **Density-independent**
-    + weather events
+    + catastrophic events
     + disturbances
 
 <br/>
 
-* **Carrying Capacity:**
-    + environmental resistance leads to **Logistic growth**
+* **Carrying Capacity: maximum size of a population an environment can support**
+    + environmental resistance leads to **Logistic growth (S-shaped curve)**
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:375px; WIDTH:700px; HEIGHT:350px" SRC="images/seals.png">
 
