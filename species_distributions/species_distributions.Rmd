@@ -16,11 +16,11 @@ output:
 * **Intricate webs of interacting organisms**
     + ~2,200,000 species are described
     + ~17,000 new species described each year
-    + estimated ~8.7 million eukaryotic species exist
-
+    + estimated ~8.7 million eukaryotic species 
+    
 <br/>
 
-* **Current composition reflects billions of ways organisms have adapted, over and over, to a changing planet**
+* **Current composition reflects endless  ways organisms have adapted, over and over, to a changing planet**
 
 <br/>
 
@@ -62,19 +62,19 @@ output:
 
 ## Climate drives broad distribution of terrestrial biomes
 <hr>
-**Journal Club lessons: Ecotones are dynamic!!**
+<span style="color: blue;">**Journal Club lessons: Ecotones are dynamic!!**</span>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:15px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/shift.png">
 
 ## Biomes also have distinct soil types
 <hr>
-**Aboveground diversity (plants) are adapted to soil resources and may have evolutionary partnerships with the living soil community**
+<span style="color: blue;">**Aboveground diversity (plants) are adapted to soil resources and may have evolutionary partnerships with the living soil community**</span>
 <IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soils2.png">
 
 ## Species distribution varies widely within biomes
 <hr>
-**Journal Club lessons: Ecotones are dynamic, Lecture lessions: altitude, latitude, mountains, distance from oceans, currents...**
+<span style="color: blue;">**Journal Club lessons: Ecotones are dynamic,</span> <span style="color: purple;">Lecture lessons: altitude, latitude, mountains, distance from oceans, air and ocean currents...**</span>
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/south_america2.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/south_america.jpg">
@@ -84,7 +84,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/seasons_monarch.png">
 
-## Migration can cross many biomes: Birds
+## Seasonal migrations can cross biomes: Birds
 <hr>
 
 <a href="https://dashboard.birdcast.org/live-maps"
@@ -176,7 +176,7 @@ output:
 * **The line represents a deep ocean channel and separation of two tectonic plates**
     + biogeographical barrier for animals
     + even during ice ages, deep water channel remained
-    + rainforst birds refuse to fly over open ocean water!
+    + many  rainforst birds refuse to fly over open ocean water!
 
 <br/>
 
