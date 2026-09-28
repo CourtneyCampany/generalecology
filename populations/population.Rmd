@@ -20,7 +20,7 @@ output:
 
 * **Defining the population boundary is tricky**
     + a lake
-    + a lake and streams
+    + a lake and incoming streams
     + the whole watershed 
 
 <br/>
@@ -35,7 +35,7 @@ output:
 <br/>
 
 <div style="float: left; width: 50%;">
-* **<span style="color:blue">Is population size ↑ ←→ ↓ ?</span>**
+* **<span style="color:blue">Central Question: Is population size ↑ ←→ ↓ ?</span>**
     
 <br/>
 
@@ -60,7 +60,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:215px; LEFT:575px; WIDTH:500px; HEIGHT:375px" SRC="images/baldeagle.png">
 
-## Case Study: White-tailed d eer population size 
+## Case Study: White-tailed deer population size 
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:450px; HEIGHT:350px" SRC="images/deer.jpg">
@@ -101,7 +101,7 @@ output:
 
 <br/>
 
-* **Some modular organisms may themselves be ecolgogical populations**
+* **Some modular organisms may themselves be ecological populations**
     + One coral colony contains many connected polyps, and each polyp grows, feeds, reproduces, and dies
     
 </div>
@@ -119,11 +119,11 @@ output:
 <br/>
 <br/>
 
-* **Lessons from Lab: **
-    + Census techniques
-    + Mark & Recapture
-    + Spatial component
-    + Temporal component
+* **Lessons from lab: **
+    + census techniques
+    + mark & recapture
+    + spatial component
+    + temporal component
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:420px; WIDTH:600px; HEIGHT:400px" SRC="images/bear_sight.png">
 
@@ -186,8 +186,7 @@ output:
 <div style="float: left; width: 55%;">
 
 * **Allows individuals to survive unfavorable conditions**
-    + protection from harsh environments
-    + some remain dormant for very long
+    + some remain dormant for very long times
 
 <br/>
 
@@ -199,7 +198,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:370px; LEFT:605px; WIDTH:450px; HEIGHT:300px" SRC="images/seeds.jpg">
 
-## Life History traits: Reproductive conflict
+## Life history traits: Reproductive conflict
 <hr>
 <br/>
 
@@ -218,7 +217,7 @@ output:
     + <span style="color:red">reproduction comes at a cost of growth</span>
     + ↑ flowers + seeds = ↓ leaves and roots
     + are enough resources available to support pregnancy in animals?
-    + *surviving vs growing the population...*
+    + *surviving vs growing the population is the conflict*
 <br/>
 
 * **Life histories of males and females may differ due to reproductive investment**
@@ -272,8 +271,8 @@ output:
 <br/>
 
 * **Life tables summarize these age-specific patterns**
-    + Cohort: follow individuals born at the same time through their lives
-    + Static: compare the ages of individuals present at one point in time
+    + *Cohort*: follow individuals born at the same time through their lives
+    + *Static*: compare the ages of individuals present at one point in time
 
 <br/>
 
@@ -341,12 +340,28 @@ output:
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:375px; WIDTH:700px; HEIGHT:350px" SRC="images/seals.png">
 
-## Population cycles are often tied to other species
+<!-- ## Population cycles are often tied to other species -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/isle_royale.png"> -->
+
+## Testable concepts in this lecture
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/isle_royale.png">
+* **Population structure and measurement**
+    + abundance, density, demographics, and population boundaries
+    
+<br/>
 
+* **Population change**
+    + births, deaths, immigration, emigration, and demographic structure
+    
+<br/>
 
+* **Life history and survivorship**
+    + reproductive strategies, dormancy, survivorship curves, and r/K selection
+    
+<br/>
 
-
-
+* **Population growth and environmental limits**
+    + exponential vs. logistic growth, environmental resistance, and carrying capacity
