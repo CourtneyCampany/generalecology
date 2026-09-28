@@ -189,3 +189,24 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/zoo_regions.jpg">
 
+## Testable concepts in this lecture
+<hr>
+<br/>
+
+* **Drivers of species distributions**
+    + climate, biomes, soils, seasonality, and biotic interactions
+    
+<br/>
+
+* **Ecological niche and tolerance**
+    + tolerance ranges, multidimensional niches, fundamental vs. realized niche
+
+<br/>
+
+* **Species ranges and distributions**
+    + potential range vs. actual distribution, dispersal, migration, and barriers
+
+<br/>
+
+* **Biogeography and changing distributions**
+    + dispersal limitations, Wallace’s zoogeographic regions
