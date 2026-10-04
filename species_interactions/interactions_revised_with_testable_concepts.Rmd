@@ -1,0 +1,380 @@
+---
+title: "Species Interactions"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+    self_contained: false
+---
+
+##
+**Interactions within an overlapping community of organisms is going to be vast**
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:220px; WIDTH:675px; HEIGHT:550px" SRC="images/crop_interaction.png">
+
+## Relationships between organisms are broad
+<hr>
+
+* **Competition**
+    + today: **− / −**
+
+<br/>
+
+* **Mutualisms**
+    + today: **+ / +**
+
+<br/>
+
+* **Predation and Consumption**
+    + next week: **+ / −**
+
+<br/>
+
+* **Parasites and hosts (take BIOL 418 Virology)**
+
+<br/>
+
+* **Humans vs other species**
+    + throughout the course
+    
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/interspecific_comp.jpg">
+
+## Competition requires niche overlap + a limiting resource
+<hr>
+
+<div style="float: left; width: 100%;">
+
+* **Competition occurs when organisms share a resource that is limiting**
+
+</div>
+
+<br/>
+<br/>
+
+
+<div style="float: left; width: 35%;">
+
+<br/>
+
+* **Niche overlap creates the *potential* for competition**
+    + competition becomes stronger as shared resources become scarce
+
+<br/>
+
+* **Fitness is reduced because organisms spend energy acquiring or defending resources**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:450px; WIDTH:600px; HEIGHT:450px" SRC="images/plantoverlap.png">
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/niche1.jpg"> -->
+
+## HOW: Competition can occur through different mechanisms
+<hr>
+
+<div style="float: left; width: 47%;">
+
+<br/>
+
+* **Exploitative competition**
+    + organisms indirectly reduce the availability of a shared limiting resource
+    + food, nutrients, light, water, space
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:430px" SRC="images/meadow.jpeg">
+
+## HOW: Competition can occur through different mechanisms
+<hr>
+
+<div style="float: left; width: 47%;">
+
+<br/>
+
+* **Exploitative competition**
+    + organisms indirectly reduce the availability of a shared limiting resource
+    + food, nutrients, light, water, space
+
+<br/>
+
+* **Interference competition**
+    + organisms directly prevent others from accessing a resource
+    + fighting, territoriality, chemical inhibition
+
+<br/>
+
+* **Both mechanisms can occur within or between species**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/birdsfight.jpg">
+
+## WHO: Intra vs Inter-specific competition
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="images/flamingos.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:725px; WIDTH:200px; HEIGHT:450px" SRC="images/stranglerfig.jpg">
+
+## Competition reduces fitness—but not always equally
+<hr>
+
+**Fitness is reduced in both cases but not at the same level**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:1000px; HEIGHT:400px" SRC="images/fitness.png">
+
+## Competition is a density-dependent limit on population growth
+<hr>
+
+**Why should increasing density reduce both survival and fecundity (#offspring produced)?**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/density.png">
+
+## Gause's Law: Theory of Competitive Exclusion
+<hr>
+<br/>
+
+<div style="float: right; width: 100%;">
+
+**<span style="color:blue">Two species cannot stably coexist if they occupy the same niche and depend on the same limiting resource</span>**
+
+</div>
+
+<div style="float: right; width: 45%;">
+
+<br/>
+
+* **A competitive winner and loser should emerge**
+
+<br/>
+
+* **The weaker competitor may undergo local extinction or shift resource use / niche space**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:550px; HEIGHT:325px" SRC="images/gause.png">
+
+## Gause's test tube Paramecium study
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:5px; WIDTH:800px; HEIGHT:350px" SRC="images/competitive_exclusion.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:825px; WIDTH:250px; HEIGHT:300px" SRC="images/parmecium.png">
+
+## Do red and grey squirrels demonstrate competitive exclusion?
+<hr>
+**Competition, reproduction, disease—or all three?**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap3.jpg">
+
+## Competitive exclusion is hard to detect in nature
+<hr>
+
+<div style="float: right; width: 65%;">
+
+* **Resources are variable and often limiting**
+    + both competitors may struggle
+
+<br/>
+
+* **Species usually compete for multiple resources**
+    + exclusion based on a single resource can be too simple
+
+<br/>
+
+* **Complete niche overlap is rare outside simplified experiments**
+
+<br/>
+
+* **Similar distributional patterns can arise from several ecological mechanisms**
+
+<br/>
+
+* **TAKE HOME: Greater niche overlap = greater potential competition**
+ 
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:30px; WIDTH:300px; HEIGHT:450px" SRC="images/squirrel.jpg">
+
+## Competition can shrink the realized niche
+<hr>
+
+**Fundamental niche = where a species *could* persist**  
+**Realized niche = where it *actually* persists after biotic interactions are included**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:390px" SRC="images/niches.jpg">
+
+## Testing the realized niche: Connell's barnacles
+<hr>
+
+**What experiment could distinguish an abiotic tolerance limit from competition?**
+
+<IMG STYLE="position:absolute; TOP:205px; LEFT:200px; WIDTH:700px; HEIGHT:465px" SRC="images/barnacles.jpg">
+
+## Coexistence despite niche overlap
+<hr>
+<br/>
+<br/>
+
+**Evolution should also favor ways to reduce the fitness costs of competition...**
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:450px; HEIGHT:250px" SRC="images/lions.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/lions2.png">
+
+## How species coexist despite competition
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Resource partitioning / niche differentiation**
+    + species reduce niche overlap by using resources differently
+    + differences can occur in **space, time, or resource form**
+
+<br/>
+
+* **Character displacement**
+    + natural selection favors greater trait differences where competing species coexist
+
+<br/>
+
+* **Less niche overlap → weaker competition → easier coexistence**
+    + lions, cheetahs, and wild dog populations all persist
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:475px; HEIGHT:450px" SRC="images/lions3.jpg">
+
+<!-- ## Co-existence through resource partitioning in birds -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/warbler.jpeg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:600px; HEIGHT:300px" SRC="images/birds_resource.jpg"> -->
+
+## Co-existence through resource partitioning in lizards
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles.png">
+
+## Character displacement = trait divergence where species coexist
+<hr>
+
+**What pattern should we predict when closely related species overlap?**
+
+<IMG STYLE="position:absolute; TOP:195px; LEFT:250px; WIDTH:600px; HEIGHT:465px" SRC="images/cicada_displace.png">
+
+<!-- Previous character-displacement figures retained as optional alternatives -->
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:486px" SRC="images/characterdisp.png"> -->
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/characterdisp2.png"> -->
+
+## Resource partitioning can occur across space and time
+<hr>
+**Different insects forage for resources at different locations and times**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png">
+
+## Biotic interactions can restrict—or expand—realized niches
+<hr>
+<div style="float: left; width: 50%;">
+
+* **Competition (− / −)**
+  + reduces access to limiting resources
+  + can exclude a species from a suitable habitat
+  + can **shrink the realized niche**
+
+</div>
+
+<div style="float: right; width: 50%;">
+
+* **Mutualism (+ / +)**
+  + provides resources that improve fitness
+  + allows persistence under difficult conditions
+  + can **expand where a species is able to persist** through facilitation
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/niche4.png">
+
+## Mutualism: benefits are not free
+<hr>
+
+<div style="float: left; width: 100%;">
+
+* **Both partners receive a fitness benefit—but both usually incur a cost**
+</div>
+
+<div style="float: left; width: 50%;">
+
+<br/>
+
+* **Flower ↔ pollinator**
+    + food ↔ pollen transfer
+
+<br/>
+
+* **Plant ↔ mycorrhizal fungus**
+    + carbon ↔ nutrients / water
+
+<br/>
+
+* **Fruit-producing plant ↔ animal**
+    + food ↔ seed dispersal
+
+<br/>
+
+**For any mutualism: What does each partner gain, and what does each partner pay?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:555px; WIDTH:450px; HEIGHT:450px" SRC="images/plantfungi.jpg">
+
+## Mutualisms are context dependent
+<hr>
+<br/>
+
+* **Net effect = benefits received − costs paid**
+
+<br/>
+
+* **Environmental conditions can change both sides of that relationship**
+    + resource availability
+    + stress
+    + abundance or identity of partners
+
+<br/>
+
+* **A strongly beneficial interaction under one set of conditions may become weak, neutral, or even costly under another**
+
+<br/>
+
+* **TAKE HOME: “Mutualism” describes the net ecological outcome—not a permanently fixed relationship**
+
+## Testable concepts
+<hr>
+<br/>
+
+* **Competition and niche overlap**
+    + limiting resources, intra- vs. interspecific competition, exploitative vs. interference competition
+
+<br/>
+
+* **Competition, fitness, and population consequences**
+    + symmetric/asymmetric effects, density dependence, competitive exclusion
+
+<br/>
+
+* **Competition and the realized niche**
+    + Gause’s Law, Connell’s barnacles, resource partitioning, niche differentiation, character displacement
+
+<br/>
+
+* **Mutualism and ecological context**
+    + fitness benefits and costs, effects on realized niches, context-dependent outcomes
+

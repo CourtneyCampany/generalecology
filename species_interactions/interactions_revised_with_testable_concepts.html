@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Species Interactions</title>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="generator" content="pandoc" />
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
+  <base target="_blank">
+
+  <script type="text/javascript">
+    var SLIDE_CONFIG = {
+      // Slide settings
+      settings: {
+                title: 'Species Interactions',
+                        useBuilds: true,
+        usePrettify: true,
+        enableSlideAreas: true,
+        enableTouch: true,
+                      },
+
+      // Author information
+      presenters: [
+            ]
+    };
+  </script>
+
+  <script src="interactions_revised_with_testable_concepts_files/header-attrs-2.31/header-attrs.js"></script>
+  <link href="interactions_revised_with_testable_concepts_files/ioslides-13.5.1/fonts/fonts.css" rel="stylesheet" />
+  <link href="interactions_revised_with_testable_concepts_files/ioslides-13.5.1/theme/css/default.css" rel="stylesheet" />
+  <link href="interactions_revised_with_testable_concepts_files/ioslides-13.5.1/theme/css/phone.css" rel="stylesheet" />
+  <script src="interactions_revised_with_testable_concepts_files/ioslides-13.5.1/js/modernizr.custom.45394.js"></script>
+  <script src="interactions_revised_with_testable_concepts_files/ioslides-13.5.1/js/prettify/prettify.js"></script>
+  <script src="interactions_revised_with_testable_concepts_files/ioslides-13.5.1/js/prettify/lang-r.js"></script>
+  <script src="interactions_revised_with_testable_concepts_files/ioslides-13.5.1/js/prettify/lang-yaml.js"></script>
+  <script src="interactions_revised_with_testable_concepts_files/ioslides-13.5.1/js/hammer.js"></script>
+  <script src="interactions_revised_with_testable_concepts_files/ioslides-13.5.1/js/slide-controller.js"></script>
+  <script src="interactions_revised_with_testable_concepts_files/ioslides-13.5.1/js/slide-deck.js"></script>
+
+  <style type="text/css">
+
+    b, strong {
+      font-weight: bold;
+    }
+
+    em {
+      font-style: italic;
+    }
+
+    summary {
+      display: list-item;
+    }
+
+    details > summary > p:only-child {
+      display: inline;
+    }
+
+    slides > slide {
+      -webkit-transition: all 0.4s ease-in-out;
+      -moz-transition: all 0.4s ease-in-out;
+      -o-transition: all 0.4s ease-in-out;
+      transition: all 0.4s ease-in-out;
+    }
+
+    .auto-fadein {
+      -webkit-transition: opacity 0.6s ease-in;
+      -webkit-transition-delay: 0.4s;
+      -moz-transition: opacity 0.6s ease-in 0.4s;
+      -o-transition: opacity 0.6s ease-in 0.4s;
+      transition: opacity 0.6s ease-in 0.4s;
+      opacity: 0;
+    }
+/* https://github.com/ropensci/plotly/pull/524#issuecomment-468142578 */
+slide:not(.current) .plotly.html-widget{
+  display: block;
+}
+
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+            
+  </style>
+
+  <link rel="stylesheet" href="custom.css" type="text/css" />
+
+</head>
+
+<body style="opacity: 0">
+
+<slides class="layout-widescreen">
+
+  <slide class="title-slide segue nobackground">
+        <!-- The content of this hgroup is replaced programmatically through the slide_config.json. -->
+    <hgroup class="auto-fadein">
+      <h1 data-config-title><!-- populated from slide_config.json --></h1>
+      
+      <p data-config-presenter><!-- populated from slide_config.json --></p>
+          </hgroup>
+  </slide>
+
+<slide class=""><hgroup><h2></h2></hgroup><article  id="section" class="smaller ">
+
+<p><strong>Interactions within an overlapping community of organisms is going to be vast</strong></p>
+
+<p><IMG STYLE="position:absolute; TOP:125px; LEFT:220px; WIDTH:675px; HEIGHT:550px" SRC="images/crop_interaction.png"></p>
+
+</article></slide><slide class=""><hgroup><h2>Relationships between organisms are broad</h2></hgroup><article  id="relationships-between-organisms-are-broad" class="smaller ">
+
+<hr>
+
+<ul>
+<li><strong>Competition</strong>
+
+<ul>
+<li>today: <strong>− / −</strong></li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Mutualisms</strong>
+
+<ul>
+<li>today: <strong>+ / +</strong></li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Predation and Consumption</strong>
+
+<ul>
+<li>next week: <strong>+ / −</strong></li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Parasites and hosts (take BIOL 418 Virology)</strong></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Humans vs other species</strong>
+
+<ul>
+<li>throughout the course</li>
+</ul></li>
+</ul>
+
+<p><IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/interspecific_comp.jpg"></p>
+
+</article></slide><slide class=""><hgroup><h2>Competition requires niche overlap + a limiting resource</h2></hgroup><article  id="competition-requires-niche-overlap-a-limiting-resource" class="smaller ">
+
+<hr>
+
+<div style="float: left; width: 100%;">
+<ul>
+<li><strong>Competition occurs when organisms share a resource that is limiting</strong></li>
+</ul></div>
+
+<p><br/> <br/></p>
+
+<div style="float: left; width: 35%;">
+<p><br/></p>
+
+<ul>
+<li><strong>Niche overlap creates the <em>potential</em> for competition</strong>
+
+<ul>
+<li>competition becomes stronger as shared resources become scarce</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Fitness is reduced because organisms spend energy acquiring or defending resources</strong></li>
+</ul></div>
+
+<p><IMG STYLE="position:absolute; TOP:220px; LEFT:450px; WIDTH:600px; HEIGHT:450px" SRC="images/plantoverlap.png"></p>
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/niche1.jpg"> -->
+
+</article></slide><slide class=""><hgroup><h2>HOW: Competition can occur through different mechanisms</h2></hgroup><article  id="how-competition-can-occur-through-different-mechanisms" class="smaller ">
+
+<hr>
+
+<div style="float: left; width: 47%;">
+<p><br/></p>
+
+<ul>
+<li><strong>Exploitative competition</strong>
+
+<ul>
+<li>organisms indirectly reduce the availability of a shared limiting resource</li>
+<li>food, nutrients, light, water, space</li>
+</ul></li>
+</ul></div>
+
+<p><IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:430px" SRC="images/meadow.jpeg"></p>
+
+</article></slide><slide class=""><hgroup><h2>HOW: Competition can occur through different mechanisms</h2></hgroup><article  id="how-competition-can-occur-through-different-mechanisms-1" class="smaller ">
+
+<hr>
+
+<div style="float: left; width: 47%;">
+<p><br/></p>
+
+<ul>
+<li><strong>Exploitative competition</strong>
+
+<ul>
+<li>organisms indirectly reduce the availability of a shared limiting resource</li>
+<li>food, nutrients, light, water, space</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Interference competition</strong>
+
+<ul>
+<li>organisms directly prevent others from accessing a resource</li>
+<li>fighting, territoriality, chemical inhibition</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Both mechanisms can occur within or between species</strong></li>
+</ul></div>
+
+<p><IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/birdsfight.jpg"></p>
+
+</article></slide><slide class=""><hgroup><h2>WHO: Intra vs Inter-specific competition</h2></hgroup><article  id="who-intra-vs-inter-specific-competition" class="smaller ">
+
+<hr>
+
+<p><IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="images/flamingos.jpg"></p>
+
+<p><IMG STYLE="position:absolute; TOP:200px; LEFT:725px; WIDTH:200px; HEIGHT:450px" SRC="images/stranglerfig.jpg"></p>
+
+</article></slide><slide class=""><hgroup><h2>Competition reduces fitness—but not always equally</h2></hgroup><article  id="competition-reduces-fitnessbut-not-always-equally" class="smaller ">
+
+<hr>
+
+<p><strong>Fitness is reduced in both cases but not at the same level</strong></p>
+
+<p><IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:1000px; HEIGHT:400px" SRC="images/fitness.png"></p>
+
+</article></slide><slide class=""><hgroup><h2>Competition is a density-dependent limit on population growth</h2></hgroup><article  id="competition-is-a-density-dependent-limit-on-population-growth" class="smaller ">
+
+<hr>
+
+<p><strong>Why should increasing density reduce both survival and fecundity (#offspring produced)?</strong></p>
+
+<p><IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/density.png"></p>
+
+</article></slide><slide class=""><hgroup><h2>Gause’s Law: Theory of Competitive Exclusion</h2></hgroup><article  id="gauses-law-theory-of-competitive-exclusion" class="smaller ">
+
+<hr>
+
+<p><br/></p>
+
+<div style="float: right; width: 100%;">
+<p><strong><span style="color:blue">
+Two species cannot stably coexist if they occupy the same niche and depend on the same limiting resource</span></strong></p></div>
+
+<div style="float: right; width: 45%;">
+<p><br/></p>
+
+<ul>
+<li><strong>A competitive winner and loser should emerge</strong></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>The weaker competitor may undergo local extinction or shift resource use / niche space</strong></li>
+</ul></div>
+
+<p><IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:550px; HEIGHT:325px" SRC="images/gause.png"></p>
+
+</article></slide><slide class=""><hgroup><h2>Gause’s test tube Paramecium study</h2></hgroup><article  id="gauses-test-tube-paramecium-study" class="smaller ">
+
+<hr>
+
+<p><IMG STYLE="position:absolute; TOP:225px; LEFT:5px; WIDTH:800px; HEIGHT:350px" SRC="images/competitive_exclusion.png"></p>
+
+<p><IMG STYLE="position:absolute; TOP:250px; LEFT:825px; WIDTH:250px; HEIGHT:300px" SRC="images/parmecium.png"></p>
+
+</article></slide><slide class=""><hgroup><h2>Do red and grey squirrels demonstrate competitive exclusion?</h2></hgroup><article  id="do-red-and-grey-squirrels-demonstrate-competitive-exclusion" class="smaller ">
+
+<hr>
+
+<p><strong>Competition, reproduction, disease—or all three?</strong></p>
+
+<p><IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap.jpg"></p>
+
+<p><IMG STYLE="position:absolute; TOP:190px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/sqmap3.jpg"></p>
+
+</article></slide><slide class=""><hgroup><h2>Competitive exclusion is hard to detect in nature</h2></hgroup><article  id="competitive-exclusion-is-hard-to-detect-in-nature" class="smaller ">
+
+<hr>
+
+<div style="float: right; width: 65%;">
+<ul>
+<li><strong>Resources are variable and often limiting</strong>
+
+<ul>
+<li>both competitors may struggle</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Species usually compete for multiple resources</strong>
+
+<ul>
+<li>exclusion based on a single resource can be too simple</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Complete niche overlap is rare outside simplified experiments</strong></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Similar distributional patterns can arise from several ecological mechanisms</strong></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>TAKE HOME: Greater niche overlap = greater potential competition</strong></li>
+</ul></div>
+
+<p><IMG STYLE="position:absolute; TOP:190px; LEFT:30px; WIDTH:300px; HEIGHT:450px" SRC="images/squirrel.jpg"></p>
+
+</article></slide><slide class=""><hgroup><h2>Competition can shrink the realized niche</h2></hgroup><article  id="competition-can-shrink-the-realized-niche" class="smaller ">
+
+<hr>
+
+<p><strong>Fundamental niche = where a species <em>could</em> persist</strong><br/><strong>Realized niche = where it <em>actually</em> persists after biotic interactions are included</strong></p>
+
+<p><IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:390px" SRC="images/niches.jpg"></p>
+
+</article></slide><slide class=""><hgroup><h2>Testing the realized niche: Connell’s barnacles</h2></hgroup><article  id="testing-the-realized-niche-connells-barnacles" class="smaller ">
+
+<hr>
+
+<p><strong>What experiment could distinguish an abiotic tolerance limit from competition?</strong></p>
+
+<p><IMG STYLE="position:absolute; TOP:205px; LEFT:200px; WIDTH:700px; HEIGHT:465px" SRC="images/barnacles.jpg"></p>
+
+</article></slide><slide class=""><hgroup><h2>Coexistence despite niche overlap</h2></hgroup><article  id="coexistence-despite-niche-overlap" class="smaller ">
+
+<hr>
+
+<p><br/> <br/></p>
+
+<p><strong>Evolution should also favor ways to reduce the fitness costs of competition…</strong></p>
+
+<p><IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:450px; HEIGHT:250px" SRC="images/lions.jpg"></p>
+
+<p><IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/lions2.png"></p>
+
+</article></slide><slide class=""><hgroup><h2>How species coexist despite competition</h2></hgroup><article  id="how-species-coexist-despite-competition" class="smaller ">
+
+<hr>
+
+<p><br/></p>
+
+<div style="float: left; width: 50%;">
+<ul>
+<li><strong>Resource partitioning / niche differentiation</strong>
+
+<ul>
+<li>species reduce niche overlap by using resources differently</li>
+<li>differences can occur in <strong>space, time, or resource form</strong></li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Character displacement</strong>
+
+<ul>
+<li>natural selection favors greater trait differences where competing species coexist</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Less niche overlap → weaker competition → easier coexistence</strong>
+
+<ul>
+<li>lions, cheetahs, and wild dog populations all persist</li>
+</ul></li>
+</ul></div>
+
+<p><IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:475px; HEIGHT:450px" SRC="images/lions3.jpg"></p>
+
+<!-- ## Co-existence through resource partitioning in birds -->
+
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/warbler.jpeg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:600px; HEIGHT:300px" SRC="images/birds_resource.jpg"> -->
+
+</article></slide><slide class=""><hgroup><h2>Co-existence through resource partitioning in lizards</h2></hgroup><article  id="co-existence-through-resource-partitioning-in-lizards" class="smaller ">
+
+<hr>
+
+<p><IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles.png"></p>
+
+</article></slide><slide class=""><hgroup><h2>Character displacement = trait divergence where species coexist</h2></hgroup><article  id="character-displacement-trait-divergence-where-species-coexist" class="smaller ">
+
+<hr>
+
+<p><strong>What pattern should we predict when closely related species overlap?</strong></p>
+
+<p><IMG STYLE="position:absolute; TOP:195px; LEFT:250px; WIDTH:600px; HEIGHT:465px" SRC="images/cicada_displace.png"></p>
+
+<!-- Previous character-displacement figures retained as optional alternatives -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:486px" SRC="images/characterdisp.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/characterdisp2.png"> -->
+
+</article></slide><slide class=""><hgroup><h2>Resource partitioning can occur across space and time</h2></hgroup><article  id="resource-partitioning-can-occur-across-space-and-time" class="smaller ">
+
+<hr>
+
+<p><strong>Different insects forage for resources at different locations and times</strong></p>
+
+<p><IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png"></p>
+
+</article></slide><slide class=""><hgroup><h2>Biotic interactions can restrict—or expand—realized niches</h2></hgroup><article  id="biotic-interactions-can-restrictor-expandrealized-niches" class="smaller ">
+
+<hr>
+
+<div style="float: left; width: 50%;">
+<ul>
+<li><strong>Competition (− / −)</strong>
+
+<ul>
+<li>reduces access to limiting resources</li>
+<li>can exclude a species from a suitable habitat</li>
+<li>can <strong>shrink the realized niche</strong></li>
+</ul></li>
+</ul></div>
+
+<div style="float: right; width: 50%;">
+<ul>
+<li><strong>Mutualism (+ / +)</strong>
+
+<ul>
+<li>provides resources that improve fitness</li>
+<li>allows persistence under difficult conditions</li>
+<li>can <strong>expand where a species is able to persist</strong> through facilitation</li>
+</ul></li>
+</ul></div>
+
+<p><IMG STYLE="position:absolute; TOP:360px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/niche4.png"></p>
+
+</article></slide><slide class=""><hgroup><h2>Mutualism: benefits are not free</h2></hgroup><article  id="mutualism-benefits-are-not-free" class="smaller ">
+
+<hr>
+
+<div style="float: left; width: 100%;">
+<ul>
+<li><strong>Both partners receive a fitness benefit—but both usually incur a cost</strong></li>
+</ul></div>
+
+<div style="float: left; width: 50%;">
+<p><br/></p>
+
+<ul>
+<li><strong>Flower ↔ pollinator</strong>
+
+<ul>
+<li>food ↔ pollen transfer</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Plant ↔ mycorrhizal fungus</strong>
+
+<ul>
+<li>carbon ↔ nutrients / water</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Fruit-producing plant ↔ animal</strong>
+
+<ul>
+<li>food ↔ seed dispersal</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<p><strong>For any mutualism: What does each partner gain, and what does each partner pay?</strong></p></div>
+
+<p><IMG STYLE="position:absolute; TOP:220px; LEFT:555px; WIDTH:450px; HEIGHT:450px" SRC="images/plantfungi.jpg"></p>
+
+</article></slide><slide class=""><hgroup><h2>Mutualisms are context dependent</h2></hgroup><article  id="mutualisms-are-context-dependent" class="smaller ">
+
+<hr>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Net effect = benefits received − costs paid</strong></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Environmental conditions can change both sides of that relationship</strong>
+
+<ul>
+<li>resource availability</li>
+<li>stress</li>
+<li>abundance or identity of partners</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>A strongly beneficial interaction under one set of conditions may become weak, neutral, or even costly under another</strong></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>TAKE HOME: “Mutualism” describes the net ecological outcome—not a permanently fixed relationship</strong></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Testable concepts</h2></hgroup><article  id="testable-concepts" class="smaller ">
+
+<hr>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Competition and niche overlap</strong>
+
+<ul>
+<li>limiting resources, intra- vs. interspecific competition, exploitative vs. interference competition</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Competition, fitness, and population consequences</strong>
+
+<ul>
+<li>symmetric/asymmetric effects, density dependence, competitive exclusion</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Competition and the realized niche</strong>
+
+<ul>
+<li>Gause’s Law, Connell’s barnacles, resource partitioning, niche differentiation, character displacement</li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li><strong>Mutualism and ecological context</strong>
+
+<ul>
+<li>fitness benefits and costs, effects on realized niches, context-dependent outcomes</li>
+</ul></li>
+</ul></article></slide>
+
+
+  <slide class="backdrop"></slide>
+
+</slides>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+<!-- map slide visiblity events into shiny -->
+<script>
+  (function() {
+    if (window.jQuery) {
+       window.jQuery(document).on('slideleave', function(e) {
+         window.jQuery(e.target).trigger('hidden');
+      });
+       window.jQuery(document).on('slideenter', function(e) {
+         window.jQuery(e.target).trigger('shown');
+      });
+    }
+    if (window.Shiny) {
+      // Initialize slides when this script appears on the page, since it
+      // indicates that the <slides> markup has been fully loaded.
+      window.loadDeck();
+    }
+  })();
+</script>
+
+</body>
+</html>

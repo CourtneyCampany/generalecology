@@ -8,11 +8,14 @@ output:
 ---
 
 ##
+**Interactions within an overlapping community of organisms is going to be vast**
 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:200px; WIDTH:675px; HEIGHT:550px" SRC="images/crop_interaction.png">
 
 ## Bird Networks in the Amazon (complexity)
 <hr>
+**The more complex the ecosystem, the more interactions we should expect**
+
 <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/birds_network.jpg">
 
 ## Relationships between organisms are broad
