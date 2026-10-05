@@ -46,7 +46,7 @@ output:
 
 <div style="float: left; width: 100%;">
 
-* **Competition occurs when organisms share a resource that is limiting**
+* **span style="color: blue;">Competition occurs when organisms share a resource that is limiting</span>**
 
 </div>
 
@@ -54,7 +54,7 @@ output:
 <br/>
 
 
-<div style="float: left; width: 35%;">
+<div style="float: left; width: 32%;">
 
 <br/>
 
@@ -63,13 +63,20 @@ output:
 
 <br/>
 
-* **Fitness is reduced because organisms spend energy acquiring or defending resources**
+* **span style="color: red;">Fitness is reduced because organisms spend energy acquiring or defending resources</span>**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:450px; WIDTH:600px; HEIGHT:450px" SRC="images/plantoverlap.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:430px; WIDTH:620px; HEIGHT:450px" SRC="images/plantoverlap.png">
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/niche1.jpg"> -->
+
+## WHO: Intra vs Inter-specific competition
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="images/flamingos.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:725px; WIDTH:200px; HEIGHT:450px" SRC="images/stranglerfig.jpg">
 
 ## HOW: Competition can occur through different mechanisms
 <hr>
@@ -112,13 +119,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/birdsfight.jpg">
 
-## WHO: Intra vs Inter-specific competition
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="images/flamingos.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:725px; WIDTH:200px; HEIGHT:450px" SRC="images/stranglerfig.jpg">
-
 ## Competition reduces fitness—but not always equally
 <hr>
 
@@ -139,11 +139,11 @@ output:
 
 <div style="float: right; width: 100%;">
 
-**<span style="color:blue">Two species cannot stably coexist if they occupy the same niche and depend on the same limiting resource</span>**
+**<span style="color:blue">Two species cannot stably coexist if they occupy the same niche and use the same limiting resources</span>**
 
 </div>
 
-<div style="float: right; width: 45%;">
+<div style="float: right; width: 50%;">
 
 <br/>
 
@@ -174,8 +174,9 @@ output:
 
 ## Competitive exclusion is hard to detect in nature
 <hr>
+<br/>
 
-<div style="float: right; width: 65%;">
+<div style="float: right; width: 69%;">
 
 * **Resources are variable and often limiting**
     + both competitors may struggle
@@ -187,7 +188,7 @@ output:
 
 <br/>
 
-* **Complete niche overlap is rare outside simplified experiments**
+* **Complete *niche overlap is rare* outside simplified experiments**
 
 <br/>
 
@@ -199,7 +200,7 @@ output:
  
 </div>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:30px; WIDTH:300px; HEIGHT:450px" SRC="images/squirrel.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:45px; WIDTH:300px; HEIGHT:450px" SRC="images/squirrel.jpg">
 
 ## Competition can shrink the realized niche
 <hr>
@@ -218,8 +219,6 @@ output:
 
 ## Coexistence despite niche overlap
 <hr>
-<br/>
-<br/>
 
 **Evolution should also favor ways to reduce the fitness costs of competition...**
 
@@ -251,17 +250,16 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:475px; HEIGHT:450px" SRC="images/lions3.jpg">
 
-<!-- ## Co-existence through resource partitioning in birds -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/warbler.jpeg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:600px; HEIGHT:300px" SRC="images/birds_resource.jpg"> -->
-
 ## Co-existence through resource partitioning in lizards
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anoles.png">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/anoles.png">
+
+## Resource partitioning can occur across space and time
+<hr>
+**Different insects forage for resources at different locations and times**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png">
 
 ## Character displacement = trait divergence where species coexist
 <hr>
@@ -273,12 +271,6 @@ output:
 <!-- Previous character-displacement figures retained as optional alternatives -->
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:486px" SRC="images/characterdisp.png"> -->
 <!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/characterdisp2.png"> -->
-
-## Resource partitioning can occur across space and time
-<hr>
-**Different insects forage for resources at different locations and times**
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niche_comp.png">
 
 ## Biotic interactions can restrict—or expand—realized niches
 <hr>
