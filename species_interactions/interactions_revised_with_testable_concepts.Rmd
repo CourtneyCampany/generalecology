@@ -46,7 +46,7 @@ output:
 
 <div style="float: left; width: 100%;">
 
-* **span style="color: blue;">Competition occurs when organisms share a resource that is limiting</span>**
+* **<span style="color: blue;">Competition occurs when organisms share a resource that is limiting</span>**
 
 </div>
 
@@ -63,7 +63,7 @@ output:
 
 <br/>
 
-* **span style="color: red;">Fitness is reduced because organisms spend energy acquiring or defending resources</span>**
+* **<span style="color: red;">Fitness is reduced because organisms spend energy acquiring or defending resources</span>**
 
 </div>
 
