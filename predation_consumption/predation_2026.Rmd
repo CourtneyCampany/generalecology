@@ -1,0 +1,478 @@
+---
+title: "Predation"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Consumer-resource interactions (+,-)
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **One organism benefits by consuming all or part of another organism**
+    + consumer gains energy/resources
+    + resource organism experiences a fitness cost
+
+<br/>
+
+* **Consumer strategies occur along a continuum**
+    + true predators = many prey, usually lethal
+    + grazers = many prey, usually partial consumption
+    + parasites = prolonged interaction with one/few hosts
+    + parasitoids = prolonged interaction that ultimately kills the host
+
+<br/>
+
+* **<span style="color: darkgreen;">Question: Why might these strategies have different effects on prey populations?</span>**
+
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:670px; WIDTH:400px; HEIGHT:350px" SRC="images/polarbear_eats.jpg">
+
+## Predator behavior determines consumption rate
+<hr>
+
+<div style="float: right; width: 60%;">
+
+* **Encounters with prey depend on predator behavior**
+    + active searching
+    + sit-and-wait / passive foraging
+
+<br/>
+
+* **Captures depend on prey behavior and defenses**
+    + evasiveness, refuge use, vigilance, etc.
+    + not every encounter results in consumption
+    
+<br/>
+
+* **Consumption rate impacts population dynamics**
+    + impacts survivorship + energy for reproduction
+    
+<br/>
+
+* **Parasite transmission may depend on host density, vectors, or the environment**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:350px; HEIGHT:400px" SRC="images/glowworm.jpg">
+
+## Prey density changes predator consumption
+<hr>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **<span style="color: darkgreen;">Holling's Functional response = how predator consumption changes with prey density</span>**
+
+<br/>
+
+* **Type I:** consumption tracks prey density
+
+* **Type II:** handling time causes saturation
+
+* **Type III:** low consumption when prey are rare, then saturation
+
+<br/>
+
+* **Which response provides prey the greatest refuge at low density?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:560px; WIDTH:450px; HEIGHT:450px" SRC="images/holling.png">
+
+## Optimal Foraging Theory
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 60%;">
+
+* **Obtaining food provides requried energy**
+
+<br/>
+
+* **Searching for and capturing food uses energy**
+
+<br/>
+
+* **Profitability ≈ energy gained / (search time + handling time)**
+
+<br/>
+
+* **<span style="color: darkgreen;">Optimal foraging theory:</span>**
+
+<!-- predators should choose foraging strategies that maximize energetic gain while minimizing search and handling costs -->
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:325px; HEIGHT:500px" SRC="images/oft.jpg">
+
+## Which prey should an optimal predator choose?
+<hr>
+
+**Predict the most profitable mussel size first. Then ask: Why might observed prey choice differ from the theoretical optimum?**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:790px; HEIGHT:500px" SRC="images/oystercatcher.png">
+
+## Optimal foraging depends on prey density
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Can predators afford to be choosy?**
+    + prey density changes searching time
+    + availability constrains the theoretical optimum
+
+<br/>
+
+* **Predator density also matters**
+    + competition between each other for available prey
+    + animals that group forage introduce neat dynamics
+
+<br/>
+
+* ***Take Home:* Best choice depends on energetic value AND ecological context**
+        
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:275px; HEIGHT:500px" SRC="images/coho.png">
+
+## Optimal foraging in African predators: Prey choice
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/africa_pred_age.png">
+
+<div style="position:absolute; TOP:635px; LEFT:180px; WIDTH:760px;">
+
+**What prey traits appear to change profitability for different predators?**
+
+</div>
+
+<!-- ## Optimal foraging in African predators: Energy use -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/africa_prey_age.png"> -->
+
+## Consumption is a powerful driver of natural selection: Defense
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/newt.jpg">
+
+<div style="position:absolute; TOP:625px; LEFT:150px; WIDTH:800px;">
+
+**Predator-prey interactions create reciprocal selection: predators improve capture while prey improve avoidance or defense.**
+
+</div>
+
+## Why aren't all defenses constitutive?
+<hr>
+<br/>
+
+<div style="float: left; width: 40%;">
+
+* **Constitutive defenses = **
+    + always present
+    + continuous protection
+    + continuous energetic/resource cost
+
+<br/>
+
+* **Induced defenses = **
+    + activated by damage or a cue
+    + reduce costs when enemies are absent
+    + protection may be delayed
+
+<br/>
+
+* **Defense is a fitness trade-off**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:465px; WIDTH:600px; HEIGHT:500px" SRC="images/plant_defense2.jpg">
+
+## Predators also adapt to prey (Cattau et al. 2017)
+<hr>
+
+**Prediction: Sustained exposure to novel prey can favor predator traits that improve capture or handling.**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/kite_applesnail.jpg">
+
+## Predation can promote coexistence
+<hr>
+<br/>
+
+<div style="float: left; width: 100%;">
+
+* **A predator may suppress the strongest competitor**
+
+<br/>
+
+</div>
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Reduced dominance relieves competitive pressure**
+    + weaker competitors can persist
+    + community diversity may increase
+
+<br/>
+
+* **A predator with a disproportionately large community effect can function as a *keystone predator***
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/predation_diversity.jpg">
+
+## Predation creates indirect community effects
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Predator** <span style="color:red">removes</span> **Dominant competitor** <span style="color:red">promotes</span> **Weaker competitor**
+
+<br/>
+
+* **Suppressing the dominant competitor can indirectly benefit another species**
+
+<br/>
+
+* **Direct effect: predator → prey**
+
+<br/>
+
+* **Indirect effect: predator → prey/competitor → another species**
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 100%;">
+
+* **<span style="color:blue"><b>Community outcomes cannot always be predicted from one pairwise interaction.</b></span>**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/seastar.jpg">
+
+## Predator carrying capacity depends on prey abundance
+<hr>
+**More available prey can support more predators—but only if prey can actually be captured and converted into predator fitness**
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:550px; HEIGHT:450px" SRC="images/carrying_capacity_predator.png">
+
+## Predators can regulate maximum prey population sizes
+<hr>
+
+**In this system, parasitoids lower average host abundance. Is that outcome inevitable in every predator-prey system?**
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:700px; HEIGHT:490px" SRC="images/parasite_host_pop.png">
+
+## Predator-prey feedbacks can generate cycles
+<hr>
+<br/>
+
+<div style="float: left; width: 100%;">
+
+* **More prey can support predator population growth**
+
+<br/>
+
+</div> 
+
+<div style="float: left; width: 50%;">
+
+* **More predators can increase prey mortality**
+
+<br/>
+
+* **Declining prey eventually reduces predator growth**
+
+<br/>
+
+* **Time lags in survival and reproduction can produce offset oscillations**
+
+<br/>
+
+</div>
+
+
+<div style="float: left; width: 100%;">
+
+* **Real systems may cycle, stabilize, dampen, or be driven by other species/environmental factors**
+
+</div>   
+ 
+<IMG STYLE="position:absolute; TOP:275px; LEFT:525px; WIDTH:500px; HEIGHT:250px" SRC="images/lotka.png">
+
+## Lotka-Volterra: Modelling predator-prey dynamics
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Start with a simplified 2-species model**
+    + *P* = # of predators
+    + *N* = # of prey
+
+<br/> 
+
+1. Start with a lot of rabbits: who responds first?
+2. Predator populations will ....
+3. Why should the predator response be delayed?
+4. Prey populations will....
+5. Food available to predators will....
+6. Over time predator populations will ....
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:575px; WIDTH:450px; HEIGHT:225px" SRC="images/lynxrabbit.jpg">
+
+## Lotka-Volterra predicts coupled population cycles
+<hr>
+
+**Look for the lag: predator peaks should follow prey peaks rather than occur at exactly the same time**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/foxhare.jpeg">
+
+## Lotka-Volterra equations
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **With no predators, <span style="color:blue">prey</span> populations (N) increase exponentially**
+    + *dN/dt* = *rN* 
+    + *r* = growth rate
+
+<br/>
+
+* **Predators remove prey at some rate**
+    + *dN/dt* = *rN - aPN*
+    + *a* = attack/encounter efficiency
+    
+<br/>
+
+* **<span style="color:blue">Prey</span> stable when *dN/dt* = 0**
+
+ </div>  
+
+<div style="float: right; width: 50%;">
+
+* **Without prey, <span style="color:red">predator</span> populations (P) decline**
+    + *dP/dt* = *-qP*
+    + *q* = mortality rate
+
+<br/>
+
+* **Consumption can produce predator births (*faPN*)**
+    + *dP/dt* = *faPN - qP*
+    + food gain (*aPN*)
+    + conversion efficiency (*f*)
+
+<br/>
+
+* **<span style="color:red">Predator</span> stable when *dP/dt* = 0**
+
+ </div>
+
+## What assumptions does Lotka-Volterra make?
+<hr>
+<br/>
+<span style="color:red"> **How many of these have we challenged today?**</span>
+ 
+ <br/>
+ 
+<div style="float: left; width: 48%;">
+
+* **Prey grow exponentially without predators**
+
+<br/>
+
+* **Predators decline without prey**
+
+<br/>
+
+* **Encounters depend on predator × prey abundance (*PN*)**
+
+<br/>
+
+* **All prey are equally vulnerable**
+
+</div>
+
+<div style="float: right; width: 48%;">
+
+* **All predators are equally effective**
+
+<br/>
+
+* **No prey refuge**
+
+<br/>
+
+* **No alternative prey**
+
+<br/>
+
+* **No immigration/emigration**
+
+</div>
+
+## Where does this simple model break?
+<hr>
+<br/>
+
+* **The predation term (*aPN*) assumes encounters translate simply into consumption**
+    + but handling time can saturate feeding rates
+    + prey may hide, escape, switch behavior, or evolve defenses
+
+<br/>
+
+* **Predators can switch prey or change foraging behavior**
+    + functional responses and optimal foraging alter consumption
+
+<br/>
+
+* **Real communities contain competitors, alternative prey, parasites, mutualists, and environmental variation**
+
+<br/>
+
+* **Models are useful because they isolate mechanisms—not because nature follows every assumption**
+
+## Wolves and moose on Isle Royale (Michigan upper peninsula)
+<hr>
+**You can see aspects of Lotka-Voltera BUT disease, weather, forage, age structure, inbreeding, immigration, reintroductions, and beavers make it messy over decades of tracking**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:480px" SRC="images/moosewolf.jpg">
+
+## Testable concepts
+<hr>
+<br/>
+
+* **Consumer-resource interactions and predation strategies**
+    + predator types, consumption rate, Holling's functional responses
+
+<br/>
+
+* **Optimal foraging and prey choice**
+    + energetic trade-offs, search/handling time, prey density
+
+<br/>
+
+* **Predator-prey evolution and community effects**
+    + defenses, coevolution, keystone predators, indirect effects
+
+<br/>
+
+* **Predator-prey population dynamics**
+    + feedbacks, time lags, Lotka-Volterra equations and assumptions

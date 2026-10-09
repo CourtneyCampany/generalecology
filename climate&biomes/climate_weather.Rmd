@@ -92,6 +92,7 @@ output:
 ## Earth's atmosphere contains six rotating cells
 <hr>
 **Coriolis effect (from spinning earth) deflects cells in different directions above/below equator**
+
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:450px" SRC="images/circulation_zones.png">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:425px; HEIGHT:425px" SRC="images/coriolis.png">
@@ -99,6 +100,7 @@ output:
 ## Earth surface features also impact climate
 <hr>
 **Weather and climate do not just happen to a landscape...**
+
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/landsurface.jpg">
 
 ## Mountains and the rain shadow effect
@@ -124,7 +126,9 @@ output:
 ## Vegetation alters weather and climate
 <hr>
 **Trees pull water from the ground and release water vapor through their leaves, generating atmospheric rivers of moisture in tropical 'rain' forests**
+
 <br />
+
 https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:235px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/cloudforest.jpg">
