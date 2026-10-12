@@ -67,7 +67,7 @@ output:
 
 <div style="float: left; width: 48%;">
 
-* **<span style="color: darkgreen;">Holling's Functional response = how predator consumption changes with prey density</span>**
+* **<span style="color: purple;">Holling's Functional response = how predator consumption changes with prey density</span>**
 
 <br/>
 
@@ -80,6 +80,10 @@ output:
 <br/>
 
 * **Which response provides prey the greatest refuge at low density?**
+
+<br/>
+
+* **Should we consider these functional responses *fixed* for a species?**
 
 </div>
 
@@ -124,11 +128,11 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 60%;">
 
 * **Can predators afford to be choosy?**
     + prey density changes searching time
-    + availability constrains the theoretical optimum
+    + availability constrains the theoretical optimum (O.F.T.)
 
 <br/>
 
@@ -142,7 +146,7 @@ output:
         
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:275px; HEIGHT:500px" SRC="images/coho.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:670px; WIDTH:275px; HEIGHT:500px" SRC="images/coho.png">
 
 ## Optimal foraging in African predators: Prey choice
 <hr>
@@ -200,7 +204,7 @@ output:
 ## Predators also adapt to prey (Cattau et al. 2017)
 <hr>
 
-**Prediction: Sustained exposure to novel prey can favor predator traits that improve capture or handling.**
+**Sustained exposure to novel prey can favor predator traits that improve capture or handling.**
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/kite_applesnail.jpg">
 
@@ -277,7 +281,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:300px; WIDTH:700px; HEIGHT:490px" SRC="images/parasite_host_pop.png">
 
-## Predator-prey feedbacks can generate cycles
+## Predator-prey feedbacks can generate population cycles
 <hr>
 <br/>
 
