@@ -1,0 +1,316 @@
+---
+title: "Biodiversity"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/components.jpg">
+
+## Diversity can buffer ecological systems against change
+<hr>
+* **Functional redundancy = multiple species may contribute to similar ecosystem roles**
+<br/>
+* **Response diversity = species performing similar roles may respond differently to disturbance**
+
+    
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* Biodiversity can influence:
+    + resistance = how much a system changes
+    + resilience = how quickly a system recovers
+
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:190px; WIDTH:750px; HEIGHT:350px" SRC="images/redund.jpg">
+
+## Today's main topic: Species diversity
+<hr>
+<br/>
+
+<div style="float: left; width: 52%;">
+
+* Intricate webs of interacting organisms
+    + ~2,000,000 species are known 
+    + ~18,000 new species discovered per year
+    + estimated >85% of species remain undescribed
+
+<br/>
+
+* Species diversity is only one dimension of biodiversity
+    + but it is the main focus of today
+
+<br/>
+
+* Humans are rapidly altering ecosystems
+    + aquatic and terrestrial
+    + species losses now exceed background rates
+
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:400px; HEIGHT:230px" SRC="images/animals_biodiverse.jpg">
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:600px; WIDTH:375px; HEIGHT:340px" SRC="images/mammaldecline.png">
+
+## HOW: Measuring biodiversity (e.g. Simpson's index)
+<hr>
+**<span style="color:red">Assumption: all species are treated as equally important</span>**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/diversity_example.jpeg">
+
+## Spatial scale matters: alpha, beta, and gamma diversity
+<hr>
+<br/>
+
+<div style="float: left; width: 90%;">
+
+* Alpha diversity
+    + diversity within a local community or site
+
+<br/>
+
+* Beta diversity
+    + turnover or compositional difference among communities
+
+<br/>
+
+* Gamma diversity
+    + total diversity across the broader region
+
+<br/>
+
+* Important question:
+    + can local richness increase while regional distinctness declines?
+
+</div>
+
+## Same species diversity does not guarantee the same ecological function
+<hr>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:25px; WIDTH:450px; HEIGHT:475px" SRC="images/richeven.jpg">
+
+<div style="position:absolute; TOP:180px; LEFT:520px; WIDTH:500px;">
+
+* Richness and evenness describe species diversity
+
+<br/>
+
+* But communities with similar species diversity may differ in:
+    + functional diversity
+    + phylogenetic diversity
+    + ecosystem function
+
+<br/>
+
+* Key implication:
+    + diversity indices summarize pattern
+    + they do not fully tell us what organisms do
+
+</div>
+
+## WHO: Species types (native, endemic, non-native, invasive)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/australia_species.jpg">
+
+## Invasion is a process, not just a label
+<hr>
+
+<div style="float: left; width: 48%;">
+
+* Introduced
+    + transported beyond natural range
+
+<br/>
+
+* Established
+    + self-sustaining population forms
+
+<br/>
+
+* Spreading
+    + population expands geographically
+
+<br/>
+
+* Invasive
+    + spread is accompanied by ecological or economic harm
+
+<br/>
+
+* Non-native does not automatically mean invasive
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:400px; HEIGHT:425px" SRC="images/canetoad.png">
+
+## Management dilemmas: what exactly are we trying to conserve?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/non-native.png">
+
+## Where: Species diversity generally declines from the tropics
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
+
+## Why are the tropics so diverse?
+<hr>
+<br/>
+
+<div style="float: left; width: 90%;">
+
+* The pattern is clear, but the explanation is not singular
+
+<br/>
+
+* Major hypotheses include:
+    + greater energy and productivity
+    + greater climatic stability over evolutionary time
+    + stronger opportunities for specialization and speciation
+
+<br/>
+
+* Take home:
+    + broad diversity gradients reflect both ecological and evolutionary processes
+
+</div>
+
+## Ecoregions: where biodiversity hotspots exist
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/ecoregions.jpg">
+
+## Hotspots: How can mountains create biodiversity?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/andes2.jpg">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/endemic_birds.jpg">
+
+<div style="position:absolute; TOP:610px; LEFT:120px; WIDTH:860px; font-size:20px;">
+Andean uplift created environmental heterogeneity, barriers to dispersal, and isolated habitats that promoted allopatric speciation and high endemism.
+</div>
+
+## Hotspots: Endemic species of Madagascar
+<hr>
+<span style="color:darkred">What factors contribute to the 90% endemism of Madagascar species?</span>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/madagascar.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/madagascar2.jpg">
+
+## Threats to biodiversity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/biodiversity_threats.jpg">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:575px; WIDTH:500px; HEIGHT:500px" SRC="images/crops.gif">
+
+## Humans drive species redistribution
+<hr>
+
+<div style="float: left; width: 42%;">
+
+* Human movement of organisms overcomes biogeographic barriers
+
+<br/>
+
+* Shipping, trade, travel, and intentional introductions accelerate spread
+
+<br/>
+
+* Aquatic systems are especially vulnerable
+
+<br/>
+
+* This redistribution is a major driver of invasive species problems
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:550px; HEIGHT:430px" SRC="images/species_ship.jpg">
+
+## Hotspots under global change
+<hr>
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:900px; HEIGHT:600px" SRC="images/ecoregion_status.jpg">
+
+## Habitat loss, species-area relationships, and extinction debt
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* Larger areas tend to support more species
+    + S = cA^z
+
+<br/>
+
+* Habitat loss therefore predicts species loss
+
+<br/>
+
+* Extinction debt
+    + species may persist for a time after habitat is reduced
+    + but eventual losses are still expected
+
+<br/>
+
+* This helps connect land-use change to biodiversity decline
+
+</div>
+
+<!-- Suggested new image file: images/species_area.png -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:560px; WIDTH:450px; HEIGHT:420px" SRC="images/species_area.png">
+
+## Biodiversity is decreasing rapidly: what does the Living Planet Index measure?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/vertebrate.jpg">
+
+<div style="position:absolute; TOP:620px; LEFT:145px; WIDTH:800px; font-size:20px;">
+Important distinction: this index tracks changes in vertebrate population abundance, not simply the number of species present.
+</div>
+
+## Are we experiencing a new mass extinction?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png">
+
+## Testable concepts
+<hr>
+<br/>
+
+* Biodiversity has multiple dimensions and scales
+    + species, functional, and genetic diversity; alpha, beta, and gamma diversity
+
+<br/>
+
+* Measuring biodiversity requires more than counting species
+    + richness, evenness, diversity indices, and the limits of those metrics
+
+<br/>
+
+* Biodiversity patterns reflect ecological and evolutionary processes
+    + latitudinal gradients, hotspots, endemism, isolation, and speciation
+
+<br/>
+
+* Human activities reshape biodiversity
+    + habitat loss, invasive species, homogenization, extinction risk, and extinction debt
