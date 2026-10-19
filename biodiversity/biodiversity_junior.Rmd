@@ -13,9 +13,9 @@ output:
 
 ## Diversity can buffer ecological systems against change
 <hr>
-* **Functional redundancy = multiple species may contribute to similar ecosystem roles**
+* **<span style="color: blue;">Functional redundancy</span> = multiple species may contribute to similar ecosystem roles**
 <br/>
-* **Response diversity = species performing similar roles may respond differently to disturbance**
+* **<span style="color: blue;">Response diversity</span> = species performing similar roles may respond differently to disturbance**
 
     
 <br/>
@@ -130,6 +130,7 @@ output:
 * **Key implication:**
     + diversity indices summarize pattern
     + they do not fully tell us what organisms do
+        + species identity/role matters
 
 </div>
 
@@ -169,7 +170,7 @@ output:
 ## Management dilemmas: what exactly are we trying to conserve?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/non-native.png">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/non-native.png">
 
 ## Where: Species diversity generally declines from the tropics
 <hr>
@@ -194,7 +195,7 @@ output:
 
 <br/>
 
-* **Take home:broad diversity gradients reflect both ecological and evolutionary processes**
+* **Take home: broad diversity gradients reflect both ecological and evolutionary processes**
 
 </div>
 
@@ -202,7 +203,7 @@ output:
 
 ## Ecoregions: where biodiversity hotspots exist
 <hr>
-**Diversity in the tropics is a broad global pattern—not a rule. High biodiversity and  high endemism can occur outside the tropics because of isolation, topography, evolutionary history, or unusual environments.**
+**Diversity in the tropics is a broad global pattern—not a rule. High biodiversity and  high endemism occur outside the tropics because of isolation, topography, evolutionary history, or unusual environments.**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/ecoregions.jpg">
 
@@ -227,7 +228,6 @@ output:
 
 ## Threats to biodiversity are additive and synergistic
 <hr>
-<br/>
 
 * **Habitat loss and fragmentation**
     + smaller populations, isolation, reduced gene flow
@@ -248,10 +248,10 @@ output:
 * **Invasive species and biotic homogenization**
     + replacement of distinct native communities by widespread generalists
 <br/>
-
   
 * **Genetic erosion**
     + population bottlenecks reduce adaptive potential before species extinction occurs
+    
 <br/>
 
 **These threats rarely act independently — multiple stressors can interact and amplify biodiversity loss**
@@ -335,7 +335,7 @@ output:
 <br/>
 
 * **This is not a measure of species extinction**
-    + it is an early warning of population decline
+    + warning signal of population decline
 
 <br/>
 
@@ -344,7 +344,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:600px; HEIGHT:470px" SRC="images/lpi2026.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:600px; HEIGHT:450px" SRC="images/lpi2026.png">
 
 ## Are we experiencing a new mass extinction?
 <hr>
@@ -359,7 +359,7 @@ output:
 
 * **Current extinction rates are much higher**
     + estimated at 10-100s of times above long-term background rates
-    + rates are accelerating
+    + rates are still accelerating
 
 <br/>
 
