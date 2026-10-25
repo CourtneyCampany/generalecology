@@ -1,0 +1,604 @@
+---
+title: "Community Dynamics"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:550px" SRC="images/ecosystem.png">
+
+
+## Community assembly: How new communites form
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Regional species pool**
+    + many species could potentially occur here
+
+<br/>
+
+* **Community assembly works like a series of filters:**
+    + Can it get there? — *dispersal limits*
+    + Can it survive there? — *abiotic conditions*
+    + Can it persist with other species? — *biotic interactions*
+
+<br/>
+
+* **Local communities reflect ecology + history**
+    + chance and arrival order can also matter
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:560px; WIDTH:495px; HEIGHT:500px" SRC="images/communityassemble.png">
+
+
+## Diverse communities broaden ecosystem function
+<hr>
+
+<div style="float: left; width: 100%;">
+
+* **Ecosystem function = the biological and physical processes that move energy and matter through an ecosystem**
+    + productivity (biomass)
+    + decomposition
+    + nutrient cycling
+    + energy transfer through food webs
+
+<br/>
+
+</div>
+
+
+<div style="float: left; width: 46%;">
+
+* **Why can diversity increase function?**
+    + **Complementarity:** species use resources differently
+    + **Selection effect:** diverse communities are more likely to contain highly influential species
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 100%;">
+
+* **Biodiversity can also provide insurance**
+    + different species respond differently to environmental change
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:560px; WIDTH:450px; HEIGHT:380px" SRC="images/interaction.jpg">
+
+
+## Community stability has multiple dimensions
+<hr>
+
+<div style="float: left; width: 100%;">
+
+* **Ball-and-cup model = community stability reflects how strongly a system tends to return to its prior state after disturbance**
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 43%;">
+
+* **Resistance**
+    + how little a community changes during disturbance
+
+<br/>
+
+* **Resilience**
+    + how well or how quickly a community recovers
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 100%;">
+
+* **Stability does not mean "no change"**
+    + communities fluctuate through time
+    + biodiversity can increase the range of conditions they tolerate
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:540px; WIDTH:500px; HEIGHT:325px" SRC="images/ballcup2.png">
+
+
+## Alternative stable states and ecological thresholds
+<hr>
+
+* **Threshold / tipping point: enough environmental change can push a system into another state**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **Recovery may not simply reverse the original pathway**
+    + crossing a threshold can make restoration difficult
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:550px; HEIGHT:400px" SRC="images/ballcup3.png">
+
+
+## Species can be important for very different reasons
+<hr>
+<br/>
+
+<div style="float: left; width: 43%;">
+
+* **Dominant / foundation species**
+    + strong effects often result from abundance or physical structure
+
+<br/>
+
+* **Keystone species**
+    + disproportionately large ecological effect relative to abundance
+    + classic example: sea stars in rocky intertidal communities
+
+<br/>
+
+* **Ecosystem engineers**
+    + modify the physical environment
+    + e.g., beavers, corals
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:510px; WIDTH:260px; HEIGHT:460px" SRC="images/species_eco.png">
+
+<IMG STYLE="position:absolute; TOP:330px; LEFT:800px; WIDTH:225px; HEIGHT:225px" SRC="images/seastar.jpg">
+
+
+## Food webs are interaction networks
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Food webs describe feeding relationships**
+    + species are connected across trophic levels
+
+<br/>
+
+* **Real food webs are not simple ladders**
+    + omnivory is common
+    + species differ in interaction strength
+    + indirect effects can 'cascade' through the network
+
+<br/>
+
+* **Changing one species can affect species it never directly interacts with**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:520px; WIDTH:550px; HEIGHT:475px" SRC="images/grazing_foodweb.png">
+
+
+## Energy flow constrains food-chain length
+<hr>
+
+* **Energy transfer between trophic levels is inefficient**
+    + only energy stored as new biomass is available to the next trophic level
+
+* **~10% transfer is a useful rule of thumb — not a biological constant**
+    + efficiency varies among organisms and ecosystems
+
+* **Decomposers are not simply a level "below" producers**
+    + detrital pathways receive material from every trophic level
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:130px; WIDTH:850px; HEIGHT:350px" SRC="images/pyramid.jpg">
+
+
+## Trophic cascades: indirect effects across a food web
+<hr>
+
+* **Trophic cascade: A change at one trophic level produces effects across multiple trophic links**
+    * predator → herbivore → producer
+    * community effects can occur without direct interaction
+    * strong cascades can restructure entire habitats
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:200px; WIDTH:700px; HEIGHT:390px" SRC="images/otters.jpg">
+
+
+## Yellowstone wolves: evidence for top-down control?
+<hr>
+
+<div style="float: left; width: 46%;">
+
+* **Predicted cascade**
+    + wolves ↓ elk abundance / alter elk behavior
+    + reduced browsing
+    + willow & aspen recovery
+    + consequences for beavers and other species
+
+<br/>
+
+* **Top-down control is only part of the story**
+    + willow recovery also depends on water availability, climate, and other controls
+
+<br/>
+
+* **Take home:** Community structure is controlled from both directions
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:540px; WIDTH:490px; HEIGHT:520px" SRC="images/yellow.png">
+
+
+## Bottom-up control: resources can structure communities
+<hr>
+<br/>
+
+<div style="float: left; width: 38%;">
+
+* **Resources limit primary producers**
+    + light
+    + nutrients
+    + water
+
+<br/>
+
+* **Effects can propagate upward through food webs**
+
+<br/>
+
+* **Top-down and bottom-up control are not mutually exclusive**
+    + both can operate in the same community
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:450px; WIDTH:580px; HEIGHT:450px" SRC="images/bottomup.jpg">
+
+
+## Succession: community assembly through time
+<hr>
+<br/>
+
+<div style="float: left; width: 42%;">
+
+* **Succession = change in community composition through time**
+
+<br/>
+
+* **Classic diagrams show a predictable sequence:**
+    + pioneer → intermediate → late succession
+
+<br/>
+
+* **But succession is not really a fixed pathway**
+    + dispersal
+    + environmental conditions
+    + species interactions
+    + *disturbance history*
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:585px; HEIGHT:450px" SRC="images/succession3.jpg">
+
+
+## Disturbance keeps communities in non-equilibrium
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Disturbance = discrete event that alters organisms, resources, or physical conditions**
+
+<br/>
+
+* **Can change:**
+    + biomass
+    + population sizes
+    + species composition
+    + resource availability
+
+<br/>
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 100%;">
+
+* **Most communities experience repeated disturbance**
+    + succession is frequently interrupted or redirected
+
+</div>
+  
+<IMG STYLE="position:absolute; TOP:170px; LEFT:570px; WIDTH:475px; HEIGHT:400px" SRC="images/fire.jpg">
+
+
+## Disturbance regimes regulate ecological succession
+<hr>
+<br/>
+
+
+* **Frequency**
+    + how often?
+
+* **Intensity**
+    + physical magnitude?
+
+* **Severity**
+    + how much ecological change?
+
+* **Extent**
+    + how much area?
+
+* **Duration & timing**
+    + how long, and when?
+
+<br/>
+<br/>
+
+<div style="float: left; width: 100%;">
+
+* **The same disturbance can have very different effects under different regimes**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:470px; WIDTH:550px; HEIGHT:375px" SRC="images/severity.png">
+
+
+## Disturbance creates a shifting landscape mosaic
+<hr>
+
+<div style="float: left; width: 100%;">
+
+* **Different patches can occupy different successional states at the same time**
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 40%;">
+
+* **A landscape may contain:**
+    + recently disturbed patches
+    + early succession
+    + intermediate communities
+    + older communities
+
+<br/>
+
+* **Disturbance can increase turnover among patches**
+    + connects succession to *beta diversity*
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:475px; WIDTH:550px; HEIGHT:390px" SRC="images/noclimax.png">
+
+
+## Primary succession: assembly begins with few biological legacies
+<hr>
+
+* **Begins when disturbance removes soil and established vegetation**
+    + lava flows
+    + newly exposed glacial surfaces
+    + severe sediment deposition
+
+<br/>
+
+* **Colonization requires dispersal**
+    + *distance* from source populations matters
+
+<br/>
+
+* **Environmental filtering is strong**
+    + high stress
+    + minimal soil
+    + low nutrient availability
+
+<br/>
+
+* **Early community development is often slow**
+
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:430px; HEIGHT:430px" SRC="images/volcano.jpg">
+
+
+## Succession can proceed through different mechanisms
+<hr>
+<br/>
+
+<div style="float: left; width: 40%;">
+
+* **Facilitation**
+    + early species make conditions more favorable for later species
+
+<br/>
+
+* **Tolerance**
+    + later species can establish despite early occupants
+
+<br/>
+
+* **Inhibition**
+    + established species suppress later colonists
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 100%;">
+
+* **More than one mechanism can operate during the same succession**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:475px; WIDTH:550px; HEIGHT:460px" SRC="images/inhibit.png">
+
+
+## Secondary succession: biological legacies speed recovery
+<hr>
+<br/>
+
+* **Disturbance removes biomass, but important legacies remain**
+    + soil
+    + nutrients
+    + seed banks
+    + roots
+    + survivors
+    + microbes
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **Recovery is less dependent on long-distance colonization**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:300px; WIDTH:750px; HEIGHT:350px" SRC="images/succession2.jpg">
+
+
+## Pioneer species: traits for rapid colonization
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Rapid potential growth rate**
+
+<br/>
+
+* **Tolerance of exposed conditions**
+    + high light
+    + variable moisture
+
+<br/>
+
+* **High dispersal ability**
+    + often many small seeds
+
+<br/>
+
+* **Earlier reproduction / shorter generation time**
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 100%;">
+
+* **Pioneer species are a *functional strategy*, not a taxonomic group**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:470px; HEIGHT:400px" SRC="images/pioneer.jpg">
+
+
+## Priority effects: history can shape the final community
+<hr>
+<br/>
+
+<div style="float: left; width: 100%;">
+
+* **Priority effect: the order of species arrival changes community development**
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 41%;">
+
+* **Early arrivals may:**
+    + consume resources
+    + modify habitat
+    + facilitate later species
+    + exclude later competitors
+
+<br/>
+
+* **Same environment + same species pool ≠ same community**
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 100%;">
+
+* **Community structure can therefore depend on historical patterns**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:430px; WIDTH:600px; HEIGHT:300px" SRC="images/priority.png">
+
+
+## Late succession does not mean a single predetermined "climax"
+<hr>
+
+<div style="float: left; width: 100%;">
+
+* **Shade-tolerant and longer-lived species often increase through time**
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 35%;">
+
+* **Competition, facilitation, and environmental filtering continue**
+
+<br/>
+
+* **Different histories can produce different mature communities**
+
+<br/>
+
+* **Future disturbance can redirect the trajectory again**
+
+<br/>
+<br/>
+
+</div>
+
+<div style="float: left; width: 100%;">
+
+* **Succession is a dynamic process, not a march toward one perfect endpoint**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:460px; WIDTH:590px; HEIGHT:380px" SRC="images/succession1.png">
+
+
+## Testable concepts
+<hr>
+<br/>
+
+* **Community assembly and ecosystem stability**
+    + dispersal, environmental filtering, biotic interactions, resistance, resilience, and alternative stable states
+
+<br/>
+
+* **Food-web structure and community control**
+    + trophic networks, energy transfer, indirect effects, trophic cascades, top-down vs. bottom-up control
+
+<br/>
+
+* **Disturbance and succession**
+    + disturbance regimes, primary vs. secondary succession, biological legacies, and landscape mosaics
+
+<br/>
+
+* **Successional mechanisms and historical contingency**
+    + facilitation, tolerance, inhibition, pioneer strategies, and priority effects
