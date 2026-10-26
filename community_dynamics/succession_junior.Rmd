@@ -71,7 +71,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:560px; WIDTH:450px; HEIGHT:380px" SRC="images/interaction.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:550px; WIDTH:480px; HEIGHT:380px" SRC="images/interaction.jpg">
 
 
 ## Community stability has multiple dimensions
@@ -274,8 +274,8 @@ output:
 
 <div style="float: left; width: 42%;">
 
-* **Succession = change in community composition through time**
-
+* **Succession = **
+<!-- change in community composition through time -->
 <br/>
 
 * **Classic diagrams show a predictable sequence:**
