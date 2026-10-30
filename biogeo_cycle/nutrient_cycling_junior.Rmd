@@ -1,0 +1,578 @@
+---
+title: "Biogeochemical Cycling"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Matter is conserved — but ecosystems are open
+<hr>
+
+* **Matter cannot be created or destroyed**
+    + elements move among locations and change chemical form
+
+* **At the global scale, matter is conserved**
+    + C, N, P and other elements remain part of the Earth system
+
+* **Individual ecosystems can gain or lose matter**
+    + nutrients enter and leave through water, air, organisms and disturbance
+
+<IMG STYLE="position:absolute; TOP:315px; LEFT:50px; WIDTH:475px; HEIGHT:300px" SRC="images/nutrients.jpg">
+
+<IMG STYLE="position:absolute; TOP:315px; LEFT:575px; WIDTH:475px; HEIGHT:300px" SRC="images/matterconserved.jpg">
+
+
+## Energy flows, but matter cycles
+<hr>
+
+<div style="float: left; width: 43%;">
+
+* **Energy moves directionally**
+    + enters ecosystems largely as sunlight
+    + ultimately leaves as heat
+
+<br/>
+
+* **Matter is reused**
+    + atoms move repeatedly between organisms and the physical environment
+
+<br/>
+
+* Two major ecosystem processes:
+    + **energy flow**
+    + **matter cycling**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:490px; WIDTH:315px; HEIGHT:400px" SRC="images/energy.png">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:820px; WIDTH:250px; HEIGHT:425px" SRC="images/general_cycle.jpg">
+
+
+## How ecologists describe a biogeochemical cycle
+<hr>
+
+<div style="float: left; width: 42%;">
+
+* **Pool / stock**
+    + amount of an element stored in a location
+
+<br/>
+
+* **Flux**
+    + rate of movement between pools
+
+<br/>
+
+* **Transformation**
+    + change from one chemical form to another
+
+<br/>
+
+* **Residence time**
+    + how long matter tends to remain in a pool
+
+<br/>
+
+<span style="color:darkred">**Large pool ≠ large flux**</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:500px; WIDTH:540px; HEIGHT:470px" SRC="images/pools_fluxes.png">
+
+
+## Biological availability depends on chemical form
+<hr>
+
+<div style="float: left; width: 43%;">
+
+* **Abundance does not equal availability**
+
+<br/>
+
+* Nitrogen is abundant in the atmosphere
+    + most organisms cannot use N~2~ directly
+    + plants primarily acquire NH~4~^+^ and NO~3~^-^
+
+<br/>
+
+* Elements can move between:
+    + inorganic forms
+    + organic molecules
+    + unavailable or slowly available pools
+
+<br/>
+
+* **Transformations determine who can use an element**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:520px; WIDTH:500px; HEIGHT:470px" SRC="images/n_forms.gif">
+
+
+## Nutrient limitation constrains ecosystem productivity
+<hr>
+
+<div style="float: left; width: 36%;">
+
+* **Limiting nutrient**
+    + resource whose availability constrains biological production
+
+<br/>
+
+* Limitation varies among ecosystems
+    + N limitation
+    + P limitation
+    + **co-limitation**
+
+<br/>
+
+* How would we test limitation?
+
+<table style="font-size:80%; width:90%; text-align:center;">
+<tr><td>Control</td><td>+ N</td></tr>
+<tr><td>+ P</td><td>+ N + P</td></tr>
+</table>
+
+<br/>
+
+* Compare the biological response among treatments
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:165px; LEFT:420px; WIDTH:620px; HEIGHT:475px" SRC="images/limitation_globe2.png">
+
+
+## Ecological stoichiometry: organisms need elements in ratios
+<hr>
+
+<div style="float: left; width: 40%;">
+
+* Organisms do not need unlimited amounts of a single nutrient
+    + they require **C, N, P and other elements in particular proportions**
+
+<br/>
+
+* Elemental balance can influence:
+    + plant growth
+    + food quality
+    + decomposition
+    + nutrient recycling
+
+<br/>
+
+* **A surplus of one element cannot always compensate for shortage of another**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:165px; LEFT:470px; WIDTH:570px; HEIGHT:470px" SRC="images/stoichiometry.png">
+
+
+## Biogeochemical cycles operate across global reservoirs
+<hr>
+
+* **Atmosphere • Hydrosphere • Lithosphere • Biosphere • Cryosphere**
+
+* Reservoirs differ in:
+    + amount stored
+    + chemical form
+    + residence time
+    + rates of exchange with other reservoirs
+
+<IMG STYLE="position:absolute; TOP:255px; LEFT:140px; WIDTH:825px; HEIGHT:390px" SRC="images/spheres.png">
+
+
+## Nutrient cycles: Ecosystem budgets
+<hr>
+
+<div style="float: left; width: 40%;">
+
+* **Inputs**
+    + fixation
+    + weathering
+    + atmospheric deposition
+
+<br/>
+
+* **Internal recycling**
+    + food webs
+    + decomposition
+    + biological uptake
+
+<br/>
+
+* **Outputs**
+    + gaseous losses
+    + leaching / runoff
+    + erosion and disturbance
+
+<br/>
+
+<span style="color:darkred">**Change in storage = inputs − outputs**</span>
+
+<br/>
+
+* Disturbance can increase nutrient loss
+    + recovery can increase nutrient retention
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:470px; WIDTH:550px; HEIGHT:500px" SRC="images/nutrient_cycle1.png">
+
+
+## Carbon cycle: Ecosystem pools and fluxes
+<hr>
+
+* **Photosynthesis transfers atmospheric or aquatic CO~2~ into organic carbon**
+* **Respiration and decomposition return carbon to inorganic forms**
+* Carbon can be stored for very different lengths of time in biomass, soils, oceans and sediments
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:30px; WIDTH:490px; HEIGHT:350px" SRC="images/tree_photosyn.png">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:565px; WIDTH:500px; HEIGHT:350px" SRC="images/ocean.jpg">
+
+
+## Carbon reservoir, source, or sink?
+<hr>
+
+<div style="float: left; width: 38%;">
+
+* **Reservoir / pool**
+    + stores carbon
+
+<br/>
+
+* **Source**
+    + releases more carbon than it absorbs
+
+<br/>
+
+* **Sink**
+    + absorbs more carbon than it releases
+
+<br/>
+
+* These terms are not interchangeable
+    + a large reservoir is not necessarily a strong sink
+
+<br/>
+
+* A system can shift between source and sink through time
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:450px; WIDTH:590px; HEIGHT:470px" SRC="images/carboncycle.jpg">
+
+
+## Humans have altered the global carbon budget
+<hr>
+
+<div style="float: left; width: 36%;">
+
+* Fossil fuels and land-use change move carbon into the atmosphere
+
+<br/>
+
+* Natural sinks remove only part of those emissions
+
+<br/>
+
+* 2015–2024 average:
+    + **Ocean sink ≈ 29%**
+    + **Land sink ≈ 21%**
+
+<br/>
+
+* The remainder largely accumulates in the atmosphere
+
+<br/>
+
+<span style="font-size:70%;">Global Carbon Budget 2025</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:430px; WIDTH:620px; HEIGHT:500px" SRC="images/carbon_budget_2025.png">
+
+
+## Carbon sinks are dynamic — not limitless
+<hr>
+
+<div style="float: left; width: 40%;">
+
+* Sink strength changes through time
+    + climate variability
+    + drought and fire
+    + warming
+    + land-use change
+
+<br/>
+
+* **Storage and sink strength are different**
+    + a reservoir may contain enormous amounts of carbon without currently gaining carbon rapidly
+
+<br/>
+
+* Ocean acidification occurs partly because oceans are **absorbing CO~2~**
+    + it does not mean oceans have stopped storing carbon
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:485px; WIDTH:540px; HEIGHT:430px" SRC="images/sinksource.png">
+
+
+## Nitrogen: abundant but often unavailable
+<hr>
+
+<div style="float: left; width: 38%;">
+
+* ~78% of the atmosphere is N~2~
+
+<br/>
+
+* Most organisms cannot directly use atmospheric N~2~
+
+<br/>
+
+* **Microorganisms control many key transformations**
+    + generate biologically available forms
+    + recycle nitrogen
+    + return nitrogen to the atmosphere
+
+<br/>
+
+* Nitrogen cycling therefore depends strongly on microbial metabolism
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:450px; WIDTH:300px; HEIGHT:375px" SRC="images/Nitrogen-cycle2.png">
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:765px; WIDTH:300px; HEIGHT:375px" SRC="images/n-fixers.png">
+
+
+## Nitrogen changes form through microbial transformations
+<hr>
+
+<div style="float: left; width: 38%;">
+
+* **Nitrogen fixation**
+    + N~2~ → NH~3~ / NH~4~^+^
+
+* **Nitrification**
+    + NH~4~^+^ → NO~2~^-^ → NO~3~^-^
+
+* **Assimilation**
+    + inorganic N → organic biomass
+
+* **Mineralization**
+    + organic N → NH~4~^+^
+
+* **Denitrification**
+    + NO~3~^-^ → N~2~ / N~2~O
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:455px; WIDTH:590px; HEIGHT:500px" SRC="images/nitrogen_transformations.png">
+
+
+## Nitrogen and phosphorus cycle very differently
+<hr>
+
+<div style="float: left; width: 46%;">
+
+### Nitrogen
+
+* Large atmospheric reservoir
+* Strong microbial control
+* Multiple gaseous pathways
+* Can enter ecosystems through biological fixation
+* Can be lost through denitrification and leaching
+
+</div>
+
+<div style="float: right; width: 46%;">
+
+### Phosphorus
+
+* Major reservoirs in rocks, soils and sediments
+* No major atmospheric gaseous reservoir
+* Weathering is an important long-term input
+* Strong binding to soils and minerals
+* Loss through runoff, erosion and export
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:480px; LEFT:325px; WIDTH:450px; HEIGHT:175px" SRC="images/n_vs_p.png">
+
+
+## Decomposition drives internal nutrient recycling
+<hr>
+
+<div style="float: left; width: 35%;">
+
+* **Decomposition**
+    + breakdown of dead organic matter
+
+<br/>
+
+* **Mineralization**
+    + organic nutrients → inorganic forms
+
+<br/>
+
+* **Immobilization**
+    + microbes incorporate inorganic nutrients into microbial biomass
+
+<br/>
+
+* Decomposition does not always mean nutrients become immediately available to plants
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:165px; LEFT:410px; WIDTH:650px; HEIGHT:475px" SRC="images/decomp.png">
+
+
+## What controls decomposition rate?
+<hr>
+
+**Climate × substrate quality × decomposer community**
+
+<br/>
+
+* Warm, moist conditions generally accelerate biological activity
+* Litter chemistry matters
+    + C:N ratio
+    + lignin and other structural compounds
+* Fungi, bacteria and detritivores differ among ecosystems
+
+<IMG STYLE="position:absolute; TOP:335px; LEFT:160px; WIDTH:800px; HEIGHT:325px" SRC="images/decomp_biomes.jpg"> 
+
+
+## The soil community controls nutrient transformations and uptake
+<hr>
+
+<div style="float: left; width: 31%;">
+
+* Microbes transform nutrients among chemical forms
+
+<br/>
+
+* Plants and microbes compete for available nutrients
+
+<br/>
+
+* **Mycorrhizal fungi**
+    + extend the effective nutrient-absorbing surface of roots
+    + exchange nutrients for plant carbon
+
+<br/>
+
+* Belowground interactions can strongly control ecosystem nutrient retention
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:155px; LEFT:360px; WIDTH:675px; HEIGHT:500px" SRC="images/uptake.jpg">
+
+
+## Humans accelerate nutrient inputs and exports
+<hr>
+
+<div style="float: left; width: 39%;">
+
+* **Haber–Bosch**
+    + industrial conversion of N~2~ into reactive nitrogen
+
+<br/>
+
+* Fertilizer and manure increase N and P inputs
+
+<br/>
+
+* Excess nutrients can leave terrestrial ecosystems
+    + runoff
+    + leaching
+    + gaseous losses
+
+<br/>
+
+* **Eutrophication**
+    + nutrient enrichment → algal production → decomposition → O~2~ depletion
+
+<br/>
+
+* Lake Erie harmful algal blooms are strongly linked to **phosphorus loading**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:470px; WIDTH:560px; HEIGHT:450px" SRC="images/algalbloom.jpg">
+
+
+## Primary productivity is a flux — not a pool
+<hr>
+
+<div style="float: left; width: 34%;">
+
+* **Gross primary production (GPP)**
+    + total carbon fixed by primary producers
+
+<br/>
+
+* Some fixed carbon is used in autotrophic respiration
+
+<br/>
+
+* **Net primary production (NPP)**
+    + new producer biomass generated per unit time
+
+<br/>
+
+### NPP = GPP − R
+
+<br/>
+
+* **Standing biomass is a pool**
+* **NPP is a rate / flux**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:410px; WIDTH:620px; HEIGHT:450px" SRC="images/npp.jpg">
+
+
+## Global NPP depends on both productivity and area
+<hr>
+
+* **High productivity per unit area does not necessarily mean large global contribution**
+
+* Total ecosystem contribution depends on:
+    + NPP per unit area
+    + area occupied
+
+* **Pool vs. flux matters again**
+    + phytoplankton maintain relatively little standing biomass but turn over rapidly
+    + forests contain enormous biomass pools, but biomass and annual NPP are not the same thing
+
+<IMG STYLE="position:absolute; TOP:340px; LEFT:125px; WIDTH:850px; HEIGHT:325px" SRC="images/npp_biome.jpg">
+
+
+## Testable concepts
+<hr>
+<br/>
+
+* **Matter cycling and ecosystem budgets**
+    + pools, fluxes, transformations, residence time, inputs, outputs, and nutrient retention
+
+<br/>
+
+* **Nutrient availability and limitation**
+    + chemical form, N and P limitation, co-limitation, and ecological stoichiometry
+
+<br/>
+
+* **Carbon and nitrogen cycling**
+    + reservoirs, sources and sinks, microbial transformations, and human alteration of global cycles
+
+<br/>
+
+* **Decomposition and primary productivity**
+    + mineralization, controls on decomposition, GPP vs. NPP, and pool vs. flux
