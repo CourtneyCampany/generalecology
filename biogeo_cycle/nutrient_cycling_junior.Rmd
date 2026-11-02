@@ -62,7 +62,7 @@ output:
 ## How ecologists describe a biogeochemical cycle
 <hr>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 48%;">
 
 * **Pool / stock = amount of an element stored in a location**
 
@@ -83,7 +83,7 @@ output:
 </div>
 
 <div style="float: left; width: 100%;">
-* **How much is there? How fast is it moving? What form is it in? How long does it stay?**
+* **1. How much is there? 2. How fast is it moving? 3. What form is it in? 4. How long does it stay?**
     + <span style="color:darkred">Large pool ≠ large flux</span>
 
 </div>
@@ -117,7 +117,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:540px; WIDTH:500px; HEIGHT:470px" SRC="images/n_forms.gif">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:540px; WIDTH:500px; HEIGHT:470px" SRC="images/n_forms.gif">
 
 
 ## Nutrient limitation constrains ecosystem productivity
@@ -125,8 +125,8 @@ output:
 
 <div style="float: left; width: 100%;">
 
-* **Limiting nutrient**
-    + resource whose availability constrains biological production
+* **Limiting nutrient = resource whose availability constrains biological production**
+    + photosynthetic *producers* operate under nutrient limitation
 
 <br/>
 
@@ -143,11 +143,11 @@ output:
 
 * **How do we test nutrient limitation?- manipulate nutrient supply:**  
     + control, +N,  +P, +N and +P
-    + compare the biological response among treatment
+    + compare the biological response among treatments
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:620px; HEIGHT:475px" SRC="images/limitation_globe2.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:450px; WIDTH:620px; HEIGHT:475px" SRC="images/limitation_globe2.png">
 
 ## Ecological stoichiometry: organisms need elements in ratios
 <hr>
@@ -209,7 +209,7 @@ output:
 <IMG STYLE="position:absolute; TOP:200px; LEFT:340px; WIDTH:750px; HEIGHT:470px" SRC="images/spheres.png">
 
 
-## Nutrient cycles: Ecosystem budgets
+## Ecosystem cycles: Nutrient budgets
 <hr>
 
 <div style="float: left; width: 40%;">
@@ -291,7 +291,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:470px; WIDTH:615px; HEIGHT:470px" SRC="images/carboncycle.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:470px; WIDTH:600px; HEIGHT:450px" SRC="images/carboncycle.jpg">
 
 
 ## Humans have greatly altered the global carbon budget
@@ -393,6 +393,7 @@ output:
 <br/>
 
 </div>
+
 <div style="float: left; width: 38%;">
 
 * **Nitrogen fixation**
@@ -421,8 +422,7 @@ output:
 
 ## Mineral nutrients cycle very differently
 <hr>
-<
-br/>
+
 <div style="float: left; width: 46%;">
 
 * **Nitrogen**
