@@ -496,68 +496,68 @@ output:
 <IMG STYLE="position:absolute; TOP:210px; LEFT:160px; WIDTH:800px; HEIGHT:450px" SRC="images/decomp_biomes.jpg"> 
 
 
-## Soil communities regulate nutrients
-<hr>
-<br/>
+<!-- ## Soil communities regulate nutrients -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 37%;">
+<!-- <div style="float: left; width: 37%;"> -->
 
-* **Microbes transform nutrients among chemical forms**
+<!-- * **Microbes transform nutrients among chemical forms** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Plants and microbes compete for available nutrients**
+<!-- * **Plants and microbes compete for available nutrients** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Mycorrhizal fungi**
-    + extend the effective nutrient-absorbing surface of roots
-    + exchange nutrients for plant carbon
+<!-- * **Mycorrhizal fungi** -->
+<!--     + extend the effective nutrient-absorbing surface of roots -->
+<!--     + exchange nutrients for plant carbon -->
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 
-</div>
+<!-- </div> -->
 
-<div style="float: left; width: 100%;">
+<!-- <div style="float: left; width: 100%;"> -->
 
-* **Belowground interactions can strongly control ecosystem nutrient retention**
+<!-- * **Belowground interactions can strongly control ecosystem nutrient retention** -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:420px; WIDTH:650px; HEIGHT:450px" SRC="images/uptake2.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:420px; WIDTH:650px; HEIGHT:450px" SRC="images/uptake2.png"> -->
 
 
-## Humans accelerate nutrient inputs and exports
-<hr>
+<!-- ## Humans accelerate nutrient inputs and exports -->
+<!-- <hr> -->
 
-<div style="float: left; width: 100%;">
+<!-- <div style="float: left; width: 100%;"> -->
 
-* **Haber–Bosch = industrial conversion of N~2~ into reactive nitrogen**
+<!-- * **Haber–Bosch = industrial conversion of N~2~ into reactive nitrogen** -->
 
-<br/>
+<!-- <br/> -->
 
-</div>
+<!-- </div> -->
 
-<div style="float: left; width: 39%;">
+<!-- <div style="float: left; width: 39%;"> -->
 
-* **Fertilizer and manure increase N and P inputs**
+<!-- * **Fertilizer and manure increase N and P inputs** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Excess nutrients can leave terrestrial ecosystems**
-    + runoff
-    + leaching
-    + gaseous losses
+<!-- * **Excess nutrients can leave terrestrial ecosystems** -->
+<!--     + runoff -->
+<!--     + leaching -->
+<!--     + gaseous losses -->
 
-<br/>
+<!-- <br/> -->
 
-* **Eutrophication**
-    + nutrient enrichment → algal production → decomposition → O~2~ depletion
+<!-- * **Eutrophication** -->
+<!--     + nutrient enrichment → algal production → decomposition → O~2~ depletion -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:470px; WIDTH:560px; HEIGHT:450px" SRC="images/algalbloom.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:470px; WIDTH:560px; HEIGHT:450px" SRC="images/algalbloom.jpg"> -->
 
 
 ## Primary productivity is a flux — not a pool
