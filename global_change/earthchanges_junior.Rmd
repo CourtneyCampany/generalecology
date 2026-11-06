@@ -1,0 +1,434 @@
+---
+title: "Changes in Earth Systems"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## The race that changed NASCAR
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 60%;">
+
+* **Daytona 500 — February 18, 1979**
+
+<br/>
+
+* **First live flag-to-flag network broadcast of the Daytona 500**
+
+<br/>
+
+* **A last-lap crash and post-race fight made the finish unforgettable**
+    + Richard Petty one after the two leaders crashed
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:20px; WIDTH:400px; HEIGHT:500px" SRC="images/nascar1.png">
+
+## Why was everyone watching?
+<hr>
+
+* **A major Presidents' Day snowstorm immobilized much of the eastern United States**
+    + millions of people were home watching television
+
+<br/>
+
+* **The unusual audience helped move NASCAR from a regional sport toward a national audience**
+
+<IMG STYLE="position:absolute; TOP:330px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/feb1979_snowstorm2.jpg">
+
+
+## February 1979 is a Key Date for Climate Change
+<hr>
+
+* **According to NOAA, February 1979 is the last month below the 1901–2000 average**
+    + The snowstorm that helped launch NASCAR nationally occurred at the threshold of a remarkable climate streak that has now lasted nearly five decades
+    + Since that NASCAR race, 571 consecutive months,nearly 48 years,have been warmer than that global average
+
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/anamoly1979.png">
+
+## What do we actually mean by global change?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/climatesick.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:595px; WIDTH:500px; HEIGHT:450px" SRC="images/words.jpg">
+
+## How warm has Earth become?
+<hr>
+<br/>
+
+<div style="float: left; width: 100%;">
+
+* **Global temperature varies from year to year, but the long-term trend is strongly upward**
+
+</div>
+
+<div style="float: left; width: 54%;">
+
+<br/>
+
+* **Recent years occupy the warmest portion of the instrumental record**
+    + July 2026 tied 2024 as the warmest July on record
+    + August 2026 was the warmest August on record
+    + all 10 warmest Augusts have occurred since 2016
+    + July 2023, shallow water temperatures in South Florida spiked to 101°F
+    
+<br/>
+
+* **The important signal is the shift in the climate distribution, not any single record month**
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/florida100.png">
+
+## How warm has Earth become?
+<hr>
+
+<video autoplay loop muted playsinline
+       style="position:absolute; top:150px; left:150px; width:800px; height:500px;">
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005190/GISTEMP_Spiral_English_degF_2160p60.mp4"
+          type="video/mp4">
+</video>
+
+## Physical impacts of climate change are visible
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 56%;">
+
+* **Arctic sea ice expands and contracts seasonally**
+    + so year-to-year variation is expected
+
+<br/>
+
+* **The long-term September minimum has declined substantially during the satellite era**
+    + best measure for minimum sea-ice extent each year
+    
+<br/>
+
+* **Loss of reflective ice exposes darker ocean water and amplifies warming through albedo feedbacks**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:450px; HEIGHT:500px" SRC="images/seaice2026.png">
+
+## How do we attribute the warming?
+<hr>
+
+<div style="float: left; width: 100%;">
+
+* **Attribution asks which causes can reproduce the observed pattern of change**
+
+<br/>
+<br/>
+
+</div>
+
+<div style="float: left; width: 38%;">
+
+* **Greenhouse-gas physics predicts warming when atmospheric CO~2~ increases**
+
+<br/>
+
+* **Natural drivers alone do not reproduce the magnitude and pattern of recent warming**
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+</div>
+
+<div style="float: left; width: 100%;">
+
+* **Models that include human + natural forcings reproduce the observed trend much more closely**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:455px; WIDTH:620px; HEIGHT:400px" SRC="images/attribution.png">
+
+
+## Atmospheric CO~2~ is changing rapidly
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Atmospheric CO~2~ has risen rapidly since industrialization**
+    + 1750-1800: 280 ppm
+    + September 2026: 426.07 ppm
+
+<br/>
+
+* **Increasing greenhouse gases create a positive energy imbalance in the Earth system**
+    
+<br/>
+
+* **The rise in atmospheric CO₂ carries a human fingerprint**
+    + especially from fossil-fuel combustion
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:450px" SRC="images/maunaloa2026.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:50px; WIDTH:1000px; HEIGHT:700px" SRC="images/gge_review.png">
+
+## The argument for humans as the culprit (pop'n = 8.3 billion)
+<hr>
+**Human population and resource use changed slowly for most of our history, then accelerated rapidly after industrialization**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:480px" SRC="images/agri.jpg">
+
+## Humans transformed the Earth system
+<hr>
+<br/>
+
+<div style="float: left; width: 100%;">
+
+* **Agriculture, fossil-fuel energy, urbanization and technology increased the scale of human influence**
+
+<br/>
+
+</div>
+
+<div style="float: left; width: 50%;">
+
+* **Haber–Bosch is one example: industrial nitrogen fixation (fertilizer) greatly increased food production**
+    + drove population growth and resource use
+
+<br/>
+
+* **After World War II, many measures of population, energy use, land conversion and material consumption accelerated together**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:570px; WIDTH:450px; HEIGHT:450px" SRC="images/nitrohaber.png">
+
+## Cumulative emissions determine warming
+<hr>
+
+* **CO~2~ persists in the Earth system, so warming depends strongly on cumulative emissions**
+<br/>
+* **Different future emissions pathways therefore produce different levels of warming**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:460px" SRC="images/climate-people.png">
+
+## Feedbacks amplify climate change
+<hr>
+
+<div style="float: left; width: 100%;">
+
+* **A *forcing* pushes the climate system away from its previous energy balance**
+<br/>
+
+* **A *feedback* changes in response and can amplify or dampen the original change**
+
+<br/>
+<br/>
+<br/>
+
+</div>
+
+<div style="float: left; width: 45%;">
+
+* **Forcings can work in either direction:**
+    + Positive forcing: more greenhouse gases
+    + Negative forcing: volcanic aerosols
+
+<br/>
+
+* **Many important climate feedbacks are positive, meaning they amplify the initial change**
+    + water-vapor feedback
+    + ice-albedo feedback
+    + carbon-cycle feedback
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:525px; WIDTH:540px; HEIGHT:400px" SRC="images/wv_feedback.gif">
+
+## Global change alters the water cycle
+<hr>
+
+<div style="float: left; width: 100%;">
+
+**Warming changes evaporation, precipitation, snow-pack and the timing of water availability**
+
+<br/>
+<br/>
+
+</div>
+
+<div style="float: right; width: 40%;">
+
+* **Water availability is already highly variable across space and time**
+    + Climate change is expected to increase hydrologic variability
+    
+<br/>
+
+* **Water stress alters productivity, species distributions and ecosystem processes**
+
+<br/>
+
+* **Human water withdrawals amplify climatic water stress**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:625px; HEIGHT:450px" SRC="images/drought.png">
+
+## Global Change: Ocean acidification has multiple feedbacks
+<hr>
+**CO~2~ dissolving in ocean water creates carbonic acids, acidifying the oceans**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/oceanph.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/oceanshell.jpg">
+
+## Sea-level rise
+<hr>
+
+* **Sea level rises through thermal expansion of warming seawater and melting of land ice**
+    + rising seas change coastal habitat and increase exposure to flooding and storm surge
+    + by mid-century, ~1 billion people are projected to be at risk from coastal climate hazards
+    
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:850px; HEIGHT:445px" SRC="images/sealevel3.jpg">
+
+## Humans have transformed Earth's land surface
+<hr>
+
+* **Agriculture, cities, roads and resource extraction alter habitat amount and connectivity**
+    + land-use change alters carbon storage, water movement, nutrient cycling and species dispersal
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:px; WIDTH:1000px; HEIGHT:450px" SRC="images/surface2.png">
+
+## How can organisms respond to environmental change?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Move: disperse or shift geographic ranges**
+
+<br/>
+
+* **Adjust: acclimation and phenotypic plasticity**
+
+<br/>
+
+* **Adapt: evolutionary change across generations**
+
+<br/>
+
+* **Decline: when environmental change exceeds the capacity to move, adjust or adapt**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:545px; WIDTH:500px; HEIGHT:500px" SRC="images/response.jpg">
+
+## Global change reshuffles communities
+<hr>
+
+* **Species do not respond to climate change at the same rate or in the same direction**
+    + predators, prey, competitors, mutualists and pathogens may gain or lose overlap
+    + global change therefore acts as an *environmental filter* during community assembly
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:175px; WIDTH:750px; HEIGHT:395px" SRC="images/ecosystem_function_change.png">
+
+## Will ecosystem function be maintained?
+<hr>
+
+* **Changes in key species or interactions can alter productivity, decomposition, nutrient cycling and foodwebs**
+    + In california, warming reduced the tern’s preferred aquatic prey, so the birds shifted toward terrestrial prey. The energy pathway through the food web changed
+    
+<br/>
+
+* **Community change does not automatically mean ecosystem functions disappear**
+    + species resistance and resilience matter
+
+<IMG STYLE="position:absolute; TOP:395px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/rewirefoodweb.jpg">
+
+## Humans have a climate niche too
+<hr>
+
+**Humans are organisms with physiological and ecological constraints (but we are not all the same!!)**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:850px; HEIGHT:500px" SRC="images/humanniche.png">
+
+<!-- ## Climate risk is unequal -->
+<!-- <hr> -->
+
+<!-- * **The same climate hazard does not create the same ecological or human consequence everywhere** -->
+
+<!-- <br/> -->
+
+<!-- * **Risk depends on hazard + exposure + vulnerability + capacity to respond** -->
+
+<!-- <br/> -->
+
+<!-- * **Responsibility for emissions, exposure to impacts and capacity for adaptation are distributed unevenly** -->
+
+<!-- <IMG STYLE="position:absolute; TOP:330px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/cop1.png"> -->
+
+<!-- ## Different choices produce different futures -->
+<!-- <hr> -->
+
+<!-- * **Future warming depends on the emissions pathway society follows** -->
+
+<!-- <br/> -->
+
+<!-- * **Lower emissions reduce the magnitude of future warming and ecological disruption** -->
+
+<!-- <br/> -->
+
+<!-- * **Mitigation** changes the amount of future change; **adaptation** changes its consequences** -->
+
+<!-- <br/> -->
+
+<!-- * **Carbon removal may contribute, but it does not replace rapid emissions reductions** -->
+
+<!-- <br/> -->
+
+<!-- * **International agreements such as Paris provide shared temperature goals, but pathways remain contingent on actions taken** -->
+
+<!-- <IMG STYLE="position:absolute; TOP:360px; LEFT:125px; WIDTH:850px; HEIGHT:260px" SRC="images/emissions_pathways_current.png"> -->
+
+<!-- NEW IMAGE: Replace the older cop3.png with a current, simple emissions/warming pathways figure from UNEP, IPCC, or Climate Action Tracker. The figure should contrast higher-emission/current-policy pathways with lower-emission pathways. Save as images/emissions_pathways_current.png -->
+
+## Testable concepts
+<hr>
+
+* **Detecting global change**
+    + climate anomalies, long-term trends, and natural variability
+    + recent warming and Arctic sea-ice decline
+<br/>
+
+* **Causes and mechanisms of climate change**
+    + evidence used to attribute modern warming to human activity
+    + climate forcing versus feedback
+    + rising atmospheric CO₂ and cumulative emissions
+<br/>
+
+* **Consequences across Earth systems**
+    + changing water availability and drought
+    + ocean acidification and sea-level rise
+    + human alteration of land surfaces
+<br/>
+
+* **Ecological responses to global change**
+    + movement, acclimation/plasticity, adaptation, or decline
+    + environmental filtering and community reassembly
+    + humans also occupy a climate niche
+
+
+
