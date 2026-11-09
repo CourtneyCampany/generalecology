@@ -18,7 +18,7 @@ output:
 
 <br/>
 
-* **First live flag-to-flag network broadcast of the Daytona 500**
+* **First live flag-to-flag broadcast of the Daytona 500 on national television**
 
 <br/>
 
@@ -32,8 +32,8 @@ output:
 ## Why was everyone watching?
 <hr>
 
-* **A major Presidents' Day snowstorm immobilized much of the eastern United States**
-    + millions of people were home watching television
+* **A monster Presidents' Day snowstorm immobilized much of the eastern United States**
+    + millions of people were at home watching television
 
 <br/>
 
@@ -47,7 +47,7 @@ output:
 
 * **According to NOAA, February 1979 is the last month below the 1901–2000 average**
     + The snowstorm that helped launch NASCAR nationally occurred at the threshold of a remarkable climate streak that has now lasted nearly five decades
-    + Since that NASCAR race, 571 consecutive months,nearly 48 years,have been warmer than that global average
+    + Since the race, 571 consecutive months have been warmer than that global average
 
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/anamoly1979.png">
@@ -108,8 +108,8 @@ output:
 
 <br/>
 
-* **The long-term September minimum has declined substantially during the satellite era**
-    + best measure for minimum sea-ice extent each year
+* **September ice extent is best measure for minimum sea-ice extent each year**
+    + long-term September minimum has declined substantially during the satellite era
     
 <br/>
 
@@ -124,7 +124,7 @@ output:
 
 <div style="float: left; width: 100%;">
 
-* **Attribution asks which causes can reproduce the observed pattern of change**
+<span style="color: blue;">**Attribution asks which causes can reproduce the observed pattern of change**</span>
 
 <br/>
 <br/>
@@ -204,35 +204,37 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Haber–Bosch is one example: industrial nitrogen fixation (fertilizer) greatly increased food production**
+* **Haber–Bosch is one example: industrial nitrogen fixation (agricultural fertilizer) greatly increased food production**
     + drove population growth and resource use
 
 <br/>
 
 * **After World War II, many measures of population, energy use, land conversion and material consumption accelerated together**
+    + post 1950 = "The Great Acceleration"
+    + cultural start of the 'Anthropocene'
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:570px; WIDTH:450px; HEIGHT:450px" SRC="images/nitrohaber.png">
 
-## Cumulative emissions determine warming
+## Cumulative emissions determine warming now and later
 <hr>
 
-* **CO~2~ persists in the Earth system, so warming depends strongly on cumulative emissions**
+* **Greenhouse gases persist in the atmosphere, so warming depends on cumulative emissions**
 <br/>
 * **Different future emissions pathways therefore produce different levels of warming**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:460px" SRC="images/climate-people.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:480px" SRC="images/climate-people.png">
 
 ## Feedbacks amplify climate change
 <hr>
 
 <div style="float: left; width: 100%;">
 
-* **A *forcing* pushes the climate system away from its previous energy balance**
+* **A <span style="color: red;">*forcing*</span> pushes the climate system away from its previous energy balance**
 <br/>
 
-* **A *feedback* changes in response and can amplify or dampen the original change**
+* **A <span style="color: red;">*feedback*</span> changes in response and can amplify or dampen the original change**
 
 <br/>
 <br/>
@@ -318,25 +320,25 @@ output:
 
 <div style="float: left; width: 48%;">
 
-* **Move: disperse or shift geographic ranges**
+* <span style="color: blue;">**Move:</span> disperse or shift geographic ranges**
 
 <br/>
 
-* **Adjust: acclimation and phenotypic plasticity**
+* <span style="color: blue;">**Adjust:</span> acclimation and phenotypic plasticity**
 
 <br/>
 
-* **Adapt: evolutionary change across generations**
+* <span style="color: blue;">**Adapt:</span> evolutionary change across generations**
 
 <br/>
 
-* **Decline: when environmental change exceeds the capacity to move, adjust or adapt**
+* <span style="color: red;">**Decline:</span> when environmental change exceeds the capacity to move, adjust or adapt**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:545px; WIDTH:500px; HEIGHT:500px" SRC="images/response.jpg">
 
-## Global change reshuffles communities
+## Global change reshuffles ecological communities
 <hr>
 
 * **Species do not respond to climate change at the same rate or in the same direction**
